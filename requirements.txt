@@ -1,0 +1,8 @@
+# Core
+feedparser>=6.0.10
+requests>=2.31.0
+vaderSentiment>=3.3.2
+
+# Optional – enable richer NLP by setting USE_TRANSFORMER=true
+# transformers>=4.40.0
+# torch>=2.2.0          # or: pip install torch --index-url https://download.pytorch.org/whl/cpu
