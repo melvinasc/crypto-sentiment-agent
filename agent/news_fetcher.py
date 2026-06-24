@@ -5,20 +5,28 @@ Fetches crypto news from free public RSS feeds and the CoinGecko news API.
 
 import feedparser
 import requests
+import os
 from datetime import datetime, timezone
 from typing import List, Dict
 
 RSS_FEEDS = {
-    "CoinDesk":       "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "CryptoPanic":    "https://cryptopanic.com/news/rss/",
-    "Decrypt":        "https://decrypt.co/feed",
-    "TheBlock":       "https://www.theblock.co/rss.xml",
+    "CoinDesk":        "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "CryptoPanic":     "https://cryptopanic.com/news/rss/",
+    "Decrypt":         "https://decrypt.co/feed",
+    "TheBlock":        "https://www.theblock.co/rss.xml",
     "Bitcoin Magazine":"https://bitcoinmagazine.com/.rss/full/",
 }
 
 COINGECKO_NEWS_URL = "https://api.coingecko.com/api/v3/news"
 
-HEADERS = {"User-Agent": "CryptoSentimentAgent/1.0"}
+# API key is loaded from environment variable (set via GitHub Secret)
+COINGECKO_API_KEY = os.getenv("COINGECKO_API_KEY", "")
+
+def _get_headers() -> dict:
+    headers = {"User-Agent": "CryptoSentimentAgent/1.0"}
+    if COINGECKO_API_KEY:
+        headers["x-cg-demo-api-key"] = COINGECKO_API_KEY
+    return headers
 
 
 def fetch_rss_news(max_per_feed: int = 10) -> List[Dict]:
@@ -41,10 +49,10 @@ def fetch_rss_news(max_per_feed: int = 10) -> List[Dict]:
 
 
 def fetch_coingecko_news(max_articles: int = 20) -> List[Dict]:
-    """Fetch news from CoinGecko's public news endpoint (no API key needed)."""
+    """Fetch news from CoinGecko using API key if available."""
     articles = []
     try:
-        resp = requests.get(COINGECKO_NEWS_URL, headers=HEADERS, timeout=10)
+        resp = requests.get(COINGECKO_NEWS_URL, headers=_get_headers(), timeout=10)
         resp.raise_for_status()
         data = resp.json().get("data", [])
         for item in data[:max_articles]:
@@ -55,6 +63,7 @@ def fetch_coingecko_news(max_articles: int = 20) -> List[Dict]:
                 "url": item.get("url", ""),
                 "published": item.get("created_at", ""),
             })
+        print(f"[news_fetcher] CoinGecko: fetched {len(articles)} articles.")
     except Exception as exc:
         print(f"[news_fetcher] CoinGecko news error: {exc}")
     return articles
