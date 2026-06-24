@@ -1,53 +1,27 @@
 {
-  "generated_at": "2026-06-24T01:41:53.933574+00:00",
+  "generated_at": "2026-06-24T04:12:54.539079+00:00",
   "total_articles": 54,
   "coins": {
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.0937,
-      "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 3,
-      "neutral": 1,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.34,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum Foundation cuts 20% of its workforce as new 5-cluster structure takes shape",
-          "summary": "<p>Ethereum Foundation cut 20% of its workforce, reorganizing into five clusters as part of a long-simmering reorganization.</p>",
-          "url": "https://www.theblock.co/post/405809/ethereum-foundation-cuts-20-of-its-workforce-as-new-5-cluster-structure-takes-shape?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-23T13:47:07+00:00",
+          "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
+          "summary": "<p>BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes.</p>",
+          "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-24T03:44:25+00:00",
           "coins": [
-            "ETH"
-          ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "Decrypt",
-          "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
-          "summary": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-          "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
-          "published": "2026-06-22T20:12:31+00:00",
-          "coins": [
-            "ETH"
+            "BNB"
           ],
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
-          "published": "2026-06-23T13:45:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
         }
       ]
     },
@@ -100,6 +74,55 @@
         }
       ]
     },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": -0.0103,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
+          "summary": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
+          "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
+          "published": "2026-06-22T20:12:31+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
+          "published": "2026-06-23T13:45:22+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
+          "published": "2026-06-23T15:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        }
+      ]
+    },
     "LINK": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -148,6 +171,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary",
+      "summary": "<p>Boafo received substantial backing from Protect Progress, a super PAC associated with Fairshake, according to FEC filings.</p>",
+      "url": "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T03:18:30+00:00",
+      "coins": [],
+      "compound": 0.91,
+      "label": "BULLISH",
+      "confidence": 0.91
+    },
     {
       "source": "Decrypt",
       "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
@@ -235,6 +269,17 @@
       "compound": 0.6249,
       "label": "BULLISH",
       "confidence": 0.6249
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
+      "published": "2026-06-24T03:00:34+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -402,17 +447,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy's STRC slump prompts Terra comparisons that don't hold up, says analyst",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/23/strategy-s-strc-slid-below-par-reviving-terra-comparisons-that-don-t-hold-up",
-      "published": "2026-06-23T12:14:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
       "summary": "The initiative follows bets on stablecoins and the metaverse.",
@@ -440,17 +474,6 @@
       "summary": "<p>Zcash miner Fortitude Mining, a DCG subsidiary, wants to merge with a small-cap Nasdaq stock, HeartSciences Inc.</p>",
       "url": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss",
       "published": "2026-06-23T20:14:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "OKX Europe chief says 80% of crypto exchanges won\u2019t survive MiCA as deadline nears",
-      "summary": "<p>OKX Europe CEO Ghoos said 80% of exchanges won't survive MiCA as ESMA forces unlicensed firms to cease EU operations by July 1.</p>",
-      "url": "https://www.theblock.co/post/405777/okx-europe-chief-mica-deadline-nears?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T13:31:14+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
