@@ -11,6 +11,8 @@ permissions:
 jobs:
   run-agent:
     runs-on: ubuntu-latest
+    env:
+      COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -37,3 +39,10 @@ jobs:
           git add docs/report.json
           git commit -m "update report.json" || echo "nothing to commit"
           git push
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sentiment-report-${{ github.run_number }}
+          path: outputs/
+          retention-days: 30
