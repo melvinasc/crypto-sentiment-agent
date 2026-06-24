@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Crypto Sentiment Dashboard</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+  :root {
+    --bg:        #0a0e1a;
+    --surface:   #111827;
+    --border:    #1e2d45;
+    --bull:      #00e5a0;
+    --bear:      #ff4d6d;
+    --neutral:   #6b7fa3;
+    --gold:      #f4c842;
+    --text:      #e2e8f0;
+    --muted:     #64748b;
+    --up-bg:     rgba(0,229,160,0.08);
+    --down-bg:   rgba(255,77,109,0.08);
+    --neu-bg:    rgba(107,127,163,0.08);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Space Grotesk', sans-serif;
+    min-height: 100vh;
+    padding: 0 0 60px;
+  }
+
+  /* ── header ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 28px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .logo-icon {
+    width: 38px; height: 38px;
+    background: linear-gradient(135deg, var(--bull), #00b4d8);
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+  }
+  .logo h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.3px; }
+  .logo p  { font-size: 12px; color: var(--muted); margin-top: 1px; }
+
+  #last-updated {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--muted);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 6px 14px;
+  }
+
+  /* ── main ── */
+  main { max-width: 1100px; margin: 0 auto; padding: 40px 24px 0; }
+
+  /* ── summary bar ── */
+  .summary {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px 24px;
+  }
+  .stat-card .label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 1px; }
+  .stat-card .value { font-size: 32px; font-weight: 700; margin-top: 6px; }
+  .stat-card.bull .value { color: var(--bull); }
+  .stat-card.bear .value { color: var(--bear); }
+  .stat-card.total .value { color: var(--gold); }
+
+  /* ── section title ── */
+  .section-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--muted);
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  /* ── coin grid ── */
+  .coin-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  .coin-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 22px;
+    transition: border-color 0.2s;
+    cursor: pointer;
+  }
+  .coin-card:hover { border-color: #2e4060; }
+  .coin-card.bull { border-left: 3px solid var(--bull); background: linear-gradient(135deg, var(--up-bg), var(--surface)); }
+  .coin-card.bear { border-left: 3px solid var(--bear); background: linear-gradient(135deg, var(--down-bg), var(--surface)); }
+  .coin-card.neutral { border-left: 3px solid var(--neutral); background: linear-gradient(135deg, var(--neu-bg), var(--surface)); }
+
+  .coin-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 14px;
+  }
+  .coin-symbol {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .sentiment-badge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.5px;
+  }
+  .bull .sentiment-badge  { background: rgba(0,229,160,0.15); color: var(--bull); }
+  .bear .sentiment-badge  { background: rgba(255,77,109,0.15); color: var(--bear); }
+  .neutral .sentiment-badge { background: rgba(107,127,163,0.15); color: var(--neutral); }
+
+  /* score bar */
+  .score-row { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+  .score-bar-wrap {
+    flex: 1; height: 6px;
+    background: var(--border);
+    border-radius: 99px;
+    overflow: hidden;
+  }
+  .score-bar {
+    height: 100%;
+    border-radius: 99px;
+    transition: width 0.8s ease;
+  }
+  .bull .score-bar  { background: var(--bull); }
+  .bear .score-bar  { background: var(--bear); }
+  .neutral .score-bar { background: var(--neutral); }
+
+  .score-value {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    min-width: 56px;
+    text-align: right;
+  }
+  .bull .score-value  { color: var(--bull); }
+  .bear .score-value  { color: var(--bear); }
+  .neutral .score-value { color: var(--neutral); }
+
+  /* pill counts */
+  .pill-row { display: flex; gap: 8px; margin-bottom: 16px; }
+  .pill {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+  }
+  .pill.b  { background: rgba(0,229,160,0.12);  color: var(--bull); }
+  .pill.r  { background: rgba(255,77,109,0.12); color: var(--bear); }
+  .pill.n  { background: rgba(107,127,163,0.12);color: var(--neutral); }
+
+  /* headlines */
+  .headlines { border-top: 1px solid var(--border); padding-top: 14px; }
+  .headline-item {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 10px;
+    align-items: flex-start;
+  }
+  .hl-arrow { font-size: 11px; margin-top: 2px; flex-shrink: 0; }
+  .hl-text {
+    font-size: 12px;
+    color: #94a3b8;
+    line-height: 1.5;
+    text-decoration: none;
+  }
+  .hl-text:hover { color: var(--text); }
+
+  /* ── loading / empty ── */
+  #loading {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--muted);
+  }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--bull);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  #error-msg {
+    display: none;
+    background: rgba(255,77,109,0.1);
+    border: 1px solid var(--bear);
+    border-radius: 12px;
+    padding: 20px 24px;
+    color: var(--bear);
+    margin-bottom: 32px;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* ── filter bar ── */
+  .filter-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+  }
+  .filter-btn {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.5px;
+  }
+  .filter-btn:hover, .filter-btn.active { border-color: var(--bull); color: var(--bull); }
+  .filter-btn.bear-filter:hover, .filter-btn.bear-filter.active { border-color: var(--bear); color: var(--bear); }
+
+  @media (max-width: 600px) {
+    header { padding: 20px 16px; }
+    main   { padding: 24px 16px 0; }
+    .summary { grid-template-columns: 1fr 1fr; }
+    .summary .stat-card:last-child { grid-column: span 2; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">📡</div>
+    <div>
+      <h1>Crypto Sentiment</h1>
+      <p>AI-powered news analysis</p>
+    </div>
+  </div>
+  <div id="last-updated">Loading…</div>
+</header>
+
+<main>
+  <div id="error-msg"></div>
+  <div id="loading">
+    <div class="spinner"></div>
+    <p>Fetching latest sentiment data…</p>
+  </div>
+  <div id="content" style="display:none">
+    <div class="summary" id="summary"></div>
+    <p class="section-title">Coins</p>
+    <div class="filter-bar" id="filter-bar">
+      <button class="filter-btn active" onclick="filterCoins('ALL')">All</button>
+      <button class="filter-btn" onclick="filterCoins('BULLISH')">🟢 Bullish</button>
+      <button class="filter-btn bear-filter" onclick="filterCoins('BEARISH')">🔴 Bearish</button>
+      <button class="filter-btn" onclick="filterCoins('NEUTRAL')">⚪ Neutral</button>
+    </div>
+    <div class="coin-grid" id="coin-grid"></div>
+  </div>
+</main>
+
+<script>
+  let allCoins = [];
+
+  async function loadReport() {
+    try {
+      const res = await fetch('report.json');
+      if (!res.ok) throw new Error(`Could not load report.json (${res.status})`);
+      const report = await res.json();
+      render(report);
+    } catch (err) {
+      showError(err.message);
+    }
+  }
+
+  function render(report) {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+
+    // last updated
+    const d = new Date(report.generated_at);
+    document.getElementById('last-updated').textContent =
+      'Updated ' + d.toLocaleString(undefined, { dateStyle:'medium', timeStyle:'short' });
+
+    // summary
+    allCoins = Object.entries(report.coins || {});
+    const bulls   = allCoins.filter(([,v]) => v.overall === 'BULLISH').length;
+    const bears   = allCoins.filter(([,v]) => v.overall === 'BEARISH').length;
+    document.getElementById('summary').innerHTML = `
+      <div class="stat-card total">
+        <div class="label">Articles Analysed</div>
+        <div class="value">${report.total_articles}</div>
+      </div>
+      <div class="stat-card bull">
+        <div class="label">Bullish Coins</div>
+        <div class="value">${bulls}</div>
+      </div>
+      <div class="stat-card bear">
+        <div class="label">Bearish Coins</div>
+        <div class="value">${bears}</div>
+      </div>
+    `;
+
+    renderCoins(allCoins);
+  }
+
+  function renderCoins(coins) {
+    const grid = document.getElementById('coin-grid');
+    if (!coins.length) {
+      grid.innerHTML = '<p style="color:var(--muted);font-size:14px">No coins match this filter.</p>';
+      return;
+    }
+    grid.innerHTML = coins.map(([symbol, data]) => {
+      const cls      = data.overall.toLowerCase() === 'bullish' ? 'bull'
+                     : data.overall.toLowerCase() === 'bearish' ? 'bear' : 'neutral';
+      const barWidth = Math.min(Math.abs(data.avg_compound) * 100, 100).toFixed(1);
+      const arrow    = cls === 'bull' ? '↑' : cls === 'bear' ? '↓' : '~';
+      const arrowColor = cls === 'bull' ? 'var(--bull)' : cls === 'bear' ? 'var(--bear)' : 'var(--neutral)';
+      const headlines = (data.top_articles || []).map(a => {
+        const aClass = a.label === 'BULLISH' ? 'bull' : a.label === 'BEARISH' ? 'bear' : 'neutral';
+        const aArrow = a.label === 'BULLISH' ? '↑' : a.label === 'BEARISH' ? '↓' : '~';
+        const aColor = a.label === 'BULLISH' ? 'var(--bull)' : a.label === 'BEARISH' ? 'var(--bear)' : 'var(--neutral)';
+        const title  = a.title.length > 80 ? a.title.slice(0, 77) + '…' : a.title;
+        return `<div class="headline-item">
+          <span class="hl-arrow" style="color:${aColor}">${aArrow}</span>
+          <a class="hl-text" href="${a.url}" target="_blank" rel="noopener">${title}</a>
+        </div>`;
+      }).join('');
+
+      return `
+        <div class="coin-card ${cls}">
+          <div class="coin-header">
+            <span class="coin-symbol">${symbol}</span>
+            <span class="sentiment-badge">${data.overall}</span>
+          </div>
+          <div class="score-row">
+            <div class="score-bar-wrap">
+              <div class="score-bar" style="width:${barWidth}%"></div>
+            </div>
+            <span class="score-value">${data.avg_compound > 0 ? '+' : ''}${data.avg_compound.toFixed(3)}</span>
+          </div>
+          <div class="pill-row">
+            <span class="pill b">🟢 ${data.bullish} bullish</span>
+            <span class="pill r">🔴 ${data.bearish} bearish</span>
+            <span class="pill n">⚪ ${data.neutral} neutral</span>
+          </div>
+          <div class="headlines">${headlines}</div>
+        </div>`;
+    }).join('');
+  }
+
+  function filterCoins(filter) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    event.target.classList.add('active');
+    const filtered = filter === 'ALL' ? allCoins
+      : allCoins.filter(([, v]) => v.overall === filter);
+    renderCoins(filtered);
+  }
+
+  function showError(msg) {
+    document.getElementById('loading').style.display = 'none';
+    const el = document.getElementById('error-msg');
+    el.style.display = 'block';
+    el.innerHTML = `
+      <strong>⚠️ Could not load report data</strong><br><br>
+      ${msg}<br><br>
+      Make sure <code>report.json</code> is in the same folder as this file,
+      or that the GitHub Actions workflow has run at least once.
+    `;
+  }
+
+  loadReport();
+</script>
+</body>
+</html>
