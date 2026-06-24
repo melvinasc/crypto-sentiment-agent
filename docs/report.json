@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:48:53.369764+00:00",
+  "generated_at": "2026-06-24T19:58:28.008757+00:00",
   "total_articles": 55,
   "coins": {
     "USDT": {
@@ -26,63 +26,63 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.089,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
-          "summary": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
-          "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
-          "published": "2026-06-23T15:19:46+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
-          "summary": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
-          "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
-          "published": "2026-06-23T12:23:09+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.0817,
-      "overall": "BULLISH",
-      "bullish": 2,
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": -0.4019,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "YZi Labs ends proxy war with BNB treasury company CEA Industries",
+          "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
-          "published": "2026-06-24T10:47:12+00:00",
+          "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
+          "published": "2026-06-24T15:45:42+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 4,
+      "avg_compound": 0.1416,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance co-CEO remains \u2018committed\u2019 to securing EU license after exchange withdraws Greece bid",
+          "summary": "<p>The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union.</p>",
+          "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-24T16:12:29+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": -0.4767,
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
+          "summary": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
+          "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
+          "published": "2026-06-24T17:37:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4404,
           "label": "BEARISH",
-          "confidence": 0.4767
+          "confidence": 0.4404
         },
         {
           "source": "CoinDesk",
@@ -96,31 +96,44 @@
           "compound": 0.3818,
           "label": "BULLISH",
           "confidence": 0.3818
-        },
-        {
-          "source": "TheBlock",
-          "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
-          "summary": "<p>BNB treasury firm CEA Industries has entered a cooperation agreement with YZi Labs, ending months-long governance disputes.</p>",
-          "url": "https://www.theblock.co/post/405919/cea-industries-ends-proxy-fight-yzi-labs?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-24T03:44:25+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0394,
-      "overall": "NEUTRAL",
+      "article_count": 20,
+      "avg_compound": -0.1311,
+      "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 10,
-      "neutral": 7,
+      "bearish": 11,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-67000-Range-Down-13-in-a-Week-Amid-ETF-Outflows-and-Market-Fears.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a></p>\n<p>Bitcoin price has plunged below $60,000 after a perfect storm of ETF outflows, hawkish Fed signals, geopolitical inflation fears and shaken market confidence.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000",
+          "published": "2026-06-24T18:37:29+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9648,
+          "label": "BEARISH",
+          "confidence": 0.9648
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a></p>\n<p>Strategy (MSTR) plunged more than 10% to a two-year low near $92 as Bitcoin crashed below $60,000, wiping out billions in unrealized gains.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
+          "published": "2026-06-24T18:06:06+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9442,
+          "label": "BEARISH",
+          "confidence": 0.9442
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
@@ -133,45 +146,33 @@
           "compound": 0.8964,
           "label": "BULLISH",
           "confidence": 0.8964
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/US-Senate-Passes-Housing-Bill-With-Four-Year-Fed-CBDC-Ban.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed\" rel=\"nofollow\">US Senate Passes Housing Bill With Four-Year Fed CBDC Ban</a></p>\n<p>The U.S. Senate has passed a housing bill that includes a ban on a Federal Reserve-issued CBDC through 2030.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed\" rel=\"nofollow\">US Senate Passes Housing Bill With Four-Year Fed CBDC Ban</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed",
-          "published": "2026-06-23T15:17:11+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8779,
-          "label": "BEARISH",
-          "confidence": 0.8779
-        },
-        {
-          "source": "Decrypt",
-          "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
-          "summary": "Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.",
-          "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready",
-          "published": "2026-06-23T21:31:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8241,
-          "label": "BULLISH",
-          "confidence": 0.8241
         }
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+          "published": "2026-06-24T19:52:39+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
     },
     "AVAX": {
       "article_count": 0,
@@ -316,15 +317,15 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Crypto PAC-backed Adrian Boafo secures victory in Maryland Democratic primary",
-      "summary": "<p>Boafo received substantial backing from Protect Progress, a super PAC associated with Fairshake, according to FEC filings.</p>",
-      "url": "https://www.theblock.co/post/405921/adrian-boafo-wins-maryland-democratic-primary?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T03:18:30+00:00",
+      "source": "Decrypt",
+      "title": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
+      "summary": "Noman Saleem impersonated crypto influencers on Telegram, luring victims into a fake staking scheme before vanishing with their funds.",
+      "url": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud",
+      "published": "2026-06-24T17:18:31+00:00",
       "coins": [],
-      "compound": 0.91,
-      "label": "BULLISH",
-      "confidence": 0.91
+      "compound": -0.9062,
+      "label": "BEARISH",
+      "confidence": 0.9062
     },
     {
       "source": "TheBlock",
@@ -339,28 +340,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
-      "summary": "A new benchmark designed to test strategic reasoning found an AI-controlled empire spent 50 turns developing nuclear weapons to stop a rival's cultural victory\u2014only to lose the game anyway.",
-      "url": "https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark",
-      "published": "2026-06-23T18:33:18+00:00",
-      "coins": [],
-      "compound": -0.7783,
-      "label": "BEARISH",
-      "confidence": 0.7783
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto\u2019s Clarity Act Has a New Enemy: Catholic Leaders",
-      "summary": "A group of 82 Catholic leaders warned a key provision of the crypto bill, protecting software developers from prosecution, could enable human trafficking.",
-      "url": "https://decrypt.co/371923/crypto-clarity-act-new-enemy-catholic-leaders",
-      "published": "2026-06-23T21:10:54+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
-      "source": "Decrypt",
       "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
       "summary": "Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.",
       "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
@@ -369,39 +348,6 @@
       "compound": 0.7003,
       "label": "BULLISH",
       "confidence": 0.7003
-    },
-    {
-      "source": "TheBlock",
-      "title": "Congress sends anti-CBDC housing bill to Trump\u2019s desk for final approval",
-      "summary": "<p>The bill, which seeks to boost housing affordability in America, also includes language banning CBDC until Dec. 31, 2030.</p>",
-      "url": "https://www.theblock.co/post/405915/anti-cbdc-housing-bill-passes-congress?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T00:52:43+00:00",
-      "coins": [],
-      "compound": 0.7003,
-      "label": "BULLISH",
-      "confidence": 0.7003
-    },
-    {
-      "source": "Decrypt",
-      "title": "A New OpenClaw Competitor: ToqanClaw Promises Privacy in AI Agent Race",
-      "summary": "Prosus launched ToqanClaw, a no-code AI platform positioned as an European alternative to AI agents like OpenClaw.",
-      "url": "https://decrypt.co/371869/toqanclaw-openclaw-competitor-privacy-gdpr",
-      "published": "2026-06-23T17:06:52+00:00",
-      "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/24/cboe-revives-s-and-p-500-binary-options-chasing-a-market-popularized-by-polymarket-kalshi",
-      "published": "2026-06-24T10:38:48+00:00",
-      "coins": [],
-      "compound": 0.6705,
-      "label": "BULLISH",
-      "confidence": 0.6705
     },
     {
       "source": "Decrypt",
@@ -415,22 +361,33 @@
       "confidence": 0.5859
     },
     {
+      "source": "Decrypt",
+      "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
+      "summary": "President Trump said he won\u2019t sign the popular bill until Congress passes a controversial bill restricting voting rights.",
+      "url": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
+      "published": "2026-06-24T15:34:50+00:00",
+      "coins": [],
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "TheBlock",
+      "title": "World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records",
+      "summary": "<p>Kalshi's aggregated OI reached a record $1.16 billion last week, the first time the platform\u2019s OI surpassed the billion-dollar mark.</p>",
+      "url": "https://www.theblock.co/post/405854/world-cup-boom-sends-polymarket-volume-up-300-while-kalshi-sets-open-interest-records?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T15:36:02+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
       "source": "CoinDesk",
       "title": "The banking lobby is wrong about stablecoins and community banks",
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
       "published": "2026-06-24T14:47:30+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-      "summary": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
-      "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-      "published": "2026-06-23T13:40:47+00:00",
       "coins": [],
       "compound": -0.4588,
       "label": "BEARISH",
@@ -446,6 +403,28 @@
       "compound": -0.4019,
       "label": "BEARISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
+      "summary": "<p>Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth.</p>",
+      "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T18:28:02+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
+      "summary": "A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.",
+      "url": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
+      "published": "2026-06-24T19:07:12+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -481,37 +460,103 @@
       "confidence": 0.34
     },
     {
+      "source": "Decrypt",
+      "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
+      "summary": "Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
+      "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
+      "published": "2026-06-24T16:11:15+00:00",
+      "coins": [],
+      "compound": 0.3384,
+      "label": "BULLISH",
+      "confidence": 0.3384
+    },
+    {
+      "source": "Decrypt",
+      "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
+      "summary": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
+      "url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
+      "published": "2026-06-24T19:25:30+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
+      "published": "2026-06-24T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
       "source": "TheBlock",
-      "title": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
-      "summary": "<p>A provision in the Clarity Act could make it harder for law enforcement to investigate illicit crypto activity, the groups said.</p>",
-      "url": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T09:10:44+00:00",
+      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
+      "summary": "<p>The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.</p>",
+      "url": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T18:42:10+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model\u2014And Nobody's Shutting It Down",
-      "summary": "GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
-      "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
-      "published": "2026-06-23T18:59:26+00:00",
+      "source": "CoinDesk",
+      "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
+      "published": "2026-06-24T15:42:51+00:00",
       "coins": [],
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
     },
     {
-      "source": "CoinDesk",
-      "title": "This forgotten coin could surprise everyone before its next halving",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/06/24/this-forgotten-coin-could-surprise-everyone-before-its-next-halving",
-      "published": "2026-06-24T11:36:13+00:00",
+      "source": "TheBlock",
+      "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
+      "summary": "<p>The CFTC has been locked in a tug-of-war with states over who has the ultimate authority over event contracts.</p>",
+      "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T16:40:35+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
+      "summary": "<p>As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have.</p>",
+      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T19:30:55+00:00",
       "coins": [],
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
+      "published": "2026-06-24T19:48:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ex-FCA policy insider explains the \u2018great divide\u2019 in the UK\u2019s crypto ambition",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
+      "published": "2026-06-24T15:23:07+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -525,22 +570,33 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
-      "published": "2026-06-24T07:18:21+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI Turns Up the Heat With Jalape\u00f1o, Its First Custom AI Chip",
+      "summary": "Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
+      "url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
+      "published": "2026-06-24T15:42:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
-      "summary": "The initiative follows bets on stablecoins and the metaverse.",
-      "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
-      "published": "2026-06-23T20:13:35+00:00",
+      "source": "TheBlock",
+      "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+      "summary": "<p>Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round.</p>",
+      "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T17:00:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
+      "summary": "<p>The app will face stiff competition in the prediction markets space, competing with dominant market leaders Kalshi and Polymarket.</p>",
+      "url": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T15:37:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -563,39 +619,6 @@
       "summary": "<p>Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgage loans on Provenance Blockchain.</p>",
       "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
       "published": "2026-06-24T13:00:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
-      "summary": "<p>Voyager investors appealed the dismissal of their claims against Mark Cuban and the Dallas Mavericks to the Eleventh Circuit. </p>",
-      "url": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T08:43:11+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
-      "summary": "<p>The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.</p>",
-      "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T06:37:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Senate Democrats urge Republicans to hold hearings on Trump family crypto ties to Abu Dhabi royalty",
-      "summary": "<p>Top Democrats are calling for congressional hearings into President Donald Trump\u2019s family crypto venture and Abu Dhabi royalty.</p>",
-      "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T21:44:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
