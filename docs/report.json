@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T04:35:06.872477+00:00",
+  "generated_at": "2026-06-24T09:46:09.056237+00:00",
   "total_articles": 54,
   "coins": {
     "BNB": {
@@ -27,12 +27,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.058,
-      "overall": "BULLISH",
+      "article_count": 21,
+      "avg_compound": 0.0395,
+      "overall": "NEUTRAL",
       "bullish": 6,
-      "bearish": 7,
-      "neutral": 6,
+      "bearish": 8,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -142,30 +142,6 @@
           "published": "2026-06-23T15:40:00+00:00",
           "coins": [
             "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Tether-backed Oobit brings USDT to nearly 170 million users of Brazil\u2019s PIX payment network",
-          "summary": "<p>Created by Banco Central do Brasil in 2020, PIX is one of the world's most widely-adopted digital payment networks.</p>",
-          "url": "https://www.theblock.co/post/405819/tether-backed-oobit-brings-usdt-170-million-users-brazils-pix-payment-network?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-23T15:29:08+00:00",
-          "coins": [
-            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -304,6 +280,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -427,28 +413,6 @@
       "confidence": 0.5859
     },
     {
-      "source": "TheBlock",
-      "title": "DOJ seizes Huione Group cloud computing account used to launder billions in fraud proceeds",
-      "summary": "<p>Last year, FinCEN designated Huione Group as a primary money laundering concern under the USA Patriot Act.</p>",
-      "url": "https://www.theblock.co/post/405834/doj-seizes-huione-group-account-launder-billions?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T16:58:13+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The ECB digital euro takes step forward after winning key European Parliament vote",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/23/european-parliament-clears-last-step-for-a-digital-euro-to-break-u-s-payment-grip",
-      "published": "2026-06-23T12:37:20+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
       "source": "Decrypt",
       "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
       "summary": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
@@ -458,17 +422,6 @@
       "compound": -0.4588,
       "label": "BEARISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "In Clarity Act's final weeks, its path through U.S. Senate not getting much clearer",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/06/22/in-clarity-act-s-final-weeks-its-path-through-u-s-senate-not-getting-much-clearer",
-      "published": "2026-06-23T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -527,14 +480,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Goldfinch set to shutter Prime after community vote backs wind-down proposal",
-      "summary": "<p>The protocol facilitated roughly $100 million in loans, but a handful of borrower pools later encountered \"serious performance issues.\"</p>",
-      "url": "https://www.theblock.co/post/405825/goldfinch-set-shutter-prime-community-vote-backs-wind-down-proposal?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T16:42:58+00:00",
+      "title": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
+      "summary": "<p>A provision in the Clarity Act could make it harder for law enforcement to investigate illicit crypto activity, the groups said.</p>",
+      "url": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T09:10:44+00:00",
       "coins": [],
-      "compound": -0.1406,
-      "label": "BEARISH",
-      "confidence": 0.1406
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
     },
     {
       "source": "Decrypt",
@@ -546,6 +499,17 @@
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
+      "published": "2026-06-24T07:18:21+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -570,22 +534,33 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Former Robinhood Crypto COO Tanya Denisova joins stablecoin issuer Agora as head of operations",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/23/former-robinhood-crypto-coo-tanya-denisova-joins-stablecoin-issuer-agora-as-head-of-operations",
-      "published": "2026-06-23T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
+      "summary": "The initiative follows bets on stablecoins and the metaverse.",
+      "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
+      "published": "2026-06-23T20:13:35+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Mark Zuckerberg Wants a Prediction Market Too: NYT",
-      "summary": "The initiative follows bets on stablecoins and the metaverse.",
-      "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
-      "published": "2026-06-23T20:13:35+00:00",
+      "source": "TheBlock",
+      "title": "Mark Cuban, Dallas Mavericks face appeal over dismissed Voyager crypto case",
+      "summary": "<p>Voyager investors appealed the dismissal of their claims against Mark Cuban and the Dallas Mavericks to the Eleventh Circuit. </p>",
+      "url": "https://www.theblock.co/post/405937/mark-cuban-dallas-mavericks-face-appeal-over-dismissed-voyager-crypto-case?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T08:43:11+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cboe launches prediction market suite with binary option contracts on S&P 500",
+      "summary": "<p>The contracts are currently available on Interactive Brokers and are expected to launch on Charles Schwab in the coming months.</p>",
+      "url": "https://www.theblock.co/post/405930/cboe-launches-prediction-market-suite?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T06:37:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
