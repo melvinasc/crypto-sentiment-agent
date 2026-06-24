@@ -1,15 +1,102 @@
 {
-  "generated_at": "2026-06-24T09:46:09.056237+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-06-24T14:48:53.369764+00:00",
+  "total_articles": 55,
   "coins": {
-    "BNB": {
+    "USDT": {
       "article_count": 1,
-      "avg_compound": 0.34,
+      "avg_compound": 0.7003,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Farage Says He Can Spend Tether Billionaire\u2019s $6.7M Gift \u2018On Ferraris\u2019 if He Wants",
+          "summary": "Reform UK leader Nigel Farage called the gift from Christopher Harborne a \u201cprivate matter\u201d amid a standards investigation.",
+          "url": "https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants",
+          "published": "2026-06-24T10:28:22+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.7003,
+          "label": "BULLISH",
+          "confidence": 0.7003
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.089,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
+          "summary": "The non-profit is cutting 54 jobs as it reorganizes into focused \"clusters,\" following a succession of leadership departures.",
+          "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
+          "published": "2026-06-23T15:19:46+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Fomo's $75M Raise Shows Big VCs Are Still Betting on Consumer Crypto",
+          "summary": "Crypto majors are selling off as big Tech gets routed; Saylor is hoarding cash; and ETH heavyweights team up to fund R&#038;D with ETHLabs.",
+          "url": "https://decrypt.co/371851/morning-minute-fomos-75m-raise-shows-big-vcs-are-still-betting-on-consumer-crypto",
+          "published": "2026-06-23T12:23:09+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": 0.0817,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "YZi Labs ends proxy war with BNB treasury company CEA Industries",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/06/22/yzi-labs-nears-settlement-in-activist-campaign-at-bnb-treasury-firm-cea-industries",
+          "published": "2026-06-24T10:47:12+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4767,
+          "label": "BEARISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "CoinDesk",
+          "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
+          "published": "2026-06-24T13:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        },
         {
           "source": "TheBlock",
           "title": "CEA Industries ends proxy fight with YZi Labs, adds Ella Zhang as board director",
@@ -27,11 +114,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.0395,
+      "article_count": 23,
+      "avg_compound": -0.0394,
       "overall": "NEUTRAL",
       "bullish": 6,
-      "bearish": 8,
+      "bearish": 10,
       "neutral": 7,
       "top_articles": [
         {
@@ -49,16 +136,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Suisse-Secures-MiCAR-License-Launches-European-Expansion-from-Liechtenstein.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license\" rel=\"nofollow\">Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein</a></p>\n<p>Bitcoin Suisse secured a MiCAR license in Liechtenstein, enabling the crypto financial services firm to expand regulated operations across the European Union under a unified regulatory framework.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license\" rel=\"nofollow\">Bitcoin Suisse Secures MiCAR License, Launches European Expansion from Liechtenstein</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-secures-micar-license",
-          "published": "2026-06-23T14:31:29+00:00",
+          "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/US-Senate-Passes-Housing-Bill-With-Four-Year-Fed-CBDC-Ban.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed\" rel=\"nofollow\">US Senate Passes Housing Bill With Four-Year Fed CBDC Ban</a></p>\n<p>The U.S. Senate has passed a housing bill that includes a ban on a Federal Reserve-issued CBDC through 2030.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed\" rel=\"nofollow\">US Senate Passes Housing Bill With Four-Year Fed CBDC Ban</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/us-senate-passes-bill-four-year-fed",
+          "published": "2026-06-23T15:17:11+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8625,
-          "label": "BULLISH",
-          "confidence": 0.8625
+          "compound": -0.8779,
+          "label": "BEARISH",
+          "confidence": 0.8779
         },
         {
           "source": "Decrypt",
@@ -72,80 +159,6 @@
           "compound": 0.8241,
           "label": "BULLISH",
           "confidence": 0.8241
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0103,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
-          "summary": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-          "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
-          "published": "2026-06-22T20:12:31+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum Foundation cuts 20% of staff amid leadership exodus",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/23/ethereum-foundation-cuts-20-of-staff-amid-leadership-exodus",
-          "published": "2026-06-23T13:45:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Vitalik Buterin says Ethereum Foundation will cut budget 40% in major reset",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/23/vitalik-buterin-says-ethereum-foundation-will-cut-budget-40-in-major-reset",
-          "published": "2026-06-23T15:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Chainlink teams up with 47 South Korean, European banks to speed up international money transfers",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/23/chainlink-teams-up-with-47-south-korean-european-banks-to-speed-up-international-money-transfers",
-          "published": "2026-06-23T15:40:00+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -191,6 +204,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -280,16 +303,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -314,6 +327,17 @@
       "confidence": 0.91
     },
     {
+      "source": "TheBlock",
+      "title": "Standard Chartered sees \u2018generational\u00a0wealth\u2019 in potential Aave recovery, predicts 50x upside by 2030",
+      "summary": "<p>Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based on a DeFi asset growth forecast and post-KelpDAO recovery.</p>",
+      "url": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T14:37:51+00:00",
+      "coins": [],
+      "compound": 0.8225,
+      "label": "BULLISH",
+      "confidence": 0.8225
+    },
+    {
       "source": "Decrypt",
       "title": "AI Agent Triggers Nuclear Strike After Getting Outmaneuvered in Civilization VI",
       "summary": "A new benchmark designed to test strategic reasoning found an AI-controlled empire spent 50 turns developing nuclear weapons to stop a rival's cultural victory\u2014only to lose the game anyway.",
@@ -323,17 +347,6 @@
       "compound": -0.7783,
       "label": "BEARISH",
       "confidence": 0.7783
-    },
-    {
-      "source": "Decrypt",
-      "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
-      "summary": "A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
-      "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
-      "published": "2026-06-23T10:23:30+00:00",
-      "coins": [],
-      "compound": -0.7579,
-      "label": "BEARISH",
-      "confidence": 0.7579
     },
     {
       "source": "Decrypt",
@@ -380,37 +393,37 @@
       "confidence": 0.6808
     },
     {
-      "source": "TheBlock",
-      "title": "Kentucky becomes latest state sued by CFTC over prediction markets",
-      "summary": "<p>Kentucky has become the latest battleground in the fight over prediction markets as the CFTC asserts jurisdiction. </p>",
-      "url": "https://www.theblock.co/post/405879/kentucky-becomes-latest-state-sued-by-cftc-over-prediction-markets?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T20:01:29+00:00",
-      "coins": [],
-      "compound": -0.6486,
-      "label": "BEARISH",
-      "confidence": 0.6486
-    },
-    {
-      "source": "TheBlock",
-      "title": "Nearly 100 Catholic leaders oppose Clarity Act over weakened safeguards against illicit finance and trafficking",
-      "summary": "<p>The Alliance to End Human Trafficking, which is supported by Catholic organizations, pushed back against the sweeping cryptocurrency bill.</p>",
-      "url": "https://www.theblock.co/post/405868/clarity-act-new-opposition-catholic-leaders-weakened-safeguards-against-illicit-finance?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T19:01:45+00:00",
-      "coins": [],
-      "compound": 0.6249,
-      "label": "BULLISH",
-      "confidence": 0.6249
-    },
-    {
       "source": "CoinDesk",
-      "title": "Crypto PAC's $5.5 million Congress pick gets Maryland win, more crypto allies advance",
+      "title": "Cboe revives S&P 500 binary options, chasing a market popularized by Polymarket, Kalshi",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/23/crypto-pac-s-usd5-5-million-congress-pick-gets-maryland-win-more-crypto-allies-advance",
-      "published": "2026-06-24T03:00:34+00:00",
+      "url": "https://www.coindesk.com/business/2026/06/24/cboe-revives-s-and-p-500-binary-options-chasing-a-market-popularized-by-polymarket-kalshi",
+      "published": "2026-06-24T10:38:48+00:00",
+      "coins": [],
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Meta Is Building a Prediction Market",
+      "summary": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
+      "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
+      "published": "2026-06-24T12:25:46+00:00",
       "coins": [],
       "compound": 0.5859,
       "label": "BULLISH",
       "confidence": 0.5859
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The banking lobby is wrong about stablecoins and community banks",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
+      "published": "2026-06-24T14:47:30+00:00",
+      "coins": [],
+      "compound": -0.4588,
+      "label": "BEARISH",
+      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -424,59 +437,48 @@
       "confidence": 0.4588
     },
     {
-      "source": "CoinDesk",
-      "title": "BNY sees 'FOMO' driving asset managers into tokenized funds",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/23/bny-sees-fomo-driving-asset-managers-into-tokenized-funds",
-      "published": "2026-06-23T16:34:34+00:00",
+      "source": "Decrypt",
+      "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
+      "summary": "The seizure hits a cloud account that powered Huione Guarantee, a Telegram marketplace tied to billions in Southeast Asian scam proceeds.",
+      "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
+      "published": "2026-06-24T11:49:27+00:00",
       "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Meta\u2019s Zuckerberg wants to build prediction market app like Polymarket and Kalshi: NYT",
-      "summary": "<p>Prediction markets have swelled into a multi-billion-dollar business with users from all around the world betting billions of dollars.</p>",
-      "url": "https://www.theblock.co/post/405838/meta-zuckerberg-to-build-prediction-market-app-polymarket-kalshi-nyt?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T17:20:55+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The SEC delayed tokenizing stocks, and here\u2019s why that\u2019s a relief",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/06/23/the-sec-delayed-tokenizing-stocks-and-here-s-why-that-s-a-relief",
-      "published": "2026-06-23T14:01:44+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto critic Roubini joins tokenization boom with onchain 'Technodollar'",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar",
-      "published": "2026-06-23T21:54:10+00:00",
-      "coins": [],
-      "compound": -0.2732,
+      "compound": -0.4019,
       "label": "BEARISH",
-      "confidence": 0.2732
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
-      "title": "New York man sentenced for $1.4 million crypto fraud scheme using bogus influencer accounts",
-      "summary": "<p>A New York man who posed as crypto influencers on Telegram and used false promises of staking rewards was sentenced to 15 months in prison.</p>",
-      "url": "https://www.theblock.co/post/405850/new-york-man-sentenced-1-4-million-crypto-fraud-scheme-bogus-influencer-accounts?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T17:48:51+00:00",
+      "title": "Kraken-incubated Ink upgrades to Optimism\u2019s OP Enterprise Fully Managed in multi-year infrastructure deal",
+      "summary": "<p>Optimism will run Ink's production infrastructure while the Ink Foundation focuses on ecosystem growth and new financial products.</p>",
+      "url": "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T13:35:01+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.3818
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
+      "published": "2026-06-24T13:19:59+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "SBI Group launches Japan\u2019s first trust bank-backed stablecoin JPYSC",
+      "summary": "<p>JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory and tax treatment of the stablecoin is clarified.</p>",
+      "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T09:39:22+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -502,32 +504,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "This forgotten coin could surprise everyone before its next halving",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/06/24/this-forgotten-coin-could-surprise-everyone-before-its-next-halving",
+      "published": "2026-06-24T11:36:13+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
+      "published": "2026-06-24T12:48:10+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Trump lands in Senate's crosshairs over $500 million UAE investment in his crypto venture",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/06/24/trump-lands-in-senate-s-crosshairs-over-usd500-million-uae-investment-in-his-crypto-venture",
       "published": "2026-06-24T07:18:21+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI chipmaker Cerebras down 11% after first public earnings report",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report",
-      "published": "2026-06-23T22:58:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Meta is developing a prediction market app called \u2018Arena\u2019 as sector booms: NYT",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/23/meta-is-developing-a-prediction-market-app-called-arena-as-sector-booms-nyt",
-      "published": "2026-06-23T17:54:32+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -539,6 +541,28 @@
       "summary": "The initiative follows bets on stablecoins and the metaverse.",
       "url": "https://decrypt.co/371911/mark-zuckerberg-meta-prediction-market",
       "published": "2026-06-23T20:13:35+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
+      "summary": "<p>Kalshi is taking the state of Illinois to court over its new law that establishes a regulatory regime for prediction markets.</p>",
+      "url": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T14:41:19+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+      "summary": "<p>Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgage loans on Provenance Blockchain.</p>",
+      "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-24T13:00:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -572,17 +596,6 @@
       "summary": "<p>Top Democrats are calling for congressional hearings into President Donald Trump\u2019s family crypto venture and Abu Dhabi royalty.</p>",
       "url": "https://www.theblock.co/post/405902/senate-democrats-urge-republicans-to-hold-hearings-on-trump-family-crypto-ties-to-abu-dhabi-royalty?utm_source=rss&utm_medium=rss",
       "published": "2026-06-23T21:44:33+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Barry Silbert\u2019s Zcash miner proposes merger, sends Nasdaq stock soaring despite rough month for ZEC",
-      "summary": "<p>Zcash miner Fortitude Mining, a DCG subsidiary, wants to merge with a small-cap Nasdaq stock, HeartSciences Inc.</p>",
-      "url": "https://www.theblock.co/post/405867/barry-silberts-zcash-miner-proposes-merger-nasdaq-stock-soaring-rough-month-zec?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-23T20:14:25+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
