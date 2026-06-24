@@ -282,9 +282,9 @@
     <p class="section-title">Coins</p>
     <div class="filter-bar" id="filter-bar">
       <button class="filter-btn active" onclick="filterCoins('ALL')">All</button>
-      <button class="filter-btn" onclick="filterCoins('BULLISH')">🟢 Bullish</button>
-      <button class="filter-btn bear-filter" onclick="filterCoins('BEARISH')">🔴 Bearish</button>
-      <button class="filter-btn" onclick="filterCoins('NEUTRAL')">⚪ Neutral</button>
+      <button class="filter-btn" onclick="filterCoins('BULLISH')">🟢 Buy Signal</button>
+      <button class="filter-btn bear-filter" onclick="filterCoins('BEARISH')">🔴 Sell Signal</button>
+      <button class="filter-btn" onclick="filterCoins('NEUTRAL')">⚪ Hold</button>
     </div>
     <div class="coin-grid" id="coin-grid"></div>
   </div>
@@ -323,11 +323,11 @@
         <div class="value">${report.total_articles}</div>
       </div>
       <div class="stat-card bull">
-        <div class="label">Bullish Coins</div>
+        <div class="label">Buy Signal Coins</div>
         <div class="value">${bulls}</div>
       </div>
       <div class="stat-card bear">
-        <div class="label">Bearish Coins</div>
+        <div class="label">Sell Signal Coins</div>
         <div class="value">${bears}</div>
       </div>
     `;
@@ -345,7 +345,8 @@
       const cls      = data.overall.toLowerCase() === 'bullish' ? 'bull'
                      : data.overall.toLowerCase() === 'bearish' ? 'bear' : 'neutral';
       const barWidth = Math.min(Math.abs(data.avg_compound) * 100, 100).toFixed(1);
-      const arrow    = cls === 'bull' ? '↑' : cls === 'bear' ? '↓' : '~';
+      const sentiment = data.overall === 'BULLISH' ? '🟢 Buy Signal'
+                      : data.overall === 'BEARISH' ? '🔴 Sell Signal' : '⚪ Hold';
       const arrowColor = cls === 'bull' ? 'var(--bull)' : cls === 'bear' ? 'var(--bear)' : 'var(--neutral)';
       const headlines = (data.top_articles || []).map(a => {
         const aClass = a.label === 'BULLISH' ? 'bull' : a.label === 'BEARISH' ? 'bear' : 'neutral';
@@ -362,7 +363,7 @@
         <div class="coin-card ${cls}">
           <div class="coin-header">
             <span class="coin-symbol">${symbol}</span>
-            <span class="sentiment-badge">${data.overall}</span>
+            <span class="sentiment-badge">${sentiment}</span>
           </div>
           <div class="score-row">
             <div class="score-bar-wrap">
@@ -371,9 +372,9 @@
             <span class="score-value">${data.avg_compound > 0 ? '+' : ''}${data.avg_compound.toFixed(3)}</span>
           </div>
           <div class="pill-row">
-            <span class="pill b">🟢 ${data.bullish} bullish</span>
-            <span class="pill r">🔴 ${data.bearish} bearish</span>
-            <span class="pill n">⚪ ${data.neutral} neutral</span>
+            <span class="pill b">🟢 ${data.bullish} buy</span>
+            <span class="pill r">🔴 ${data.bearish} sell</span>
+            <span class="pill n">⚪ ${data.neutral} hold</span>
           </div>
           <div class="headlines">${headlines}</div>
         </div>`;
