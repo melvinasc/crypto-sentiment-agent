@@ -1,27 +1,30 @@
 {
-  "generated_at": "2026-06-24T19:58:28.008757+00:00",
+  "generated_at": "2026-06-25T04:15:57.590475+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
+    "DOGE": {
       "article_count": 1,
-      "avg_compound": 0.7003,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.8689,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Farage Says He Can Spend Tether Billionaire\u2019s $6.7M Gift \u2018On Ferraris\u2019 if He Wants",
-          "summary": "Reform UK leader Nigel Farage called the gift from Christopher Harborne a \u201cprivate matter\u201d amid a standards investigation.",
-          "url": "https://decrypt.co/371948/farage-says-he-can-spend-tether-billionaires-6-7m-gift-on-ferraris-if-he-wants",
-          "published": "2026-06-24T10:28:22+00:00",
+          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+          "published": "2026-06-24T20:50:14+00:00",
           "coins": [
-            "USDT"
+            "BTC",
+            "ETH",
+            "XRP",
+            "DOGE"
           ],
-          "compound": 0.7003,
-          "label": "BULLISH",
-          "confidence": 0.7003
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
         }
       ],
       "no_news": false
@@ -46,6 +49,150 @@
           "compound": -0.4019,
           "label": "BEARISH",
           "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.247,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+          "published": "2026-06-24T20:50:14+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP",
+            "DOGE"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
+          "published": "2026-06-24T19:52:39+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        },
+        {
+          "source": "Decrypt",
+          "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
+          "summary": "Bitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
+          "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
+          "published": "2026-06-24T22:27:05+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 21,
+      "avg_compound": -0.2256,
+      "overall": "BEARISH",
+      "bullish": 5,
+      "bearish": 13,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-67000-Range-Down-13-in-a-Week-Amid-ETF-Outflows-and-Market-Fears.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a></p>\n<p>Bitcoin price has plunged below $60,000 after a perfect storm of ETF outflows, hawkish Fed signals, geopolitical inflation fears and shaken market confidence.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000",
+          "published": "2026-06-24T18:37:29+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9648,
+          "label": "BEARISH",
+          "confidence": 0.9648
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a></p>\n<p>Strategy (MSTR) plunged more than 10% to a two-year low near $92 as Bitcoin crashed below $60,000, wiping out billions in unrealized gains.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
+          "published": "2026-06-24T18:06:06+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9442,
+          "label": "BEARISH",
+          "confidence": 0.9442
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a></p>\n<p>Congress has scheduled a July 17 hearing in New York on the CLARITY Act as momentum builds for the crypto market structure bill.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing",
+          "published": "2026-06-23T18:55:38+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8964,
+          "label": "BULLISH",
+          "confidence": 0.8964
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.1961,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+          "published": "2026-06-24T20:50:14+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP",
+            "DOGE"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+          "summary": "<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.</p>",
+          "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-25T03:26:12+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -100,80 +247,6 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.1311,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 11,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-67000-Range-Down-13-in-a-Week-Amid-ETF-Outflows-and-Market-Fears.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a></p>\n<p>Bitcoin price has plunged below $60,000 after a perfect storm of ETF outflows, hawkish Fed signals, geopolitical inflation fears and shaken market confidence.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000",
-          "published": "2026-06-24T18:37:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9648,
-          "label": "BEARISH",
-          "confidence": 0.9648
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a></p>\n<p>Strategy (MSTR) plunged more than 10% to a two-year low near $92 as Bitcoin crashed below $60,000, wiping out billions in unrealized gains.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
-          "published": "2026-06-24T18:06:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9442,
-          "label": "BEARISH",
-          "confidence": 0.9442
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a></p>\n<p>Congress has scheduled a July 17 hearing in New York on the CLARITY Act as momentum builds for the crypto market structure bill.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing",
-          "published": "2026-06-23T18:55:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8964,
-          "label": "BULLISH",
-          "confidence": 0.8964
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-          "published": "2026-06-24T19:52:39+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
     "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -185,16 +258,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -304,7 +367,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -340,28 +403,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
-      "summary": "Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.",
-      "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
-      "published": "2026-06-23T22:01:12+00:00",
-      "coins": [],
-      "compound": 0.7003,
-      "label": "BULLISH",
-      "confidence": 0.7003
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Meta Is Building a Prediction Market",
-      "summary": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
-      "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
-      "published": "2026-06-24T12:25:46+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
       "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
       "summary": "President Trump said he won\u2019t sign the popular bill until Congress passes a controversial bill restricting voting rights.",
       "url": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
@@ -383,6 +424,17 @@
       "confidence": 0.5267
     },
     {
+      "source": "Decrypt",
+      "title": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
+      "summary": "Illinois is set to institute a new tax on prediction markets next week that would take 15% of gross receipts from sports-related wagers.",
+      "url": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
+      "published": "2026-06-24T21:37:45+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
       "source": "CoinDesk",
       "title": "The banking lobby is wrong about stablecoins and community banks",
       "summary": "",
@@ -395,14 +447,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
-      "summary": "The seizure hits a cloud account that powered Huione Guarantee, a Telegram marketplace tied to billions in Southeast Asian scam proceeds.",
-      "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
-      "published": "2026-06-24T11:49:27+00:00",
+      "title": "Your Hermes Agent Now Has a Pet. It Does Nothing\u2014And That\u2019s the Point",
+      "summary": "Nous Research added animated mascot sprites to the self-improving AI agent\u2014and the only thing they do is look cute while your AI works.",
+      "url": "https://decrypt.co/372026/your-hermes-agent-now-pet",
+      "published": "2026-06-24T20:45:29+00:00",
       "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
     },
     {
       "source": "TheBlock",
@@ -428,6 +480,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
+      "summary": "<p>Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.</p>",
+      "url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T02:12:17+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
       "title": "Kraken-incubated Ink upgrades to Optimism\u2019s OP Enterprise Fully Managed in multi-year infrastructure deal",
       "summary": "<p>Optimism will run Ink's production infrastructure while the Ink Foundation focuses on ecosystem growth and new financial products.</p>",
       "url": "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&utm_medium=rss",
@@ -443,17 +506,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
       "published": "2026-06-24T13:19:59+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "SBI Group launches Japan\u2019s first trust bank-backed stablecoin JPYSC",
-      "summary": "<p>JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory and tax treatment of the stablecoin is clarified.</p>",
-      "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T09:39:22+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -480,6 +532,17 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
+      "summary": "Shares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
+      "url": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
+      "published": "2026-06-24T21:02:57+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -608,17 +671,6 @@
       "summary": "<p>Kalshi is taking the state of Illinois to court over its new law that establishes a regulatory regime for prediction markets.</p>",
       "url": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
       "published": "2026-06-24T14:41:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
-      "summary": "<p>Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgage loans on Provenance Blockchain.</p>",
-      "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T13:00:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
