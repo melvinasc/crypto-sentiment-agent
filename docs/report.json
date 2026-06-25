@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T04:15:57.590475+00:00",
+  "generated_at": "2026-06-25T09:37:10.959706+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -53,12 +53,38 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.4019,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
+          "published": "2026-06-25T04:29:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.247,
+      "article_count": 5,
+      "avg_compound": -0.3089,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 3,
       "neutral": 1,
       "top_articles": [
         {
@@ -79,41 +105,43 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Upheaval at the Ethereum Foundation has some of crypto\u2019s biggest names feeling bullish",
+          "title": "Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/24/upheaval-at-the-ethereum-foundation-has-some-of-crypto-s-biggest-names-feeling-bullish",
-          "published": "2026-06-24T19:52:39+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "Decrypt",
-          "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
-          "summary": "Bitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
-          "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-          "published": "2026-06-24T22:27:05+00:00",
+          "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
+          "published": "2026-06-25T06:01:07+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
+          "published": "2026-06-25T04:29:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.2256,
+      "avg_compound": -0.2593,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 13,
-      "neutral": 3,
+      "bearish": 15,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -157,51 +185,11 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.1961,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
-          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
-          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
-          "published": "2026-06-24T20:50:14+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP",
-            "DOGE"
-          ],
-          "compound": -0.8689,
-          "label": "BEARISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
-          "summary": "<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.</p>",
-          "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-25T03:26:12+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
-      "article_count": 4,
-      "avg_compound": 0.1416,
+      "article_count": 3,
+      "avg_compound": 0.0615,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -233,16 +221,69 @@
         },
         {
           "source": "CoinDesk",
-          "title": "CZ, Binance founder, wants to clear up 'misunderstandings' about who he is",
+          "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
           "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/23/cz-binance-founder-wants-to-clear-up-misunderstandings-about-who-he-is",
-          "published": "2026-06-24T13:00:00+00:00",
+          "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
+          "published": "2026-06-24T17:18:08+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": 0.3818,
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 4,
+      "avg_compound": 0.0082,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+          "published": "2026-06-24T20:50:14+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP",
+            "DOGE"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+          "published": "2026-06-25T05:02:34+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4767,
           "label": "BULLISH",
-          "confidence": 0.3818
+          "confidence": 0.4767
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
+          "summary": "<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.</p>",
+          "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-25T03:26:12+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -327,16 +368,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -402,6 +433,17 @@
       "confidence": 0.8225
     },
     {
+      "source": "TheBlock",
+      "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
+      "summary": "<p>CoinEx has also interacted with terrorist organizations, including the Islamic Revolutionary Guard Corps, and sanctioned Russian entities.</p>",
+      "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T05:55:29+00:00",
+      "coins": [],
+      "compound": -0.6908,
+      "label": "BEARISH",
+      "confidence": 0.6908
+    },
+    {
       "source": "Decrypt",
       "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
       "summary": "President Trump said he won\u2019t sign the popular bill until Congress passes a controversial bill restricting voting rights.",
@@ -435,17 +477,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "CoinDesk",
-      "title": "The banking lobby is wrong about stablecoins and community banks",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/06/24/the-banking-lobby-is-wrong-about-stablecoins-and-community-banks",
-      "published": "2026-06-24T14:47:30+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
       "source": "Decrypt",
       "title": "Your Hermes Agent Now Has a Pet. It Does Nothing\u2014And That\u2019s the Point",
       "summary": "Nous Research added animated mascot sprites to the self-improving AI agent\u2014and the only thing they do is look cute while your AI works.",
@@ -455,6 +486,17 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea fines Bithumb for sharing user data overseas without consent",
+      "summary": "<p>South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating personal information protection rules.</p>",
+      "url": "https://www.theblock.co/post/406082/south-korea-bithumb-information-penalty?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T07:44:31+00:00",
+      "coins": [],
+      "compound": -0.4149,
+      "label": "BEARISH",
+      "confidence": 0.4149
     },
     {
       "source": "TheBlock",
@@ -490,28 +532,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "TheBlock",
-      "title": "Kraken-incubated Ink upgrades to Optimism\u2019s OP Enterprise Fully Managed in multi-year infrastructure deal",
-      "summary": "<p>Optimism will run Ink's production infrastructure while the Ink Foundation focuses on ecosystem growth and new financial products.</p>",
-      "url": "https://www.theblock.co/post/405957/kraken-incubated-ink-upgrades-to-optimism-op-enterprise-fully-managed?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T13:35:01+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: Aave (AAVE) gains 5.9% as index moves higher",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/coindesk-20-performance-update-aave-aave-gains-5-9-as-index-moves-higher",
-      "published": "2026-06-24T13:19:59+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
       "summary": "Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
@@ -543,6 +563,17 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MemeCore's M token suddenly crashes 80% with no clear trigger",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
+      "published": "2026-06-25T05:35:43+00:00",
+      "coins": [],
+      "compound": -0.2924,
+      "label": "BEARISH",
+      "confidence": 0.2924
     },
     {
       "source": "CoinDesk",
@@ -616,17 +647,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
       "published": "2026-06-24T15:23:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Aave could soar to $3,500 by 2030 on DeFi revival, says StanChart",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/24/aave-could-soar-to-usd3-500-by-2030-on-defi-revival-says-stanchart",
-      "published": "2026-06-24T12:48:10+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
