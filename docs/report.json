@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T09:37:10.959706+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-06-25T14:48:49.704560+00:00",
+  "total_articles": 54,
   "coins": {
     "DOGE": {
       "article_count": 1,
@@ -29,62 +29,12 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": -0.4019,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "SecondFi loses $2.4 million in Cardano wallet exploit",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/24/secondfi-loses-usd2-4-million-in-cardano-wallet-exploit-with-up-to-usd20-million-at-risk",
-          "published": "2026-06-24T15:45:42+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.4019,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
-          "published": "2026-06-25T04:29:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.3089,
+      "article_count": 2,
+      "avg_compound": -0.4345,
       "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -104,44 +54,29 @@
           "confidence": 0.8689
         },
         {
-          "source": "CoinDesk",
-          "title": "Live markets: Bitcoin, ether lead $1 billion liquidation losses as AI trade keeps going",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/25/live-markets-bitcoin-ether-lead-usd1-billion-liquidation-losses-as-ai-trade-keeps-going",
-          "published": "2026-06-25T06:01:07+00:00",
+          "source": "Decrypt",
+          "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
+          "summary": "Bitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
+          "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
+          "published": "2026-06-24T22:27:05+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin back above $60,000, ETH, SOL recoup losses as AI stocks stage rebound",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/25/bitcoin-back-above-usd60-000-eth-sol-recoup-losses-as-ai-stocks-stage-rebound",
-          "published": "2026-06-25T04:29:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.2593,
+      "article_count": 22,
+      "avg_compound": -0.3741,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 15,
-      "neutral": 1,
+      "bullish": 4,
+      "bearish": 16,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -158,6 +93,19 @@
         },
         {
           "source": "Bitcoin Magazine",
+          "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Mining-Pool-DMND-Mines-First-Known-Stratum-V2-Block-GoMining-Constructs-Its-Own-Template.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a></p>\n<p>DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner\u2014not the pool\u2014to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
+          "published": "2026-06-25T14:32:37+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9468,
+          "label": "BEARISH",
+          "confidence": 0.9468
+        },
+        {
+          "source": "Bitcoin Magazine",
           "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a></p>\n<p>Strategy (MSTR) plunged more than 10% to a two-year low near $92 as Bitcoin crashed below $60,000, wiping out billions in unrealized gains.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
           "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
@@ -168,79 +116,77 @@
           "compound": -0.9442,
           "label": "BEARISH",
           "confidence": 0.9442
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a></p>\n<p>Congress has scheduled a July 17 hearing in New York on the CLARITY Act as momentum builds for the crypto market structure bill.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing\" rel=\"nofollow\">Congress Schedules CLARITY Act Hearing for July 17 in New York</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/congress-schedules-clarity-act-hearing",
-          "published": "2026-06-23T18:55:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8964,
-          "label": "BULLISH",
-          "confidence": 0.8964
         }
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.0615,
+    "UNI": {
+      "article_count": 2,
+      "avg_compound": 0.2263,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+          "published": "2026-06-25T13:00:00+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "TheBlock",
+          "title": "Spark, Uniswap build stablecoin \u2018FX Layer\u2019 seeded with $150 million liquidity migration",
+          "summary": "<p>Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.</p>",
+          "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-25T13:00:00+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Binance co-CEO remains \u2018committed\u2019 to securing EU license after exchange withdraws Greece bid",
-          "summary": "<p>The world's largest crypto exchange only has one week to secure a license in legally operate in the European Union.</p>",
-          "url": "https://www.theblock.co/post/406009/binance-ceo-remains-committed-securing-eu-license-exchange-withdraws-greece-bid?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-24T16:12:29+00:00",
+          "title": "Kraken expands OTC lending through an onchain warehouse facility with Maple",
+          "summary": "<p>Maple\u2019s lenders will provide a revolving line of funding to supply USDC liquidity for Kraken's over-the-counter borrowers.</p>",
+          "url": "https://www.theblock.co/post/406054/kraken-expands-otc-lending-onchain-warehouse-facility-maple?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-25T10:00:00+00:00",
           "coins": [
-            "BNB"
+            "USDC"
           ],
-          "compound": 0.6249,
+          "compound": 0.1027,
           "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
-          "summary": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
-          "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
-          "published": "2026-06-24T17:37:52+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-          "published": "2026-06-24T17:18:08+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 4,
-      "avg_compound": 0.0082,
+      "article_count": 3,
+      "avg_compound": 0.0282,
       "overall": "NEUTRAL",
       "bullish": 2,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
@@ -287,6 +233,53 @@
         }
       ],
       "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.0118,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
+          "summary": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
+          "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
+          "published": "2026-06-24T17:37:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
+          "published": "2026-06-25T13:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4168,
+          "label": "BULLISH",
+          "confidence": 0.4168
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -368,27 +361,17 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -423,13 +406,24 @@
     },
     {
       "source": "TheBlock",
-      "title": "Standard Chartered sees \u2018generational\u00a0wealth\u2019 in potential Aave recovery, predicts 50x upside by 2030",
-      "summary": "<p>Standard Chartered says Aave could reach $3,500 by end of 2030, a 50x gain based on a DeFi asset growth forecast and post-KelpDAO recovery.</p>",
-      "url": "https://www.theblock.co/post/405996/standard-chartered-generational-wealth-potential-aave-recovery-predicts-50x-upside-2030?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T14:37:51+00:00",
+      "title": "Thailand issues arrest warrant for Chinese businessman tied to $28 million illegal crypto mining probe: report",
+      "summary": "<p>Chinese businessman Wang Yicheng was accused of involvement in illegal crypto mining operations that used $28 million worth of electricity.</p>",
+      "url": "https://www.theblock.co/post/406090/thailand-issues-arrest-warrant-chinese-businessman-mining-power-theft?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T09:44:00+00:00",
       "coins": [],
-      "compound": 0.8225,
-      "label": "BULLISH",
+      "compound": -0.872,
+      "label": "BEARISH",
+      "confidence": 0.872
+    },
+    {
+      "source": "TheBlock",
+      "title": "Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links \u2018Merry\u2019 to case",
+      "summary": "<p>ZachXBT alleges threat actor 'Merry' is among those detained by Polish authorities in a crypto SIM swap and money laundering investigation.</p>",
+      "url": "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T13:27:42+00:00",
+      "coins": [],
+      "compound": -0.8225,
+      "label": "BEARISH",
       "confidence": 0.8225
     },
     {
@@ -444,26 +438,15 @@
       "confidence": 0.6908
     },
     {
-      "source": "Decrypt",
-      "title": "Trump Cancels Signing of Bipartisan Housing Bill Containing CBDC Ban: 'Of Minor Importance'",
-      "summary": "President Trump said he won\u2019t sign the popular bill until Congress passes a controversial bill restricting voting rights.",
-      "url": "https://decrypt.co/371975/trump-cancels-signing-bipartisan-housing-bill-cbdc-ban",
-      "published": "2026-06-24T15:34:50+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "TheBlock",
-      "title": "World Cup boom sends Polymarket volume up 300% while Kalshi sets open interest records",
-      "summary": "<p>Kalshi's aggregated OI reached a record $1.16 billion last week, the first time the platform\u2019s OI surpassed the billion-dollar mark.</p>",
-      "url": "https://www.theblock.co/post/405854/world-cup-boom-sends-polymarket-volume-up-300-while-kalshi-sets-open-interest-records?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T15:36:02+00:00",
+      "title": "Half of UK wealth advisors say most clients\u2019 crypto sits outside their oversight as 61% of European peers face firm restrictions: CoinShares",
+      "summary": "<p>CoinShares survey found 52% of UK advisors report most clients' crypto exposure sits outside their oversight, with firm policy a key driver.</p>",
+      "url": "https://www.theblock.co/post/406099/half-of-uk-wealth-advisors-say-most-clients-crypto-sits-outside-their-oversight-as-61-of-european-peers-face-firm-restrictions-coinshares?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T10:14:13+00:00",
       "coins": [],
-      "compound": 0.5267,
+      "compound": 0.4939,
       "label": "BULLISH",
-      "confidence": 0.5267
+      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -489,6 +472,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "SBI Holdings agrees to acquire Japanese crypto exchange Bitbank in $288.6 million deal",
+      "summary": "<p>SBI Holdings agreed to acquire Bitbank for $288.6 million, with the transaction expected to close around October 2026.</p>",
+      "url": "https://www.theblock.co/post/406105/sbi-holdings-agrees-to-acquire-japanese-crypto-exchange-bitbank-in-288-6-million-deal?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T10:52:40+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
+      "published": "2026-06-25T10:56:58+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "TheBlock",
       "title": "South Korea fines Bithumb for sharing user data overseas without consent",
       "summary": "<p>South Korea ordered Bithumb to pay roughly $136,000 in penalties for violating personal information protection rules.</p>",
       "url": "https://www.theblock.co/post/406082/south-korea-bithumb-information-penalty?utm_source=rss&utm_medium=rss",
@@ -499,15 +504,15 @@
       "confidence": 0.4149
     },
     {
-      "source": "TheBlock",
-      "title": "Superstate co-founder raises $3.6 million pre-seed for Ground to help fintechs access onchain yield",
-      "summary": "<p>Ground has raised $3.6 million in a pre-seed funding round co-led by Bain Capital Crypto and ParaFi as it emerges from stealth.</p>",
-      "url": "https://www.theblock.co/post/406040/superstate-co-founder-ground-funding-crypto-onchain-yield?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T18:28:02+00:00",
+      "source": "Decrypt",
+      "title": "Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT",
+      "summary": "The prediction market seeks a valuation near double the $22 billion it hit last month, as a federal-state fight over regulation escalates.",
+      "url": "https://decrypt.co/372065/kalshi-seeks-40b-valuation-weeks-after-1b-raise-ft",
+      "published": "2026-06-25T10:28:47+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -522,6 +527,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "\u2018Stablecoin\u2019 Google searches down 54% as supply growth stalls after 2025 boom",
+      "summary": "<p>The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.</p>",
+      "url": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T14:36:03+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
       "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
       "summary": "<p>Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.</p>",
       "url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
@@ -532,15 +548,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "South Korean Officials Meet With US SEC, Weigh Unified Crypto Rules Amid Local Scandals",
-      "summary": "Following a series of setbacks for South Korea, a delegation from one of Asia's most active crypto markets met with the SEC's task force.",
-      "url": "https://decrypt.co/371970/south-korean-officials-meet-us-sec-unified-crypto-rules-scandals",
-      "published": "2026-06-24T16:11:15+00:00",
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
+      "published": "2026-06-25T13:15:26+00:00",
       "coins": [],
-      "compound": 0.3384,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3384
+      "confidence": 0.34
     },
     {
       "source": "Decrypt",
@@ -552,6 +568,17 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle and Nomura join forces to target a $440 billion daily foreign exchange market in Japan",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/25/circle-and-nomura-join-forces-to-target-a-usd750-billion-daily-foreign-exchange-market-in-japan",
+      "published": "2026-06-25T12:29:21+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -576,17 +603,6 @@
       "confidence": 0.2924
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Infrastructure is the prevailing currency in digital assets",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/24/crypto-long-and-short-infrastructure-is-the-prevailing-currency-in-digital-assets",
-      "published": "2026-06-24T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "TheBlock",
       "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
       "summary": "<p>The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.</p>",
@@ -599,25 +615,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trump's refusal to sign housing bill could delay Congress and imperil Clarity Act",
+      "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/24/trump-refuses-to-sign-law-with-u-s-cbdc-ban-demands-approval-of-elections-bill",
-      "published": "2026-06-24T15:42:51+00:00",
+      "url": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
+      "published": "2026-06-25T10:53:24+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
+      "compound": -0.1027,
+      "label": "BEARISH",
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "Prediction market polls find US voters prefer federal rules over state patchwork",
-      "summary": "<p>The CFTC has been locked in a tug-of-war with states over who has the ultimate authority over event contracts.</p>",
-      "url": "https://www.theblock.co/post/406012/prediction-market-polls-us-voters-prefer-federal-rules-over-state-patchwork?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T16:40:35+00:00",
+      "source": "Decrypt",
+      "title": "$47M in Crypto Frozen in Global Infostealer Takedown: Europol",
+      "summary": "Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wallets and passwords, freezing \u20ac41 million in crypto.",
+      "url": "https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol",
+      "published": "2026-06-25T12:55:10+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -632,10 +648,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
+      "title": "Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/24/kalshi-targets-a-massive-usd40-billion-valuation-widening-lead-over-rival-polymarket",
-      "published": "2026-06-24T19:48:23+00:00",
+      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
+      "published": "2026-06-25T13:53:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -643,54 +659,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ex-FCA policy insider explains the \u2018great divide\u2019 in the UK\u2019s crypto ambition",
+      "title": "Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/24/ex-fca-policy-insider-explains-the-great-divide-in-the-uk-s-crypto-ambition",
-      "published": "2026-06-24T15:23:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Turns Up the Heat With Jalape\u00f1o, Its First Custom AI Chip",
-      "summary": "Built with Broadcom, the LLM-focused accelerator is the first step in OpenAI's effort to design the hardware behind ChatGPT and beyond.",
-      "url": "https://decrypt.co/371971/openai-broadcom-jalapeno-first-custom-ai-chip",
-      "published": "2026-06-24T15:42:31+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-      "summary": "<p>Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round.</p>",
-      "url": "https://www.theblock.co/post/406028/a16z-csx-backed-cambrian-seed-round-blockchain-data-oracle-network?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T17:00:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Sports-based prediction markets app Onyx Odds raises $20 million in round led by Kraken parent Payward",
-      "summary": "<p>The app will face stiff competition in the prediction markets space, competing with dominant market leaders Kalshi and Polymarket.</p>",
-      "url": "https://www.theblock.co/post/405997/sports-betting-app-onyx-odds-raises-20-million-in-round-led-by-kraken-parent-payward?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T15:37:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi sues Illinois, Pritzker over state bill implementing prediction markets regulatory regime",
-      "summary": "<p>Kalshi is taking the state of Illinois to court over its new law that establishes a regulatory regime for prediction markets.</p>",
-      "url": "https://www.theblock.co/post/406000/kalshi-sues-illinois-pritzker-over-state-bill-implementing-prediction-markets-regulatory-regime?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T14:41:19+00:00",
+      "url": "https://www.coindesk.com/markets/2026/06/25/micron-delivers-blowout-earnings-surges-16-and-deals-crypto-bulls-a-blow",
+      "published": "2026-06-25T10:01:54+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
