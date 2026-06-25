@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T14:48:49.704560+00:00",
+  "generated_at": "2026-06-25T20:15:03.915867+00:00",
   "total_articles": 54,
   "coins": {
     "DOGE": {
@@ -29,12 +29,39 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.4345,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.8689,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
+          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
+          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
+          "published": "2026-06-24T20:50:14+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP",
+            "DOGE"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.5759,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 3,
       "neutral": 1,
       "top_articles": [
         {
@@ -55,28 +82,65 @@
         },
         {
           "source": "Decrypt",
-          "title": "Aave Token Could Climb 50x by End of 2030, Standard Chartered Says\u2014Here's Why",
-          "summary": "Bitcoin to $500K, Ethereum to $40K, and Aave to $3,500 by the end of 2030? Standard Chartered just laid out some bullish price targets.",
-          "url": "https://decrypt.co/372056/aave-token-climb-50x-end-2030-standard-chartered",
-          "published": "2026-06-24T22:27:05+00:00",
+          "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
+          "summary": "Bitcoin touched its lowest price in 21 months early Thursday\u2014and prediction market users don't see the crypto carnage ceasing imminently.",
+          "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
+          "published": "2026-06-25T16:24:03+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.7346,
+          "label": "BEARISH",
+          "confidence": 0.7346
+        },
+        {
+          "source": "Decrypt",
+          "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
+          "summary": "Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
+          "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
+          "published": "2026-06-25T19:19:05+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7003,
+          "label": "BEARISH",
+          "confidence": 0.7003
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.4168,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
+          "published": "2026-06-25T13:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4168,
+          "label": "BULLISH",
+          "confidence": 0.4168
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.3741,
+      "article_count": 21,
+      "avg_compound": -0.2381,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 16,
-      "neutral": 2,
+      "bullish": 5,
+      "bearish": 12,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -181,92 +245,26 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.0282,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0258,
       "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "'Painful' Bitcoin Sell-Off Drags Ethereum, XRP and Dogecoin Lower as Crypto Stocks Dive",
-          "summary": "Bitcoin's slide to its lowest point in 21 months slammed the price of leading altcoins, while pressuring crypto stocks on Wall Street.",
-          "url": "https://decrypt.co/372025/painful-bitcoin-sell-off-ethereum-xrp-dogecoin-lower-crypto-firms-dive",
-          "published": "2026-06-24T20:50:14+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP",
-            "DOGE"
-          ],
-          "compound": -0.8689,
-          "label": "BEARISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
-          "published": "2026-06-25T05:02:34+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        },
         {
           "source": "TheBlock",
-          "title": "Ripple launches RLUSD stablecoin in Japan after regulatory approval",
-          "summary": "<p>Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.</p>",
-          "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-25T03:26:12+00:00",
+          "title": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
+          "summary": "<p>USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.</p>",
+          "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-25T15:15:00+00:00",
           "coins": [
-            "XRP"
+            "USDT"
           ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": -0.0118,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Binance Withdraws MiCA License Application in Greece, Leaving EU Users in Limbo",
-          "summary": "Crypto exchange Binance formally withdrew its MiCA license application in Greece, one week after a report said it would be denied.",
-          "url": "https://decrypt.co/371990/binance-withdraws-mica-license-application-greece-eu-users-limbo",
-          "published": "2026-06-24T17:37:52+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
-          "published": "2026-06-25T13:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.4168,
-          "label": "BULLISH",
-          "confidence": 0.4168
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -380,25 +378,15 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Fake Crypto Influencer Gets 15 Months for $1.4M Telegram Staking Fraud",
-      "summary": "Noman Saleem impersonated crypto influencers on Telegram, luring victims into a fake staking scheme before vanishing with their funds.",
-      "url": "https://decrypt.co/371989/fake-crypto-influencer-gets-15-months-for-1-4m-telegram-staking-fraud",
-      "published": "2026-06-24T17:18:31+00:00",
+      "source": "TheBlock",
+      "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
+      "summary": "<p>Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.\u00a0</p>",
+      "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T17:10:34+00:00",
       "coins": [],
       "compound": -0.9062,
       "label": "BEARISH",
@@ -416,6 +404,28 @@
       "confidence": 0.872
     },
     {
+      "source": "Decrypt",
+      "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
+      "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
+      "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
+      "published": "2026-06-25T19:11:36+00:00",
+      "coins": [],
+      "compound": 0.8481,
+      "label": "BULLISH",
+      "confidence": 0.8481
+    },
+    {
+      "source": "TheBlock",
+      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
+      "summary": "<p>The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.</p>",
+      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T20:11:28+00:00",
+      "coins": [],
+      "compound": 0.8481,
+      "label": "BULLISH",
+      "confidence": 0.8481
+    },
+    {
       "source": "TheBlock",
       "title": "Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links \u2018Merry\u2019 to case",
       "summary": "<p>ZachXBT alleges threat actor 'Merry' is among those detained by Polish authorities in a crypto SIM swap and money laundering investigation.</p>",
@@ -427,15 +437,26 @@
       "confidence": 0.8225
     },
     {
-      "source": "TheBlock",
-      "title": "CoinEx processed $3.8 billion in Iran-linked funds, acting as crypto gateway: TRM Labs",
-      "summary": "<p>CoinEx has also interacted with terrorist organizations, including the Islamic Revolutionary Guard Corps, and sanctioned Russian entities.</p>",
-      "url": "https://www.theblock.co/post/406073/coinex-iran-trm-labs?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T05:55:29+00:00",
+      "source": "Decrypt",
+      "title": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
+      "summary": "SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange Bitbank, pending regulatory approval.",
+      "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange",
+      "published": "2026-06-25T19:42:54+00:00",
       "coins": [],
-      "compound": -0.6908,
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Took Your Job? California Wants to Know",
+      "summary": "California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are becoming a reality.",
+      "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
+      "published": "2026-06-25T17:36:21+00:00",
+      "coins": [],
+      "compound": -0.6369,
       "label": "BEARISH",
-      "confidence": 0.6908
+      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -482,11 +503,11 @@
       "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinEx denies claims it served as $3.84 billion gateway to sanctioned Iranian crypto firms",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/25/coinex-denies-claims-it-served-as-usd3-84-billion-gateway-to-sanctioned-iranian-crypto-firms",
-      "published": "2026-06-25T10:56:58+00:00",
+      "source": "Decrypt",
+      "title": "CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
+      "summary": "TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and a web of more than 60 sanctioned Iranian platforms.",
+      "url": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market",
+      "published": "2026-06-25T18:49:21+00:00",
       "coins": [],
       "compound": -0.4215,
       "label": "BEARISH",
@@ -515,17 +536,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "Researcher Throws Cold Water on Microsoft Quantum Claims",
-      "summary": "A physicist's formal critique argues Microsoft has not demonstrated the topological qubit behind its Majorana 2 quantum chip.",
-      "url": "https://decrypt.co/371998/microsoft-topological-qubit-quantum-claims-challenge",
-      "published": "2026-06-24T19:07:12+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
       "source": "TheBlock",
       "title": "\u2018Stablecoin\u2019 Google searches down 54% as supply growth stalls after 2025 boom",
       "summary": "<p>The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.</p>",
@@ -537,15 +547,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "TheBlock",
-      "title": "Kalshi in talks to raise funds at $40 billion valuation: FT",
-      "summary": "<p>Kalshi's reported valuation reflects the firm's rapid growth, as it reported a $5 billion valuation last October.</p>",
-      "url": "https://www.theblock.co/post/406061/kalshi-40-billion-valuation?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T02:12:17+00:00",
+      "source": "CoinDesk",
+      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
+      "published": "2026-06-25T17:06:10+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -557,17 +567,6 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "Leaked Code Suggests Anthropic Is Preparing to Bring Fable 5 Back",
-      "summary": "A leaker found new strings inside Claude Code that hint at weekly Fable 5 usage built into subscription plans, not sold separately as before.",
-      "url": "https://decrypt.co/372004/leaked-code-anthropic-preparing-fable-5-subscription",
-      "published": "2026-06-24T19:25:30+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
     },
     {
       "source": "CoinDesk",
@@ -592,39 +591,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "MemeCore's M token suddenly crashes 80% with no clear trigger",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/25/memecore-s-m-token-suddenly-crashes-80-with-no-clear-trigger",
-      "published": "2026-06-25T05:35:43+00:00",
-      "coins": [],
-      "compound": -0.2924,
-      "label": "BEARISH",
-      "confidence": 0.2924
-    },
-    {
-      "source": "TheBlock",
-      "title": "Pump.fun offers up to $5 million salary for chief legal officer role",
-      "summary": "<p>The position covers everything from SEC oversight to MiCA rules and U.K. regulations, and offers a salary between $1 million and $5 million.</p>",
-      "url": "https://www.theblock.co/post/406039/pump-fun-offers-up-5-million-salary-chief-legal-officer-role?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T18:42:10+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto relief rally fails to shake persistent bearish derivatives signal",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/25/crypto-relief-rally-fails-to-shake-persistent-bearish-derivatives-signal",
-      "published": "2026-06-25T10:53:24+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "Decrypt",
       "title": "$47M in Crypto Frozen in Global Infostealer Takedown: Europol",
       "summary": "Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wallets and passwords, freezing \u20ac41 million in crypto.",
@@ -636,15 +602,48 @@
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "Who gets a direct line to the Fed? Congress weighs risks of Fed \u2018skinny accounts\u2019 for crypto and fintech firms",
-      "summary": "<p>As the Fed considers granting firms access to \"skinny\" accounts, lawmakers debated how much access those companies should have.</p>",
-      "url": "https://www.theblock.co/post/406050/who-gets-direct-line-to-fed-congress-weighs-risks-fed-skinny-accounts-crypto-fintech-firms?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-24T19:30:55+00:00",
+      "source": "CoinDesk",
+      "title": "Strategy has a 10-month cash runway for dividends, but retail investors are losing faith",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
+      "published": "2026-06-25T15:45:43+00:00",
       "coins": [],
-      "compound": 0.0516,
+      "compound": 0.0772,
       "label": "BULLISH",
-      "confidence": 0.0516
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
+      "published": "2026-06-25T18:46:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
+      "published": "2026-06-25T17:14:19+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
+      "published": "2026-06-25T16:05:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -658,11 +657,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Micron delivers blowout earnings, surges 16% and deals crypto bulls a blow",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/25/micron-delivers-blowout-earnings-surges-16-and-deals-crypto-bulls-a-blow",
-      "published": "2026-06-25T10:01:54+00:00",
+      "source": "TheBlock",
+      "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an \u2018everything exchange\u2019",
+      "summary": "<p>According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.</p>",
+      "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T18:03:32+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
+      "summary": "<p>Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps.</p>",
+      "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-25T17:04:23+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
