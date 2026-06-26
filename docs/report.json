@@ -1,14 +1,112 @@
 {
-  "generated_at": "2026-06-26T09:44:05.338735+00:00",
+  "generated_at": "2026-06-26T14:40:44.856059+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.2614,
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": -0.5773,
       "overall": "BEARISH",
-      "bullish": 1,
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
+          "published": "2026-06-26T12:25:36+00:00",
+          "coins": [
+            "DOT"
+          ],
+          "compound": -0.5773,
+          "label": "BEARISH",
+          "confidence": 0.5773
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4767,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+          "published": "2026-06-26T10:19:22+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4767,
+          "label": "BEARISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 26,
+      "avg_compound": -0.0753,
+      "overall": "BEARISH",
+      "bullish": 9,
+      "bearish": 14,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Mining-Pool-DMND-Mines-First-Known-Stratum-V2-Block-GoMining-Constructs-Its-Own-Template.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a></p>\n<p>DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner\u2014not the pool\u2014to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
+          "published": "2026-06-25T14:32:37+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9468,
+          "label": "BEARISH",
+          "confidence": 0.9468
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Perception Exits Beta With Four Digital Asset Integrations",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Perception-Exits-Beta-With-Four-Digital-Asset-Integrations.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/perception-exits-beta-with-digital-asset\" rel=\"nofollow\">Perception Exits Beta With Four Digital Asset Integrations</a></p>\n<p>Perception exited beta and launched its digital asset narrative intelligence platform with integrations from BitGo, Swan, Relai, and Bitcoin Well, providing AI-driven market insights from over 1,000 curated industry sources.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/perception-exits-beta-with-digital-asset\" rel=\"nofollow\">Perception Exits Beta With Four Digital Asset Integrations</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/perception-exits-beta-with-digital-asset",
+          "published": "2026-06-25T16:17:35+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8957,
+          "label": "BULLISH",
+          "confidence": 0.8957
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban\" rel=\"nofollow\">Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban</a></p>\n<p>Senior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban\" rel=\"nofollow\">Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
+          "published": "2026-06-25T17:54:13+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8625,
+          "label": "BEARISH",
+          "confidence": 0.8625
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": -0.0674,
+      "overall": "BEARISH",
+      "bullish": 3,
       "bearish": 2,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -39,66 +137,16 @@
         },
         {
           "source": "TheBlock",
-          "title": "Sharplink buys Ethereum for first time in 8 months, adding 5,000 ETH: onchain analyst",
-          "summary": "<p>The buy came days after a group of former Ethereum Foundation researchers launched Ethlabs, a nonprofit Sharplink helped fund.</p>",
-          "url": "https://www.theblock.co/post/406268/sharplink-buys-ethereum-8-months?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T03:55:10+00:00",
+          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
+          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
+          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T13:35:01+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.128,
+          "compound": 0.7003,
           "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0985,
-      "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 12,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Price-Crashes-to-67000-Range-Down-13-in-a-Week-Amid-ETF-Outflows-and-Market-Fears.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a></p>\n<p>Bitcoin price has plunged below $60,000 after a perfect storm of ETF outflows, hawkish Fed signals, geopolitical inflation fears and shaken market confidence.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000\" rel=\"nofollow\">Bitcoin Price Collapses to $59,000 \u2014 and the Worst May Not Be Over</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-collapses-to-59000",
-          "published": "2026-06-24T18:37:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9648,
-          "label": "BEARISH",
-          "confidence": 0.9648
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Mining-Pool-DMND-Mines-First-Known-Stratum-V2-Block-GoMining-Constructs-Its-Own-Template.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a></p>\n<p>DMND mining pool and GoMining mined the first known Bitcoin block using Stratum V2's Job Declaration feature, allowing a miner\u2014not the pool\u2014to select transactions and build its own block template, a milestone for decentralizing transaction control in Bitcoin mining.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines\" rel=\"nofollow\">Bitcoin Mining Pool DMND Mines First Known Stratum V2 Block; GoMining Constructs Its Own Template</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-mining-pool-dmnd-mines",
-          "published": "2026-06-25T14:32:37+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9468,
-          "label": "BEARISH",
-          "confidence": 0.9468
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Bitcoin-Price-Crashes-Nearly-4000-in-Two-Hours-As-More-Trump-Tariffs-Rattle-Markets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a></p>\n<p>Strategy (MSTR) plunged more than 10% to a two-year low near $92 as Bitcoin crashed below $60,000, wiping out billions in unrealized gains.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low\" rel=\"nofollow\">Strategy (MSTR) Stock Craters 10%, Hits Two-Year Low as Bitcoin Crashes Below $60K, CryptoQuant Warns Company to Stop Buying</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/strategy-mstr-stock-10-hits-two-year-low",
-          "published": "2026-06-24T18:06:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9442,
-          "label": "BEARISH",
-          "confidence": 0.9442
+          "confidence": 0.7003
         }
       ],
       "no_news": false
@@ -175,27 +223,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "BNB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -308,17 +336,6 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Coinbase-incubated Base suffers mainnet chain stall interrupting block production",
-      "summary": "<p>Deposits and withdrawals have also been affected, while transactions are delayed or stalled, according to Base's status page.\u00a0</p>",
-      "url": "https://www.theblock.co/post/406213/coinbase-incubated-base-blockchain-suffers-unsafe-head-stall-interrupting-block-production?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T17:10:34+00:00",
-      "coins": [],
-      "compound": -0.9062,
-      "label": "BEARISH",
-      "confidence": 0.9062
-    },
-    {
       "source": "Decrypt",
       "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
       "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
@@ -386,6 +403,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%",
+      "summary": "The newly public crypto custodian is slashing nearly 15% of its workforce as it pivots to focus on stablecoins and AI infrastructure.",
+      "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
+      "published": "2026-06-26T10:15:33+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
       "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
       "summary": "Anthropic alleged that Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate 28.8 million Claude exchanges.",
       "url": "https://decrypt.co/372130/anthropic-urges-congress-crack-down-ai-distillation-chinese-rivals",
@@ -396,15 +424,15 @@
       "confidence": 0.4939
     },
     {
-      "source": "Decrypt",
-      "title": "Kalshi Sues Illinois Over New State Tax on Sports-Related Prediction Markets",
-      "summary": "Illinois is set to institute a new tax on prediction markets next week that would take 15% of gross receipts from sports-related wagers.",
-      "url": "https://decrypt.co/372048/kalshi-sues-illinois-state-taxes-sports-related-prediction-markets",
-      "published": "2026-06-24T21:37:45+00:00",
+      "source": "TheBlock",
+      "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
+      "summary": "<p>The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.</p>",
+      "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T12:54:58+00:00",
       "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -440,26 +468,15 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "a16z-backed crypto firm rebrands, shifts focus to solving AI\u2019s global copyright headache",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/25/a16z-backed-crypto-firm-rebrands-shifts-focus-to-solving-ai-s-global-copyright-headache",
-      "published": "2026-06-25T17:06:10+00:00",
+      "source": "TheBlock",
+      "title": "Base delays Beryl hard fork over B20 registry timing issue",
+      "summary": "<p>Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Registry time to become fully operational.</p>",
+      "url": "https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T10:11:29+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
-      "summary": "Shares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
-      "url": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
-      "published": "2026-06-24T21:02:57+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -506,17 +523,6 @@
       "confidence": 0.1027
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy has a 10-month cash runway for dividends, but retail investors are losing faith",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/25/michael-saylor-s-broken-promises-have-shattered-strategy-investor-trust-says-tw-prime-ceo",
-      "published": "2026-06-25T15:45:43+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "TheBlock",
       "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
       "summary": "<p>BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.</p>",
@@ -526,6 +532,28 @@
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
+      "published": "2026-06-26T13:22:16+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
+      "published": "2026-06-26T10:28:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -544,50 +572,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
       "published": "2026-06-25T18:46:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken in talks to buy 15% stake in DeFi lender Aave at $385 million valuation",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/25/kraken-in-talks-to-buy-15-stake-in-defi-lender-aave-at-usd385-million-valuation",
-      "published": "2026-06-25T17:14:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-      "published": "2026-06-25T16:05:06+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Multicoin predicts HYPE hits $319 by 2028 as Hyperliquid turns into an \u2018everything exchange\u2019",
-      "summary": "<p>According to the investment firm, Hyperliquid's user base grew from roughly 300,000 to 923,000 during 2025.</p>",
-      "url": "https://www.theblock.co/post/406212/multicoin-hype-hits-319-by-2028-hyperliquid-everything-exchange?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T18:03:32+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Sophon sunsets its Layer 2 blockchain, moves to Base to build consumer apps",
-      "summary": "<p>Sophon, which has raised $70 million in total funding, is shutting down its Layer 2 blockchain and moving to Base to build consumer apps.</p>",
-      "url": "https://www.theblock.co/post/406194/sophon-sunsets-layer-2-blockchain-moves-to-base-build-consumer-apps?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T17:04:23+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
