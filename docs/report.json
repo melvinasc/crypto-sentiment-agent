@@ -1,38 +1,14 @@
 {
-  "generated_at": "2026-06-26T04:22:21.354945+00:00",
+  "generated_at": "2026-06-26T09:44:05.338735+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.4168,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Post-prison CZ says time behind bars didn't hurt the billionaire's business after Binance",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/24/post-prison-cz-says-time-behind-bars-didn-t-hurt-the-billionaire-s-business-after-binance",
-          "published": "2026-06-25T13:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.4168,
-          "label": "BULLISH",
-          "confidence": 0.4168
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.3267,
+      "article_count": 5,
+      "avg_compound": -0.2614,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -77,50 +53,13 @@
       ],
       "no_news": false
     },
-    "UNI": {
-      "article_count": 2,
-      "avg_compound": 0.2263,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-          "published": "2026-06-25T13:00:00+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        },
-        {
-          "source": "TheBlock",
-          "title": "Spark, Uniswap build stablecoin \u2018FX Layer\u2019 seeded with $150 million liquidity migration",
-          "summary": "<p>Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.</p>",
-          "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-25T13:00:00+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1776,
+      "article_count": 26,
+      "avg_compound": -0.0985,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 11,
-      "neutral": 4,
+      "bullish": 9,
+      "bearish": 12,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -164,26 +103,54 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "DOGE": {
       "article_count": 1,
-      "avg_compound": 0.0258,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Tether-pegged USDT0 stablecoin crosses $100 billion transaction volume milestone",
-          "summary": "<p>USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.</p>",
-          "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-25T15:15:00+00:00",
+          "source": "CoinDesk",
+          "title": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
+          "published": "2026-06-26T05:41:51+00:00",
           "coins": [
-            "USDT"
+            "ETH",
+            "XRP",
+            "DOGE"
           ],
-          "compound": 0.0258,
+          "compound": 0.0,
           "label": "NEUTRAL",
-          "confidence": 0.0258
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
+          "published": "2026-06-26T05:41:51+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "DOGE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -208,7 +175,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DAI": {
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -218,7 +185,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DOGE": {
+    "DAI": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -308,6 +275,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -318,7 +295,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -362,17 +339,6 @@
       "compound": 0.8481,
       "label": "BULLISH",
       "confidence": 0.8481
-    },
-    {
-      "source": "TheBlock",
-      "title": "Four arrested in Poland over crypto SIM-swap attacks; ZachXBT links \u2018Merry\u2019 to case",
-      "summary": "<p>ZachXBT alleges threat actor 'Merry' is among those detained by Polish authorities in a crypto SIM swap and money laundering investigation.</p>",
-      "url": "https://www.theblock.co/post/406159/four-arrested-poland-sim-swap-attacks-crypto-exchanges-zachxbt-social-engineering-threat-merry?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T13:27:42+00:00",
-      "coins": [],
-      "compound": -0.8225,
-      "label": "BEARISH",
-      "confidence": 0.8225
     },
     {
       "source": "TheBlock",
@@ -463,17 +429,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "TheBlock",
-      "title": "\u2018Stablecoin\u2019 Google searches down 54% as supply growth stalls after 2025 boom",
-      "summary": "<p>The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.</p>",
-      "url": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T14:36:03+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
       "source": "CoinDesk",
       "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
       "summary": "",
@@ -496,22 +451,22 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: AAVE gains 10.1% as index rises",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/25/coindesk-20-performance-update-aave-gains-10-1-as-index-rises",
-      "published": "2026-06-25T13:15:26+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "The Next GameStop? Meme Stock Traders Make Biggie-Size Bet on Wendy's",
       "summary": "Shares in fast-food chain Wendy's might be the next hot meme stock for retail investors hungry for a cause.",
       "url": "https://decrypt.co/372023/next-gamestop-meme-stock-traders-biggie-size-bet-wendys",
       "published": "2026-06-24T21:02:57+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
+      "summary": "<p>The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T06:19:08+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -574,6 +529,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
+      "published": "2026-06-26T08:31:57+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
@@ -600,17 +566,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
       "published": "2026-06-25T16:05:06+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken sues crypto derivatives firm PowerTrade over 'misappropriated' funds claim",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/25/kraken-sues-crypto-derivatives-firm-powertrade-over-misappropriated-funds-claim",
-      "published": "2026-06-25T13:53:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
