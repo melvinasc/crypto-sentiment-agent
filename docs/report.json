@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:40:44.856059+00:00",
+  "generated_at": "2026-06-26T20:01:13.995112+00:00",
   "total_articles": 55,
   "coins": {
     "DOT": {
@@ -27,13 +27,26 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.4767,
+      "article_count": 3,
+      "avg_compound": -0.2123,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "bullish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
+          "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
+          "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
+          "published": "2026-06-26T18:02:22+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
+        },
         {
           "source": "CoinDesk",
           "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
@@ -46,17 +59,54 @@
           "compound": -0.4767,
           "label": "BEARISH",
           "confidence": 0.4767
+        },
+        {
+          "source": "TheBlock",
+          "title": "Spain says \u2018no exceptions or extensions\u2019 for Binance, other crypto firms ahead of MiCA deadline",
+          "summary": "<p>Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.</p>",
+          "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T15:01:10+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Solana DAT stocks climb double digits as SOL jumps 9%",
+          "summary": "<p>Sol Strategies (STKE) climbed as much as 22% to a high of $1.20 on Friday, outpacing other crypto treasury stocks.</p>",
+          "url": "https://www.theblock.co/post/406414/solana-dat-stocks-climb-double-digits-sol-jumps-9?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T18:34:02+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0753,
+      "article_count": 22,
+      "avg_compound": -0.0834,
       "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 14,
-      "neutral": 3,
+      "bullish": 8,
+      "bearish": 13,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -101,27 +151,13 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.0674,
-      "overall": "BEARISH",
-      "bullish": 3,
+      "article_count": 4,
+      "avg_compound": 0.0249,
+      "overall": "NEUTRAL",
+      "bullish": 2,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Traders Predict More Pain for Bitcoin and Ethereum After Monthly Drops Above 20%",
-          "summary": "Bitcoin touched its lowest price in 21 months early Thursday\u2014and prediction market users don't see the crypto carnage ceasing imminently.",
-          "url": "https://decrypt.co/372091/traders-predict-more-pain-bitcoin-ethereum",
-          "published": "2026-06-25T16:24:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.7346,
-          "label": "BEARISH",
-          "confidence": 0.7346
-        },
         {
           "source": "Decrypt",
           "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
@@ -147,58 +183,19 @@
           "compound": 0.7003,
           "label": "BULLISH",
           "confidence": 0.7003
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+        },
         {
           "source": "CoinDesk",
-          "title": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
+          "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
-          "published": "2026-06-26T05:41:51+00:00",
+          "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+          "published": "2026-06-26T09:47:07+00:00",
           "coins": [
-            "ETH",
-            "XRP",
-            "DOGE"
+            "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether, XRP and dogecoin lead a broad crypto selloff as tech stocks tumble",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/ether-xrp-and-dogecoin-lead-a-broad-crypto-selloff-as-tech-stocks-tumble",
-          "published": "2026-06-26T05:41:51+00:00",
-          "coins": [
-            "ETH",
-            "XRP",
-            "DOGE"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -224,6 +221,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -283,16 +290,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -332,41 +329,29 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Story Protocol Rebrands as Data Network in AI Training Pivot After IP Token Falls 98%",
-      "summary": "Intellectual property network Story Protocol has shifted its focus to a new opportunity in training data for artificial intelligence.",
-      "url": "https://decrypt.co/372107/story-protocol-rebrands-data-network-ai-training-pivot",
-      "published": "2026-06-25T19:11:36+00:00",
-      "coins": [],
-      "compound": 0.8481,
-      "label": "BULLISH",
-      "confidence": 0.8481
-    },
-    {
       "source": "TheBlock",
-      "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
-      "summary": "<p>The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.</p>",
-      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T20:11:28+00:00",
+      "title": "Base suffers second mainnet stall in two days",
+      "summary": "<p>Base block production resumed as of 16:11 UTC, following an alert to another mainnet chain stall at 15:33 UTC.</p>",
+      "url": "https://www.theblock.co/post/406409/base-suffers-second-mainnet-stall-in-two-days?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T17:50:02+00:00",
       "coins": [],
-      "compound": 0.8481,
-      "label": "BULLISH",
-      "confidence": 0.8481
-    },
-    {
-      "source": "TheBlock",
-      "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
-      "summary": "<p>A sweeping cryptocurrency bill faces a narrowing path to passage as pressure grows on the Senate to take up the legislation next month.</p>",
-      "url": "https://www.theblock.co/post/406231/senate-races-advance-crypto-legislation-housing-bill-turmoil-threatens-timeline?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T20:37:37+00:00",
-      "coins": [],
-      "compound": -0.743,
+      "compound": -0.7506,
       "label": "BEARISH",
-      "confidence": 0.743
+      "confidence": 0.7506
     },
     {
       "source": "Decrypt",
@@ -380,26 +365,26 @@
       "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "AI Took Your Job? California Wants to Know",
-      "summary": "California launched the nation's first AI unemployment tracker as policymakers race to determine whether warnings of an AI-driven jobs shakeup are becoming a reality.",
-      "url": "https://decrypt.co/372100/ai-job-loss-california-public-dashboard",
-      "published": "2026-06-25T17:36:21+00:00",
+      "source": "TheBlock",
+      "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
+      "summary": "<p>Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.</p>",
+      "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T16:46:18+00:00",
       "coins": [],
-      "compound": -0.6369,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.6369
+      "confidence": 0.5719
     },
     {
-      "source": "TheBlock",
-      "title": "Aave founder Stani Kulechov says AAVE isn\u2019t for sale \u2018at a 70% discount\u2019 following report of Payward bid",
-      "summary": "<p>The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.</p>",
-      "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-25T21:34:09+00:00",
+      "source": "CoinDesk",
+      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
+      "published": "2026-06-26T19:38:12+00:00",
       "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -436,32 +421,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "CoinEx Denies 'Knowledge' of Aiding Sanctioned Iran Crypto Market in $3.8 Billion Disconnect",
-      "summary": "TRM Labs said it uncovered over $3.84 billion in crypto flows between CoinEx and a web of more than 60 sanctioned Iranian platforms.",
-      "url": "https://decrypt.co/372104/coinex-denies-knowledge-aiding-sanctioned-iran-crypto-market",
-      "published": "2026-06-25T18:49:21+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kalshi Seeks $40B Valuation Weeks After $1B Raise: FT",
-      "summary": "The prediction market seeks a valuation near double the $22 billion it hit last month, as a federal-state fight over regulation escalates.",
-      "url": "https://decrypt.co/372065/kalshi-seeks-40b-valuation-weeks-after-1b-raise-ft",
-      "published": "2026-06-25T10:28:47+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
-      "published": "2026-06-25T20:47:24+00:00",
+      "title": "OpenAI Rolls Out GPT-5.6\u2014But Only for Some Users Due to Trump Admin",
+      "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
+      "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
+      "published": "2026-06-26T19:06:06+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
@@ -491,14 +454,47 @@
     },
     {
       "source": "TheBlock",
-      "title": "Ark Invest buys more Coinbase, Circle, Bullish, Robinhood shares amid stock declines",
-      "summary": "<p>The same day, Wood noted that inflation is on its way down, pointing to rising productivity as a key disinflationary force.</p>",
-      "url": "https://www.theblock.co/post/406258/ark-invest-coinbase-circle-bullish-robinhood?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T02:01:17+00:00",
+      "title": "Tokenization firm Securitize eyes early July NYSE debut with $400 million SPAC deal",
+      "summary": "<p>Seeking to debut next week, Securitize will receive roughly $400 million after retaining more than 70% of its SPAC trust.</p>",
+      "url": "https://www.theblock.co/post/406396/tokenization-firm-securitize-july-nyse-debut-400-million-spac-deal?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T17:23:01+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.1531,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
+      "summary": "A coalition of 19 organizations\u2014including every major AI lab and Wall Street banks\u2014just built the security team that open-source maintainers never had.",
+      "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
+      "published": "2026-06-26T19:23:37+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
+      "summary": "Senators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
+      "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
+      "published": "2026-06-26T19:18:41+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "This AI Agent Survived 6,000 Hack Attempts\u2014Here\u2019s How",
+      "summary": "Fernando Irarr\u00e1zaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
+      "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
+      "published": "2026-06-26T18:01:47+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -512,26 +508,37 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "$47M in Crypto Frozen in Global Infostealer Takedown: Europol",
-      "summary": "Police disrupted SocGholish, Amadey, and StealC, malware that harvests crypto wallets and passwords, freezing \u20ac41 million in crypto.",
-      "url": "https://decrypt.co/372071/47m-in-crypto-frozen-in-global-infostealer-takedown-europol",
-      "published": "2026-06-25T12:55:10+00:00",
+      "source": "CoinDesk",
+      "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
+      "published": "2026-06-26T15:04:44+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "BitGo cuts 15% of staff to refocus on AI infrastructure and stablecoins",
-      "summary": "<p>BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.</p>",
-      "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T03:43:49+00:00",
+      "source": "CoinDesk",
+      "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
+      "published": "2026-06-26T18:24:24+00:00",
       "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
+      "published": "2026-06-26T18:04:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -567,11 +574,33 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase's Base blockchain resumes after two-hour outage disrupted network",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/06/25/coinbase-s-base-blockchain-resumes-after-two-hour-outage-disrupted-network",
-      "published": "2026-06-25T18:46:08+00:00",
+      "source": "Decrypt",
+      "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
+      "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
+      "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
+      "published": "2026-06-26T17:35:20+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Administration Asks OpenAI to Limit GPT-5.6 Rollout: Reports",
+      "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
+      "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
+      "published": "2026-06-26T16:38:33+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
+      "summary": "<p>The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.</p>",
+      "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-26T16:05:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
