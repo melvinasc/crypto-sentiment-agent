@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T08:47:04.576193+00:00",
+  "generated_at": "2026-06-27T14:00:11.399471+00:00",
   "total_articles": 55,
   "coins": {
     "DOT": {
@@ -89,10 +89,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.2666,
+      "article_count": 2,
+      "avg_compound": 0.2988,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
@@ -108,19 +108,6 @@
           "compound": 0.7003,
           "label": "BULLISH",
           "confidence": 0.7003
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-          "published": "2026-06-26T09:47:07+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
         },
         {
           "source": "CoinDesk",
@@ -140,7 +127,7 @@
     },
     "BNB": {
       "article_count": 3,
-      "avg_compound": -0.2123,
+      "avg_compound": -0.2575,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
@@ -161,16 +148,16 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+          "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
           "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
-          "published": "2026-06-26T10:19:22+00:00",
+          "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+          "published": "2026-06-27T13:00:00+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": -0.4767,
+          "compound": -0.6124,
           "label": "BEARISH",
-          "confidence": 0.4767
+          "confidence": 0.6124
         },
         {
           "source": "TheBlock",
@@ -227,12 +214,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0727,
+      "article_count": 22,
+      "avg_compound": -0.0705,
       "overall": "BEARISH",
       "bullish": 7,
       "bearish": 12,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
