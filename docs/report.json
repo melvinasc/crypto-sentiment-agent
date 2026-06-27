@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T20:01:13.995112+00:00",
+  "generated_at": "2026-06-27T04:08:48.561014+00:00",
   "total_articles": 55,
   "coins": {
     "DOT": {
@@ -22,6 +22,56 @@
           "compound": -0.5773,
           "label": "BEARISH",
           "confidence": 0.5773
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.2666,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
+          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
+          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T13:35:01+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7003,
+          "label": "BULLISH",
+          "confidence": 0.7003
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
+          "published": "2026-06-26T09:47:07+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
+          "published": "2026-06-26T18:37:50+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -76,13 +126,37 @@
       ],
       "no_news": false
     },
-    "SOL": {
+    "XRP": {
       "article_count": 1,
-      "avg_compound": 0.2023,
+      "avg_compound": -0.1371,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
+          "summary": "<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>",
+          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T20:44:55+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.1371,
+          "label": "BEARISH",
+          "confidence": 0.1371
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.1012,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -96,17 +170,31 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
+          "published": "2026-06-26T20:15:03+00:00",
+          "coins": [
+            "SOL",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0834,
-      "overall": "BEARISH",
+      "article_count": 21,
+      "avg_compound": -0.023,
+      "overall": "NEUTRAL",
       "bullish": 8,
-      "bearish": 13,
-      "neutral": 1,
+      "bearish": 11,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -146,56 +234,6 @@
           "compound": -0.8625,
           "label": "BEARISH",
           "confidence": 0.8625
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0249,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Coinbase-Backed Ethereum Network Base Recovers After Block Production Issue",
-          "summary": "Ethereum layer-2 network Base was down for more than two hours as it ran into an issue with block production ahead of a planned upgrade.",
-          "url": "https://decrypt.co/372110/coinbase-ethereum-network-base-recovers-block-production-issue",
-          "published": "2026-06-25T19:19:05+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7003,
-          "label": "BEARISH",
-          "confidence": 0.7003
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
-          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
-          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T13:35:01+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.7003,
-          "label": "BULLISH",
-          "confidence": 0.7003
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum treasury firm Sharplink buys ether for the first time in eight months",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/ethereum-treasury-firm-sharplink-takes-in-ether-for-the-first-time-in-eight-months",
-          "published": "2026-06-26T09:47:07+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -321,16 +359,6 @@
       "no_news": true
     },
     "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -513,6 +541,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
       "published": "2026-06-26T15:04:44+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
+      "summary": "Securitize expects to begin trading next week under the ticker symbol \u201cSECZ,\u201d following the completion of a merger with a blank-check firm.",
+      "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
+      "published": "2026-06-26T20:47:44+00:00",
       "coins": [],
       "compound": 0.0772,
       "label": "BULLISH",
