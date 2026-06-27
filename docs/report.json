@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:08:48.561014+00:00",
+  "generated_at": "2026-06-27T08:47:04.576193+00:00",
   "total_articles": 55,
   "coins": {
     "DOT": {
@@ -22,6 +22,68 @@
           "compound": -0.5773,
           "label": "BEARISH",
           "confidence": 0.5773
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.4089,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
+          "published": "2026-06-27T07:58:35+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
+          "summary": "<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>",
+          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T20:44:55+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.1371,
+          "label": "BEARISH",
+          "confidence": 0.1371
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": -0.4019,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
+          "published": "2026-06-27T07:43:58+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -126,30 +188,6 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.1371,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
-          "summary": "<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>",
-          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T20:44:55+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.1371,
-          "label": "BEARISH",
-          "confidence": 0.1371
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.1012,
@@ -190,10 +228,10 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.023,
-      "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 11,
+      "avg_compound": -0.0727,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 12,
       "neutral": 2,
       "top_articles": [
         {
@@ -259,16 +297,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -596,17 +624,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
       "published": "2026-06-26T10:28:24+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japanese financial services giant SBI Holdings to buy Bitbank for $289 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/26/japanese-financial-services-giant-sbi-holdings-to-buy-bitbank-for-usd289-million",
-      "published": "2026-06-26T08:31:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
