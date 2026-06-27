@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-06-27T14:00:11.399471+00:00",
+  "generated_at": "2026-06-27T19:39:55.297277+00:00",
   "total_articles": 55,
   "coins": {
-    "DOT": {
-      "article_count": 1,
-      "avg_compound": -0.5773,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Wall Street's IPO revival hasn't reached dot-com euphoria levels, Goldman Sachs says",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/26/wall-street-s-ipo-revival-hasn-t-reached-dot-com-euphoria-levels-goldman-sachs-says",
-          "published": "2026-06-26T12:25:36+00:00",
-          "coins": [
-            "DOT"
-          ],
-          "compound": -0.5773,
-          "label": "BEARISH",
-          "confidence": 0.5773
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
       "article_count": 2,
       "avg_compound": -0.4089,
@@ -126,11 +102,11 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.2575,
+      "article_count": 4,
+      "avg_compound": -0.2497,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
         {
@@ -214,10 +190,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0705,
-      "overall": "BEARISH",
-      "bullish": 7,
+      "article_count": 23,
+      "avg_compound": -0.0458,
+      "overall": "NEUTRAL",
+      "bullish": 8,
       "bearish": 12,
       "neutral": 3,
       "top_articles": [
@@ -263,6 +239,30 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
+          "published": "2026-06-27T15:00:00+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -284,6 +284,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -372,16 +382,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -395,17 +395,6 @@
       "compound": -0.7506,
       "label": "BEARISH",
       "confidence": 0.7506
-    },
-    {
-      "source": "Decrypt",
-      "title": "SBI Holdings Says $289 Million Bitbank Deal Will Make It Japan's Largest Crypto Exchange",
-      "summary": "SBI Holdings has agreed to a nearly $289 million deal to acquire crypto exchange Bitbank, pending regulatory approval.",
-      "url": "https://decrypt.co/372117/sbi-holdings-289-million-bitbank-deal-japan-largest-crypto-exchange",
-      "published": "2026-06-25T19:42:54+00:00",
-      "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
-      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -463,6 +452,17 @@
       "confidence": 0.4939
     },
     {
+      "source": "CoinDesk",
+      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
+      "published": "2026-06-27T14:13:22+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
       "source": "Decrypt",
       "title": "OpenAI Rolls Out GPT-5.6\u2014But Only for Some Users Due to Trump Admin",
       "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
@@ -483,17 +483,6 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "TheBlock",
-      "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
-      "summary": "<p>The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T06:19:08+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -540,17 +529,6 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
-      "summary": "Hackers infiltrated Polymarket\u2019s website via a compromised third-party vendor, the company said, swiping millions in crypto from users.",
-      "url": "https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
-      "published": "2026-06-25T21:02:40+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "CoinDesk",
       "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
       "summary": "",
@@ -585,6 +563,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "What Robinhood\u2019s recent layoffs say about the current state of crypto investments",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
+      "published": "2026-06-27T16:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Virtuals' Jansen Teng says AI agents are evolving into autonomous economic actors",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-news/2026/06/26/virtuals-jansen-teng-says-ai-agents-are-evolving-into-autonomous-economic-actors",
@@ -595,22 +584,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/06/26/coindesk-20-performance-update-aave-jumps-8-9-leading-index-higher",
-      "published": "2026-06-26T13:22:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "All eyes on Strategy's June 30 ex-dividend date and monthly STRC dividend rate reset",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/26/all-eyes-on-strategy-s-june-30-ex-dividend-date-and-monthly-strc-dividend-rate-reset",
-      "published": "2026-06-26T10:28:24+00:00",
+      "source": "Decrypt",
+      "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+      "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
+      "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+      "published": "2026-06-27T17:01:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
