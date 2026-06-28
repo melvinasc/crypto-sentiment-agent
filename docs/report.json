@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-28T14:06:24.670034+00:00",
+  "generated_at": "2026-06-28T19:41:10.346908+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.7003,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
+          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
+          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T13:35:01+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7003,
+          "label": "BULLISH",
+          "confidence": 0.7003
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 1,
       "avg_compound": -0.5106,
@@ -88,43 +112,6 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.2988,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
-          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
-          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T13:35:01+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.7003,
-          "label": "BULLISH",
-          "confidence": 0.7003
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Former Ethereum Foundation leader warns of funding gap as governance shifts",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/former-ethereum-foundation-leader-warns-of-funding-gap-as-governance-shifts",
-          "published": "2026-06-26T18:37:50+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 4,
       "avg_compound": -0.2497,
@@ -176,12 +163,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1012,
+      "article_count": 1,
+      "avg_compound": 0.2023,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -195,31 +182,17 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Aave, Solana ecosystem tokens lead crypto rebound as bitcoin steadies near $60,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/26/aave-solana-ecosystem-tokens-lead-crypto-rebound-as-bitcoin-steadies-near-usd60-000",
-          "published": "2026-06-26T20:15:03+00:00",
-          "coins": [
-            "SOL",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.091,
+      "article_count": 24,
+      "avg_compound": -0.1103,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 13,
-      "neutral": 3,
+      "bullish": 8,
+      "bearish": 14,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -422,17 +395,6 @@
       "confidence": 0.5719
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. House Democrat, who may soon run key committee, condemns crypto in 401(k)s",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/26/u-s-house-democrat-who-may-soon-run-key-committee-condemns-crypto-in-401-k-s",
-      "published": "2026-06-26T19:38:12+00:00",
-      "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
-    },
-    {
       "source": "Decrypt",
       "title": "BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%",
       "summary": "The newly public crypto custodian is slashing nearly 15% of its workforce as it pivots to focus on stablecoins and AI infrastructure.",
@@ -544,14 +506,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Anti-trafficking group says Clarity Act's Section 604 could weaken accountability",
+      "title": "CZ wants to make the U.S. the 'capital of crypto': State of Crypto",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/26/anti-trafficking-group-warns-clarity-act-s-section-604-could-weaken-accountability",
-      "published": "2026-06-26T18:24:24+00:00",
+      "url": "https://www.coindesk.com/policy/2026/06/28/cz-wants-to-make-the-u-s-the-capital-of-crypto-state-of-crypto",
+      "published": "2026-06-28T19:30:00+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI's $289 million Bitbank deal is symptomatic of Japan's crypto consolidation: Architect Partners",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/28/sbi-s-usd289-million-bitbank-deal-is-symptomatic-of-japan-s-crypto-consolidation-architect-partners",
+      "published": "2026-06-28T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
