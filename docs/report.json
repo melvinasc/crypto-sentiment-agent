@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-27T19:39:55.297277+00:00",
+  "generated_at": "2026-06-28T04:41:52.770403+00:00",
   "total_articles": 55,
   "coins": {
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": -0.5106,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
+          "summary": "<p>An exploit drained about $2.4 million in ADA from 374 addresses over three days through a flaw in SecondFi's wallet-generation software.</p>",
+          "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-27T23:10:39+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": -0.5106,
+          "label": "BEARISH",
+          "confidence": 0.5106
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 2,
       "avg_compound": -0.4089,
@@ -190,10 +214,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0458,
-      "overall": "NEUTRAL",
-      "bullish": 8,
+      "article_count": 22,
+      "avg_compound": -0.0807,
+      "overall": "BEARISH",
+      "bullish": 7,
       "bearish": 12,
       "neutral": 3,
       "top_articles": [
@@ -262,16 +286,6 @@
         }
       ],
       "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
