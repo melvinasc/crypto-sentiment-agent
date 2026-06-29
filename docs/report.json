@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-29T04:50:15.994126+00:00",
+  "generated_at": "2026-06-29T11:18:21.046919+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": 0.7003,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.6369,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Ethereum OG wallets finally sell after 8 years, locking in estimated $27M profit after $150M unrealized peak: onchain analysts",
-          "summary": "<p>Four Ethereum OG wallets that held 37,602 ETH since 2018 finally sold after watching $150M in unrealized profit evaporate at peak prices.</p>",
-          "url": "https://www.theblock.co/post/406342/ethereum-og-wallets-finally-sell-after-8-years-locking-in-estimated-27m-profit-after-150m-unrealized-peak-onchain-analysts?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T13:35:01+00:00",
+          "source": "Decrypt",
+          "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
+          "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
+          "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
+          "published": "2026-06-26T18:02:22+00:00",
           "coins": [
-            "ETH"
+            "BNB"
           ],
-          "compound": 0.7003,
-          "label": "BULLISH",
-          "confidence": 0.7003
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
         }
       ],
       "no_news": false
@@ -50,90 +50,63 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.4089,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.4019,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/27/ripple-ceo-stays-bullish-on-bitcoin-but-says-saylor-s-strategy-has-hurt-crypto",
-          "published": "2026-06-27T07:58:35+00:00",
-          "coins": [
-            "XRP",
-            "BTC"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        },
-        {
           "source": "TheBlock",
-          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
-          "summary": "<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>",
-          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T20:44:55+00:00",
+          "title": "Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption",
+          "summary": "<p>Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.</p>",
+          "url": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T07:21:49+00:00",
           "coins": [
-            "XRP"
+            "ETH"
           ],
-          "compound": -0.1371,
-          "label": "BEARISH",
-          "confidence": 0.1371
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 4,
-      "avg_compound": -0.2497,
-      "overall": "BEARISH",
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.2553,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 3,
-      "neutral": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
-          "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
-          "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
-          "published": "2026-06-26T18:02:22+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.6369,
-          "label": "BEARISH",
-          "confidence": 0.6369
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
-          "published": "2026-06-27T13:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.6124,
-          "label": "BEARISH",
-          "confidence": 0.6124
-        },
-        {
           "source": "TheBlock",
-          "title": "Spain says \u2018no exceptions or extensions\u2019 for Binance, other crypto firms ahead of MiCA deadline",
-          "summary": "<p>Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.</p>",
-          "url": "https://www.theblock.co/post/406362/spain-says-no-exceptions-extensions-binance-other-crypto-firms-mica-deadline?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-26T15:01:10+00:00",
+          "title": "India\u2019s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report",
+          "summary": "<p>India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.</p>",
+          "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T09:49:21+00:00",
           "coins": [
-            "BNB"
+            "USDT"
           ],
-          "compound": 0.4767,
+          "compound": 0.5106,
           "label": "BULLISH",
-          "confidence": 0.4767
+          "confidence": 0.5106
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
+          "summary": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
+          "url": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
+          "published": "2026-06-29T10:48:33+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -162,12 +135,36 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.1371,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
+          "summary": "<p>\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.</p>",
+          "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-26T20:44:55+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.1371,
+          "label": "BEARISH",
+          "confidence": 0.1371
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.1187,
+      "avg_compound": -0.0809,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 14,
+      "bullish": 9,
+      "bearish": 13,
       "neutral": 2,
       "top_articles": [
         {
@@ -208,30 +205,6 @@
           "compound": -0.8625,
           "label": "BEARISH",
           "confidence": 0.8625
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether putting $23 billion gold stockpile to work with bullion-backed loans",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/27/tether-putting-usd23-billion-gold-stockpile-to-work-with-bullion-backed-loans",
-          "published": "2026-06-27T15:00:00+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -381,37 +354,15 @@
       "confidence": 0.6124
     },
     {
-      "source": "TheBlock",
-      "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
-      "summary": "<p>Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.</p>",
-      "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T16:46:18+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "Decrypt",
-      "title": "BitGo Joins Crypto's AI Layoff Wave, Slashing Staff by 15%",
-      "summary": "The newly public crypto custodian is slashing nearly 15% of its workforce as it pivots to focus on stablecoins and AI infrastructure.",
-      "url": "https://decrypt.co/372164/bitgo-joins-cryptos-ai-layoff-wave-slashing-staff-by-15",
-      "published": "2026-06-26T10:15:33+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
       "source": "CoinDesk",
-      "title": "Polymarket hack updated to $3.1 million days after the platform promised users full refunds",
+      "title": "South Korea\u2019s $518 billion AI chip push shows crypto is still losing the capital race",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/06/27/polymarket-hack-updated-to-usd3-1-million-days-after-the-platform-promised-users-full-refunds",
-      "published": "2026-06-27T14:13:22+00:00",
+      "url": "https://www.coindesk.com/markets/2026/06/29/south-korea-s-usd518-billion-ai-chip-push-shows-crypto-is-still-losing-the-capital-race",
+      "published": "2026-06-29T06:19:46+00:00",
       "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -425,6 +376,17 @@
       "confidence": 0.3612
     },
     {
+      "source": "CoinDesk",
+      "title": "BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/29/bis-warns-stablecoins-are-more-like-etfs-than-actual-money-and-they-re-creating-fx-risk",
+      "published": "2026-06-29T08:51:57+00:00",
+      "coins": [],
+      "compound": 0.3597,
+      "label": "BULLISH",
+      "confidence": 0.3597
+    },
+    {
       "source": "TheBlock",
       "title": "South Korea\u2019s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report",
       "summary": "<p>This is part of a larger wave of South Korean institutions purchasing stakes in local exchanges, amid developing regulatory conditions.</p>",
@@ -434,6 +396,17 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
+      "summary": "<p>Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.</p>",
+      "url": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T08:41:29+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -480,6 +453,17 @@
       "confidence": 0.1027
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto exchange BitMEX loses CEO, CFO and head of growth",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/29/crypto-exchange-bitmex-removes-ceo-cfo-and-head-of-growth",
+      "published": "2026-06-29T07:03:51+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
       "source": "Decrypt",
       "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
       "summary": "Securitize expects to begin trading next week under the ticker symbol \u201cSECZ,\u201d following the completion of a merger with a blank-check firm.",
@@ -489,6 +473,28 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe\u2019s unlicensed crypto firms face \u2018wipeout\u2019 as MiCA deadline hits",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls",
+      "published": "2026-06-29T10:01:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
+      "published": "2026-06-29T09:08:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -518,17 +524,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
       "published": "2026-06-28T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "What Robinhood\u2019s recent layoffs say about the current state of crypto investments",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/06/27/what-robinhood-s-recent-layoffs-say-about-the-current-state-of-crypto-investments",
-      "published": "2026-06-27T16:30:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -580,10 +575,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "The Funding: Why crypto VCs are expanding beyond crypto",
-      "summary": "<p>Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.</p>",
-      "url": "https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T02:39:48+00:00",
+      "title": "Vitalik Buterin calls obfuscation cryptography\u2019s \u2018final boss,\u2019 but says current approaches remain wildly impractical",
+      "summary": "<p>Vitalik Buterin said obfuscation is cryptography\u2019s \u201cfinal boss,\u201d citing impractical iO schemes with \u201cliterally galactic\u201d runtimes.</p>",
+      "url": "https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T10:36:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -591,10 +586,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "DraftKings launches its own prediction markets exchange as consumer volume exceeds $3 billion",
-      "summary": "<p>The company said its prediction markets vertical has generated approximately $3.4 billion in annualized consumer volume.</p>",
-      "url": "https://www.theblock.co/post/406375/draftkings-launches-own-prediction-markets-exchange-consumer-volume-exceeds-3-billion?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T16:05:28+00:00",
+      "title": "The Funding: Why crypto VCs are expanding beyond crypto",
+      "summary": "<p>Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.</p>",
+      "url": "https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T02:39:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
