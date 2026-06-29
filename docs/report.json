@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T19:41:10.346908+00:00",
+  "generated_at": "2026-06-29T04:50:15.994126+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -88,30 +88,6 @@
       ],
       "no_news": false
     },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": -0.4019,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin and Hyperliquid's HYPE led weekly crypto losses as AI stocks lure buyers",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/27/dogecoin-and-hyperliquid-s-hype-led-weekly-crypto-losses-as-ai-stocks-lure-buyers",
-          "published": "2026-06-27T07:43:58+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 4,
       "avg_compound": -0.2497,
@@ -188,7 +164,7 @@
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.1103,
+      "avg_compound": -0.1187,
       "overall": "BEARISH",
       "bullish": 8,
       "bearish": 14,
@@ -271,6 +247,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -385,6 +371,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
+      "summary": "<p>The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.</p>",
+      "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-28T22:04:00+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
       "title": "Bipartisan senators call for CFTC investigation into Polymarket after fake bets report",
       "summary": "<p>Senators are demanding for the CFTC to investigate Polymarket following reports that it paid creators to stage fake winning bets.</p>",
       "url": "https://www.theblock.co/post/406400/bipartisan-senators-call-cftc-investigation-polymarket-fake-bets?utm_source=rss&utm_medium=rss",
@@ -403,17 +400,6 @@
       "coins": [],
       "compound": -0.4939,
       "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
-      "title": "Framework Ventures raises $400 million for fourth fund to invest across crypto, AI and robotics",
-      "summary": "<p>The firm also promoted Rajiv Patel-O'Connor to general partner as it expands beyond its traditional crypto focus.</p>",
-      "url": "https://www.theblock.co/post/406344/framework-ventures-400-million-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T12:54:58+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
       "confidence": 0.4939
     },
     {
@@ -440,14 +426,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Base delays Beryl hard fork over B20 registry timing issue",
-      "summary": "<p>Base delayed its Beryl mainnet upgrade to June 26 to give the B20 Activation Registry time to become fully operational.</p>",
-      "url": "https://www.theblock.co/post/406336/base-delays-beryl-hard-fork-over-b20-registry-timing-issue?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-26T10:11:29+00:00",
+      "title": "South Korea\u2019s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report",
+      "summary": "<p>This is part of a larger wave of South Korean institutions purchasing stakes in local exchanges, amid developing regulatory conditions.</p>",
+      "url": "https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T02:47:54+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -587,6 +573,17 @@
       "summary": "The reported request to OpenAI follows the Trump administration's move to limit access to Anthropic's Fable 5 and Mythos 5 AI models.",
       "url": "https://decrypt.co/372195/trump-administration-asks-openai-to-limit-gpt-5-6-rollout-reports",
       "published": "2026-06-26T16:38:33+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Funding: Why crypto VCs are expanding beyond crypto",
+      "summary": "<p>Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.</p>",
+      "url": "https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T02:39:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
