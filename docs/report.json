@@ -1,39 +1,89 @@
 {
-  "generated_at": "2026-06-29T16:02:33.578167+00:00",
+  "generated_at": "2026-06-29T20:09:37.227792+00:00",
   "total_articles": 55,
   "coins": {
-    "ADA": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": -0.5106,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
-          "summary": "<p>An exploit drained about $2.4 million in ADA from 374 addresses over three days through a flaw in SecondFi's wallet-generation software.</p>",
-          "url": "https://www.theblock.co/post/406457/secondfi-maps-recovery-path-after-2-4-million-cardano-wallet-exploit-aims-to-return-funds-within-two-weeks?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-27T23:10:39+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
+      "avg_compound": 0.7351,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance founder CZ says MiCA application was \u2018fully compliant\u2019 and near approval before political forces intervened",
+          "summary": "<p>Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.</p>",
+          "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T15:33:27+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": 0.4303,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
+          "summary": "<p>BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its\u00a0Digital Asset Custody platform.</p>",
+          "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T16:58:42+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.7579,
+          "label": "BULLISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
+          "published": "2026-06-29T14:46:33+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.2899,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
+          "summary": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
+          "url": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
+          "published": "2026-06-29T17:45:46+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
         {
           "source": "CoinDesk",
           "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
@@ -51,12 +101,12 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": 0.1702,
+      "article_count": 2,
+      "avg_compound": 0.2553,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -70,19 +120,6 @@
           "compound": 0.5106,
           "label": "BULLISH",
           "confidence": 0.5106
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tether's USDT jumps to 8.5% premium in India after crypto payment crackdown",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/29/usdt-jumps-to-8-5-premium-in-india-after-crypto-payment-crackdown",
-          "published": "2026-06-29T12:00:46+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -100,63 +137,52 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+    "BTC": {
+      "article_count": 22,
+      "avg_compound": -0.0581,
+      "overall": "BEARISH",
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 4,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
-          "published": "2026-06-29T14:46:33+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-10_32_28-AM.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a></p>\n<p>An excerpt from Bitcoin: The Honest Money explains how the 2007\u20132009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin\u2019s creation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/alex-v-frankenberg\" rel=\"nofollow\">Alex v. Frankenberg</a>.</p>",
+          "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
+          "published": "2026-06-29T15:45:53+00:00",
           "coins": [
-            "USDC"
+            "BTC"
           ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.0491,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance founder CZ says MiCA application was \u2018fully compliant\u2019 and near approval before political forces intervened",
-          "summary": "<p>Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.</p>",
-          "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T15:33:27+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.7351,
-          "label": "BULLISH",
-          "confidence": 0.7351
+          "compound": -0.9538,
+          "label": "BEARISH",
+          "confidence": 0.9538
         },
         {
           "source": "Decrypt",
-          "title": "Spanish Regulator Says No Extensions for EU Crypto Deadline as Binance Remains Unlicensed",
-          "summary": "Crypto firms operating in the European Union will be forced to cease operations if they do not obtain a MiCA license by July 1.",
-          "url": "https://decrypt.co/372230/spanish-regulator-no-extensions-eu-crypto-deadline-binance",
-          "published": "2026-06-26T18:02:22+00:00",
+          "title": "Strategy Could Sell Up to $1.25B of Bitcoin Under 'Digital Credit Capital Framework'",
+          "summary": "The Bitcoin treasury firm has approved a framework for \"active capital management,\" its Chair Michael Saylor said in a statement.",
+          "url": "https://decrypt.co/372282/strategy-could-sell-up-to-1-25b-of-bitcoin-under-digital-credit-capital-framework",
+          "published": "2026-06-29T12:48:39+00:00",
           "coins": [
-            "BNB"
+            "BTC"
           ],
-          "compound": -0.6369,
+          "compound": 0.836,
+          "label": "BULLISH",
+          "confidence": 0.836
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window\" rel=\"nofollow\">Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess</a></p>\n<p>Clarity Act enters a critical two-week stretch as Senate negotiators race to resolve disputes over Trump ethics provisions, law enforcement concerns, and market structure rules before a narrow pre-August recess window for a floor vote.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window\" rel=\"nofollow\">Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window",
+          "published": "2026-06-29T17:19:43+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7845,
           "label": "BEARISH",
-          "confidence": 0.6369
+          "confidence": 0.7845
         }
       ],
       "no_news": false
@@ -211,55 +237,15 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0117,
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 7,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-10_32_28-AM.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a></p>\n<p>An excerpt from Bitcoin: The Honest Money explains how the 2007\u20132009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin\u2019s creation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/alex-v-frankenberg\" rel=\"nofollow\">Alex v. Frankenberg</a>.</p>",
-          "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
-          "published": "2026-06-29T15:45:53+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9538,
-          "label": "BEARISH",
-          "confidence": 0.9538
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban\" rel=\"nofollow\">Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban</a></p>\n<p>Senior developers including Andrew Poelstra highlighted broken merge scripts, hidden diffs, and unreliable tracking, pushing Bitcoin projects toward self-hosted Forgejo solutions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban\" rel=\"nofollow\">Matt Corallo Urges Bitcoin Projects to Exit GitHub After Rust Lightning Ban</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/matt-corallo-urges-bitcoin-projects-to-exit-github-after-rust-lightning-ban",
-          "published": "2026-06-25T17:54:13+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8625,
-          "label": "BEARISH",
-          "confidence": 0.8625
-        },
-        {
-          "source": "Decrypt",
-          "title": "Strategy Could Sell Up to $1.25B of Bitcoin Under 'Digital Credit Capital Framework'",
-          "summary": "The Bitcoin treasury firm has approved a framework for \"active capital management,\" its Chair Michael Saylor said in a statement.",
-          "url": "https://decrypt.co/372282/strategy-could-sell-up-to-1-25b-of-bitcoin-under-digital-credit-capital-framework",
-          "published": "2026-06-29T12:48:39+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.836,
-          "label": "BULLISH",
-          "confidence": 0.836
-        }
-      ],
-      "no_news": false
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -385,6 +371,17 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
+      "summary": "<p>The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money. </p>",
+      "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T19:51:31+00:00",
+      "coins": [],
+      "compound": -0.6908,
+      "label": "BEARISH",
+      "confidence": 0.6908
+    },
+    {
+      "source": "TheBlock",
       "title": "BlackRock\u2019s Aladdin platform adds deeper support for Ethena\u2019s stablecoin products",
       "summary": "<p>The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'</p>",
       "url": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
@@ -393,17 +390,6 @@
       "compound": 0.6808,
       "label": "BULLISH",
       "confidence": 0.6808
-    },
-    {
-      "source": "TheBlock",
-      "title": "BIS says stablecoins fall short as money, warns of emerging-market risks in annual report",
-      "summary": "<p>The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.</p>",
-      "url": "https://www.theblock.co/post/406466/bis-says-stablecoins-fall-short-as-money-warns-of-emerging-market-risks-in-annual-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-28T22:04:00+00:00",
-      "coins": [],
-      "compound": -0.6124,
-      "label": "BEARISH",
-      "confidence": 0.6124
     },
     {
       "source": "CoinDesk",
@@ -417,6 +403,17 @@
       "confidence": 0.607
     },
     {
+      "source": "Decrypt",
+      "title": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
+      "summary": "Meta says its latest Brain2Qwerty system translates brain activity into sentences using non-invasive brain recordings, improving the accuracy of AI-powered neural decoding.",
+      "url": "https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text",
+      "published": "2026-06-29T18:47:41+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
       "source": "CoinDesk",
       "title": "White House to speak with law enforcement groups to push Crypto's Clarity Act",
       "summary": "",
@@ -428,11 +425,11 @@
       "confidence": 0.4019
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Rolls Out GPT-5.6\u2014But Only for Some Users Due to Trump Admin",
-      "summary": "OpenAI introduced the GPT-5.6 family of AI models on Friday, but only limited users can access them for now thanks to the U.S. government.",
-      "url": "https://decrypt.co/372238/openai-rolls-out-gpt-5-6-limited-access-trump-admin",
-      "published": "2026-06-26T19:06:06+00:00",
+      "source": "TheBlock",
+      "title": "JPMorgan execs draw comparison between yield stablecoins and \u2018shadow banking\u2019",
+      "summary": "<p>JPMorgan execs argued that stablecoin innovation can easily drift into \u201cshadow banking\u201d if yield payments are permitted.</p>",
+      "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T18:37:28+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
@@ -450,15 +447,15 @@
       "confidence": 0.34
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea\u2019s Kiwoom Securities to acquire stake in Bithumb crypto exchange: report",
-      "summary": "<p>This is part of a larger wave of South Korean institutions purchasing stakes in local exchanges, amid developing regulatory conditions.</p>",
-      "url": "https://www.theblock.co/post/406470/kiwoom-securities-bithumb?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T02:47:54+00:00",
+      "source": "Decrypt",
+      "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
+      "summary": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
+      "url": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short",
+      "published": "2026-06-29T17:47:46+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -495,35 +492,24 @@
     },
     {
       "source": "Decrypt",
-      "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
-      "summary": "A coalition of 19 organizations\u2014including every major AI lab and Wall Street banks\u2014just built the security team that open-source maintainers never had.",
-      "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-      "published": "2026-06-26T19:23:37+00:00",
+      "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
+      "summary": "Anthropic\u2019s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
+      "url": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
+      "published": "2026-06-29T16:54:09+00:00",
       "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
-      "title": "Senators Demand Answers From CFTC Over Alleged Polymarket Deceptive Advertising",
-      "summary": "Senators are seeking answers from the CFTC about recent allegations of deceptive marketing from Polymarket.",
-      "url": "https://decrypt.co/372239/senators-demand-answers-cftc-polymarket-deceptive-advertising",
-      "published": "2026-06-26T19:18:41+00:00",
+      "title": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
+      "summary": "The court overturned a 91-year precedent, allowing President Trump to fire key federal regulators whenever he wishes for almost any reason.",
+      "url": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto",
+      "published": "2026-06-29T19:29:41+00:00",
       "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "This AI Agent Survived 6,000 Hack Attempts\u2014Here\u2019s How",
-      "summary": "Fernando Irarr\u00e1zaval posted his OpenClaw assistant's inbox to Hacker News and watched Claude Opus 4.6 hold off thousands of attackers.",
-      "url": "https://decrypt.co/372221/ai-agent-openclaw-6000-hack-attempts",
-      "published": "2026-06-26T18:01:47+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
+      "compound": 0.1027,
+      "label": "BULLISH",
       "confidence": 0.1027
     },
     {
@@ -536,6 +522,17 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
+      "published": "2026-06-29T17:31:33+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -615,33 +612,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Kalshi Scores FIFA World Cup Spotlight as Prediction Market Trading Surges to Record",
-      "summary": "As prediction markets notch record trading volumes, Kalshi is ramping up its marketing push through a high-profile FIFA World Cup deal.",
-      "url": "https://decrypt.co/372204/kalshi-scores-fifa-world-cup-spotlight-prediction-market-trading-record",
-      "published": "2026-06-26T17:35:20+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "Vitalik Buterin calls obfuscation cryptography\u2019s \u2018final boss,\u2019 but says current approaches remain wildly impractical",
       "summary": "<p>Vitalik Buterin said obfuscation is cryptography\u2019s \u201cfinal boss,\u201d citing impractical iO schemes with \u201cliterally galactic\u201d runtimes.</p>",
       "url": "https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss",
       "published": "2026-06-29T10:36:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "The Funding: Why crypto VCs are expanding beyond crypto",
-      "summary": "<p>Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.</p>",
-      "url": "https://www.theblock.co/post/406472/the-funding-why-crypto-vcs-are-expanding-beyond-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T02:39:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
