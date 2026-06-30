@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T20:09:37.227792+00:00",
+  "generated_at": "2026-06-30T04:17:10.707478+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -100,9 +100,9 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "ETH": {
       "article_count": 2,
-      "avg_compound": 0.2553,
+      "avg_compound": 0.2009,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
@@ -110,25 +110,26 @@
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "India\u2019s USDT premium tops 8.5% as crypto remittance crackdown squeezes stablecoin supply: report",
-          "summary": "<p>India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.</p>",
-          "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T09:49:21+00:00",
+          "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through \u2018challenging\u2019 weekly slide, joins Russell 1000",
+          "summary": "<p>Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.</p>",
+          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T14:46:28+00:00",
           "coins": [
-            "USDT"
+            "ETH"
           ],
-          "compound": 0.5106,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.5106
+          "confidence": 0.4019
         },
         {
           "source": "Decrypt",
-          "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
-          "summary": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
-          "url": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
-          "published": "2026-06-29T10:48:33+00:00",
+          "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
+          "summary": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
+          "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
+          "published": "2026-06-29T15:13:16+00:00",
           "coins": [
-            "USDT"
+            "ETH",
+            "BTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -138,11 +139,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0581,
+      "article_count": 23,
+      "avg_compound": -0.076,
       "overall": "BEARISH",
       "bullish": 9,
-      "bearish": 9,
+      "bearish": 10,
       "neutral": 4,
       "top_articles": [
         {
@@ -187,52 +188,26 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0333,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
+      "bullish": 0,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Tom Lee blames crypto weakness on quarter-end 'window dressing' as Bitmine adds another $43 million of ETH",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/29/tom-lee-blames-crypto-weakness-on-quarter-end-window-dressing-as-bitmine-adds-another-usd43-million-of-eth",
-          "published": "2026-06-29T12:51:44+00:00",
+          "source": "Decrypt",
+          "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
+          "summary": "Over 8.3 million USDT seized from an alleged hacking ring has been moved to a wallet held by Ukraine's asset-recovery agency, ARMA.",
+          "url": "https://decrypt.co/372279/ukraine-takes-8-3m-in-seized-crypto-under-state-management-in-a-first",
+          "published": "2026-06-29T10:48:33+00:00",
           "coins": [
-            "ETH"
+            "USDT"
           ],
-          "compound": -0.6705,
-          "label": "BEARISH",
-          "confidence": 0.6705
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through \u2018challenging\u2019 weekly slide, joins Russell 1000",
-          "summary": "<p>Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.</p>",
-          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T14:46:28+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum zkRollup project Loopring sunsets DEX, citing lack of meaningful adoption",
-          "summary": "<p>Loopring plans to return all remaining user funds through a smart contract upgrade, without requiring users to cover transaction costs.</p>",
-          "url": "https://www.theblock.co/post/406492/loopring-sunsets-dex?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T07:21:49+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -371,6 +346,28 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "UK sets capital, market abuse rules in landmark crypto framework",
+      "summary": "<p>The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation.</p>",
+      "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T23:01:00+00:00",
+      "coins": [],
+      "compound": -0.8442,
+      "label": "BEARISH",
+      "confidence": 0.8442
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan urges strong safeguards as congress weighs crypto market structure rules",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
+      "published": "2026-06-29T17:31:33+00:00",
+      "coins": [],
+      "compound": 0.6908,
+      "label": "BULLISH",
+      "confidence": 0.6908
+    },
+    {
+      "source": "TheBlock",
       "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
       "summary": "<p>The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money. </p>",
       "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss",
@@ -392,6 +389,28 @@
       "confidence": 0.6808
     },
     {
+      "source": "TheBlock",
+      "title": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
+      "summary": "<p>The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is \"far from assured,\" said TD Cowen.</p>",
+      "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-29T20:38:52+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
+      "summary": "<p>Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday.</p>",
+      "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T01:35:59+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
+    },
+    {
       "source": "CoinDesk",
       "title": "Private keys, not smart contracts, caused 40% of crypto's $16 billion hack losses. Here's whats being done.",
       "summary": "",
@@ -401,6 +420,28 @@
       "compound": -0.607,
       "label": "BEARISH",
       "confidence": 0.607
+    },
+    {
+      "source": "Decrypt",
+      "title": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
+      "summary": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week\u2014and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
+      "url": "https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
+      "published": "2026-06-29T20:16:48+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
+      "source": "TheBlock",
+      "title": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
+      "summary": "<p>Securitize announced that shareholders of Cantor have greenlit the business combination, which is expected to close on Wednesday.\u00a0</p>",
+      "url": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T02:45:02+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
     },
     {
       "source": "Decrypt",
@@ -436,17 +477,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "JPMorgan sees limited institutional demand for perpetual futures",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/jpmorgan-sees-limited-institutional-demand-for-perpetual-futures",
-      "published": "2026-06-29T12:48:14+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
       "summary": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
@@ -456,17 +486,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "TheBlock",
-      "title": "Galaxy Research cuts Clarity Act 2026 passage odds to 50%, citing Senate calendar concerns",
-      "summary": "<p>Galaxy's Alex Thorn said Senate calendar constraints and a lack of progress in negotiations make passage less likely than several weeks ago.</p>",
-      "url": "https://www.theblock.co/post/406497/galaxy-cuts-clarity-act-passage-odds-50?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T08:41:29+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -513,26 +532,26 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
-      "summary": "Securitize expects to begin trading next week under the ticker symbol \u201cSECZ,\u201d following the completion of a merger with a blank-check firm.",
-      "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-      "published": "2026-06-26T20:47:44+00:00",
+      "source": "CoinDesk",
+      "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
+      "published": "2026-06-29T23:05:58+00:00",
       "coins": [],
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "JPMorgan backs U.S. crypto bill but warns of risks in digital asset framework",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/29/jpmorgan-backs-u-s-crypto-bill-but-warns-repeatedly-of-risks-in-digital-asset-framework",
-      "published": "2026-06-29T17:31:33+00:00",
+      "source": "Decrypt",
+      "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
+      "summary": "A new model built by DeepReinforce is meant for developers who want AI that finishes the job, not just autocompletes the next line.",
+      "url": "https://decrypt.co/372361/ornith-open-source-coding-model-built-for-agents",
+      "published": "2026-06-29T21:27:44+00:00",
       "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
@@ -595,28 +614,6 @@
       "summary": "From AI to brain implants, cyberpunk got more right than many people realize. Its biggest prediction, however, wasn't the technology.",
       "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
       "published": "2026-06-28T13:01:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
-      "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
-      "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
-      "published": "2026-06-27T17:01:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Vitalik Buterin calls obfuscation cryptography\u2019s \u2018final boss,\u2019 but says current approaches remain wildly impractical",
-      "summary": "<p>Vitalik Buterin said obfuscation is cryptography\u2019s \u201cfinal boss,\u201d citing impractical iO schemes with \u201cliterally galactic\u201d runtimes.</p>",
-      "url": "https://www.theblock.co/post/406506/vitalik-buterin-calls-obfuscation-cryptographys-final-boss-but-says-current-approaches-remain-wildly-impractical?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T10:36:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
