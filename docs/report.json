@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T14:36:20.828036+00:00",
+  "generated_at": "2026-06-30T20:09:05.584820+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -26,50 +26,37 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.4304,
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.4927,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "XRP holds $1 support as network activity rises and leverage clears out",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
-          "published": "2026-06-30T05:15:17+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        },
-        {
           "source": "Decrypt",
-          "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
-          "summary": "Ripple outlined how the XRP Ledger Lending Protocol would provide institutions with a novel way to structure loans directly on-chain.",
-          "url": "https://decrypt.co/372314/xrp-ledger-missing-layer-draws-closer-lending-credit-features-ripple",
-          "published": "2026-06-29T17:45:46+00:00",
+          "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
+          "summary": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
+          "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
+          "published": "2026-06-30T17:38:12+00:00",
           "coins": [
-            "XRP"
+            "USDC"
           ],
-          "compound": 0.4019,
+          "compound": 0.4927,
           "label": "BULLISH",
-          "confidence": 0.4019
+          "confidence": 0.4927
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 2,
-      "avg_compound": 0.2633,
+      "avg_compound": 0.4643,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -86,41 +73,40 @@
         },
         {
           "source": "Decrypt",
-          "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
-          "summary": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
-          "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-          "published": "2026-06-29T15:13:16+00:00",
+          "title": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
+          "summary": "Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
+          "url": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
+          "published": "2026-06-30T15:54:01+00:00",
           "coins": [
-            "ETH",
-            "BTC"
+            "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2063,
+      "article_count": 19,
+      "avg_compound": -0.2432,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 5,
       "bearish": 14,
-      "neutral": 2,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/ChatGPT-Image-Jun-29-2026-10_32_28-AM.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a></p>\n<p>An excerpt from Bitcoin: The Honest Money explains how the 2007\u20132009 financial crisis exposed the fragility of the fiat system and set the stage for Bitcoin\u2019s creation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin\" rel=\"nofollow\">2007\u20132009\u2014The Global Financial Crisis and the Birth of Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/alex-v-frankenberg\" rel=\"nofollow\">Alex v. Frankenberg</a>.</p>",
-          "url": "https://bitcoinmagazine.com/bitcoin-books/2007-2009-the-global-financial-crisis-and-the-birth-of-bitcoin",
-          "published": "2026-06-29T15:45:53+00:00",
+          "title": "One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-7.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries\" rel=\"nofollow\">One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries</a></p>\n<p>Bitcoin users facing travel or emergency scenarios benefit from Coldcard Q\u2019s mature Key Teleport implementation, which outperforms traditional Tails-OS + PGP setups and resisted advanced AI decryption attempts.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries\" rel=\"nofollow\">One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries",
+          "published": "2026-06-30T16:54:49+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9538,
-          "label": "BEARISH",
-          "confidence": 0.9538
+          "compound": 0.8555,
+          "label": "BULLISH",
+          "confidence": 0.8555
         },
         {
           "source": "Bitcoin Magazine",
@@ -136,17 +122,42 @@
           "confidence": 0.7845
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strive-ASST-Holds-19864-BTC-With-No-New-Purchases-Last-Week-Balance-Sheet-Hits-141.7M-Cash-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new\" rel=\"nofollow\">Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash</a></p>\n<p>Strive held its Bitcoin treasury unchanged at 19,864 BTC last week, maintaining $141.7 million in cash.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new\" rel=\"nofollow\">Strive (ASST) Holds 19,864 BTC With No New Purchases Last Week, Balance Sheet Hits $141.7M Cash</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/strive-asst-holds-19864-btc-no-new",
-          "published": "2026-06-29T15:15:57+00:00",
+          "source": "Decrypt",
+          "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
+          "summary": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
+          "url": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
+          "published": "2026-06-30T15:05:41+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.7717,
+          "compound": -0.7351,
           "label": "BEARISH",
-          "confidence": 0.7717
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.1779,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Anchorage-Digital-and-Binance-Launch-Off-Exchange-Settlement-for-Institutional-Crypto-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto\" rel=\"nofollow\">Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading</a></p>\n<p>Anchorage Digital and Binance launched off-exchange settlement for institutional crypto trading, allowing institutions to trade on Binance while keeping their assets in segregated custody at Anchorage Digital Bank instead of on the exchange.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto\" rel=\"nofollow\">Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto",
+          "published": "2026-06-30T18:45:49+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -162,16 +173,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -281,7 +282,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -291,7 +292,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -316,17 +317,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "UK sets capital, market abuse rules in landmark crypto framework",
-      "summary": "<p>The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation.</p>",
-      "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T23:01:00+00:00",
-      "coins": [],
-      "compound": -0.8442,
-      "label": "BEARISH",
-      "confidence": 0.8442
-    },
-    {
-      "source": "TheBlock",
       "title": "Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases",
       "summary": "<p>\"47 Ronin\" director Carl Rinsch got 30 months in prison for stealing $11M meant for a Netflix show, spent on crypto and Rolls-Royces. </p>",
       "url": "https://www.theblock.co/post/406675/hollywood-director-carl-rinsch-sentenced-to-30-months-for-diverting-11-million-in-tv-production-funds-to-stock-options-crypto-and-luxury-purchases?utm_source=rss&utm_medium=rss",
@@ -337,15 +327,15 @@
       "confidence": 0.7964
     },
     {
-      "source": "TheBlock",
-      "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
-      "summary": "<p>The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money. </p>",
-      "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T19:51:31+00:00",
+      "source": "CoinDesk",
+      "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
+      "published": "2026-06-30T18:39:06+00:00",
       "coins": [],
-      "compound": -0.6908,
+      "compound": -0.7184,
       "label": "BEARISH",
-      "confidence": 0.6908
+      "confidence": 0.7184
     },
     {
       "source": "TheBlock",
@@ -359,26 +349,48 @@
       "confidence": 0.6486
     },
     {
-      "source": "TheBlock",
-      "title": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
-      "summary": "<p>The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is \"far from assured,\" said TD Cowen.</p>",
-      "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T20:38:52+00:00",
+      "source": "CoinDesk",
+      "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
+      "published": "2026-06-30T17:51:57+00:00",
       "coins": [],
-      "compound": 0.6369,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.6369
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
-      "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
-      "summary": "<p>Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday.</p>",
-      "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T01:35:59+00:00",
+      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
+      "summary": "<p>Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.</p>",
+      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T14:57:18+00:00",
       "coins": [],
-      "compound": 0.6124,
+      "compound": 0.5709,
       "label": "BULLISH",
-      "confidence": 0.6124
+      "confidence": 0.5709
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
+      "summary": "Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
+      "url": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen",
+      "published": "2026-06-30T15:50:32+00:00",
+      "coins": [],
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
+      "published": "2026-06-30T16:31:46+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -393,7 +405,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Accounts on Monad",
+      "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
       "summary": "MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
       "url": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
       "published": "2026-06-30T14:01:03+00:00",
@@ -447,11 +459,33 @@
       "confidence": 0.3612
     },
     {
+      "source": "CoinDesk",
+      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
+      "published": "2026-06-30T14:41:59+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "Decrypt",
       "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
       "summary": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
       "url": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short",
       "published": "2026-06-29T17:47:46+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
+      "summary": "<p>The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.\u00a0</p>",
+      "url": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T17:19:48+00:00",
       "coins": [],
       "compound": 0.3182,
       "label": "BULLISH",
@@ -480,15 +514,15 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
-      "summary": "Anthropic\u2019s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
-      "url": "https://decrypt.co/372301/california-strikes-deal-anthropic-bring-claude-ai-state-agencies",
-      "published": "2026-06-29T16:54:09+00:00",
+      "source": "TheBlock",
+      "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
+      "summary": "<p>Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters.</p>",
+      "url": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T14:44:26+00:00",
       "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
+      "compound": -0.25,
+      "label": "BEARISH",
+      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
@@ -510,6 +544,17 @@
       "coins": [],
       "compound": 0.1531,
       "label": "BULLISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are \u2018overblown\u2019",
+      "summary": "<p>William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity.</p>",
+      "url": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T19:34:38+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
       "confidence": 0.1531
     },
     {
@@ -547,7 +592,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+      "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
       "published": "2026-06-30T14:32:33+00:00",
@@ -568,11 +613,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
-      "published": "2026-06-30T06:30:00+00:00",
+      "source": "TheBlock",
+      "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
+      "summary": "<p>\u201cThink Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.</p>",
+      "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T14:49:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
