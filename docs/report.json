@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-30T04:17:10.707478+00:00",
+  "generated_at": "2026-06-30T09:55:29.707228+00:00",
   "total_articles": 55,
   "coins": {
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.7579,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
+          "summary": "<p>BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its\u00a0Digital Asset Custody platform.</p>",
+          "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T16:58:42+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.7579,
+          "label": "BULLISH",
+          "confidence": 0.7579
+        }
+      ],
+      "no_news": false
+    },
     "BNB": {
       "article_count": 1,
       "avg_compound": 0.7351,
@@ -26,51 +50,27 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.4303,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BNY and Circle expand partnership, adding mint and burn capabilities for USDC",
-          "summary": "<p>BNY, the world's largest custodian bank, said it plans to add support for additional stablecoin via its\u00a0Digital Asset Custody platform.</p>",
-          "url": "https://www.theblock.co/post/406581/bny-circle-expand-partnership-adding-mint-burn-capabilities-usdc?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T16:58:42+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.7579,
-          "label": "BULLISH",
-          "confidence": 0.7579
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
-          "published": "2026-06-29T14:46:33+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
       "article_count": 2,
-      "avg_compound": 0.2899,
+      "avg_compound": 0.4304,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP holds $1 support as network activity rises and leverage clears out",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/30/xrp-holds-usd1-support-as-network-activity-rises-and-leverage-clears-out",
+          "published": "2026-06-30T05:15:17+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
         {
           "source": "Decrypt",
           "title": "XRP Ledger's 'Missing Layer' Draws Closer as Developers Test Lending, Credit Features: Ripple",
@@ -83,68 +83,44 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple wants institutions to borrow against tokenized assets on XRPL",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/06/29/emb-3-pm-utc-ripple-wants-institutions-to-borrow-against-tokenized-assets-on-xrpl",
-          "published": "2026-06-29T15:00:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.2009,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.3182,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through \u2018challenging\u2019 weekly slide, joins Russell 1000",
-          "summary": "<p>Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.</p>",
-          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-29T14:46:28+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
-          "summary": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
-          "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
-          "published": "2026-06-29T15:13:16+00:00",
+          "source": "CoinDesk",
+          "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+          "published": "2026-06-30T05:01:09+00:00",
           "coins": [
             "ETH",
+            "SOL",
+            "DOGE",
             "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.076,
+      "avg_compound": -0.1282,
       "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 10,
-      "neutral": 4,
+      "bullish": 8,
+      "bearish": 12,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -188,14 +164,67 @@
       ],
       "no_news": false
     },
+    "DOGE": {
+      "article_count": 2,
+      "avg_compound": 0.1121,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
+          "summary": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
+          "url": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
+          "published": "2026-06-30T09:20:00+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": 0.5423,
+          "label": "BULLISH",
+          "confidence": 0.5423
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+          "published": "2026-06-30T05:01:09+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
+      "article_count": 2,
+      "avg_compound": -0.064,
+      "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether trades at 7% to 10% premium in India. Exchanges say it's just supply and demand",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/30/usdt-s-premium-in-india-jumps-to-10-exchanges-say-its-just-supply-and-demand",
+          "published": "2026-06-30T04:59:04+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.128,
+          "label": "BEARISH",
+          "confidence": 0.128
+        },
         {
           "source": "Decrypt",
           "title": "Ukraine Takes $8.3M in Seized Crypto Under State Management in a First",
@@ -204,6 +233,60 @@
           "published": "2026-06-29T10:48:33+00:00",
           "coins": [
             "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.0279,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitmine lifts Ethereum treasury to 5.7 million ETH through \u2018challenging\u2019 weekly slide, joins Russell 1000",
+          "summary": "<p>Bitmine added 27,084 ETH last week, bringing total holdings to 5.70M coins worth $8.9B as the company hits 94% of its 5% ETH supply target.</p>",
+          "url": "https://www.theblock.co/post/406538/bitmine-lifts-ethereum-treasury-to-5-7-million-eth-through-challenging-weekly-slide-joins-russell-1000?utm_source=rss&utm_medium=rss",
+          "published": "2026-06-29T14:46:28+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana and dogecoin slide as Strategy's bitcoin sales plan pressures market",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/06/30/ether-solana-and-dogecoin-slide-as-strategy-s-bitcoin-sales-plan-pressures-market",
+          "published": "2026-06-30T05:01:09+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee's BitMine Adds $43 Million in Ethereum as Strategy Halts Bitcoin Buys",
+          "summary": "BitMine Immersion Technologies continued adding to its Ethereum stockpile, even as its Bitcoin counterpart Strategy stood pat.",
+          "url": "https://decrypt.co/372294/tom-lee-bitmine-43-million-ethereum-strategy-halts-bitcoin-buys",
+          "published": "2026-06-29T15:13:16+00:00",
+          "coins": [
+            "ETH",
+            "BTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -233,16 +316,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -312,16 +385,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -344,6 +407,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
+      "summary": "<p>Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspiracy involving cryptocurrency.</p>",
+      "url": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T05:46:32+00:00",
+      "coins": [],
+      "compound": -0.9349,
+      "label": "BEARISH",
+      "confidence": 0.9349
+    },
     {
       "source": "TheBlock",
       "title": "UK sets capital, market abuse rules in landmark crypto framework",
@@ -379,14 +453,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "BlackRock\u2019s Aladdin platform adds deeper support for Ethena\u2019s stablecoin products",
-      "summary": "<p>The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'</p>",
-      "url": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-29T13:00:00+00:00",
+      "title": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
+      "summary": "<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.</p>",
+      "url": "https://www.theblock.co/post/406652/kalshi-restraining-order-michigan?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T09:23:07+00:00",
       "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
+      "compound": -0.6486,
+      "label": "BEARISH",
+      "confidence": 0.6486
     },
     {
       "source": "TheBlock",
@@ -467,6 +541,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework",
+      "summary": "<p>Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new active two-way capital management framework.</p>",
+      "url": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T08:57:57+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
       "title": "JPMorgan execs draw comparison between yield stablecoins and \u2018shadow banking\u2019",
       "summary": "<p>JPMorgan execs argued that stablecoin innovation can easily drift into \u201cshadow banking\u201d if yield payments are permitted.</p>",
       "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking?utm_source=rss&utm_medium=rss",
@@ -499,17 +584,6 @@
       "confidence": 0.2263
     },
     {
-      "source": "CoinDesk",
-      "title": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/mica-july-1-deadline-could-leave-10-million-crypto-users-searching-for-a-new-platform-in-the-eu",
-      "published": "2026-06-29T15:03:53+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "Decrypt",
       "title": "California Strikes Deal With Anthropic to Bring Claude AI to State Agencies",
       "summary": "Anthropic\u2019s agreement makes Claude the first AI tool available to all state agencies and local governments, at half price.",
@@ -519,6 +593,17 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
+      "published": "2026-06-30T09:54:50+00:00",
+      "coins": [],
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
     },
     {
       "source": "Decrypt",
@@ -555,6 +640,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
+      "published": "2026-06-30T06:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "J.P. Morgan broadens blockchain settlement network as banks modernize cross-border payments",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/06/29/j-p-morgan-broadens-blockchain-settlement-network-as-banks-modernize-cross-border-payments",
@@ -570,50 +666,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/06/29/crypto-analytics-firm-chainalysis-proposes-standards-for-blockchain-tracing",
       "published": "2026-06-29T15:07:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ukraine transfers $8.3 million in seized crypto amid potential plans for strategic reserve",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/ukraine-transfers-usd8-3-million-in-seized-crypto-amid-potential-plans-for-strategic-reserve",
-      "published": "2026-06-29T14:03:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock pushes deeper into DeFi with Ethena integration, sending ENA up 8%",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/blackrock-pushes-deeper-into-defi-with-ethena-integration-sending-ena-up-8",
-      "published": "2026-06-29T14:02:10+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi and Polymarket could become M&A targets as prediction markets consolidate: Bernstein",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/kalshi-and-polymarket-could-become-m-and-a-targets-as-prediction-markets-consolidate-bernstein",
-      "published": "2026-06-29T12:56:42+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
-      "summary": "From AI to brain implants, cyberpunk got more right than many people realize. Its biggest prediction, however, wasn't the technology.",
-      "url": "https://decrypt.co/372248/future-cyberpunk-imagined-here",
-      "published": "2026-06-28T13:01:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
