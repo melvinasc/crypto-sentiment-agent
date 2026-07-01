@@ -1,30 +1,117 @@
 {
-  "generated_at": "2026-07-01T14:52:37.019444+00:00",
+  "generated_at": "2026-07-01T20:05:37.208399+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3214,
+    "SOL": {
+      "article_count": 4,
+      "avg_compound": 0.5681,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 4,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
-          "published": "2026-07-01T11:15:00+00:00",
+          "source": "Decrypt",
+          "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
+          "summary": "Shares in top Solana treasury firm Forward Industries are jumping Wedesday after announcing that it added over 500,000 SOL to its stash.",
+          "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
+          "published": "2026-07-01T15:09:05+00:00",
           "coins": [
-            "XRP",
-            "BTC",
+            "SOL"
+          ],
+          "compound": 0.7783,
+          "label": "BULLISH",
+          "confidence": 0.7783
+        },
+        {
+          "source": "TheBlock",
+          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
+          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T13:18:25+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "TheBlock",
+          "title": "Solana-based prediction market app on Phantom wallet launches",
+          "summary": "<p>\u201cPrediction markets are one of the most powerful applications you can build on a high-performance blockchain,\u201d said Solana Foundation.</p>",
+          "url": "https://www.theblock.co/post/406900/solana-based-prediction-market-app-on-phantom-wallet-launches?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T15:34:21+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4754,
+          "label": "BULLISH",
+          "confidence": 0.4754
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 8,
+      "avg_compound": 0.2156,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 1,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
+          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T13:18:25+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "TheBlock",
+          "title": "\u2018An honest, neutral counterpart:\u2019 Bitmine, Sharplink and Joe Lubin back new Ethereum Institutional non-profit",
+          "summary": "<p>Bitmine, Sharplink and Consensys CEO Joseph Lubin are backing another Ethereum-focused non-profit called the Ethereum Institutional.</p>",
+          "url": "https://www.theblock.co/post/406920/neutral-counterpart-bitmine-sharplink-joe-lubin-back-ethereum-institutional-non-profit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T16:44:52+00:00",
+          "coins": [
             "ETH"
           ],
-          "compound": 0.4404,
+          "compound": 0.5267,
           "label": "BULLISH",
-          "confidence": 0.4404
+          "confidence": 0.5267
         },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum gets a new nonprofit focused on institutional adoption",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
+          "published": "2026-07-01T13:41:44+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
           "title": "Ripple, Coinbase among top donors in crypto\u2019s $189 million election spending: report",
@@ -41,118 +128,64 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.3185,
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0787,
       "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
+      "bullish": 9,
+      "bearish": 7,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
-          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
-          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-01T13:18:25+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Citi-to-Integrate-Bitcoin-with-Traditional-Finance-Launch-Custody-Services.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000\" rel=\"nofollow\">Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits</a></p>\n<p>Citi sharply lowered its 12-month Bitcoin price target to $82,000, citing collapsing ETF demand, weaker investor sentiment and delayed U.S. crypto legislation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000\" rel=\"nofollow\">Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000",
+          "published": "2026-07-01T16:18:45+00:00",
           "coins": [
-            "ETH",
-            "SOL"
+            "BTC"
           ],
-          "compound": 0.6369,
-          "label": "BULLISH",
-          "confidence": 0.6369
+          "compound": -0.9231,
+          "label": "BEARISH",
+          "confidence": 0.9231
         },
         {
-          "source": "CoinDesk",
-          "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
-          "summary": "",
-          "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
-          "published": "2026-07-01T13:00:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "SEC\u2019s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing\" rel=\"nofollow\">SEC&#8217;s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape</a></p>\n<p>SEC leaders Hester Peirce and Paul Atkins said the U.S. is moving toward clearer crypto rules and freer capital markets, with Peirce expecting the Clarity Act to pass this summer and Atkins reaffirming the Trump administration's push to make America the global crypto hub.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing\" rel=\"nofollow\">SEC&#8217;s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
+          "published": "2026-07-01T14:56:51+00:00",
           "coins": [
-            "SOL"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.2915,
-      "overall": "BULLISH",
-      "bullish": 5,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
-          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
-          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-01T13:18:25+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.6369,
+          "compound": 0.8402,
           "label": "BULLISH",
-          "confidence": 0.6369
+          "confidence": 0.8402
         },
         {
-          "source": "CoinDesk",
-          "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
-          "published": "2026-07-01T11:15:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Moody\u2019s Flags Quantum Threat to Bitcoin and Digital Assets After Trump Orders",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Moodys-Flags-Quantum-Threat-to-Bitcoin-and-Digital-Assets-After-Trump-Orders.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/moodys-flags-quantum-threat-to-bitcoin\" rel=\"nofollow\">Moody&#8217;s Flags Quantum Threat to Bitcoin and Digital Assets After Trump Orders</a></p>\n<p>Moody's warned that President Trump's new quantum computing executive orders accelerate the need for Bitcoin and the broader digital asset industry to adopt quantum-resistant cryptography.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/moodys-flags-quantum-threat-to-bitcoin\" rel=\"nofollow\">Moody&#8217;s Flags Quantum Threat to Bitcoin and Digital Assets After Trump Orders</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/moodys-flags-quantum-threat-to-bitcoin",
+          "published": "2026-07-01T19:37:11+00:00",
           "coins": [
-            "XRP",
-            "BTC",
-            "ETH"
+            "BTC"
           ],
-          "compound": 0.4404,
-          "label": "BULLISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "Decrypt",
-          "title": "Sharplink Buys Ethereum for First Time in 2026\u2014With ETH Down 68% From Peak",
-          "summary": "Ethereum treasury firm Sharplink purchased around $16 million worth of ETH last week, marking its first crypto buy since last year.",
-          "url": "https://decrypt.co/372432/harplink-buys-ethereum-first-time-2026-eth-down",
-          "published": "2026-06-30T15:54:01+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": -0.836,
+          "label": "BEARISH",
+          "confidence": 0.836
         }
       ],
       "no_news": false
     },
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.2593,
-      "overall": "BULLISH",
-      "bullish": 1,
+      "article_count": 1,
+      "avg_compound": 0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
-          "summary": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
-          "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
-          "published": "2026-06-30T17:38:12+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.4927,
-          "label": "BULLISH",
-          "confidence": 0.4927
-        },
         {
           "source": "Decrypt",
           "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
@@ -170,77 +203,39 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0802,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 11,
-      "neutral": 2,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/tn-7.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries\" rel=\"nofollow\">One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries</a></p>\n<p>Bitcoin users facing travel or emergency scenarios benefit from Coldcard Q\u2019s mature Key Teleport implementation, which outperforms traditional Tails-OS + PGP setups and resisted advanced AI decryption attempts.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries\" rel=\"nofollow\">One Year Later: How Coldcard Q\u2019s Key Teleport Delivers Secure Remote Key Management for Bitcoin Treasuries</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/technical/one-year-later-how-coldcard-qs-key-teleport-delivers-secure-remote-key-management-for-bitcoin-treasuries",
-          "published": "2026-06-30T16:54:49+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8555,
-          "label": "BULLISH",
-          "confidence": 0.8555
-        },
-        {
           "source": "Decrypt",
-          "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
-          "summary": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
-          "url": "https://decrypt.co/372422/td-cowen-slashes-strategy-price-target-bitcoin-weakness",
-          "published": "2026-06-30T15:05:41+00:00",
+          "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
+          "summary": "Open USD\u00a0takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
+          "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
+          "published": "2026-07-01T12:31:07+00:00",
           "coins": [
-            "BTC"
+            "USDC",
+            "USDT"
           ],
-          "compound": -0.7351,
-          "label": "BEARISH",
-          "confidence": 0.7351
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Crypto-Legislation-Nears-Finish-Line-as-JPMorgan-Sees-Breakthrough-on-Negotiations-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill\" rel=\"nofollow\">JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline</a></p>\n<p>JPMorgan urged Congress to pass clear digital asset legislation with robust safeguards, warning that without robust oversight, crypto innovation could create shadow-banking risks and undermine financial stability.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill\" rel=\"nofollow\">JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill",
-          "published": "2026-06-29T19:20:56+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7231,
-          "label": "BEARISH",
-          "confidence": 0.7231
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.0749,
-      "overall": "BEARISH",
+      "article_count": 2,
+      "avg_compound": 0.0242,
+      "overall": "NEUTRAL",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
-          "summary": "<p>Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London High Court over unauthorized crypto derivatives sale claims.</p>",
-          "url": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-01T10:31:18+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
-        },
         {
           "source": "Decrypt",
           "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -271,27 +266,26 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "UNI": {
       "article_count": 1,
-      "avg_compound": 0.0258,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
-          "summary": "Open USD\u00a0takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
-          "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
-          "published": "2026-07-01T12:31:07+00:00",
+          "source": "TheBlock",
+          "title": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
+          "summary": "<p>Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap from day one.</p>",
+          "url": "https://www.theblock.co/post/406918/robinhood-chain-goes-live-mainnet-alongside-24-7-tokenized-stocks-lighter-perps-planned-crypto-agentic-trading?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T18:45:00+00:00",
           "coins": [
-            "USDC",
-            "USDT"
+            "UNI"
           ],
-          "compound": 0.0258,
+          "compound": 0.0,
           "label": "NEUTRAL",
-          "confidence": 0.0258
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -405,30 +399,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
-      "summary": "<p>A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.</p>",
-      "url": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T01:58:40+00:00",
-      "coins": [],
-      "compound": -0.9274,
-      "label": "BEARISH",
-      "confidence": 0.9274
-    },
     {
       "source": "TheBlock",
       "title": "Symbiotic officially pivots to collateral markets with Core V2 launch",
@@ -439,17 +412,6 @@
       "compound": 0.8481,
       "label": "BULLISH",
       "confidence": 0.8481
-    },
-    {
-      "source": "TheBlock",
-      "title": "Shanghai court sentences five to prison over $29 million crypto forex scheme",
-      "summary": "<p>In July 2024, Chinese authorities discovered unusual transactions tied to a company that facilitated illegal overseas transfers via crypto.</p>",
-      "url": "https://www.theblock.co/post/406827/china-sentences-five-prison-crypto-foreign-exchange?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T07:48:06+00:00",
-      "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
-      "confidence": 0.7717
     },
     {
       "source": "Decrypt",
@@ -463,17 +425,6 @@
       "confidence": 0.765
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea moves to prosecute crypto whale for alleged pump-and-dump scheme",
-      "summary": "<p>The suspect allegedly inflated a token's price on overseas platforms before dumping their holdings on a domestic exchange.</p>",
-      "url": "https://www.theblock.co/post/406834/south-korea-prosecute-crypto-whale?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T09:31:52+00:00",
-      "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
-      "confidence": 0.7351
-    },
-    {
       "source": "CoinDesk",
       "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
       "summary": "",
@@ -485,33 +436,11 @@
       "confidence": 0.5719
     },
     {
-      "source": "Decrypt",
-      "title": "Dutch Prosecutors Seek to Bankrupt Crypto Platform Knaken After Funds Frozen",
-      "summary": "Prosecutors asked a Rotterdam court to wind up the unlicensed exchange, which has locked some 30,000 customers out of their crypto.",
-      "url": "https://decrypt.co/372433/dutch-prosecutors-seek-to-bankrupt-crypto-platform-knaken-after-funds-frozen",
-      "published": "2026-06-30T15:50:32+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "CoinDesk",
       "title": "Morpho poised to scale as DeFi infrastructure play, Standard Chartered says",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
       "published": "2026-07-01T13:46:40+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "TheBlock",
-      "title": "President Trump\u2019s financial disclosures show hundreds of millions in crypto-related income",
-      "summary": "<p>Trump disclosed over $65 million from equity sales and $236 million in World Liberty token proceeds.</p>",
-      "url": "https://www.theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T22:16:29+00:00",
       "coins": [],
       "compound": 0.5267,
       "label": "BULLISH",
@@ -529,15 +458,15 @@
       "confidence": 0.5023
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Wallet MetaMask Launches Yield-Paying Money Account on Monad",
-      "summary": "MetaMask is packaging stablecoin yield, payments, and trading into a single self-custody account as crypto firms compete to make digital dollars more useful.",
-      "url": "https://decrypt.co/372298/crypto-wallet-metamask-yield-paying-money-accounts-monad",
-      "published": "2026-06-30T14:01:03+00:00",
+      "source": "CoinDesk",
+      "title": "Jefferies warns against buying the dip in Circle as Open USD raises new competition fears",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/01/jefferies-warns-against-buying-the-dip-in-circle-as-open-usd-raises-new-competition-fears",
+      "published": "2026-07-01T16:11:50+00:00",
       "coins": [],
-      "compound": 0.4927,
-      "label": "BULLISH",
-      "confidence": 0.4927
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
     },
     {
       "source": "TheBlock",
@@ -549,6 +478,28 @@
       "compound": 0.4404,
       "label": "BULLISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goliath Ventures CEO pleads guilty in $400 million crypto Ponzi case",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/01/goliath-ventures-ceo-pleads-guilty-in-usd400-million-crypto-ponzi-case",
+      "published": "2026-07-01T15:06:22+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
+      "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
+      "url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
+      "published": "2026-07-01T16:24:07+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
     },
     {
       "source": "Decrypt",
@@ -573,44 +524,44 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
-      "published": "2026-07-01T11:42:22+00:00",
+      "source": "Decrypt",
+      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
+      "summary": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
+      "url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
+      "published": "2026-07-01T16:36:39+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.25,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.25
     },
     {
       "source": "Decrypt",
-      "title": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
-      "summary": "A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.",
-      "url": "https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
-      "published": "2026-06-30T20:30:15+00:00",
+      "title": "UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'",
+      "summary": "A 40-scientist panel found that AI capabilities are outrunning both scientific understanding and government oversight.",
+      "url": "https://decrypt.co/372543/un-ai-safety-panel-scientists-catastrophic-harm",
+      "published": "2026-07-01T19:05:50+00:00",
       "coins": [],
-      "compound": -0.2732,
+      "compound": 0.233,
+      "label": "BULLISH",
+      "confidence": 0.233
+    },
+    {
+      "source": "Decrypt",
+      "title": "CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat",
+      "summary": "Analysts don't think the threat of a new stablecoin launch was enough to warrant a major Circle (CRCL) sell-off on Tuesday.",
+      "url": "https://decrypt.co/372531/crcl-sell-off-overdone-analysts-circle-ceo-open-usd-threat",
+      "published": "2026-07-01T17:42:09+00:00",
+      "coins": [],
+      "compound": -0.1591,
       "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "FCA Finalizes Landmark Crypto Rules to Make UK a 'Global Hub'",
-      "summary": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
-      "url": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
-      "published": "2026-06-30T10:58:51+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1591
     },
     {
       "source": "TheBlock",
-      "title": "Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector",
-      "summary": "<p>The law requires crypto platforms to obtain licenses from the Financial Supervisory Commission before operating.</p>",
-      "url": "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T04:25:45+00:00",
+      "title": "\u2018We desperately need legislation that includes an agreement on ethics:\u2019 Trump financial filing adds urgency to crypto bill negotiations",
+      "summary": "<p>Trump's financial disclosure, revealing millions in crypto-related income, is adding urgency to write ethics restrictions into a crypto bill.</p>",
+      "url": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T19:03:57+00:00",
       "coins": [],
       "compound": 0.1531,
       "label": "BULLISH",
@@ -629,6 +580,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Robinhood rolls out public blockchain as it expands deeper into crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/01/robinhood-rolls-out-public-blockchain-as-it-expands-deeper-into-crypto",
+      "published": "2026-07-01T18:25:00+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
       "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
@@ -637,17 +599,6 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
-      "published": "2026-07-01T12:29:17+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -677,6 +628,17 @@
       "summary": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
       "url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
       "published": "2026-06-30T20:46:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Venice AI raises $65 million Series A at $1 billion equity valuation led by Dragonfly",
+      "summary": "<p>Erik Voorhees' crypto-AI startup Venice has raised $65 million in a Series A funding round at a $1 billion equity valuation, led by Dragonfly.</p>",
+      "url": "https://www.theblock.co/post/406934/venice-ai-funding-equity-valuation-dragonfly?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T18:24:45+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
