@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:09:05.584820+00:00",
+  "generated_at": "2026-07-01T04:45:26.093418+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -88,12 +88,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.2432,
+      "article_count": 18,
+      "avg_compound": -0.1519,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 14,
-      "neutral": 0,
+      "bullish": 6,
+      "bearish": 11,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -109,19 +109,6 @@
           "confidence": 0.8555
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window\" rel=\"nofollow\">Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess</a></p>\n<p>Clarity Act enters a critical two-week stretch as Senate negotiators race to resolve disputes over Trump ethics provisions, law enforcement concerns, and market structure rules before a narrow pre-August recess window for a floor vote.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window\" rel=\"nofollow\">Clarity Act Enters Critical Two-Week Window as Senate Heads Into Recess</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/clarity-act-enters-critical-2-week-window",
-          "published": "2026-06-29T17:19:43+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7845,
-          "label": "BEARISH",
-          "confidence": 0.7845
-        },
-        {
           "source": "Decrypt",
           "title": "TD Cowen Slashes Strategy Price Target, Citing Ongoing Bitcoin Weakness",
           "summary": "Strategy's stock price started sliding again on Tuesday, one day after breaking a nine-day losing streak.",
@@ -133,18 +120,44 @@
           "compound": -0.7351,
           "label": "BEARISH",
           "confidence": 0.7351
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Crypto-Legislation-Nears-Finish-Line-as-JPMorgan-Sees-Breakthrough-on-Negotiations-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill\" rel=\"nofollow\">JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline</a></p>\n<p>JPMorgan urged Congress to pass clear digital asset legislation with robust safeguards, warning that without robust oversight, crypto innovation could create shadow-banking risks and undermine financial stability.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill\" rel=\"nofollow\">JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/jpmorgan-backs-u-s-crypto-bill",
+          "published": "2026-06-29T19:20:56+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7231,
+          "label": "BEARISH",
+          "confidence": 0.7231
         }
       ],
       "no_news": false
     },
     "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.1779,
-      "overall": "BEARISH",
-      "bullish": 0,
+      "article_count": 2,
+      "avg_compound": 0.0242,
+      "overall": "NEUTRAL",
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+          "summary": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
+          "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
+          "published": "2026-06-30T21:16:18+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
@@ -306,25 +319,14 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Self-exiled Chinese billionaire sentenced to 30 years for fraud involving crypto",
-      "summary": "<p>Guo was arrested in 2023 for orchestrating a more than $1 billion fraud conspiracy involving cryptocurrency.</p>",
-      "url": "https://www.theblock.co/post/406639/chinese-billionaire-sentenced-30-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T05:46:32+00:00",
+      "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+      "summary": "<p>A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.</p>",
+      "url": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T01:58:40+00:00",
       "coins": [],
-      "compound": -0.9349,
+      "compound": -0.9274,
       "label": "BEARISH",
-      "confidence": 0.9349
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hollywood director Carl Rinsch sentenced to 30 months for diverting $11 million in TV production funds to stock options, crypto and luxury purchases",
-      "summary": "<p>\"47 Ronin\" director Carl Rinsch got 30 months in prison for stealing $11M meant for a Netflix show, spent on crypto and Rolls-Royces. </p>",
-      "url": "https://www.theblock.co/post/406675/hollywood-director-carl-rinsch-sentenced-to-30-months-for-diverting-11-million-in-tv-production-funds-to-stock-options-crypto-and-luxury-purchases?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T10:57:53+00:00",
-      "coins": [],
-      "compound": -0.7964,
-      "label": "BEARISH",
-      "confidence": 0.7964
+      "confidence": 0.9274
     },
     {
       "source": "CoinDesk",
@@ -338,15 +340,15 @@
       "confidence": 0.7184
     },
     {
-      "source": "TheBlock",
-      "title": "Kalshi hit with 14-day restraining order in Michigan, blocking sports prediction markets in state",
-      "summary": "<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.</p>",
-      "url": "https://www.theblock.co/post/406652/kalshi-restraining-order-michigan?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T09:23:07+00:00",
+      "source": "CoinDesk",
+      "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill",
+      "published": "2026-06-30T23:02:46+00:00",
       "coins": [],
-      "compound": -0.6486,
+      "compound": -0.5994,
       "label": "BEARISH",
-      "confidence": 0.6486
+      "confidence": 0.5994
     },
     {
       "source": "CoinDesk",
@@ -393,15 +395,15 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "China Has Its Own Mythos Now, Says Qihoo 360 Founder. And One Version Is Free",
-      "summary": "Qihoo 360 unveiled a homegrown vulnerability-hunting AI this week\u2014and Z.ai went further, releasing comparable capabilities as open-weight code anyone can download.",
-      "url": "https://decrypt.co/372345/china-has-own-mythos-now-one-version-free",
-      "published": "2026-06-29T20:16:48+00:00",
+      "source": "TheBlock",
+      "title": "President Trump\u2019s financial disclosures show hundreds of millions in crypto-related income",
+      "summary": "<p>Trump disclosed over $65 million from equity sales and $236 million in World Liberty token proceeds.</p>",
+      "url": "https://www.theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T22:16:29+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": 0.5267,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
@@ -416,36 +418,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Securitize to debut on NYSE this Thursday after gaining final nod for merger",
-      "summary": "<p>Securitize announced that shareholders of Cantor have greenlit the business combination, which is expected to close on Wednesday.\u00a0</p>",
-      "url": "https://www.theblock.co/post/406634/securitize-nyse-debut-thursday?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T02:45:02+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
-      "title": "Meta Unveils New Tech That Uses AI to Translate Brain Activity Into Text\u2014Without Surgery",
-      "summary": "Meta says its latest Brain2Qwerty system translates brain activity into sentences using non-invasive brain recordings, improving the accuracy of AI-powered neural decoding.",
-      "url": "https://decrypt.co/372338/meta-brain2qwerty-ai-brain-activity-text",
-      "published": "2026-06-29T18:47:41+00:00",
+      "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
+      "summary": "<p>Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.</p>",
+      "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
+      "published": "2026-06-30T21:09:48+00:00",
       "coins": [],
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "Benchmark sees over 500% upside in Strategy, reiterates $570 target on new capital framework",
-      "summary": "<p>Benchmark reiterated its Buy rating and $570 target on Strategy, citing its new active two-way capital management framework.</p>",
-      "url": "https://www.theblock.co/post/406645/benchmark-sees-500-percent-upside-strategy?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T08:57:57+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -464,17 +444,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
       "published": "2026-06-30T14:41:59+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Galaxy Slashes Clarity Act's 2026 Odds to 50% as Senate Time Runs Short",
-      "summary": "The digital asset firm cut its odds of the market structure bill passing this year to a coin toss, pointing to a shrinking Senate calendar.",
-      "url": "https://decrypt.co/372316/galaxy-slashes-clarity-acts-2026-odds-to-50-as-senate-time-runs-short",
-      "published": "2026-06-29T17:47:46+00:00",
       "coins": [],
       "compound": 0.3182,
       "label": "BULLISH",
@@ -503,15 +472,15 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "published": "2026-06-30T10:08:48+00:00",
+      "source": "Decrypt",
+      "title": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
+      "summary": "A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.",
+      "url": "https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
+      "published": "2026-06-30T20:30:15+00:00",
       "coins": [],
-      "compound": -0.296,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.296
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -526,14 +495,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "SEC wins $5.5 million default judgment over alleged fake crypto platform NanoBit",
+      "title": "Companies spending the most on AI are growing jobs, Ramp study finds",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/sec-wins-usd5-5-million-default-judgment-over-alleged-fake-crypto-platform-nanobit",
-      "published": "2026-06-30T09:54:50+00:00",
+      "url": "https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds",
+      "published": "2026-06-30T20:21:49+00:00",
       "coins": [],
-      "compound": 0.1531,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -541,6 +510,17 @@
       "summary": "The UK regulator has published its final rulebook for crypto firms ahead of a mandatory regime coming into force in late 2027.",
       "url": "https://decrypt.co/372394/fca-finalizes-landmark-crypto-rules-to-make-uk-a-global-hub",
       "published": "2026-06-30T10:58:51+00:00",
+      "coins": [],
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Taiwan passes key crypto law, clearing legal uncertainty for digital asset sector",
+      "summary": "<p>The law requires crypto platforms to obtain licenses from the Financial Supervisory Commission before operating.</p>",
+      "url": "https://www.theblock.co/post/406816/taiwan-passes-crypto-law?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T04:25:45+00:00",
       "coins": [],
       "compound": 0.1531,
       "label": "BULLISH",
@@ -570,17 +550,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Supreme Court Says Trump Can Fire SEC, CFTC Commissioners at Will\u2014At a Crucial Moment for Crypto",
-      "summary": "The court overturned a 91-year precedent, allowing President Trump to fire key federal regulators whenever he wishes for almost any reason.",
-      "url": "https://decrypt.co/372342/supreme-court-trump-fire-sec-cftc-commissioners-crucial-moment-crypto",
-      "published": "2026-06-29T19:29:41+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "Decrypt",
       "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
       "summary": "A new model built by DeepReinforce is meant for developers who want AI that finishes the job, not just autocompletes the next line.",
       "url": "https://decrypt.co/372361/ornith-open-source-coding-model-built-for-agents",
@@ -592,7 +561,29 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Circle slides 13% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+      "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
+      "published": "2026-06-30T22:28:15+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
+      "published": "2026-06-30T21:00:19+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
       "published": "2026-06-30T14:32:33+00:00",
@@ -607,6 +598,28 @@
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
       "published": "2026-06-30T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
+      "summary": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
+      "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
+      "published": "2026-06-30T20:51:44+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
+      "summary": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
+      "url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
+      "published": "2026-06-30T20:46:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
