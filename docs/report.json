@@ -1,75 +1,120 @@
 {
-  "generated_at": "2026-07-01T10:04:57.193461+00:00",
+  "generated_at": "2026-07-01T14:52:37.019444+00:00",
   "total_articles": 55,
   "coins": {
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.5423,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "'47 Ronin' Director Gets 30 Months for Spending Netflix's $11M on Dogecoin",
-          "summary": "Carl Rinsch gambled Netflix's $11 million on stock options and Dogecoin, then spent the winnings on luxury cars and watches.",
-          "url": "https://decrypt.co/372391/47-ronin-director-gets-30-months-for-spending-netflixs-11m-on-dogecoin",
-          "published": "2026-06-30T09:20:00+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": 0.5423,
-          "label": "BULLISH",
-          "confidence": 0.5423
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.4927,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
-          "summary": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
-          "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
-          "published": "2026-06-30T17:38:12+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.4927,
-          "label": "BULLISH",
-          "confidence": 0.4927
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
+    "XRP": {
       "article_count": 2,
-      "avg_compound": 0.4643,
+      "avg_compound": 0.3214,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Sharplink buys 10,000 ETH, repurchases 2.13 million SBET shares in latest buyback",
-          "summary": "<p>Sharplink bought 10,000 ETH and repurchased 2.13 million SBET shares after completing a $75 million capital raise.</p>",
-          "url": "https://www.theblock.co/post/406721/sharplink-buys-10000-eth-repurchases-2-13-million-shares-latest-buyback?utm_source=rss&utm_medium=rss",
-          "published": "2026-06-30T13:59:18+00:00",
+          "source": "CoinDesk",
+          "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
+          "published": "2026-07-01T11:15:00+00:00",
           "coins": [
+            "XRP",
+            "BTC",
             "ETH"
           ],
-          "compound": 0.5267,
+          "compound": 0.4404,
           "label": "BULLISH",
-          "confidence": 0.5267
+          "confidence": 0.4404
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple, Coinbase among top donors in crypto\u2019s $189 million election spending: report",
+          "summary": "<p>Crypto firms contributed $189 million to the 2026 midterms, with Ripple, Crypto.com and Coinbase leading corporate donations.</p>",
+          "url": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T10:49:32+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.3185,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
+          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T13:18:25+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Mysterious Solana project World unveiled as fully onchain prediction market",
+          "summary": "",
+          "url": "https://www.coindesk.com/web3/2026/07/01/mysterious-solana-project-world-unveiled-as-fully-onchain-prediction-market",
+          "published": "2026-07-01T13:00:00+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 7,
+      "avg_compound": 0.2915,
+      "overall": "BULLISH",
+      "bullish": 5,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Panther Hollow launches multi-strategy merchant bank focused on compliant RWA and yield strategies",
+          "summary": "<p>Panther is a hybrid merchant bank, fund complex, and incubator focused on Ethereum, Canton, Solana, and StarkNet.</p>",
+          "url": "https://www.theblock.co/post/406875/panther-hollow-launches-multi-strategy-merchant-bank-focused-on-compliant-rwa-and-yield-strategies?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T13:18:25+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP, HYPE funds are the bright spots as investors flee bitcoin, ether ETFs",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/01/xrp-hype-funds-are-the-bright-spots-as-investors-flee-bitcoin-ether-etfs",
+          "published": "2026-07-01T11:15:00+00:00",
+          "coins": [
+            "XRP",
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
         },
         {
           "source": "Decrypt",
@@ -87,37 +132,51 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4215,
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": 0.2593,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "XRP holds above $1 after leverage flush as network activity improves",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/01/xrp-holds-above-usd1-after-leverage-flush-as-network-activity-improves",
-          "published": "2026-07-01T05:30:16+00:00",
+          "source": "Decrypt",
+          "title": "Circle Stock Dives as Coinbase, BlackRock and Visa Back Open USD Stablecoin",
+          "summary": "The forthcoming Open USD has more than 100 major supporters onboard, including Coinbase\u2014a key backer of Circle\u2019s USDC.",
+          "url": "https://decrypt.co/372429/circle-stock-dives-coinbase-blackrock-visa-open-usd-stablecoin",
+          "published": "2026-06-30T17:38:12+00:00",
           "coins": [
-            "XRP"
+            "USDC"
           ],
-          "compound": 0.4215,
+          "compound": 0.4927,
           "label": "BULLISH",
-          "confidence": 0.4215
+          "confidence": 0.4927
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
+          "summary": "Open USD\u00a0takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
+          "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
+          "published": "2026-07-01T12:31:07+00:00",
+          "coins": [
+            "USDC",
+            "USDT"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.2093,
+      "article_count": 20,
+      "avg_compound": -0.0802,
       "overall": "BEARISH",
-      "bullish": 5,
+      "bullish": 7,
       "bearish": 11,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -162,13 +221,26 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.0242,
-      "overall": "NEUTRAL",
+      "article_count": 3,
+      "avg_compound": -0.0749,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Nearly 1,700 UK investors sue Binance, founder CZ over alleged unauthorized derivatives sales",
+          "summary": "<p>Almost 1,700 investors are suing Binance and founder Changpeng Zhao in a London High Court over unauthorized crypto derivatives sale claims.</p>",
+          "url": "https://www.theblock.co/post/406842/uk-investors-sue-binance-cz?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-01T10:31:18+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        },
         {
           "source": "Decrypt",
           "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -199,6 +271,31 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Major New Stablecoin Launch Shakes Incumbents",
+          "summary": "Open USD\u00a0takes a shot at USDC and USDT, with backing from heavy hitters including Visa, Mastercard and Google.",
+          "url": "https://decrypt.co/372513/morning-minute-major-new-stablecoin-launch-shakes-incumbents",
+          "published": "2026-07-01T12:31:07+00:00",
+          "coins": [
+            "USDC",
+            "USDT"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -220,6 +317,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -289,16 +396,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -310,16 +407,6 @@
       "no_news": true
     },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -341,6 +428,17 @@
       "compound": -0.9274,
       "label": "BEARISH",
       "confidence": 0.9274
+    },
+    {
+      "source": "TheBlock",
+      "title": "Symbiotic officially pivots to collateral markets with Core V2 launch",
+      "summary": "<p>Symbiotic now powers shared collateral infrastructure that can support multiple DeFi use cases like insurance, credit, and RWAs.</p>",
+      "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T12:00:03+00:00",
+      "coins": [],
+      "compound": 0.8481,
+      "label": "BULLISH",
+      "confidence": 0.8481
     },
     {
       "source": "TheBlock",
@@ -377,47 +475,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why OpenUSD's 'real threat' that tanked Circle stock still faces a steep uphill battle for adoption",
+      "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/30/why-the-openusd-s-real-threat-that-tanked-circle-stock-still-faces-a-steep-uphill-battle-for-adoption",
-      "published": "2026-06-30T18:39:06+00:00",
-      "coins": [],
-      "compound": -0.7184,
-      "label": "BEARISH",
-      "confidence": 0.7184
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. senators seek to block foreign adversaries from AI technology in new bill",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/u-s-senators-seek-to-block-foreign-adversaries-from-ai-technology-in-new-bill",
-      "published": "2026-06-30T23:02:46+00:00",
-      "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC giving novel ETFs a rethink as it opens comment period on overhauling U.S. rules",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/sec-giving-novel-etfs-a-rethink-as-it-opens-comment-period-on-overhauling-u-s-rules",
-      "published": "2026-06-30T17:51:57+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
+      "published": "2026-07-01T14:00:24+00:00",
       "coins": [],
       "compound": 0.5719,
       "label": "BULLISH",
       "confidence": 0.5719
-    },
-    {
-      "source": "TheBlock",
-      "title": "Visa, Stripe, Coinbase and more join Open USD stablecoin that shares reserve revenue",
-      "summary": "<p>Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.</p>",
-      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:57:18+00:00",
-      "coins": [],
-      "compound": 0.5709,
-      "label": "BULLISH",
-      "confidence": 0.5709
     },
     {
       "source": "Decrypt",
@@ -432,14 +497,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Chinese exile once linked to Trump strategist gets 30-year sentence in $1 billion fraud",
+      "title": "Morpho poised to scale as DeFi infrastructure play, Standard Chartered says",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/chinese-exile-once-linked-to-trump-strategist-gets-30-year-sentence-in-usd1-billion-fraud",
-      "published": "2026-06-30T16:31:46+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
+      "published": "2026-07-01T13:46:40+00:00",
       "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
     },
     {
       "source": "TheBlock",
@@ -451,6 +516,17 @@
       "compound": 0.5267,
       "label": "BULLISH",
       "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe is closing the door on offshore crypto, but it\u2019s leaving the riskiest window open",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open",
+      "published": "2026-07-01T14:00:00+00:00",
+      "coins": [],
+      "compound": -0.5023,
+      "label": "BEARISH",
+      "confidence": 0.5023
     },
     {
       "source": "Decrypt",
@@ -465,43 +541,43 @@
     },
     {
       "source": "TheBlock",
-      "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
-      "summary": "<p>Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.</p>",
-      "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T21:09:48+00:00",
+      "title": "Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield",
+      "summary": "<p>Crypto hacks hit $75.9M across 40 incidents in June, down 7.1% from May, led by the $31M Humanity Protocol exploit, PeckShield said.</p>",
+      "url": "https://www.theblock.co/post/406854/crypto-hack-theft-falls-7-in-june-to-76-million-as-humanity-protocol-tops-list-peckshield?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T11:33:00+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.4404,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "Jefferies warns of crypto market volatility as Clarity Act faces Senate test",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/jefferies-warns-of-crypto-market-volatility-as-clarity-act-faces-senate-test",
-      "published": "2026-06-30T14:41:59+00:00",
+      "source": "Decrypt",
+      "title": "Taiwan Passes Sweeping Crypto Law With Licensing, Stablecoin Rules",
+      "summary": "The new law puts virtual asset firms under FSC oversight for the first time and sets reserve-and-trust rules for stablecoins.",
+      "url": "https://decrypt.co/372505/taiwan-passes-sweeping-crypto-law-with-licensing-stablecoin-rules",
+      "published": "2026-07-01T12:00:33+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
-      "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
-      "summary": "<p>The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.\u00a0</p>",
-      "url": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T17:19:48+00:00",
+      "title": "Europe\u2019s MiCA crypto regime is fully in force: Here\u2019s who wins and loses",
+      "summary": "<p>With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?</p>",
+      "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T11:01:02+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
-      "title": "Anthropic restores AI models Fable, Mythos after the U.S. lifts export controls",
+      "title": "Ark Invest bought more than $75 million of crypto shares during June bloodbath",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/01/anthropic-restores-ai-models-fable-mythos-after-the-u-s-lifts-export-controls",
-      "published": "2026-07-01T06:54:13+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/01/ark-invest-bought-more-than-usd75-million-of-crypto-shares-during-june-bloodbath",
+      "published": "2026-07-01T11:42:22+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -517,28 +593,6 @@
       "compound": -0.2732,
       "label": "BEARISH",
       "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "New Zcash nonprofit Sovright unveils ZEC wallet recovery tool",
-      "summary": "<p>Argos is a recovery tool for users who had shielded funds stuck on ZEC Wallet Lite, an issue impacting some longtime Zcash supporters.</p>",
-      "url": "https://www.theblock.co/post/406731/new-zcash-nonprofit-sovright-unveils-zec-wallet-recovery-tool?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:44:26+00:00",
-      "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Companies spending the most on AI are growing jobs, Ramp study finds",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/30/companies-spending-the-most-on-ai-are-growing-jobs-ramp-study-finds",
-      "published": "2026-06-30T20:21:49+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -564,76 +618,43 @@
     },
     {
       "source": "TheBlock",
-      "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are \u2018overblown\u2019",
-      "summary": "<p>William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity.</p>",
-      "url": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T19:34:38+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Taiwan\u2019s sweeping crypto law raises the bar with licensing, reserve mandates, and tough penalties",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/01/taiwan-s-sweeping-crypto-law-raises-the-bar-with-licensing-reserve-mandates-and-tough-penalties",
-      "published": "2026-07-01T05:04:14+00:00",
+      "title": "The Cross-Asset Frontier: Tokenized Equities and Stock Trading on Crypto Platforms",
+      "summary": "<p>Multi-Asset Trading Terminals The integration of traditional equities into crypto venues represents a fundamental paradigm shift in global trading infrastructure. Rather than managing fragmented positions across siloed traditional brokerages and crypto exchanges, modern cross-asset market participants increasingly demand a singular, frictionless point of access.\u00a0 This structural convergence between crypto and traditional capital markets is punctuated [&hellip;]</p>",
+      "url": "https://www.theblock.co/post/406198/the-cross-asset-frontier-tokenized-equities-and-stock-trading-on-crypto-platforms?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:02:03+00:00",
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
     },
     {
-      "source": "Decrypt",
-      "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
-      "summary": "A new model built by DeepReinforce is meant for developers who want AI that finishes the job, not just autocompletes the next line.",
-      "url": "https://decrypt.co/372361/ornith-open-source-coding-model-built-for-agents",
-      "published": "2026-06-29T21:27:44+00:00",
+      "source": "CoinDesk",
+      "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
+      "published": "2026-07-01T13:32:20+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
-      "title": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
+      "title": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license",
-      "published": "2026-07-01T06:30:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
+      "published": "2026-07-01T12:29:17+00:00",
       "coins": [],
-      "compound": 0.0,
+      "compound": -0.0258,
       "label": "NEUTRAL",
-      "confidence": 0.0
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
-      "title": "Trump pocketed more than $1 billion from crypto ties as industry headed toward slump",
+      "title": "French banking giant Cr\u00e9dit Agricole rolls out euro stablecoin, EURXT",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/06/30/trump-pocketed-more-than-usd1-billion-from-crypto-ties-as-industry-headed-toward-slump",
-      "published": "2026-06-30T22:28:15+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Phantom doubles down on perpetual futures with hire of Hyperliquid market builders",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/30/phantom-doubles-down-on-perpetual-futures-with-hire-of-hyperliquid-market-builders",
-      "published": "2026-06-30T21:00:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle craters 17% as Stripe, Coinbase and BlackRock back rival stablecoin network",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
-      "published": "2026-06-30T14:32:33+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
+      "published": "2026-07-01T13:50:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -663,21 +684,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "OKX AI unveils marketplace for agents to find work and get paid in stablecoins",
-      "summary": "<p>\u201cThink Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.</p>",
-      "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:49:01+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "MetaMask unveils all-in-one Money Account offerings users up to 4% APY on mUSD holdings",
-      "summary": "<p>Consensys tapped Monad as Money Account's \u201chome chain,\" and will initially use Morpho vaults to generate yield.</p>",
-      "url": "https://www.theblock.co/post/406570/metamask-all-in-one-money-account-offerings-users-4-apy-musd-holdings?utm_source=rss&utm_medium=rss",
-      "published": "2026-06-30T14:00:00+00:00",
+      "title": "Bernstein sees 203% upside for Circle even as new stablecoin rival OUSD debuts",
+      "summary": "<p>Bernstein reaffirms Outperform on Circle with a $190 target after OUSD's launch sent CRCL stock down over 17%.</p>",
+      "url": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-01T13:07:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
