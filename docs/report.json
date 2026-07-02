@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-02T04:12:39.002591+00:00",
+  "generated_at": "2026-07-02T09:27:20.776071+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 4,
-      "avg_compound": 0.5681,
+      "article_count": 6,
+      "avg_compound": 0.3787,
       "overall": "BULLISH",
       "bullish": 4,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -53,13 +53,37 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 10,
-      "avg_compound": 0.2127,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.2732,
       "overall": "BULLISH",
-      "bullish": 5,
-      "bearish": 1,
-      "neutral": 4,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Avalanche Treasury stock plunges 73% since debut as company\u2019s AVAX holdings lose value",
+          "summary": "<p>At the end of the first quarter, the company's management raised 'substantial doubt' about its ability to continue operations.</p>",
+          "url": "https://www.theblock.co/post/406990/avalanche-treasury-stock-plunge?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-02T06:28:42+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 9,
+      "avg_compound": 0.2164,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 0,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -105,12 +129,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.1156,
+      "article_count": 21,
+      "avg_compound": 0.1183,
       "overall": "BULLISH",
-      "bullish": 9,
-      "bearish": 7,
-      "neutral": 2,
+      "bullish": 10,
+      "bearish": 6,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -150,6 +174,30 @@
           "compound": -0.836,
           "label": "BEARISH",
           "confidence": 0.836
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP edges higher as whale activity rises while retail traders stay cautious",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious",
+          "published": "2026-07-02T06:20:31+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -204,6 +252,33 @@
       ],
       "no_news": false
     },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana, dogecoin in the green after Warsh comments push bitcoin above $60,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/02/ether-solana-dogecoin-in-the-green-after-warsh-comments-push-bitcoin-above-usd60-000",
+          "published": "2026-07-02T05:22:54+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -238,16 +313,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -259,16 +324,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -347,30 +402,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Symbiotic officially pivots to collateral markets with Core V2 launch",
-      "summary": "<p>Symbiotic now powers shared collateral infrastructure that can support multiple DeFi use cases like insurance, credit, and RWAs.</p>",
-      "url": "https://www.theblock.co/post/406862/symbiotic-officially-pivots-to-collateral-markets-with-core-v2-launch?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T12:00:03+00:00",
-      "coins": [],
-      "compound": 0.8481,
-      "label": "BULLISH",
-      "confidence": 0.8481
-    },
     {
       "source": "Decrypt",
       "title": "Goliath Ventures CEO Pleads Guilty to $250M Crypto Ponzi Scheme",
@@ -383,28 +417,6 @@
       "confidence": 0.765
     },
     {
-      "source": "CoinDesk",
-      "title": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
-      "published": "2026-07-01T14:00:24+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Morpho poised to scale as DeFi infrastructure play, Standard Chartered says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/01/morpho-poised-to-scale-as-defi-infrastructure-play-standard-chartered-says",
-      "published": "2026-07-01T13:46:40+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
       "source": "Decrypt",
       "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
       "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
@@ -414,17 +426,6 @@
       "compound": 0.5267,
       "label": "BULLISH",
       "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Europe is closing the door on offshore crypto, but it\u2019s leaving the riskiest window open",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/01/europe-is-closing-the-door-on-offshore-crypto-but-it-s-leaving-the-riskiest-window-open",
-      "published": "2026-07-01T14:00:00+00:00",
-      "coins": [],
-      "compound": -0.5023,
-      "label": "BEARISH",
-      "confidence": 0.5023
     },
     {
       "source": "CoinDesk",
@@ -447,17 +448,6 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto hack theft falls 7% in June to $76 million as Humanity Protocol tops list: PeckShield",
-      "summary": "<p>Crypto hacks hit $75.9M across 40 incidents in June, down 7.1% from May, led by the $31M Humanity Protocol exploit, PeckShield said.</p>",
-      "url": "https://www.theblock.co/post/406854/crypto-hack-theft-falls-7-in-june-to-76-million-as-humanity-protocol-tops-list-peckshield?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T11:33:00+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -491,6 +481,17 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
+      "published": "2026-07-02T08:35:28+00:00",
+      "coins": [],
+      "compound": 0.3597,
+      "label": "BULLISH",
+      "confidence": 0.3597
     },
     {
       "source": "Decrypt",
@@ -582,21 +583,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Tokenized Google stock inflated 7,700% in rare DeFi lending exploit",
+      "title": "FBI Director Kash Patel caught sleeping on required disclosure of six-figure MSTR investment: Report",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/01/tokenized-google-stock-inflated-7-700-in-rare-defi-lending-exploit",
-      "published": "2026-07-01T13:32:20+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "French banking giant Cr\u00e9dit Agricole rolls out euro stablecoin, EURXT",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
-      "published": "2026-07-01T13:50:24+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/02/fbi-director-kash-patel-caught-sleeping-on-required-disclosure-of-six-figure-mstr-investment",
+      "published": "2026-07-02T05:24:18+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
