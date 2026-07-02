@@ -1,14 +1,119 @@
 {
-  "generated_at": "2026-07-02T14:22:36.868820+00:00",
+  "generated_at": "2026-07-02T19:43:18.293168+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.2784,
+    "AVAX": {
+      "article_count": 3,
+      "avg_compound": 0.3209,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
+          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+          "published": "2026-07-02T18:43:50+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "TheBlock",
+          "title": "Avalanche Treasury stock plunges 73% since debut as company\u2019s AVAX holdings lose value",
+          "summary": "<p>At the end of the first quarter, the company's management raised 'substantial doubt' about its ability to continue operations.</p>",
+          "url": "https://www.theblock.co/post/406990/avalanche-treasury-stock-plunge?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-02T06:28:42+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+          "published": "2026-07-02T19:00:03+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.0772,
+          "label": "BULLISH",
+          "confidence": 0.0772
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.2299,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
+          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+          "published": "2026-07-02T18:43:50+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+          "published": "2026-07-02T19:00:03+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.0772,
+          "label": "BULLISH",
+          "confidence": 0.0772
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff",
+          "published": "2026-07-02T11:27:36+00:00",
+          "coins": [
+            "BTC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": 0.2227,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -38,87 +143,14 @@
         },
         {
           "source": "Decrypt",
-          "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
-          "summary": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-          "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
-          "published": "2026-07-01T20:56:38+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.2732,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Avalanche Treasury stock plunges 73% since debut as company\u2019s AVAX holdings lose value",
-          "summary": "<p>At the end of the first quarter, the company's management raised 'substantial doubt' about its ability to continue operations.</p>",
-          "url": "https://www.theblock.co/post/406990/avalanche-treasury-stock-plunge?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-02T06:28:42+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.2594,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Forward Industries Shares Spike as Leading Solana Treasury Adds $38 Million in SOL",
-          "summary": "Shares in top Solana treasury firm Forward Industries are jumping Wedesday after announcing that it added over 500,000 SOL to its stash.",
-          "url": "https://decrypt.co/372519/forward-industries-shares-spike-solana-treasury-adds-38-million",
-          "published": "2026-07-01T15:09:05+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff",
-          "published": "2026-07-02T11:27:36+00:00",
+          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
+          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
+          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
+          "published": "2026-07-02T17:29:19+00:00",
           "coins": [
             "BTC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
-          "published": "2026-07-02T07:15:21+00:00",
-          "coins": [
-            "SOL"
+            "ETH",
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -151,64 +183,14 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP edges higher as whale activity rises while retail traders stay cautious",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/02/xrp-edges-higher-as-whale-activity-rises-while-retail-traders-stay-cautious",
-          "published": "2026-07-02T06:20:31+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": 0.0189,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 10,
-      "neutral": 5,
+      "article_count": 27,
+      "avg_compound": -0.0873,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 13,
+      "neutral": 8,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Citi-to-Integrate-Bitcoin-with-Traditional-Finance-Launch-Custody-Services.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000\" rel=\"nofollow\">Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits</a></p>\n<p>Citi sharply lowered its 12-month Bitcoin price target to $82,000, citing collapsing ETF demand, weaker investor sentiment and delayed U.S. crypto legislation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000\" rel=\"nofollow\">Citi Slashes Bitcoin Target to $82,000 as ETF Money Heads for the Exits</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/citi-slashes-bitcoin-target-to-82000",
-          "published": "2026-07-01T16:18:45+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9231,
-          "label": "BEARISH",
-          "confidence": 0.9231
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "SEC\u2019s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Congress-Schedules-CLARITY-Act-Hearing-for-July-17-in-New-York.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing\" rel=\"nofollow\">SEC&#8217;s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape</a></p>\n<p>SEC leaders Hester Peirce and Paul Atkins said the U.S. is moving toward clearer crypto rules and freer capital markets, with Peirce expecting the Clarity Act to pass this summer and Atkins reaffirming the Trump administration's push to make America the global crypto hub.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing\" rel=\"nofollow\">SEC&#8217;s Peirce Sees Clarity Act Passing This Summer as Crypto Rules Take Shape</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/secs-peirce-sees-clarity-act-passing",
-          "published": "2026-07-01T14:56:51+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8402,
-          "label": "BULLISH",
-          "confidence": 0.8402
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Moody\u2019s Flags Quantum Threat to Bitcoin and Digital Assets After Trump Orders",
@@ -221,11 +203,37 @@
           "compound": -0.836,
           "label": "BEARISH",
           "confidence": 0.836
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/2036-Issue-Article-Header-2400x1400-Corva.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth\" rel=\"nofollow\">The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth</a></p>\n<p>From The 2036 Issue: An interview with Jeff Booth on where Bitcoin is going over the next decade, by Frank Corva. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth\" rel=\"nofollow\">The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/frank-corva\" rel=\"nofollow\">Frank Corva</a>.</p>",
+          "url": "https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth",
+          "published": "2026-07-01T21:08:13+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8074,
+          "label": "BULLISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Calls-Crypto-Bottom-as-Bitcoin-Price-Recovers-From-59000-Low.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute\" rel=\"nofollow\">Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades</a></p>\n<p>Standard Chartered executed its first digital asset prime brokerage trades with LMAX Group, using its own balance sheet to intermediate institutional Bitcoin trades in a move that advances bank-backed crypto market infrastructure.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute\" rel=\"nofollow\">Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute",
+          "published": "2026-07-01T17:24:11+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
         }
       ],
       "no_news": false
     },
-    "UNI": {
+    "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -234,13 +242,15 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Robinhood Chain goes live on mainnet alongside 24/7 tokenized stocks, Lighter perps and planned crypto agentic trading",
-          "summary": "<p>Robinhood Chain, a Layer 2 built using Arbitrum's tech stack, went live on public mainnet, with partners including Uniswap from day one.</p>",
-          "url": "https://www.theblock.co/post/406918/robinhood-chain-goes-live-mainnet-alongside-24-7-tokenized-stocks-lighter-perps-planned-crypto-agentic-trading?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-01T18:45:00+00:00",
+          "source": "Decrypt",
+          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
+          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
+          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
+          "published": "2026-07-02T17:29:19+00:00",
           "coins": [
-            "UNI"
+            "BTC",
+            "ETH",
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -359,6 +369,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -384,6 +404,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
+      "summary": "Researchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.",
+      "url": "https://decrypt.co/372688/ai-researchers-chatbots-share-cocaine-recipes-wild-trick",
+      "published": "2026-07-02T19:36:58+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
+    },
+    {
+      "source": "Decrypt",
       "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
       "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
       "url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
@@ -405,28 +436,6 @@
       "confidence": 0.4939
     },
     {
-      "source": "TheBlock",
-      "title": "Kalshi and Polymarket\u2019s combined volume surges 75% to $45 billion in June amid World Cup fever",
-      "summary": "<p>Among the three, Kalshi saw the largest month-over-month increase in volume, growing 87.4% to $31.5 billion from $16.81 billion.\u00a0</p>",
-      "url": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T03:33:21+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Bringing Claude Fable 5 Back Online as US Lifts Export Controls",
-      "summary": "The Trump administration reversed its shutdown order after weeks of talks, with Anthropic tying Fable 5's return to a new safety classifier and other moves.",
-      "url": "https://decrypt.co/372524/anthropic-bringing-claude-fable-5-back-online-us-lifts-export-controls",
-      "published": "2026-07-01T16:24:07+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. payroll growth slowed sharply in June, with only 57,000 jobs added",
       "summary": "",
@@ -438,15 +447,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Taiko fully restores cross-chain bridge just 10 days after a $1.7 million hack",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/02/taiko-s-bridge-is-back-online-after-usd1-7-million-hack-and-its-token-is-up-a-staggering-136",
-      "published": "2026-07-02T08:35:28+00:00",
+      "source": "TheBlock",
+      "title": "CFTC\u2019s Selig says Illinois lawmakers \u2018decided they know better\u2019 on crypto tax",
+      "summary": "<p>CFTC Chair Michael Selig sharply criticized Illinois' decision to pass a law that puts into place a 0.2% tax on crypto transactions. </p>",
+      "url": "https://www.theblock.co/post/407094/cftcs-selig-says-illinois-lawmakers-decided-they-know-better-on-crypto-tax?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T19:12:45+00:00",
       "coins": [],
-      "compound": 0.3597,
-      "label": "BULLISH",
-      "confidence": 0.3597
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -460,6 +469,17 @@
       "confidence": 0.34
     },
     {
+      "source": "TheBlock",
+      "title": "Robinhood CEO says future of crypto is in real-world assets, not memecoins",
+      "summary": "<p>Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an \"enduring\" downturn.</p>",
+      "url": "https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T16:05:44+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
       "source": "CoinDesk",
       "title": "Ondo Finance debuts SEC-aligned tokenized stock model with BlackRock ETF, Micron shares",
       "summary": "",
@@ -469,17 +489,6 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ahead of NYSE Listing, Securitize Exec Says DeFi Can Break Wall Street's Grip on Stock Lending",
-      "summary": "Securitize President Brett Redfearn argues that tokenization will bring crypto's core benefit of disintermediation to retail investors.",
-      "url": "https://decrypt.co/372493/ahead-nyse-listing-securitize-defi-break-wall-street-stock-lending",
-      "published": "2026-07-01T16:36:39+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "Decrypt",
@@ -515,37 +524,26 @@
       "confidence": 0.2263
     },
     {
-      "source": "Decrypt",
-      "title": "CRCL Sell-Off 'Looks Overdone' Say Analysts as Circle CEO Addresses Open USD Threat",
-      "summary": "Analysts don't think the threat of a new stablecoin launch was enough to warrant a major Circle (CRCL) sell-off on Tuesday.",
-      "url": "https://decrypt.co/372531/crcl-sell-off-overdone-analysts-circle-ceo-open-usd-threat",
-      "published": "2026-07-01T17:42:09+00:00",
+      "source": "CoinDesk",
+      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
+      "published": "2026-07-02T14:49:05+00:00",
       "coins": [],
-      "compound": -0.1591,
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
+      "summary": "<p>Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low.</p>",
+      "url": "https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T15:46:37+00:00",
+      "coins": [],
+      "compound": -0.1027,
       "label": "BEARISH",
-      "confidence": 0.1591
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
-      "summary": "<p>Circle dropped 1% today after falling nearly 18% on Tuesday following the launch of the rival stablecoin project OUSD.</p>",
-      "url": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T02:20:24+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "TheBlock",
-      "title": "\u2018We desperately need legislation that includes an agreement on ethics:\u2019 Trump financial filing adds urgency to crypto bill negotiations",
-      "summary": "<p>Trump's financial disclosure, revealing millions in crypto-related income, is adding urgency to write ethics restrictions into a crypto bill.</p>",
-      "url": "https://www.theblock.co/post/406953/desperately-need-legislation-on-ethics-trump-financial-filing-adds-urgency-to-crypto-bill-negotiations?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T19:03:57+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -557,6 +555,28 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EToro invests in onchain derivatives platform Extended as brokers race into DeFi",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/02/etoro-invests-in-onchain-derivatives-platform-extended-as-brokers-race-into-defi",
+      "published": "2026-07-02T17:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitwise says STRC selloff signals crypto cycle nearing a bottom, not Strategy\u2019s breaking point",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
+      "published": "2026-07-02T16:51:36+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -582,10 +602,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Venice AI raises $65 million Series A at $1 billion equity valuation led by Dragonfly",
-      "summary": "<p>Erik Voorhees' crypto-AI startup Venice has raised $65 million in a Series A funding round at a $1 billion equity valuation, led by Dragonfly.</p>",
-      "url": "https://www.theblock.co/post/406934/venice-ai-funding-equity-valuation-dragonfly?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T18:24:45+00:00",
+      "title": "eToro leads $12.5 million round in onchain perps exchange Extended",
+      "summary": "<p>\"The partnership will focus on expanding access to global financial markets through next-generation on-chain infrastructure,\" eToro said.</p>",
+      "url": "https://www.theblock.co/post/407093/etoro-leads-12-5-million-round-in-onchain-perps-exchange-extended?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T19:23:16+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
