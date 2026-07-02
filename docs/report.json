@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T20:05:37.208399+00:00",
+  "generated_at": "2026-07-02T04:12:39.002591+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -54,12 +54,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 8,
-      "avg_compound": 0.2156,
+      "article_count": 10,
+      "avg_compound": 0.2127,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 5,
       "bearish": 1,
-      "neutral": 3,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -90,51 +90,27 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Ethereum gets a new nonprofit focused on institutional adoption",
+          "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption",
-          "published": "2026-07-01T13:41:44+00:00",
+          "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+          "published": "2026-07-01T21:13:24+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.3818,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ripple, Coinbase among top donors in crypto\u2019s $189 million election spending: report",
-          "summary": "<p>Crypto firms contributed $189 million to the 2026 midterms, with Ripple, Crypto.com and Coinbase leading corporate donations.</p>",
-          "url": "https://www.theblock.co/post/406851/ripple-coinbase-election-donations?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-01T10:49:32+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0787,
+      "article_count": 18,
+      "avg_compound": 0.1156,
       "overall": "BULLISH",
       "bullish": 9,
       "bearish": 7,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -228,44 +204,6 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.0242,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
-          "summary": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
-          "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
-          "published": "2026-06-30T21:16:18+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Anchorage-Digital-and-Binance-Launch-Off-Exchange-Settlement-for-Institutional-Crypto-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto\" rel=\"nofollow\">Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading</a></p>\n<p>Anchorage Digital and Binance launched off-exchange settlement for institutional crypto trading, allowing institutions to trade on Binance while keeping their assets in segregated custody at Anchorage Digital Bank instead of on the exchange.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto\" rel=\"nofollow\">Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/anchorage-digital-and-binance-crypto",
-          "published": "2026-06-30T18:45:49+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -301,6 +239,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -399,6 +347,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -447,6 +405,17 @@
       "confidence": 0.5267
     },
     {
+      "source": "Decrypt",
+      "title": "Venice AI Valued at $1 Billion as Erik Voorhees Makes the Case for Private ChatGPT Rivals",
+      "summary": "Venice reached a $1 billion valuation as founder Erik Voorhees argued AI companies should protect users' conversations.",
+      "url": "https://decrypt.co/372613/venice-ai-valued-1-billion-erik-voorhees-makes-case-private-chatgpt",
+      "published": "2026-07-01T20:38:40+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
       "source": "CoinDesk",
       "title": "Europe is closing the door on offshore crypto, but it\u2019s leaving the riskiest window open",
       "summary": "",
@@ -467,6 +436,17 @@
       "compound": -0.4939,
       "label": "BEARISH",
       "confidence": 0.4939
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi and Polymarket\u2019s combined volume surges 75% to $45 billion in June amid World Cup fever",
+      "summary": "<p>Among the three, Kalshi saw the largest month-over-month increase in volume, growing 87.4% to $31.5 billion from $16.81 billion.\u00a0</p>",
+      "url": "https://www.theblock.co/post/406983/kalshi-polymarket-volume-45-billion?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T03:33:21+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
     },
     {
       "source": "TheBlock",
@@ -513,14 +493,14 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "Europe\u2019s MiCA crypto regime is fully in force: Here\u2019s who wins and loses",
-      "summary": "<p>With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?</p>",
-      "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-01T11:01:02+00:00",
+      "source": "Decrypt",
+      "title": "LongCat-2.0: The Stealth AI Model That Was Quietly Topping OpenRouter All Along",
+      "summary": "The 1.6 trillion-parameter mixture-of-experts model spent two months disguised as \"Owl Alpha\" before Meituan claimed it\u2014and it undercuts GPT-5.5 and Claude Sonnet 5 on price by a wide margin.",
+      "url": "https://decrypt.co/372579/longcat-2-0-meituan-ai-stealth-model-openrouter",
+      "published": "2026-07-01T20:18:55+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
+      "compound": -0.34,
+      "label": "BEARISH",
       "confidence": 0.34
     },
     {
@@ -555,6 +535,17 @@
       "compound": -0.1591,
       "label": "BEARISH",
       "confidence": 0.1591
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest scoops up $18 million in Circle shares as stock dips 41% over past month",
+      "summary": "<p>Circle dropped 1% today after falling nearly 18% on Tuesday following the launch of the rival stablecoin project OUSD.</p>",
+      "url": "https://www.theblock.co/post/406978/ark-invest-18-million-circle?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T02:20:24+00:00",
+      "coins": [],
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
     },
     {
       "source": "TheBlock",
@@ -606,28 +597,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
       "published": "2026-07-01T13:50:24+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
-      "summary": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
-      "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
-      "published": "2026-06-30T20:51:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
-      "summary": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
-      "url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
-      "published": "2026-06-30T20:46:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
