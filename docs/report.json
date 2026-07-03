@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T14:26:25.819159+00:00",
+  "generated_at": "2026-07-03T19:40:51.331027+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -145,12 +145,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1625,
+      "article_count": 4,
+      "avg_compound": 0.1698,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -169,19 +169,6 @@
         },
         {
           "source": "TheBlock",
-          "title": "Ondo tokenizes BlackRock\u2019s IVV ETF and Micron stock under US custodial model",
-          "summary": "<p>Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.</p>",
-          "url": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-02T13:56:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "TheBlock",
           "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
           "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
           "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
@@ -193,17 +180,31 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
+          "published": "2026-07-03T11:27:44+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.1141,
+      "article_count": 28,
+      "avg_compound": -0.1304,
       "overall": "BEARISH",
       "bullish": 7,
-      "bearish": 14,
-      "neutral": 5,
+      "bearish": 15,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -484,15 +485,15 @@
       "confidence": 0.6249
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
-      "summary": "The market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
-      "url": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
-      "published": "2026-07-02T12:06:26+00:00",
+      "source": "TheBlock",
+      "title": "Grvt and the Rise of Composable Onchain Wealth",
+      "summary": "<p>Perp DEX Market Overview\u00a0 Perp DEX sector growth\u00a0 Perpetual futures have become the dominant instrument in crypto derivatives markets, with the decentralized venues offering them becoming the fastest-growing sector in Web3. Figure 1: Perp DEX share of total crypto perpetuals volume (Perp DEX vs. CEX), March 2024 \u2013 March 2026. Source: The Block, Defillama Total [&hellip;]</p>",
+      "url": "https://www.theblock.co/post/407075/grvt-and-the-rise-of-composable-onchain-wealth?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-03T14:32:02+00:00",
       "coins": [],
-      "compound": 0.6124,
+      "compound": 0.6249,
       "label": "BULLISH",
-      "confidence": 0.6124
+      "confidence": 0.6249
     },
     {
       "source": "CoinDesk",
@@ -528,15 +529,37 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
-      "summary": "The teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
-      "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
-      "published": "2026-07-02T10:00:42+00:00",
+      "source": "CoinDesk",
+      "title": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
+      "published": "2026-07-03T19:18:59+00:00",
       "coins": [],
-      "compound": -0.4939,
+      "compound": -0.5267,
       "label": "BEARISH",
-      "confidence": 0.4939
+      "confidence": 0.5267
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
+      "summary": "Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
+      "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
+      "published": "2026-07-03T17:56:03+00:00",
+      "coins": [],
+      "compound": 0.4976,
+      "label": "BULLISH",
+      "confidence": 0.4976
+    },
+    {
+      "source": "Decrypt",
+      "title": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
+      "summary": "Israeli prosecutors charged a 21-year-old American man with spying for Iran while studying at a seminary in Jerusalem.",
+      "url": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
+      "published": "2026-07-03T14:36:39+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -573,28 +596,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Bitget expands Stock+ platform with US stock options trading",
-      "summary": "<p>Bitget launched U.S. stock options, adding equity derivatives to its Stock+ platform alongside crypto and tokenized stocks.</p>",
-      "url": "https://www.theblock.co/post/407017/bitget-expands-stock-platform-with-us-stock-options-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T13:30:00+00:00",
-      "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/02/us-treasury-sanctions-over-100-isis-k-crypto-addresses-in-latest-enforcement-action",
-      "published": "2026-07-02T14:49:05+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "TheBlock",
       "title": "Bank of Russia governor says \u2018everything is ready\u2019 for widespread use of digital ruble ahead of September rollout",
       "summary": "<p>The central bank is also actively discussing the use of stablecoins for international settlements, but only to complement the digital ruble.</p>",
       "url": "https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss",
@@ -603,17 +604,6 @@
       "compound": 0.1655,
       "label": "BULLISH",
       "confidence": 0.1655
-    },
-    {
-      "source": "TheBlock",
-      "title": "Humanity Protocol repositions toward enterprise AI after $36 million hack, founder says",
-      "summary": "<p>Humanity Protocol founder Terence Kwok says the project is pivoting to enterprise AI after a $36 million exploit, with fund recovery odds low.</p>",
-      "url": "https://www.theblock.co/post/407049/humanity-protocol-repositions-toward-enterprise-ai-after-36-million-hack-founder-says?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T15:46:37+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -654,6 +644,17 @@
       "summary": "Sam Altman is pitching a 5% equity stake in OpenAI for the U.S. government\u2014and reportedly wants every major AI company to do the same.",
       "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
       "published": "2026-07-02T21:39:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
+      "summary": "<p>Samsung and Dunamu are among Korean firms saying they were listed as members of the OUSD stablecoin consortium without prior consultation.</p>",
+      "url": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-03T14:32:14+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
