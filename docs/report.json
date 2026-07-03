@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-02T19:43:18.293168+00:00",
+  "generated_at": "2026-07-03T03:59:05.789625+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
-      "article_count": 3,
-      "avg_compound": 0.3209,
+      "article_count": 2,
+      "avg_compound": 0.3448,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -25,19 +25,6 @@
           "confidence": 0.6124
         },
         {
-          "source": "TheBlock",
-          "title": "Avalanche Treasury stock plunges 73% since debut as company\u2019s AVAX holdings lose value",
-          "summary": "<p>At the end of the first quarter, the company's management raised 'substantial doubt' about its ability to continue operations.</p>",
-          "url": "https://www.theblock.co/post/406990/avalanche-treasury-stock-plunge?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-02T06:28:42+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        },
-        {
           "source": "CoinDesk",
           "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
           "summary": "",
@@ -50,6 +37,58 @@
           "compound": 0.0772,
           "label": "BULLISH",
           "confidence": 0.0772
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.2784,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Anchorage Digital adds Lido support, giving institutions access to wstETH",
+          "summary": "<p>Through the integration, institutional clients gain direct access to Lido's wrapped staked ETH token, wstETH, via Anchorage\u2019s platform.</p>",
+          "url": "https://www.theblock.co/post/406587/anchorage-digital-adds-lido-support-giving-institutions-access-to-wsteth?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-02T13:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.8176,
+          "label": "BULLISH",
+          "confidence": 0.8176
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ondo tokenizes BlackRock\u2019s IVV ETF and Micron stock under US custodial model",
+          "summary": "<p>Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.</p>",
+          "url": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-02T13:56:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "Decrypt",
+          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
+          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
+          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
+          "published": "2026-07-02T17:29:19+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -107,54 +146,27 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2227,
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Anchorage Digital adds Lido support, giving institutions access to wstETH",
-          "summary": "<p>Through the integration, institutional clients gain direct access to Lido's wrapped staked ETH token, wstETH, via Anchorage\u2019s platform.</p>",
-          "url": "https://www.theblock.co/post/406587/anchorage-digital-adds-lido-support-giving-institutions-access-to-wsteth?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-02T13:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.8176,
-          "label": "BULLISH",
-          "confidence": 0.8176
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ondo tokenizes BlackRock\u2019s IVV ETF and Micron stock under US custodial model",
-          "summary": "<p>Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.</p>",
-          "url": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-02T13:56:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
           "source": "Decrypt",
-          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
-          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
-          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
-          "published": "2026-07-02T17:29:19+00:00",
+          "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
+          "summary": "More than 130 Tron wallets connected with a Central Asian ISIS affiliate were sanctioned by the U.S. government, with funds frozen by Tether.",
+          "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
+          "published": "2026-07-02T20:59:18+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
+            "TRX",
+            "USDT"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -183,11 +195,36 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
+          "summary": "More than 130 Tron wallets connected with a Central Asian ISIS affiliate were sanctioned by the U.S. government, with funds frozen by Tether.",
+          "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
+          "published": "2026-07-02T20:59:18+00:00",
+          "coins": [
+            "TRX",
+            "USDT"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.0873,
+      "article_count": 26,
+      "avg_compound": -0.1192,
       "overall": "BEARISH",
-      "bullish": 6,
+      "bullish": 5,
       "bearish": 13,
       "neutral": 8,
       "top_articles": [
@@ -218,17 +255,17 @@
           "confidence": 0.8074
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Standard-Chartered-Calls-Crypto-Bottom-as-Bitcoin-Price-Recovers-From-59000-Low.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute\" rel=\"nofollow\">Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades</a></p>\n<p>Standard Chartered executed its first digital asset prime brokerage trades with LMAX Group, using its own balance sheet to intermediate institutional Bitcoin trades in a move that advances bank-backed crypto market infrastructure.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute\" rel=\"nofollow\">Standard Chartered and LMAX Group Execute First Live Digital Asset Prime Brokerage Trades</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/standard-chartered-and-lmax-group-execute",
-          "published": "2026-07-01T17:24:11+00:00",
+          "source": "CoinDesk",
+          "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
+          "published": "2026-07-02T12:10:15+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
+          "compound": -0.659,
+          "label": "BEARISH",
+          "confidence": 0.659
         }
       ],
       "no_news": false
@@ -359,27 +396,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -391,6 +408,28 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won\u2019t be the last",
+      "summary": "<p>President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"definitely ... within the next year.\u201d</p>",
+      "url": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-02T20:10:16+00:00",
+      "coins": [],
+      "compound": 0.6486,
+      "label": "BULLISH",
+      "confidence": 0.6486
+    },
+    {
+      "source": "Decrypt",
+      "title": "Russia Is Ready for 'Widespread Use' of Digital Ruble by September, Says Bank Governor",
+      "summary": "Bank of Russia Governor Elvira Nabiullina said major banks and retailers are on track to begin accepting the digital ruble by September 1.",
+      "url": "https://decrypt.co/372698/russia-is-ready-for-widespread-use-of-digital-ruble-by-september-says-bank-governor",
+      "published": "2026-07-02T21:13:37+00:00",
+      "coins": [],
+      "compound": 0.6249,
+      "label": "BULLISH",
+      "confidence": 0.6249
+    },
     {
       "source": "Decrypt",
       "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
@@ -491,17 +530,6 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "UN's First AI Safety Panel Says Scientists Can't Rule Out 'Catastrophic Harm'",
-      "summary": "A 40-scientist panel found that AI capabilities are outrunning both scientific understanding and government oversight.",
-      "url": "https://decrypt.co/372543/un-ai-safety-panel-scientists-catastrophic-harm",
-      "published": "2026-07-01T19:05:50+00:00",
-      "coins": [],
-      "compound": 0.233,
-      "label": "BULLISH",
-      "confidence": 0.233
-    },
-    {
       "source": "TheBlock",
       "title": "Bitget expands Stock+ platform with US stock options trading",
       "summary": "<p>Bitget launched U.S. stock options, adding equity derivatives to its Stock+ platform alongside crypto and tokenized stocks.</p>",
@@ -595,6 +623,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake",
       "published": "2026-07-02T10:06:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Offers US Government a $42 Billion Slice of Itself: Report",
+      "summary": "Sam Altman is pitching a 5% equity stake in OpenAI for the U.S. government\u2014and reportedly wants every major AI company to do the same.",
+      "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
+      "published": "2026-07-02T21:39:25+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
