@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-07-03T03:59:05.789625+00:00",
+  "generated_at": "2026-07-03T09:31:01.811237+00:00",
   "total_articles": 55,
   "coins": {
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.3888,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
+          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
+          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
+          "published": "2026-07-02T18:43:50+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+          "published": "2026-07-03T05:18:58+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "BTC"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+          "published": "2026-07-02T19:00:03+00:00",
+          "coins": [
+            "SOL",
+            "AVAX"
+          ],
+          "compound": 0.0772,
+          "label": "BULLISH",
+          "confidence": 0.0772
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 2,
       "avg_compound": 0.3448,
@@ -42,10 +96,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.2784,
+      "article_count": 5,
+      "avg_compound": 0.3181,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 2,
       "top_articles": [
@@ -63,6 +117,21 @@
           "confidence": 0.8176
         },
         {
+          "source": "CoinDesk",
+          "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
+          "published": "2026-07-03T05:18:58+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "BTC"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
           "source": "TheBlock",
           "title": "Ondo tokenizes BlackRock\u2019s IVV ETF and Micron stock under US custodial model",
           "summary": "<p>Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.</p>",
@@ -74,74 +143,6 @@
           "compound": 0.296,
           "label": "BULLISH",
           "confidence": 0.296
-        },
-        {
-          "source": "Decrypt",
-          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
-          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
-          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
-          "published": "2026-07-02T17:29:19+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.2299,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
-          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-          "published": "2026-07-02T18:43:50+00:00",
-          "coins": [
-            "SOL",
-            "AVAX"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
-          "published": "2026-07-02T19:00:03+00:00",
-          "coins": [
-            "SOL",
-            "AVAX"
-          ],
-          "compound": 0.0772,
-          "label": "BULLISH",
-          "confidence": 0.0772
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Smaller tokens lead as bitcoin, sol rally in 'first real bounce of the selloff'",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/02/smaller-tokens-lead-as-bitcoin-sol-rally-in-first-real-bounce-of-the-selloff",
-          "published": "2026-07-02T11:27:36+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -221,12 +222,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.1192,
+      "article_count": 25,
+      "avg_compound": -0.1224,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 13,
-      "neutral": 8,
+      "bullish": 7,
+      "bearish": 14,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -255,22 +256,22 @@
           "confidence": 0.8074
         },
         {
-          "source": "CoinDesk",
-          "title": "A struggling Nasdaq-listed company that tried to copy Saylor's Bitcoin playbook is completely dumping crypto for AI",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/02/a-struggling-nasdaq-listed-company-that-tried-to-copy-saylor-s-bitcoin-playbook-is-completely-dumping-crypto-for-ai",
-          "published": "2026-07-02T12:10:15+00:00",
+          "source": "TheBlock",
+          "title": "US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows",
+          "summary": "<p>BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.</p>",
+          "url": "https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-03T07:14:57+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.659,
+          "compound": -0.7579,
           "label": "BEARISH",
-          "confidence": 0.659
+          "confidence": 0.7579
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "BNB": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -278,6 +279,43 @@
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance says MiCA should be judged by who it licenses, not who it excludes",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes",
+          "published": "2026-07-03T06:30:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP bulls test path back toward $1.10 as token zips 4% higher",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
+          "published": "2026-07-03T05:29:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "Decrypt",
           "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
@@ -297,16 +335,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -442,6 +470,17 @@
       "confidence": 0.6124
     },
     {
+      "source": "CoinDesk",
+      "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/03/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says",
+      "published": "2026-07-03T09:06:29+00:00",
+      "coins": [],
+      "compound": -0.5853,
+      "label": "BEARISH",
+      "confidence": 0.5853
+    },
+    {
       "source": "Decrypt",
       "title": "AI Researchers Got Chatbots to Share Cocaine Recipes Using This One Wild Trick",
       "summary": "Researchers say a new jailbreak technique tricked AI models into treating attacker-written text as their own reasoning, bypassing safety guardrails and exposing a deeper security flaw.",
@@ -541,17 +580,6 @@
       "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report",
-      "summary": "<p>FBI Director Kash Patel disclosed a six-figure Strategy stock purchase months after execution in a delayed federal ethics filing. </p>",
-      "url": "https://www.theblock.co/post/407007/fbi-director-kash-patel-disclosed-six-figure-strategy-stock-purchase-months-after-trade-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T10:21:23+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
       "source": "CoinDesk",
       "title": "US Treasury sanctions over 100 ISIS-K crypto addresses that moved over $1.4 million",
       "summary": "",
@@ -561,6 +589,17 @@
       "compound": 0.2023,
       "label": "BULLISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bank of Russia governor says \u2018everything is ready\u2019 for widespread use of digital ruble ahead of September rollout",
+      "summary": "<p>The central bank is also actively discussing the use of stablecoins for international settlements, but only to complement the digital ruble.</p>",
+      "url": "https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-03T09:16:52+00:00",
+      "coins": [],
+      "compound": 0.1655,
+      "label": "BULLISH",
+      "confidence": 0.1655
     },
     {
       "source": "TheBlock",
@@ -601,28 +640,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/02/bitwise-says-strc-selloff-signals-crypto-cycle-nearing-a-bottom-not-strategy-s-breaking-point",
       "published": "2026-07-02T16:51:36+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
-      "published": "2026-07-02T11:55:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ChatGPT developer OpenAI said to discuss offering U.S. government a 5% stake: FT",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/02/openai-reported-to-discuss-offering-u-s-government-a-5-stake",
-      "published": "2026-07-02T10:06:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
