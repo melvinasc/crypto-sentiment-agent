@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:40:51.331027+00:00",
+  "generated_at": "2026-07-04T03:52:36.918546+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -120,30 +120,6 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
-          "summary": "Standard Chartered is the first Global Systemically Important Bank authorized to let institutions mint and redeem Circle's USDC.",
-          "url": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
-          "published": "2026-07-02T13:58:09+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
       "article_count": 4,
       "avg_compound": 0.1698,
@@ -199,11 +175,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.1304,
+      "article_count": 27,
+      "avg_compound": -0.1287,
       "overall": "BEARISH",
       "bullish": 7,
-      "bearish": 15,
+      "bearish": 14,
       "neutral": 6,
       "top_articles": [
         {
@@ -448,6 +424,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -461,6 +447,28 @@
       "compound": -0.8519,
       "label": "BEARISH",
       "confidence": 0.8519
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
+      "summary": "After President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
+      "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
+      "published": "2026-07-03T21:03:33+00:00",
+      "coins": [],
+      "compound": -0.802,
+      "label": "BEARISH",
+      "confidence": 0.802
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
+      "summary": "Did Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions\u2014and one routing layer that explains the whole mess.",
+      "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
+      "published": "2026-07-03T21:06:03+00:00",
+      "coins": [],
+      "compound": -0.7184,
+      "label": "BEARISH",
+      "confidence": 0.7184
     },
     {
       "source": "TheBlock",
