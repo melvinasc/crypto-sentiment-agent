@@ -1,72 +1,7 @@
 {
-  "generated_at": "2026-07-04T13:51:28.333056+00:00",
+  "generated_at": "2026-07-04T19:25:30.870924+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.6124,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
-          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-          "published": "2026-07-02T18:43:50+00:00",
-          "coins": [
-            "SOL",
-            "AVAX"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.5446,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Securitize Begins Trading on NYSE as Tokenized Shares Land on Solana, Avalanche",
-          "summary": "BlackRock-backed tokenization firm Securitize now has shares trading on the New York Stock Exchange\u2014or via Solana and Avalanche.",
-          "url": "https://decrypt.co/372689/securitize-trading-nyse-tokenized-shares-solana-avalanche",
-          "published": "2026-07-02T18:43:50+00:00",
-          "coins": [
-            "SOL",
-            "AVAX"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-          "published": "2026-07-03T05:18:58+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "TRX": {
       "article_count": 1,
       "avg_compound": 0.2023,
@@ -92,67 +27,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1698,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether and solana extend gains as a short squeeze lifts bitcoin toward $62,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/03/ether-and-solana-extend-gains-as-a-short-squeeze-lifts-bitcoin-toward-usd62-000",
-          "published": "2026-07-03T05:18:58+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "TheBlock",
-          "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-          "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
-          "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-03T11:21:50+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-          "published": "2026-07-03T11:27:44+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.1127,
+      "article_count": 27,
+      "avg_compound": -0.1344,
       "overall": "BEARISH",
       "bullish": 8,
-      "bearish": 14,
-      "neutral": 6,
+      "bearish": 15,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -196,6 +77,45 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.1012,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
+          "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
+          "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-03T11:21:50+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
+          "published": "2026-07-03T11:27:44+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 2,
       "avg_compound": 0.0625,
@@ -235,12 +155,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.0172,
-      "overall": "NEUTRAL",
+      "article_count": 1,
+      "avg_compound": 0.0516,
+      "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -254,63 +174,31 @@
           "compound": 0.0516,
           "label": "BULLISH",
           "confidence": 0.0516
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP bulls test path back toward $1.10 as token zips 4% higher",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/03/xrp-bulls-test-path-back-toward-usd1-10-as-token-zips-4-higher",
-          "published": "2026-07-03T05:29:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Crypto Shorts Get Rekt as Bitcoin, Ethereum and XRP Rise to Weekly High Prices",
-          "summary": "Bitcoin continued rising after hitting a 21-month-low earlier this week, topping $62,000 and leading a broader crypto market rebound.",
-          "url": "https://decrypt.co/372676/crypto-shorts-rekt-bitcoin-ethereum-xrp-rise-weekly-highs",
-          "published": "2026-07-02T17:29:19+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Binance says MiCA should be judged by who it licenses, not who it excludes",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes",
-          "published": "2026-07-03T06:30:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -391,6 +279,16 @@
       "no_news": true
     },
     "SHIB": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -489,17 +387,6 @@
       "confidence": 0.6249
     },
     {
-      "source": "CoinDesk",
-      "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/03/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says",
-      "published": "2026-07-03T09:06:29+00:00",
-      "coins": [],
-      "compound": -0.5853,
-      "label": "BEARISH",
-      "confidence": 0.5853
-    },
-    {
       "source": "TheBlock",
       "title": "IMF says policy choices will determine whether tokenization strengthens or fragments the financial system",
       "summary": "<p>The IMF's Tobias Adrian said risks could shift from banks toward market infrastructure providers and smart contracts as tokenization expands.</p>",
@@ -533,6 +420,17 @@
       "confidence": 0.5267
     },
     {
+      "source": "TheBlock",
+      "title": "Aave\u2019s new Monad market tops $100 million in deposits two days after launch",
+      "summary": "<p>Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol. </p>",
+      "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-04T16:32:20+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
       "source": "Decrypt",
       "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
       "summary": "Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
@@ -542,6 +440,28 @@
       "compound": 0.4976,
       "label": "BULLISH",
       "confidence": 0.4976
+    },
+    {
+      "source": "Decrypt",
+      "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
+      "summary": "Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
+      "url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
+      "published": "2026-07-04T16:07:19+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+      "published": "2026-07-04T13:56:27+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -564,17 +484,6 @@
       "compound": -0.3612,
       "label": "BEARISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood CEO says future of crypto is in real-world assets, not memecoins",
-      "summary": "<p>Vlad Tenev spoke to his belief in the merging of TradFi and crypto when asked if digital assets have entered an \"enduring\" downturn.</p>",
-      "url": "https://www.theblock.co/post/407047/robinhood-ceo-says-future-of-crypto-is-in-real-world-assets-not-memecoins?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T16:05:44+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -611,10 +520,43 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
+      "published": "2026-07-04T15:30:52+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe led on crypto regulation. Now implementation must match ambition",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+      "published": "2026-07-04T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Trump says there is \u2018nothing wrong\u2019 with family\u2019s crypto windfall",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
       "published": "2026-07-03T12:04:15+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Inside the Trading Engine Behind ChangeNOW\u2019s \u2018Fast, Seamless Swaps\u2019",
+      "summary": "ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange\u2019s simple, streamlined frontend.",
+      "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
+      "published": "2026-07-04T14:01:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
