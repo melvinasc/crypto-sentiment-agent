@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T09:18:17.805892+00:00",
+  "generated_at": "2026-07-05T13:58:11.266201+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -53,12 +53,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.1534,
+      "article_count": 24,
+      "avg_compound": -0.1598,
       "overall": "BEARISH",
       "bullish": 7,
       "bearish": 15,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -373,6 +373,17 @@
       "confidence": 0.6249
     },
     {
+      "source": "CoinDesk",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "published": "2026-07-05T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
+    },
+    {
       "source": "TheBlock",
       "title": "IMF says policy choices will determine whether tokenization strengthens or fragments the financial system",
       "summary": "<p>The IMF's Tobias Adrian said risks could shift from banks toward market infrastructure providers and smart contracts as tokenization expands.</p>",
@@ -473,6 +484,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "published": "2026-07-05T13:00:00+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
       "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
@@ -532,17 +554,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
       "published": "2026-07-04T14:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump says there is \u2018nothing wrong\u2019 with family\u2019s crypto windfall",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/03/trump-says-there-is-nothing-wrong-with-family-s-crypto-windfall",
-      "published": "2026-07-03T12:04:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
