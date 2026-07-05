@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:25:30.870924+00:00",
+  "generated_at": "2026-07-05T04:11:35.419130+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -28,11 +28,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.1344,
+      "article_count": 25,
+      "avg_compound": -0.1343,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 15,
+      "bullish": 7,
+      "bearish": 14,
       "neutral": 4,
       "top_articles": [
         {
@@ -487,14 +487,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto bulls on firmer footing as U.S. rate-hike risk recedes",
+      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/03/crypto-bulls-on-firmer-footing-as-u-s-rate-hike-risk-recedes",
-      "published": "2026-07-03T11:11:39+00:00",
+      "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
+      "published": "2026-07-04T18:00:00+00:00",
       "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -517,6 +517,17 @@
       "compound": 0.1655,
       "label": "BULLISH",
       "confidence": 0.1655
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+      "published": "2026-07-04T20:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -568,6 +579,17 @@
       "summary": "Sam Altman is pitching a 5% equity stake in OpenAI for the U.S. government\u2014and reportedly wants every major AI company to do the same.",
       "url": "https://decrypt.co/372715/openai-offers-us-government-42-billion-slice",
       "published": "2026-07-02T21:39:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Nearly 1 million wallets are down $3.81 billion on Trump\u2019s memecoin: report",
+      "summary": "<p>Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025.</p>",
+      "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-04T20:44:18+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
