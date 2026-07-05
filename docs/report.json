@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-07-05T04:11:35.419130+00:00",
+  "generated_at": "2026-07-05T09:18:17.805892+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
+          "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
+          "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-03T11:21:50+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "TRX": {
       "article_count": 1,
       "avg_compound": 0.2023,
@@ -29,11 +54,11 @@
     },
     "BTC": {
       "article_count": 25,
-      "avg_compound": -0.1343,
+      "avg_compound": -0.1534,
       "overall": "BEARISH",
       "bullish": 7,
-      "bearish": 14,
-      "neutral": 4,
+      "bearish": 15,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -73,45 +98,6 @@
           "compound": -0.7579,
           "label": "BEARISH",
           "confidence": 0.7579
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.1012,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-          "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
-          "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-03T11:21:50+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether traders aren't fully buying the bounce, options markets show",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/03/bitcoin-ether-traders-aren-t-fully-buying-the-bounce-options-markets-show",
-          "published": "2026-07-03T11:27:44+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
