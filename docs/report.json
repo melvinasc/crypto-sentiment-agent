@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-07-06T15:51:01.578984+00:00",
+  "generated_at": "2026-07-06T20:08:29.800226+00:00",
   "total_articles": 55,
   "coins": {
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": -0.6124,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
+          "coins": [
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
+          ],
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 2,
       "avg_compound": 0.4868,
@@ -39,13 +66,37 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.3972,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.4019,
       "overall": "BULLISH",
-      "bullish": 5,
-      "bearish": 1,
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
+          "summary": "<p>SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.</p>",
+          "url": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-06T16:07:20+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 7,
+      "avg_compound": 0.2044,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -74,41 +125,61 @@
           "confidence": 0.6597
         },
         {
-          "source": "Decrypt",
-          "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
-          "summary": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
-          "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
-          "published": "2026-07-06T12:51:53+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
           "coins": [
+            "USDT",
+            "BTC",
+            "TRX",
             "ETH"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.3185,
+      "article_count": 3,
+      "avg_compound": -0.2041,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
-          "summary": "<p>Farage already faces a parliamentary standards investigation over an undisclosed \u00a35 million gift from Tether stakeholder Christopher Harborne.</p>",
-          "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-05T22:53:05+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
           "coins": [
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
+          ],
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Circle\u2019s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+          "published": "2026-07-06T16:00:15+00:00",
+          "coins": [
+            "USDC",
             "USDT"
           ],
-          "compound": -0.6369,
-          "label": "BEARISH",
-          "confidence": 0.6369
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -127,66 +198,81 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0112,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 13,
+      "article_count": 23,
+      "avg_compound": 0.0824,
+      "overall": "BULLISH",
+      "bullish": 12,
+      "bearish": 9,
       "neutral": 2,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "How Sovereign Wealth Funds Invest in Digital Assets",
-          "summary": "<p>Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held back by governance rules, custody requirements, and political accountability. At present, only a small number of [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-06T06:14:32+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself \u2018a Big Fan of Crypto\u2019",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/President-Trump-Signals-Openness-to-Bitcoin-in-Trump-Accounts-Calls-Himself-a-Big-Fan-of-Crypto-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin\" rel=\"nofollow\">President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself &#8216;a Big Fan of Crypto&#8217;</a></p>\n<p>President Trump said Bitcoin could eventually be included in the new Trump Accounts savings program, calling himself \"a big fan of crypto.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin\" rel=\"nofollow\">President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself &#8216;a Big Fan of Crypto&#8217;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin",
+          "published": "2026-07-06T15:54:09+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8442,
+          "compound": 0.8885,
           "label": "BULLISH",
-          "confidence": 0.8442
+          "confidence": 0.8885
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/2036-Issue-Article-Header-2400x1400-Corva.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth\" rel=\"nofollow\">The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth</a></p>\n<p>From The 2036 Issue: An interview with Jeff Booth on where Bitcoin is going over the next decade, by Frank Corva. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth\" rel=\"nofollow\">The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/frank-corva\" rel=\"nofollow\">Frank Corva</a>.</p>",
-          "url": "https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth",
-          "published": "2026-07-01T21:08:13+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
+          "summary": "The financial firm admitted Bitcoin's retrace has been painful, but still holds a lofty year-end price prediction for the top crypto asset.",
+          "url": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
+          "published": "2026-07-06T19:58:25+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8074,
+          "compound": 0.6956,
           "label": "BULLISH",
-          "confidence": 0.8074
+          "confidence": 0.6956
         },
         {
           "source": "CoinDesk",
-          "title": "One month that shook the market: Saylor's struggles over bitcoin strategy yields big losses",
+          "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
-          "published": "2026-07-06T15:47:12+00:00",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
+          "published": "2026-07-06T11:15:00+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Circle\u2019s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+          "published": "2026-07-06T16:00:15+00:00",
+          "coins": [
+            "USDC",
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -296,27 +382,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -341,14 +407,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
-      "summary": "After President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
-      "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
-      "published": "2026-07-03T21:03:33+00:00",
+      "title": "'We Cannot Vibe Code the Future of Humanity', UN Chief Warns at AI Summit",
+      "summary": "Ant\u00f3nio Guterres borrowed a Silicon Valley meme to make the starkest case yet for global AI oversight\u2014then called for an international ban on killer robots.",
+      "url": "https://decrypt.co/372854/we-cannot-vibe-code-future-of-humanity-un-chief-warns-ai",
+      "published": "2026-07-06T19:58:29+00:00",
       "coins": [],
-      "compound": -0.802,
+      "compound": -0.8519,
       "label": "BEARISH",
-      "confidence": 0.802
+      "confidence": 0.8519
+    },
+    {
+      "source": "TheBlock",
+      "title": "BonkDAO loses $20 million following \u2018malicious governance proposal\u2019 attack",
+      "summary": "<p>The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.\u00a0</p>",
+      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T18:59:19+00:00",
+      "coins": [],
+      "compound": -0.8176,
+      "label": "BEARISH",
+      "confidence": 0.8176
     },
     {
       "source": "Decrypt",
@@ -360,17 +437,6 @@
       "compound": -0.743,
       "label": "BEARISH",
       "confidence": 0.743
-    },
-    {
-      "source": "Decrypt",
-      "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
-      "summary": "Did Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions\u2014and one routing layer that explains the whole mess.",
-      "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
-      "published": "2026-07-03T21:06:03+00:00",
-      "coins": [],
-      "compound": -0.7184,
-      "label": "BEARISH",
-      "confidence": 0.7184
     },
     {
       "source": "CoinDesk",
@@ -395,28 +461,6 @@
       "confidence": 0.5574
     },
     {
-      "source": "TheBlock",
-      "title": "Aave\u2019s new Monad market tops $100 million in deposits two days after launch",
-      "summary": "<p>Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol. </p>",
-      "url": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-04T16:32:20+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
-      "summary": "Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
-      "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
-      "published": "2026-07-03T17:56:03+00:00",
-      "coins": [],
-      "compound": 0.4976,
-      "label": "BULLISH",
-      "confidence": 0.4976
-    },
-    {
       "source": "Decrypt",
       "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
       "summary": "Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
@@ -437,6 +481,17 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "TheBlock",
+      "title": "President Trump says he\u2019s a \u2018big crypto guy,\u2019 while distancing himself from family\u2019s crypto ventures",
+      "summary": "<p>President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children.</p>",
+      "url": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T15:53:22+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
     },
     {
       "source": "Decrypt",
@@ -494,15 +549,26 @@
       "confidence": 0.296
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
-      "summary": "<p>The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.</p>",
-      "url": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T08:35:54+00:00",
+      "source": "Decrypt",
+      "title": "Coinbase's AI System Hallucinated a World Cup Result Before the Match Even Started",
+      "summary": "Coinbase said it updated its systems after an AI-generated alert incorrectly reported the outcome of the Norway-Brazil match before kickoff.",
+      "url": "https://decrypt.co/372824/coinbase-ai-hallucinated-world-cup-result-before-match",
+      "published": "2026-07-06T18:49:39+00:00",
       "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
+      "summary": "Yield Guild Games is shutting down its YGG Play division and games like LOL Land, blaming the crypto market downturn and other factors.",
+      "url": "https://decrypt.co/372852/yield-guild-kills-crypto-game-publishing-arm-lays-off-35-ai-pivot",
+      "published": "2026-07-06T19:48:59+00:00",
+      "coins": [],
+      "compound": 0.186,
+      "label": "BULLISH",
+      "confidence": 0.186
     },
     {
       "source": "CoinDesk",
@@ -516,6 +582,28 @@
       "confidence": 0.0772
     },
     {
+      "source": "TheBlock",
+      "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
+      "summary": "<p>M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.</p>",
+      "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T19:07:24+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "TheBlock",
+      "title": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
+      "summary": "<p>The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments.</p>",
+      "url": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T18:55:49+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
       "source": "CoinDesk",
       "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
       "summary": "",
@@ -527,11 +615,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
-      "published": "2026-07-06T08:18:05+00:00",
+      "source": "Decrypt",
+      "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
+      "summary": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
+      "url": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
+      "published": "2026-07-06T17:32:38+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -543,17 +631,6 @@
       "summary": "ChangeNOW CSO Pauline Shangett digs into the infrastructure underpinning the exchange\u2019s simple, streamlined frontend.",
       "url": "https://decrypt.co/372679/inside-the-trading-engine-behind-changenows-fast-seamless-swaps",
       "published": "2026-07-04T14:01:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Nearly 1 million wallets are down $3.81 billion on Trump\u2019s memecoin: report",
-      "summary": "<p>Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025.</p>",
-      "url": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-04T20:44:18+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
