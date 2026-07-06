@@ -1,14 +1,114 @@
 {
-  "generated_at": "2026-07-06T04:18:56.473115+00:00",
+  "generated_at": "2026-07-06T10:54:28.420455+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.2712,
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.4585,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
+          "summary": "<p>Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.</p>",
+          "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-06T09:30:56+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP rises 3% as $1.14 breakout turns into support test",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
+          "published": "2026-07-06T05:15:01+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
+          "published": "2026-07-06T10:01:24+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": -0.238,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+          "summary": "<p>Farage already faces a parliamentary standards investigation over an undisclosed \u00a35 million gift from Tether stakeholder Christopher Harborne.</p>",
+          "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-05T22:53:05+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "Decrypt",
+          "title": "Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying",
+          "summary": "A Labour MP says the Reform leader pressed the Bank of England on policy that could enrich his biggest donor, a major Tether investor.",
+          "url": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
+          "published": "2026-07-03T13:06:56+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.0772,
+          "label": "BEARISH",
+          "confidence": 0.0772
+        },
+        {
+          "source": "Decrypt",
+          "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
+          "summary": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
+          "url": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
+          "published": "2026-07-06T10:01:06+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.1133,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -24,55 +124,56 @@
           "confidence": 0.34
         },
         {
-          "source": "TheBlock",
-          "title": "\u2018Markets find their footing\u2019: Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears",
-          "summary": "<p>Bitcoin holds above $61,000 and ether above $1,700 as soft U.S. jobs data eases Fed hike bets and spot ETFs snap a 10-day outflow streak.</p>",
-          "url": "https://www.theblock.co/post/407131/markets-find-their-footing-bitcoin-holds-61000-rebound-ahead-of-us-independence-day-as-soft-jobs-data-eases-rate-fears?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-03T11:21:50+00:00",
+          "source": "CoinDesk",
+          "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+          "published": "2026-07-06T07:44:58+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "TRX": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
-          "source": "Decrypt",
-          "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
-          "summary": "More than 130 Tron wallets connected with a Central Asian ISIS affiliate were sanctioned by the U.S. government, with funds frozen by Tether.",
-          "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
-          "published": "2026-07-02T20:59:18+00:00",
+          "source": "CoinDesk",
+          "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
+          "published": "2026-07-06T05:09:07+00:00",
           "coins": [
-            "TRX",
-            "USDT"
+            "ETH",
+            "BTC"
           ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.1805,
+      "article_count": 22,
+      "avg_compound": -0.0793,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 15,
-      "neutral": 2,
+      "bearish": 12,
+      "neutral": 4,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "How Sovereign Wealth Funds Invest in Digital Assets",
+          "summary": "<p>Sovereign wealth funds invest in digital assets mainly through regulated vehicles: spot bitcoin exchange-traded funds (ETFs), publicly traded companies with crypto exposure, blockchain infrastructure firms, and venture capital funds. Direct ownership of bitcoin or other tokens remains uncommon, held back by governance rules, custody requirements, and political accountability. At present, only a small number of [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/407186/how-sovereign-wealth-funds-invest-in-digital-assets?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-06T06:14:32+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8442,
+          "label": "BULLISH",
+          "confidence": 0.8442
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Moody\u2019s Flags Quantum Threat to Bitcoin and Digital Assets After Trump Orders",
@@ -98,70 +199,6 @@
           "compound": 0.8074,
           "label": "BULLISH",
           "confidence": 0.8074
-        },
-        {
-          "source": "TheBlock",
-          "title": "US bitcoin ETFs break 10-day negative streak with $222 million worth of inflows",
-          "summary": "<p>BlackRock's IBIT was the only fund to see net outflows on Thursday, shedding $40.4 million and continuing its negative streak.</p>",
-          "url": "https://www.theblock.co/post/407110/us-bitcoin-etfs-222-million-inflows?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-03T07:14:57+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.1706,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
-          "summary": "<p>Farage already faces a parliamentary standards investigation over an undisclosed \u00a35 million gift from Tether stakeholder Christopher Harborne.</p>",
-          "url": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-05T22:53:05+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.6369,
-          "label": "BEARISH",
-          "confidence": 0.6369
-        },
-        {
-          "source": "Decrypt",
-          "title": "Treasury Department Sanctions Over 130 ISIS-Affiliated Crypto Wallets on Tron",
-          "summary": "More than 130 Tron wallets connected with a Central Asian ISIS affiliate were sanctioned by the U.S. government, with funds frozen by Tether.",
-          "url": "https://decrypt.co/372697/treasury-department-sanctions-130-isis-affiliated-crypto-wallets-tron",
-          "published": "2026-07-02T20:59:18+00:00",
-          "coins": [
-            "TRX",
-            "USDT"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "Decrypt",
-          "title": "Farage Reported to UK Standards Watchdog Over Alleged Crypto Lobbying",
-          "summary": "A Labour MP says the Reform leader pressed the Bank of England on policy that could enrich his biggest donor, a major Tether investor.",
-          "url": "https://decrypt.co/372726/farage-reported-to-uk-standards-watchdog-over-alleged-crypto-lobbying",
-          "published": "2026-07-03T13:06:56+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.0772,
-          "label": "BEARISH",
-          "confidence": 0.0772
         }
       ],
       "no_news": false
@@ -286,6 +323,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "TRX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -305,19 +352,20 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "DeFi protocol Summer Finance exploited for $6 million; analysts point to flash loan attack",
+      "summary": "<p>The attacker reportedly used a $65.4 million flash loan to obtain a $70.9 million redemption on Summer.fi's Lazy Summer Protocol.</p>",
+      "url": "https://www.theblock.co/post/407198/summer-finance-exploited?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:49:56+00:00",
+      "coins": [],
+      "compound": -0.9062,
+      "label": "BEARISH",
+      "confidence": 0.9062
+    },
     {
       "source": "TheBlock",
       "title": "Spotify asks Kalshi, Polymarket to remove branding after manipulated streams used to settle music bets: Bloomberg",
@@ -363,15 +411,15 @@
       "confidence": 0.7184
     },
     {
-      "source": "TheBlock",
-      "title": "Securitize becomes first to debut shares on NYSE and onchain, but it won\u2019t be the last",
-      "summary": "<p>President Brett Redfearn said the firm is in discussions to tokenize other IPOs \"definitely ... within the next year.\u201d</p>",
-      "url": "https://www.theblock.co/post/407104/securitize-first-debut-shares-nyse-onchain-but-wont-be-last?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-02T20:10:16+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
+      "published": "2026-07-06T10:44:45+00:00",
       "coins": [],
-      "compound": 0.6486,
+      "compound": 0.7033,
       "label": "BULLISH",
-      "confidence": 0.6486
+      "confidence": 0.7033
     },
     {
       "source": "Decrypt",
@@ -463,17 +511,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-      "published": "2026-07-04T13:56:27+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "CoinDesk",
       "title": "Clarity and Congress's summer break: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
@@ -507,28 +544,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
-      "published": "2026-07-04T18:00:00+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-      "published": "2026-07-04T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
       "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
@@ -540,32 +555,21 @@
     },
     {
       "source": "TheBlock",
-      "title": "Bank of Russia governor says \u2018everything is ready\u2019 for widespread use of digital ruble ahead of September rollout",
-      "summary": "<p>The central bank is also actively discussing the use of stablecoins for international settlements, but only to complement the digital ruble.</p>",
-      "url": "https://www.theblock.co/post/407124/russia-digital-ruble?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-03T09:16:52+00:00",
+      "title": "South Korea develops crypto-specific procedures for asset seizures and liquidation: report",
+      "summary": "<p>The amendments aim to formalize how courts handle the forced execution of civil judgments against cryptocurrency holdings.</p>",
+      "url": "https://www.theblock.co/post/407183/south-korea-crypto-specific-procedure?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-06T08:35:54+00:00",
       "coins": [],
-      "compound": 0.1655,
-      "label": "BULLISH",
-      "confidence": 0.1655
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
-      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "title": "Coinbase AI draws backlash after erroneously publishing World Cup result before kickoff",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "published": "2026-07-04T20:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
-      "published": "2026-07-04T15:30:52+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
+      "published": "2026-07-06T09:39:52+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -573,10 +577,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Europe led on crypto regulation. Now implementation must match ambition",
+      "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
       "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-      "published": "2026-07-04T14:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
+      "published": "2026-07-06T08:18:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
