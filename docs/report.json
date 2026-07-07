@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:08:24.057154+00:00",
+  "generated_at": "2026-07-07T09:56:21.346251+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -53,43 +53,6 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.4868,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ripple secures full MiCA CASP authorization for crypto services across 30 EEA countries",
-          "summary": "<p>Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.</p>",
-          "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-06T09:30:56+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
-          "published": "2026-07-06T10:01:24+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        }
-      ],
-      "no_news": false
-    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": 0.4019,
@@ -114,13 +77,37 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.3612,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+          "published": "2026-07-07T04:46:30+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.2044,
+      "article_count": 8,
+      "avg_compound": 0.1789,
       "overall": "BULLISH",
       "bullish": 4,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -168,12 +155,12 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.2041,
+      "article_count": 4,
+      "avg_compound": -0.1531,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -221,13 +208,38 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance taps into Bitcoin holders\u2019 hunger for yield with new covered call yield play",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
+          "published": "2026-07-07T08:20:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.0985,
+      "article_count": 27,
+      "avg_compound": 0.0698,
       "overall": "BULLISH",
       "bullish": 12,
-      "bearish": 9,
-      "neutral": 3,
+      "bearish": 10,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -256,17 +268,17 @@
           "confidence": 0.8885
         },
         {
-          "source": "Decrypt",
-          "title": "Bitcoin Hits Highest Price in Weeks as Bernstein Analysts Maintain 'Ambitious' $150K Target",
-          "summary": "The financial firm admitted Bitcoin's retrace has been painful, but still holds a lofty year-end price prediction for the top crypto asset.",
-          "url": "https://decrypt.co/372851/bitcoin-highest-price-weeks-bernstein-ambitious-150k-target",
-          "published": "2026-07-06T19:58:25+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+          "published": "2026-07-07T07:50:57+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.6956,
+          "compound": 0.7506,
           "label": "BULLISH",
-          "confidence": 0.6956
+          "confidence": 0.7506
         }
       ],
       "no_news": false
@@ -297,16 +309,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -443,17 +445,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
-      "published": "2026-07-06T10:44:45+00:00",
-      "coins": [],
-      "compound": 0.7033,
-      "label": "BULLISH",
-      "confidence": 0.7033
-    },
-    {
-      "source": "CoinDesk",
       "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
@@ -462,6 +453,17 @@
       "compound": -0.5574,
       "label": "BEARISH",
       "confidence": 0.5574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+      "published": "2026-07-07T05:40:58+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -497,39 +499,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "TeraWulf signs 20-year data center lease with Anthropic expected to generate $19 billion in revenue",
-      "summary": "<p>Anthropic will lease at TeraWulf's Justified Data site in Hawesville, Kentucky, which is expected to provide 401 MW of IT load.</p>",
-      "url": "https://www.theblock.co/post/407282/terawulf-data-center-lease-anthropic-19-billion-revenue?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T14:02:39+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Russia\u2019s largest bank Sber targets early December crypto wallet launch: report",
-      "summary": "<p>Sberbank plans a crypto wallet and digital depository in Sber apps by early December pending Russia\u2019s new digital asset law.</p>",
-      "url": "https://www.theblock.co/post/407273/russias-largest-bank-sber-targets-early-december-crypto-wallet-launch-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T13:20:14+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
-      "published": "2026-07-06T11:16:26+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
       "source": "CoinDesk",
       "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
       "summary": "",
@@ -563,6 +532,17 @@
       "confidence": 0.296
     },
     {
+      "source": "TheBlock",
+      "title": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
+      "summary": "<p>The companies said that the development of the country's landmark crypto legislation could affect the deal's progress or outcome.</p>",
+      "url": "https://www.theblock.co/post/407389/upbit-naver-stock-swap-deal-delay?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T09:10:51+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "Decrypt",
       "title": "Yield Guild Kills Crypto Game Publishing Arm, Lays Off 35 in AI Pivot",
       "summary": "Yield Guild Games is shutting down its YGG Play division and games like LOL Land, blaming the crypto market downturn and other factors.",
@@ -583,17 +563,6 @@
       "compound": 0.1531,
       "label": "BULLISH",
       "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
-      "published": "2026-07-06T11:36:05+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
