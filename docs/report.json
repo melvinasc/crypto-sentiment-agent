@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-07-07T14:54:53.574334+00:00",
+  "generated_at": "2026-07-07T20:07:05.486201+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": -0.6124,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
+          "coins": [
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
+          ],
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        }
+      ],
+      "no_news": false
+    },
     "TRX": {
       "article_count": 1,
       "avg_compound": -0.6124,
@@ -54,26 +81,13 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.3172,
+      "article_count": 1,
+      "avg_compound": -0.2732,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
-          "published": "2026-07-07T04:46:30+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
-        },
         {
           "source": "CoinDesk",
           "title": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
@@ -92,12 +106,12 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.2041,
+      "article_count": 5,
+      "avg_compound": -0.1531,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
+      "bearish": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -116,6 +130,20 @@
           "confidence": 0.6124
         },
         {
+          "source": "Bitcoin Magazine",
+          "title": "Tether Invests $20 Million in Brazil\u2019s Mercado Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Tether-Invests-20-Million-in-Brazils-Mercado-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin\" rel=\"nofollow\">Tether Invests $20 Million in Brazil&#8217;s Mercado Bitcoin</a></p>\n<p>Tether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance, tokenization and stablecoin infrastructure across Latin America.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin\" rel=\"nofollow\">Tether Invests $20 Million in Brazil&#8217;s Mercado Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin",
+          "published": "2026-07-07T15:01:57+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
+        },
+        {
           "source": "CoinDesk",
           "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
           "summary": "",
@@ -127,19 +155,56 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 24,
+      "avg_compound": 0.1207,
+      "overall": "BULLISH",
+      "bullish": 12,
+      "bearish": 11,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-the-UAE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a></p>\n<p>Bitcoin Suisse won regulatory approval in Abu Dhabi, allowing it to offer institutional crypto services across the UAE.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
+          "published": "2026-07-07T13:40:25+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.975,
+          "label": "BULLISH",
+          "confidence": 0.975
         },
         {
-          "source": "TheBlock",
-          "title": "Tether\u2019s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
-          "summary": "<p>Former Tether CIO Richard Heathcote is seeking buyers for part of his 1.26% stake in the firm, according to Bloomberg. </p>",
-          "url": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-07T09:22:26+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Kraken-Pauses-IPO-Due-to-Market-Uncertainty-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a></p>\n<p>Kraken is seeking a final Delaware court judgment against former auditor Mazars after winning a $22 million arbitration award, arguing the firm's abrupt resignation during heightened U.S. regulatory pressure caused significant financial and operational harm.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22",
+          "published": "2026-07-07T19:35:05+00:00",
           "coins": [
-            "USDT"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.872,
+          "label": "BULLISH",
+          "confidence": 0.872
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
+          "published": "2026-07-07T07:50:57+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7506,
+          "label": "BULLISH",
+          "confidence": 0.7506
         }
       ],
       "no_news": false
@@ -165,110 +230,6 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 28,
-      "avg_compound": 0.099,
-      "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 13,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-the-UAE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a></p>\n<p>Bitcoin Suisse won regulatory approval in Abu Dhabi, allowing it to offer institutional crypto services across the UAE.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
-          "published": "2026-07-07T13:40:25+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.975,
-          "label": "BULLISH",
-          "confidence": 0.975
-        },
-        {
-          "source": "TheBlock",
-          "title": "Grayscale says Strategy\u2019s recent bitcoin sales should restore confidence in its financing structure",
-          "summary": "<p>\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"</p>",
-          "url": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-06T22:10:15+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9267,
-          "label": "BULLISH",
-          "confidence": 0.9267
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself \u2018a Big Fan of Crypto\u2019",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/President-Trump-Signals-Openness-to-Bitcoin-in-Trump-Accounts-Calls-Himself-a-Big-Fan-of-Crypto-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin\" rel=\"nofollow\">President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself &#8216;a Big Fan of Crypto&#8217;</a></p>\n<p>President Trump said Bitcoin could eventually be included in the new Trump Accounts savings program, calling himself \"a big fan of crypto.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin\" rel=\"nofollow\">President Trump Signals Openness to Bitcoin in Trump Accounts, Calls Himself &#8216;a Big Fan of Crypto&#8217;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/president-trump-signals-openness-bitcoin",
-          "published": "2026-07-06T15:54:09+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8885,
-          "label": "BULLISH",
-          "confidence": 0.8885
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.0922,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
-          "published": "2026-07-06T17:17:03+00:00",
-          "coins": [
-            "USDT",
-            "BTC",
-            "TRX",
-            "ETH"
-          ],
-          "compound": -0.6124,
-          "label": "BEARISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
-          "summary": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
-          "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
-          "published": "2026-07-06T12:51:53+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee\u2019s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
-          "summary": "BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.",
-          "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
-          "published": "2026-07-06T14:41:45+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -419,14 +380,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "BonkDAO loses $20 million following \u2018malicious governance proposal\u2019 attack",
-      "summary": "<p>The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.\u00a0</p>",
-      "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T18:59:19+00:00",
+      "title": "Gemini offers 0% stock trading in US as it looks to become \u2018all-in-one financial super app\u2019",
+      "summary": "<p>Gemini said it is looking to become an \u201call-in-one financial super app\" as it launches 0% commission stock trading for eligible U.S. users.</p>",
+      "url": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T15:10:56+00:00",
       "coins": [],
-      "compound": -0.8176,
+      "compound": 0.8316,
+      "label": "BULLISH",
+      "confidence": 0.8316
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
+      "summary": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
+      "url": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
+      "published": "2026-07-07T17:29:39+00:00",
+      "coins": [],
+      "compound": -0.7906,
       "label": "BEARISH",
-      "confidence": 0.8176
+      "confidence": 0.7906
     },
     {
       "source": "Decrypt",
@@ -438,6 +410,17 @@
       "compound": 0.6705,
       "label": "BULLISH",
       "confidence": 0.6705
+    },
+    {
+      "source": "TheBlock",
+      "title": "1kx, Blockchain Capital back $7.5 million KOR Protocol Series A at $100 million valuation",
+      "summary": "<p>KOR Protocol is building an onchain clearinghouse that helps register and route creative works and pay out rights holders.</p>",
+      "url": "https://www.theblock.co/post/407465/1kx-blockchain-capital-7-5-million-kor-protocol-series-a-100-million-valuation?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T15:57:32+00:00",
+      "coins": [],
+      "compound": 0.6249,
+      "label": "BULLISH",
+      "confidence": 0.6249
     },
     {
       "source": "TheBlock",
@@ -462,15 +445,26 @@
       "confidence": 0.5719
     },
     {
-      "source": "CoinDesk",
-      "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-      "published": "2026-07-07T05:40:58+00:00",
+      "source": "TheBlock",
+      "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
+      "summary": "<p>Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S. stocks and ETFs.</p>",
+      "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T16:29:46+00:00",
       "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
+      "published": "2026-07-07T16:08:19+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "CoinDesk",
@@ -517,6 +511,17 @@
       "confidence": 0.296
     },
     {
+      "source": "Decrypt",
+      "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
+      "summary": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
+      "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
+      "published": "2026-07-07T19:51:38+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
+    },
+    {
       "source": "TheBlock",
       "title": "Upbit, Naver stock-swap deal faces second delay amid proposed crypto law debate",
       "summary": "<p>The companies said that the development of the country's landmark crypto legislation could affect the deal's progress or outcome.</p>",
@@ -561,26 +566,37 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
-      "summary": "<p>M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.</p>",
-      "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T19:07:24+00:00",
+      "source": "CoinDesk",
+      "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
+      "published": "2026-07-07T19:35:14+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "Judge revives fraud claim against Barry Silbert, DCG in Genesis Yield lawsuit",
-      "summary": "<p>The class action centers on Genesis Yield, a lending program that let customers deposit crypto in exchange for interest payments.</p>",
-      "url": "https://www.theblock.co/post/407337/judge-revives-fraud-claim-against-barry-silbert-dcg-genesis-yield-lawsuit?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T18:55:49+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+      "published": "2026-07-07T18:38:10+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
+      "published": "2026-07-07T16:18:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -605,11 +621,33 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
-      "summary": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
-      "url": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
-      "published": "2026-07-06T17:32:38+00:00",
+      "source": "TheBlock",
+      "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
+      "summary": "<p>Project Tachyon outlined new details of its verification effort for Zcash's upcoming Ironwood shielded pool.</p>",
+      "url": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T18:12:51+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "SBI Holdings is sole investor in crypto platform EDX Markets\u2019 $76 million Series C",
+      "summary": "<p>Institutional crypto platform EDX Markets has closed a $76 million Series C funding round, with Japan's SBI Holdings as the sole investor.</p>",
+      "url": "https://www.theblock.co/post/407489/crypto-platform-edx-markets-series-c-funding-sbi-sole-investor?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T17:25:15+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC plans crypto rule changes for exchanges and broker dealers in 2026 regulatory agenda",
+      "summary": "<p>The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.</p>",
+      "url": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T16:03:54+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
