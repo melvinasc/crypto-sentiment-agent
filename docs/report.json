@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T09:56:21.346251+00:00",
+  "generated_at": "2026-07-07T14:54:53.574334+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -53,36 +53,12 @@
       ],
       "no_news": false
     },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "AVAX One launches CEO search after leader of its Avalanche treasury pivot steps down",
-          "summary": "<p>SkyBridge founder Anthony Scaramucci backed AVAX One's $550 million Avalanche treasury strategy announced last year.</p>",
-          "url": "https://www.theblock.co/post/407309/avax-one-ceo-search-leader-avalanche-treasury-pivot-steps-down?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-06T16:07:20+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.3612,
+      "article_count": 2,
+      "avg_compound": -0.3172,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -97,70 +73,31 @@
           "compound": -0.3612,
           "label": "BEARISH",
           "confidence": 0.3612
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 8,
-      "avg_compound": 0.1789,
-      "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 2,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitmine\u2019s Tom Lee ties ether strength to Clarity Act odds as treasury nears 5% of Ethereum\u2019s total supply",
-          "summary": "<p>Bitmine acquired 42,197 ether worth an estimated $74 million last week, lifting its treasury to over 5.7 million ETH.</p>",
-          "url": "https://www.theblock.co/post/407283/bitmines-tom-lee-ties-ether-strength-to-clarity-act-odds-as-treasury-nears-5-of-ethereums-total-supply?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-06T14:15:48+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.8555,
-          "label": "BULLISH",
-          "confidence": 0.8555
         },
         {
           "source": "CoinDesk",
-          "title": "Bitmine added another $74 million in ether as Tom Lee bets on Clarity Act boost",
+          "title": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/06/bitmine-added-another-usd74-million-in-ether-as-tom-lee-bets-on-clarity-act-boost",
-          "published": "2026-07-06T12:54:37+00:00",
+          "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification",
+          "published": "2026-07-07T13:26:59+00:00",
           "coins": [
-            "ETH"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
-          "published": "2026-07-06T17:17:03+00:00",
-          "coins": [
-            "USDT",
             "BTC",
-            "TRX",
-            "ETH"
+            "XRP"
           ],
-          "compound": -0.6124,
+          "compound": -0.2732,
           "label": "BEARISH",
-          "confidence": 0.6124
+          "confidence": 0.2732
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 4,
-      "avg_compound": -0.1531,
+      "article_count": 3,
+      "avg_compound": -0.2041,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -180,12 +117,11 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Circle\u2019s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+          "title": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
-          "published": "2026-07-06T16:00:15+00:00",
+          "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
+          "published": "2026-07-07T13:46:25+00:00",
           "coins": [
-            "USDC",
             "USDT"
           ],
           "compound": 0.0,
@@ -193,11 +129,11 @@
           "confidence": 0.0
         },
         {
-          "source": "Decrypt",
-          "title": "New UK Election Funding Rules Could Hit Reform's Crypto Billionaire Donors",
-          "summary": "The crackdown on overseas cash comes after billionaire Tether investor and Reform donor Christopher Harborne registered to vote in the UK.",
-          "url": "https://decrypt.co/372794/new-uk-election-funding-rules-could-hit-reforms-crypto-billionaire-donors",
-          "published": "2026-07-06T10:01:06+00:00",
+          "source": "TheBlock",
+          "title": "Tether\u2019s former CIO seeks buyers for part of his stake in the firm: Bloomberg",
+          "summary": "<p>Former Tether CIO Richard Heathcote is seeking buyers for part of his 1.26% stake in the firm, according to Bloomberg. </p>",
+          "url": "https://www.theblock.co/post/407394/tethers-former-cio-seeks-buyers-for-part-of-his-stake-in-the-firm-bloomberg?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-07T09:22:26+00:00",
           "coins": [
             "USDT"
           ],
@@ -234,13 +170,26 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0698,
+      "article_count": 28,
+      "avg_compound": 0.099,
       "overall": "BULLISH",
-      "bullish": 12,
-      "bearish": 10,
-      "neutral": 5,
+      "bullish": 13,
+      "bearish": 13,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-the-UAE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a></p>\n<p>Bitcoin Suisse won regulatory approval in Abu Dhabi, allowing it to offer institutional crypto services across the UAE.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
+          "published": "2026-07-07T13:40:25+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.975,
+          "label": "BULLISH",
+          "confidence": 0.975
+        },
         {
           "source": "TheBlock",
           "title": "Grayscale says Strategy\u2019s recent bitcoin sales should restore confidence in its financing structure",
@@ -266,49 +215,75 @@
           "compound": 0.8885,
           "label": "BULLISH",
           "confidence": 0.8885
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
-          "published": "2026-07-07T07:50:57+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.7506,
-          "label": "BULLISH",
-          "confidence": 0.7506
         }
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.0922,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Circle\u2019s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
-          "published": "2026-07-06T16:00:15+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
           "coins": [
-            "USDC",
-            "USDT"
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
+          "summary": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
+          "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
+          "published": "2026-07-06T12:51:53+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee\u2019s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin",
+          "summary": "BitMine continued its relentless accumulation of Ethereum while Bitcoin's biggest treasury firm parted ways with more of its holdings.",
+          "url": "https://decrypt.co/372805/tom-lee-bitmine-73-million-ethereum-strategy-dumps-bitcoin",
+          "published": "2026-07-06T14:41:45+00:00",
+          "coins": [
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -407,6 +382,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -423,6 +408,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
+      "summary": "<p>The firm's head of digital assets will lead Vanguard's crypto-related strategy for personal wealth clients and interact with regulators.</p>",
+      "url": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T14:36:12+00:00",
+      "coins": [],
+      "compound": 0.8442,
+      "label": "BULLISH",
+      "confidence": 0.8442
+    },
+    {
+      "source": "TheBlock",
       "title": "BonkDAO loses $20 million following \u2018malicious governance proposal\u2019 attack",
       "summary": "<p>The funds have been tracked to crypto exchanges, and South Korea-based Upbit said it has suspended BONK deposits and withdrawals.\u00a0</p>",
       "url": "https://www.theblock.co/post/407343/bonkdao-loses-20-million-following-malicious-governance-proposal-attack?utm_source=rss&utm_medium=rss",
@@ -434,25 +430,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
-      "summary": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
-      "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
-      "published": "2026-07-05T15:46:01+00:00",
+      "title": "Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search",
+      "summary": "TechnologyWire pitches guaranteed placement across tech media, alongside content tuned to be picked up by tools like ChatGPT and Gemini.",
+      "url": "https://decrypt.co/372901/chainwire-parent-mediafuse-launches-tech-newswire-optimized-for-ai-search",
+      "published": "2026-07-07T11:28:04+00:00",
       "coins": [],
-      "compound": -0.743,
-      "label": "BEARISH",
-      "confidence": 0.743
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
     },
     {
-      "source": "CoinDesk",
-      "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-      "published": "2026-07-06T14:25:32+00:00",
+      "source": "TheBlock",
+      "title": "Coinbase secures UK investment services license to add derivatives and equities trading",
+      "summary": "<p>Coinbase secured a UK investment services license to offer derivatives and equities trading in addition to crypto.</p>",
+      "url": "https://www.theblock.co/post/407410/coinbase-secures-uk-investment-services-license-to-add-derivatives-and-equities-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T11:41:33+00:00",
       "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Wins UK License to Offer Stocks and Derivatives Alongside Crypto",
+      "summary": "The FCA authorization lets the exchange offer equities and derivatives to UK users, a step toward its \"everything exchange\" ambitions.",
+      "url": "https://decrypt.co/372912/coinbase-wins-uk-license-to-offer-stocks-and-derivatives-alongside-crypto",
+      "published": "2026-07-07T13:48:44+00:00",
+      "coins": [],
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
@@ -467,47 +474,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
+      "title": "AI trade loses steam as infrastructure boom faces reality check",
       "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
-      "published": "2026-07-06T13:42:12+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check",
+      "published": "2026-07-07T14:17:54+00:00",
       "coins": [],
-      "compound": -0.4404,
+      "compound": -0.3182,
       "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "TheBlock",
-      "title": "President Trump says he\u2019s a \u2018big crypto guy,\u2019 while distancing himself from family\u2019s crypto ventures",
-      "summary": "<p>President Trump called cryptocurrency \"powerful\" during the launch of Trump investment accounts for children.</p>",
-      "url": "https://www.theblock.co/post/407312/president-trump-big-crypto-guy-distancing-familys-crypto-ventures?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-06T15:53:22+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Crypto Surges Over Holiday Weekend",
-      "summary": "The ETF flows finally flip. Trump defends his billion-dollar crypto payday. And a rare set of signals says a bottom may be forming.",
-      "url": "https://decrypt.co/372798/morning-minute-crypto-surges-over-holiday-weekend",
-      "published": "2026-07-06T12:09:30+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.3182
     },
     {
       "source": "CoinDesk",
-      "title": "Cantor says Strategy's recovery hinges on restoring STRC to par",
+      "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/06/cantor-says-strategy-s-recovery-hinges-on-restoring-strc-to-par",
-      "published": "2026-07-06T13:06:09+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
+      "published": "2026-07-07T11:37:01+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -554,6 +539,17 @@
       "confidence": 0.186
     },
     {
+      "source": "CoinDesk",
+      "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
+      "published": "2026-07-07T14:28:37+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
       "source": "Decrypt",
       "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
       "summary": "Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
@@ -587,11 +583,44 @@
       "confidence": 0.0258
     },
     {
+      "source": "CoinDesk",
+      "title": "Analysts see more upside for SpaceX as post-IPO research begins",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/07/analysts-see-more-upside-for-spacex-as-post-ipo-research-begins",
+      "published": "2026-07-07T14:39:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EDX Markets raises $76 million in funding round led by SBI Holdings",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings",
+      "published": "2026-07-07T14:07:05+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
       "source": "Decrypt",
       "title": "Over 150,000 People Signed Up to Masturbate With AI. Here's Why",
       "summary": "Joi AI's search for 10 paid \"masturbation consultants\" drew more than 150,000 applicants. Here's what happened.",
       "url": "https://decrypt.co/372818/people-signed-up-masturbate-ai-joi",
       "published": "2026-07-06T17:32:38+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bernstein maintains $36 TeraWulf target after $19 billion, 20-year Anthropic lease",
+      "summary": "<p>Bernstein held its $36 TeraWulf price target after the miner's $19 billion Anthropic lease and $530 million sale of its Abernathy JV stake.</p>",
+      "url": "https://www.theblock.co/post/407429/bernstein-maintains-36-terawulf-target-after-19-billion-20-year-anthropic-lease?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-07T13:12:34+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
