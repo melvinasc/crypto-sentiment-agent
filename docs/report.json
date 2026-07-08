@@ -1,34 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:33:15.606328+00:00",
+  "generated_at": "2026-07-08T08:40:41.748683+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.6124,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
-          "published": "2026-07-06T17:17:03+00:00",
-          "coins": [
-            "USDT",
-            "BTC",
-            "TRX",
-            "ETH"
-          ],
-          "compound": -0.6124,
-          "label": "BEARISH",
-          "confidence": 0.6124
-        }
-      ],
-      "no_news": false
-    },
     "TRX": {
       "article_count": 1,
       "avg_compound": -0.6124,
@@ -57,13 +30,27 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.2732,
+      "article_count": 3,
+      "avg_compound": -0.1897,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "bearish": 2,
+      "neutral": 1,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
+          "published": "2026-07-08T05:29:16+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
         {
           "source": "CoinDesk",
           "title": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
@@ -77,81 +64,59 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.1299,
-      "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 10,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-the-UAE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a></p>\n<p>Bitcoin Suisse won regulatory approval in Abu Dhabi, allowing it to offer institutional crypto services across the UAE.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
-          "published": "2026-07-07T13:40:25+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.975,
-          "label": "BULLISH",
-          "confidence": 0.975
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Kraken-Pauses-IPO-Due-to-Market-Uncertainty-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a></p>\n<p>Kraken is seeking a final Delaware court judgment against former auditor Mazars after winning a $22 million arbitration award, arguing the firm's abrupt resignation during heightened U.S. regulatory pressure caused significant financial and operational harm.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22",
-          "published": "2026-07-07T19:35:05+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.872,
-          "label": "BULLISH",
-          "confidence": 0.872
         },
         {
           "source": "CoinDesk",
-          "title": "Bitcoin's recent macro relief faces a challenge from Japanese interest rates",
+          "title": "XRP Ledger\u2019s new upgrade is here. But not everyone\u2019s on board yet",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
-          "published": "2026-07-07T07:50:57+00:00",
+          "url": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
+          "published": "2026-07-08T08:40:22+00:00",
           "coins": [
-            "BTC"
+            "XRP"
           ],
-          "compound": 0.7506,
-          "label": "BULLISH",
-          "confidence": 0.7506
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.1053,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Binance taps into Bitcoin holders\u2019 hunger for yield with new covered call yield play",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/07/binance-taps-into-bitcoin-holders-hunger-for-yield-with-new-covered-call-yield-play",
-          "published": "2026-07-07T08:20:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
           "coins": [
-            "BNB",
-            "BTC"
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
           ],
-          "compound": 0.1027,
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
+          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
+          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T07:31:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.1027
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -211,6 +176,56 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 22,
+      "avg_compound": 0.0805,
+      "overall": "BULLISH",
+      "bullish": 10,
+      "bearish": 11,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Suisse-Wins-Abu-Dhabi-License-Extends-Digital-Asset-Push-into-the-UAE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a></p>\n<p>Bitcoin Suisse won regulatory approval in Abu Dhabi, allowing it to offer institutional crypto services across the UAE.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license\" rel=\"nofollow\">Bitcoin Suisse Wins Abu Dhabi License, Extends Digital Asset Push into the UAE</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-suisse-wins-abu-dhabi-license",
+          "published": "2026-07-07T13:40:25+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.975,
+          "label": "BULLISH",
+          "confidence": 0.975
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/03/Kraken-Pauses-IPO-Due-to-Market-Uncertainty-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a></p>\n<p>Kraken is seeking a final Delaware court judgment against former auditor Mazars after winning a $22 million arbitration award, arguing the firm's abrupt resignation during heightened U.S. regulatory pressure caused significant financial and operational harm.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22\" rel=\"nofollow\">Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/kraken-seeks-final-judgment-after-22",
+          "published": "2026-07-07T19:35:05+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.872,
+          "label": "BULLISH",
+          "confidence": 0.872
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Vanguard-Opens-Its-Platform-to-Bitcoin-and-Crypto-ETFs.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring\" rel=\"nofollow\">Vanguard Warms to Crypto With Search for Digital Assets Chief</a></p>\n<p>Vanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring\" rel=\"nofollow\">Vanguard Warms to Crypto With Search for Digital Assets Chief</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/vanguard-warms-to-crypto-hiring",
+          "published": "2026-07-07T17:41:17+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -222,6 +237,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -410,6 +435,17 @@
       "confidence": 0.7096
     },
     {
+      "source": "TheBlock",
+      "title": "Federal judge denies Kalshi\u2019s bid to block New York gambling law enforcement",
+      "summary": "<p>The judge said New York gambling laws, as applied to Kalshi's sports-event contracts, are not preempted by the federal Commodity Exchange Act.</p>",
+      "url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-08T06:31:22+00:00",
+      "coins": [],
+      "compound": -0.6908,
+      "label": "BEARISH",
+      "confidence": 0.6908
+    },
+    {
       "source": "Decrypt",
       "title": "Chainwire Parent MediaFuse Launches Tech Newswire Optimized for AI Search",
       "summary": "TechnologyWire pitches guaranteed placement across tech media, alongside content tuned to be picked up by tools like ChatGPT and Gemini.",
@@ -440,17 +476,6 @@
       "coins": [],
       "compound": -0.6124,
       "label": "BEARISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase secures UK investment services license to add derivatives and equities trading",
-      "summary": "<p>Coinbase secured a UK investment services license to offer derivatives and equities trading in addition to crypto.</p>",
-      "url": "https://www.theblock.co/post/407410/coinbase-secures-uk-investment-services-license-to-add-derivatives-and-equities-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T11:41:33+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
       "confidence": 0.6124
     },
     {
