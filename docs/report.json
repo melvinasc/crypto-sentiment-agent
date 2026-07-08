@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T08:40:41.748683+00:00",
+  "generated_at": "2026-07-08T14:32:54.938546+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -29,106 +29,27 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": -0.1897,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp",
-          "published": "2026-07-08T05:29:16+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, XRP draw Japanese firms as weak yen drives treasury diversification",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-xrp-draw-japanese-firms-as-weak-yen-drives-treasury-diversification",
-          "published": "2026-07-07T13:26:59+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger\u2019s new upgrade is here. But not everyone\u2019s on board yet",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
-          "published": "2026-07-08T08:40:22+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.1053,
+    "USDT": {
+      "article_count": 5,
+      "avg_compound": -0.3189,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 4,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
-          "published": "2026-07-06T17:17:03+00:00",
-          "coins": [
-            "USDT",
-            "BTC",
-            "TRX",
-            "ETH"
-          ],
-          "compound": -0.6124,
-          "label": "BEARISH",
-          "confidence": 0.6124
-        },
-        {
           "source": "TheBlock",
-          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
-          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
-          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T07:31:47+00:00",
+          "title": "Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts",
+          "summary": "<p>Nigel Farage resigned as an MP amid two probes over gifts from Tether investor Christopher Harborne and convicted fraudster George Cottrell.</p>",
+          "url": "https://www.theblock.co/post/407542/nigel-farage-to-quit-uk-parliament-seek-new-mandate-amid-probes-into-crypto-linked-gifts?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T09:04:59+00:00",
           "coins": [
-            "ETH"
+            "USDT"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 5,
-      "avg_compound": -0.0895,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 2,
-      "top_articles": [
+          "compound": -0.6705,
+          "label": "BEARISH",
+          "confidence": 0.6705
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
@@ -147,41 +68,100 @@
         },
         {
           "source": "Decrypt",
-          "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
-          "summary": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
-          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-          "published": "2026-07-07T21:31:09+00:00",
+          "title": "Bankers Filed Suspicious Activity Report Over Farage's \u00a35M Gift From Tether Billionaire",
+          "summary": "The report, filed in May 2024, invited the National Crime Agency to determine whether there were grounds for further investigation.",
+          "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
+          "published": "2026-07-08T12:06:35+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "USDT"
           ],
-          "compound": 0.3182,
+          "compound": -0.4767,
+          "label": "BEARISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.2193,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple becomes Kansas Jayhawks sports sponsor with XRP patch to appear on jerseys",
+          "summary": "<p>Besides the sports partnership, Ripple has committed to fund financial and technology education programs for student-athletes.</p>",
+          "url": "https://www.theblock.co/post/407564/ripple-kansas-jayhawks-sponsor-xrp-patch-on-jerseys?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T14:02:10+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2732,
           "label": "BULLISH",
-          "confidence": 0.3182
+          "confidence": 0.2732
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Tether Invests $20 Million in Brazil\u2019s Mercado Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Tether-Invests-20-Million-in-Brazils-Mercado-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin\" rel=\"nofollow\">Tether Invests $20 Million in Brazil&#8217;s Mercado Bitcoin</a></p>\n<p>Tether invested $20 million in Brazil's Mercado Bitcoin to expand regulated blockchain finance, tokenization and stablecoin infrastructure across Latin America.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin\" rel=\"nofollow\">Tether Invests $20 Million in Brazil&#8217;s Mercado Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/tether-invests-20-million-mercado-bitcoin",
-          "published": "2026-07-07T15:01:57+00:00",
+          "source": "CoinDesk",
+          "title": "Validators embrace XRP Ledger's recent upgrade. But not everyone\u2019s on board yet",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
+          "published": "2026-07-08T08:40:22+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "XRP"
           ],
-          "compound": -0.1531,
+          "compound": 0.1655,
+          "label": "BULLISH",
+          "confidence": 0.1655
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.148,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet",
+          "summary": "<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>",
+          "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T11:55:01+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.296,
           "label": "BEARISH",
-          "confidence": 0.1531
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+          "summary": "",
+          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
+          "published": "2026-07-08T14:01:44+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.0805,
+      "article_count": 21,
+      "avg_compound": 0.1129,
       "overall": "BULLISH",
       "bullish": 10,
-      "bearish": 11,
+      "bearish": 10,
       "neutral": 1,
       "top_articles": [
         {
@@ -226,6 +206,46 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.1053,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tdn.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a></p>\n<p>After years of development, UTEXO\u2014backed by Tether\u2014rolls out Bitcoin-native USDT with client-side validation, slashing fees and middlemen compared to Tron or Ethereum rails.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements\" rel=\"nofollow\">USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/usdt-returns-to-bitcoin-rgb-and-utexo-enable-private-lightning-settlements",
+          "published": "2026-07-06T17:17:03+00:00",
+          "coins": [
+            "USDT",
+            "BTC",
+            "TRX",
+            "ETH"
+          ],
+          "compound": -0.6124,
+          "label": "BEARISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
+          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
+          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T07:31:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -237,16 +257,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -369,28 +379,6 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Multi-trillion-dollar asset manager Vanguard hiring crypto exec to help influence market",
-      "summary": "<p>The firm's head of digital assets will lead Vanguard's crypto-related strategy for personal wealth clients and interact with regulators.</p>",
-      "url": "https://www.theblock.co/post/407441/vanguard-hiring-crypto-exec-to-help-influence-market?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T14:36:12+00:00",
-      "coins": [],
-      "compound": 0.8442,
-      "label": "BULLISH",
-      "confidence": 0.8442
-    },
-    {
-      "source": "TheBlock",
-      "title": "Gemini offers 0% stock trading in US as it looks to become \u2018all-in-one financial super app\u2019",
-      "summary": "<p>Gemini said it is looking to become an \u201call-in-one financial super app\" as it launches 0% commission stock trading for eligible U.S. users.</p>",
-      "url": "https://www.theblock.co/post/407449/gemini-offers-0-stock-trading-in-us-become-all-in-one-financial-super-app?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T15:10:56+00:00",
-      "coins": [],
-      "compound": 0.8316,
-      "label": "BULLISH",
-      "confidence": 0.8316
-    },
-    {
       "source": "Decrypt",
       "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
       "summary": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
@@ -491,6 +479,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters",
+      "summary": "<p>India's central bank called for banks to be barred from crypto exposure as it reiterated support for tighter restrictions on digital assets.</p>",
+      "url": "https://www.theblock.co/post/407549/india-central-bank-seeks-to-bar-financial-institutions-from-exposure-to-crypto-assets-reuters?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-08T10:29:36+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation",
+      "summary": "Crypto majors fall as the U.S. strikes Iran, ending the ceasefire. Vanguard opens its doors. And a meme coin frenzy erupts on Robinhood chain.",
+      "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
+      "published": "2026-07-08T12:47:37+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
       "title": "Ondo Finance says tokenized stocks can now be used as collateral for perp trading",
       "summary": "<p>Last year, the tokenized real-world asset issuer launched 24/7 onchain access to more than 100 U.S. stocks and ETFs.</p>",
       "url": "https://www.theblock.co/post/407452/ondo-finance-says-tokenized-stocks-now-used-as-collateral-perp-trading?utm_source=rss&utm_medium=rss",
@@ -513,6 +523,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes",
+      "published": "2026-07-08T10:37:10+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
@@ -521,28 +542,6 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI trade loses steam as infrastructure boom faces reality check",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/07/ai-trade-loses-steam-as-infrastructure-boom-faces-reality-check",
-      "published": "2026-07-07T14:17:54+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase secures UK authorization to offer traditional investments alongside crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/07/coinbase-secures-uk-authorization-to-offer-traditional-investments-alongside-crypto",
-      "published": "2026-07-07T11:37:01+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -557,17 +556,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don\u2019t Act",
-      "summary": "Yvette Cooper said governments must agree on AI safeguards before frontier systems transform warfare, crime, and society.",
-      "url": "https://decrypt.co/372855/uk-foreign-secretary-warns-ai-hiroshima",
-      "published": "2026-07-06T21:01:03+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
       "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
       "summary": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
       "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
@@ -579,25 +567,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Vanguard opens search for digital assets leader in sign of evolving crypto strategy",
+      "title": "Reserve Bank of India still favors crypto prohibition to curtail tax evasion: Reuters",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/07/vanguard-opens-search-for-digital-assets-leader-in-sign-of-evolving-crypto-strategy",
-      "published": "2026-07-07T14:28:37+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/08/reserve-bank-of-india-still-favors-crypto-prohibition-to-curtail-tax-evasion-reuters",
+      "published": "2026-07-08T09:45:24+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.25,
       "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
-      "summary": "Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
-      "url": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
-      "published": "2026-07-06T21:37:54+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
@@ -609,6 +586,28 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Adam Back's BSTR scraps SPAC merger, seeks new deal",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
+      "published": "2026-07-08T14:17:26+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citadel drops U.S. Portofino suit, seeks bankruptcy order against firm's founder in UK",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
+      "published": "2026-07-08T12:45:30+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -644,17 +643,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "EDX Markets raises $76 million in funding round led by SBI Holdings",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/07/edx-markets-raises-usd76-million-in-funding-round-led-by-sbi-holdings",
-      "published": "2026-07-07T14:07:05+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
       "summary": "<p>Project Tachyon outlined new details of its verification effort for Zcash's upcoming Ironwood shielded pool.</p>",
@@ -682,17 +670,6 @@
       "summary": "<p>The SEC is laying the groundwork for cryptocurrency rule changes before the end of the year, with a blueprint for exchanges and brokers.</p>",
       "url": "https://www.theblock.co/post/407468/sec-plans-crypto-rule-changes-for-exchanges-broker-dealers-2026-regulatory-agenda?utm_source=rss&utm_medium=rss",
       "published": "2026-07-07T16:03:54+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Bernstein maintains $36 TeraWulf target after $19 billion, 20-year Anthropic lease",
-      "summary": "<p>Bernstein held its $36 TeraWulf price target after the miner's $19 billion Anthropic lease and $530 million sale of its Abernathy JV stake.</p>",
-      "url": "https://www.theblock.co/post/407429/bernstein-maintains-36-terawulf-target-after-19-billion-20-year-anthropic-lease?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T13:12:34+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
