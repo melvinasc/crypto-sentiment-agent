@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-07-09T04:02:27.059373+00:00",
+  "generated_at": "2026-07-09T09:53:38.053990+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.6609,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
+          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
+          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
+          "published": "2026-07-08T19:23:13+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.9199,
+          "label": "BEARISH",
+          "confidence": 0.9199
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
+          "published": "2026-07-09T04:57:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 1,
       "avg_compound": -0.34,
@@ -26,102 +65,63 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "BNB": {
       "article_count": 3,
-      "avg_compound": -0.2763,
-      "overall": "BEARISH",
+      "avg_compound": 0.1133,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 2,
-      "neutral": 0,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Nigel Farage to quit UK Parliament, seek new mandate amid probes into crypto-linked gifts",
-          "summary": "<p>Nigel Farage resigned as an MP amid two probes over gifts from Tether investor Christopher Harborne and convicted fraudster George Cottrell.</p>",
-          "url": "https://www.theblock.co/post/407542/nigel-farage-to-quit-uk-parliament-seek-new-mandate-amid-probes-into-crypto-linked-gifts?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T09:04:59+00:00",
+          "title": "Binance Wallet adds Plume\u2019s yield vault offering access to Invesco and Bitwise funds",
+          "summary": "<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.</p>",
+          "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T21:00:02+00:00",
           "coins": [
-            "USDT"
+            "BNB"
           ],
-          "compound": -0.6705,
-          "label": "BEARISH",
-          "confidence": 0.6705
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bankers Filed Suspicious Activity Report Over Farage's \u00a35M Gift From Tether Billionaire",
-          "summary": "The report, filed in May 2024, invited the National Crime Agency to determine whether there were grounds for further investigation.",
-          "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
-          "published": "2026-07-08T12:06:35+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.4767,
-          "label": "BEARISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
-          "summary": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
-          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-          "published": "2026-07-07T21:31:09+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": 0.3182,
+          "compound": 0.34,
           "label": "BULLISH",
-          "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.259,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-          "published": "2026-07-08T19:23:13+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.9199,
-          "label": "BEARISH",
-          "confidence": 0.9199
+          "confidence": 0.34
         },
         {
-          "source": "TheBlock",
-          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
-          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
-          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T07:31:47+00:00",
+          "source": "CoinDesk",
+          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+          "summary": "",
+          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
+          "published": "2026-07-08T14:01:44+00:00",
           "coins": [
-            "ETH"
+            "BNB"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
+          "summary": "The network\u2019s 2026 roadmap targets faster transactions, AI-powered apps, and infrastructure aimed at competing with traditional financial systems, while preparing for a quantum future.",
+          "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
+          "published": "2026-07-08T16:14:20+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "XRP": {
       "article_count": 3,
-      "avg_compound": 0.1462,
+      "avg_compound": 0.0911,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -138,16 +138,16 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Validators embrace XRP Ledger's recent upgrade. But not everyone\u2019s on board yet",
+          "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
-          "published": "2026-07-08T08:40:22+00:00",
+          "url": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
+          "published": "2026-07-09T05:07:11+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.1655,
-          "label": "BULLISH",
-          "confidence": 0.1655
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -166,11 +166,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0336,
-      "overall": "NEUTRAL",
+      "article_count": 18,
+      "avg_compound": 0.0766,
+      "overall": "BULLISH",
       "bullish": 8,
-      "bearish": 9,
+      "bearish": 7,
       "neutral": 3,
       "top_articles": [
         {
@@ -216,48 +216,50 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 4,
-      "avg_compound": 0.011,
-      "overall": "NEUTRAL",
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": -0.0528,
+      "overall": "BEARISH",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Binance Wallet adds Plume\u2019s yield vault offering access to Invesco and Bitwise funds",
-          "summary": "<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.</p>",
-          "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T21:00:02+00:00",
+          "source": "Decrypt",
+          "title": "Bankers Filed Suspicious Activity Report Over Farage's \u00a35M Gift From Tether Billionaire",
+          "summary": "The report, filed in May 2024, invited the National Crime Agency to determine whether there were grounds for further investigation.",
+          "url": "https://decrypt.co/372994/bankers-filed-suspicious-activity-report-over-farages-5m-gift-from-tether-billionaire",
+          "published": "2026-07-08T12:06:35+00:00",
           "coins": [
-            "BNB"
+            "USDT"
           ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "TheBlock",
-          "title": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet",
-          "summary": "<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>",
-          "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T11:55:01+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.296,
+          "compound": -0.4767,
           "label": "BEARISH",
-          "confidence": 0.296
+          "confidence": 0.4767
         },
         {
-          "source": "CoinDesk",
-          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
-          "summary": "",
-          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
-          "published": "2026-07-08T14:01:44+00:00",
+          "source": "Decrypt",
+          "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
+          "summary": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
+          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
+          "published": "2026-07-07T21:31:09+00:00",
           "coins": [
-            "BNB"
+            "USDT",
+            "BTC"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "TheBlock",
+          "title": "Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether",
+          "summary": "<p>Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.</p>",
+          "url": "https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-09T06:46:10+00:00",
+          "coins": [
+            "AVAX",
+            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -267,14 +269,29 @@
       "no_news": false
     },
     "AVAX": {
-      "article_count": 0,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Hyundai Card completes its first real-world stablecoin pilot with Avalanche, Tether",
+          "summary": "<p>Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.</p>",
+          "url": "https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-09T06:46:10+00:00",
+          "coins": [
+            "AVAX",
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "DAI": {
       "article_count": 0,
@@ -399,6 +416,39 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Sony Bank gets conditional OCC approval for US trust bank to issue dollar-backed stablecoin",
+      "summary": "<p>The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.</p>",
+      "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T07:50:55+00:00",
+      "coins": [],
+      "compound": 0.9186,
+      "label": "BULLISH",
+      "confidence": 0.9186
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+      "published": "2026-07-09T09:49:26+00:00",
+      "coins": [],
+      "compound": 0.8271,
+      "label": "BULLISH",
+      "confidence": 0.8271
+    },
+    {
+      "source": "TheBlock",
+      "title": "INTERPOL-led global fraud crackdown arrests over 5,800, uncovers crypto laundering network tied to $122.5 million wallet",
+      "summary": "<p>The operation uncovered a crypto laundering network using cross-chain swaps to obscure funds, with one wallet processing $122.5M in 10 months.</p>",
+      "url": "https://www.theblock.co/post/407685/interpol-led-global-fraud-crackdown-arrests-over-5800-uncovers-crypto-laundering-network-tied-to-122-5-million-wallet?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T09:39:20+00:00",
+      "coins": [],
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
+    },
+    {
       "source": "Decrypt",
       "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
       "summary": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
@@ -410,37 +460,26 @@
       "confidence": 0.765
     },
     {
-      "source": "TheBlock",
-      "title": "Kraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
-      "summary": "<p>Payward sued its former auditor, Mazars, for abandoning a nearly complete audit during Operation Choke Point 2.0.</p>",
-      "url": "https://www.theblock.co/post/407524/kraken-wins-22-million-arbitration-auditor-mazars-for-ditching-during-operation-choke-point-2-0?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T21:30:10+00:00",
-      "coins": [],
-      "compound": -0.7096,
-      "label": "BEARISH",
-      "confidence": 0.7096
-    },
-    {
-      "source": "TheBlock",
-      "title": "Federal judge denies Kalshi\u2019s bid to block New York gambling law enforcement",
-      "summary": "<p>The judge said New York gambling laws, as applied to Kalshi's sports-event contracts, are not preempted by the federal Commodity Exchange Act.</p>",
-      "url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-08T06:31:22+00:00",
-      "coins": [],
-      "compound": -0.6908,
-      "label": "BEARISH",
-      "confidence": 0.6908
-    },
-    {
       "source": "Decrypt",
-      "title": "AI Is Changing the Workplace and Universities Aren\u2019t Keeping Up, Study Warns",
-      "summary": "A University of Manchester researcher says schools should move beyond AI cheating concerns and prepare graduates for workplaces increasingly shaped by automation.",
-      "url": "https://decrypt.co/372957/ai-changing-workplace-universities-not-keeping-up-study",
-      "published": "2026-07-07T20:46:51+00:00",
+      "title": "A 20-Year-Old's Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
+      "summary": "The two Thai arrests were part of Operation First Light, a 97-country sweep that logged 5,811 arrests and intercepted $293 million.",
+      "url": "https://decrypt.co/373107/a-20-year-olds-crypto-wallet-moved-123m-in-romance-scam-cash-interpol-says",
+      "published": "2026-07-09T09:21:54+00:00",
       "coins": [],
-      "compound": -0.6124,
+      "compound": -0.7003,
       "label": "BEARISH",
-      "confidence": 0.6124
+      "confidence": 0.7003
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two blockbuster AI IPO's on the horizon could leave crypto further behind",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/09/two-blockbuster-ai-ipo-s-on-the-horizon-could-leave-crypto-further-behind",
+      "published": "2026-07-09T09:31:56+00:00",
+      "coins": [],
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
@@ -452,28 +491,6 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
-    },
-    {
-      "source": "TheBlock",
-      "title": "India central bank seeks to bar financial institutions from exposure to crypto assets: Reuters",
-      "summary": "<p>India's central bank called for banks to be barred from crypto exposure as it reiterated support for tighter restrictions on digital assets.</p>",
-      "url": "https://www.theblock.co/post/407549/india-central-bank-seeks-to-bar-financial-institutions-from-exposure-to-crypto-assets-reuters?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-08T10:29:36+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Citadel abandons multi-year crypto lawsuit to focus on bankruptcy order against an ex-employee",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/08/citadel-drops-u-s-portofino-suit-seeks-bankruptcy-order-against-firm-s-founder-in-uk",
-      "published": "2026-07-08T12:45:30+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -542,17 +559,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/08/crypto-and-stocks-tumble-after-trump-declares-ceasefire-over-following-iran-strikes",
-      "published": "2026-07-08T10:37:10+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "TheBlock",
       "title": "Cash App owner Block to pay $45 million after states say it made false security promises",
       "summary": "<p>Block Inc. has agreed to pay $45 million to settle allegations brought by regulators in nearly every U.S. state. </p>",
@@ -562,6 +568,28 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
+      "published": "2026-07-09T06:51:10+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "TheBlock",
+      "title": "Swift launches blockchain ledger for tokenized deposit pilot with 17 banks",
+      "summary": "<p>Swift launched a blockchain-based ledger that enables 17 banks to pilot 24/7 cross-border payments using tokenized deposits.</p>",
+      "url": "https://www.theblock.co/post/407687/swift-launches-blockchain-ledger-for-tokenized-deposit-pilot-with-17-banks?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T09:52:21+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -586,15 +614,15 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Reserve Bank of India still favors crypto prohibition to curtail tax evasion: Reuters",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/08/reserve-bank-of-india-still-favors-crypto-prohibition-to-curtail-tax-evasion-reuters",
-      "published": "2026-07-08T09:45:24+00:00",
+      "source": "TheBlock",
+      "title": "AscendEX crypto exchange shuts down, no assurance on user payouts",
+      "summary": "<p>AscendEx announced on July 6 that its platform ceased operations effective July 1, citing regulatory, financial, and operational challenges.</p>",
+      "url": "https://www.theblock.co/post/407654/ascendex-shuts-down?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T04:39:49+00:00",
       "coins": [],
-      "compound": 0.25,
+      "compound": 0.2649,
       "label": "BULLISH",
-      "confidence": 0.25
+      "confidence": 0.2649
     },
     {
       "source": "CoinDesk",
@@ -620,14 +648,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+      "title": "Bank of Japan may speed up rate hikes, pushing borrowing costs above 2%, ex-BOJ official warns",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
-      "published": "2026-07-07T19:35:14+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/09/bank-of-japan-may-speed-up-rate-hikes-pushing-borrowing-costs-above-2-ex-boj-official-warns",
+      "published": "2026-07-09T06:42:09+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet",
+      "published": "2026-07-09T09:51:20+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
+      "published": "2026-07-09T06:40:50+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
@@ -635,6 +685,17 @@
       "summary": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships\u2014and by Musk's own account, at least one generation behind them.",
       "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
       "published": "2026-07-08T22:26:31+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Russia\u2019s Alfa Bank plans to launch digital depository to offer crypto services: report",
+      "summary": "<p>The move aligns with similar announcements from other major Russian banks, amid the development of the country's crypto law.</p>",
+      "url": "https://www.theblock.co/post/407679/russia-alfa-bank-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T09:10:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
