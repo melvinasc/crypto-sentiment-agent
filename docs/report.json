@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:46:18.194041+00:00",
+  "generated_at": "2026-07-09T04:02:27.059373+00:00",
   "total_articles": 55,
   "coins": {
     "ADA": {
@@ -26,50 +26,12 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.259,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-          "published": "2026-07-08T19:23:13+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.9199,
-          "label": "BEARISH",
-          "confidence": 0.9199
-        },
-        {
-          "source": "TheBlock",
-          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
-          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
-          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T07:31:47+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
-      "article_count": 4,
-      "avg_compound": -0.2455,
+      "article_count": 3,
+      "avg_compound": -0.2763,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -111,6 +73,44 @@
           "compound": 0.3182,
           "label": "BULLISH",
           "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.259,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
+          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
+          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
+          "published": "2026-07-08T19:23:13+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.9199,
+          "label": "BEARISH",
+          "confidence": 0.9199
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee\u2019s Bitmine adds $70 million worth of ETH to treasury: onchain analyst",
+          "summary": "<p>Bitmine's most recent disclosure shows that it holds 5.74 million ETH, roughly 4.8% of Ethereum's circulating supply.</p>",
+          "url": "https://www.theblock.co/post/407536/tom-lee-bitmine-reportedly-adds-70-million?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T07:31:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -165,62 +165,12 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.0987,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet",
-          "summary": "<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>",
-          "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-08T11:55:01+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
-          "summary": "",
-          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
-          "published": "2026-07-08T14:01:44+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
-          "summary": "The network\u2019s 2026 roadmap targets faster transactions, AI-powered apps, and infrastructure aimed at competing with traditional financial systems, while preparing for a quantum future.",
-          "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
-          "published": "2026-07-08T16:14:20+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.0298,
+      "avg_compound": 0.0336,
       "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 10,
+      "bullish": 8,
+      "bearish": 9,
       "neutral": 3,
       "top_articles": [
         {
@@ -262,6 +212,56 @@
           "compound": 0.8278,
           "label": "BULLISH",
           "confidence": 0.8278
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 4,
+      "avg_compound": 0.011,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance Wallet adds Plume\u2019s yield vault offering access to Invesco and Bitwise funds",
+          "summary": "<p>Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.</p>",
+          "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T21:00:02+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "TheBlock",
+          "title": "BNB Chain builds new Layer 1 for agentic trading, targets 2027 mainnet",
+          "summary": "<p>BNB Chain is building a new Layer 1 for agentic trading with sub-50ms preconfirmation and no public mempool, targeting testnet by end-2026.</p>",
+          "url": "https://www.theblock.co/post/407406/bnb-chain-builds-new-layer-1-for-agentic-trading-targets-2027-mainnet?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-08T11:55:01+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+          "summary": "",
+          "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
+          "published": "2026-07-08T14:01:44+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -399,17 +399,6 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-      "summary": "<p>The CFTC charged a NC man and his company after the agency said he swindled about 60 people out of $14 million in a commodity pool. </p>",
-      "url": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T20:58:49+00:00",
-      "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
-      "confidence": 0.7717
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
       "summary": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
@@ -542,6 +531,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "TheBlock",
+      "title": "Sen. Wyden urges Senate leaders to preserve contested blockchain developer protections in broader crypto bill",
+      "summary": "<p>Democratic Sen. Ron Wyden is urging Senate leaders to ensure a provision protecting blockchain software developers remains in the crypto bill.</p>",
+      "url": "https://www.theblock.co/post/407648/wyden-urges-senate-leaders-preserve-contested-blockchain-developer-protections-in-broader-crypto-bill?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-08T22:01:09+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto and stocks tumble after Trump declares ceasefire 'over' following Iran strikes",
       "summary": "",
@@ -562,17 +562,6 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "BIG3 NFT Buyers Sue Ice Cube's Basketball League Over Alleged Unfulfilled Promises",
-      "summary": "Investors who purchased BIG3 NFTs expected the perks of team ownership, but allege \"deceptive, fraudulent\" marketing was at play.",
-      "url": "https://decrypt.co/372959/big3-nft-buyers-sue-ice-cube-basketball-league-unfulfilled-benefits",
-      "published": "2026-07-07T20:37:40+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -597,17 +586,6 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "China May Be Following US Lead With Quiet Crackdown on AI Exports",
-      "summary": "China is reportedly building the same power to cut off its AI that the US deployed against Anthropic in June.",
-      "url": "https://decrypt.co/372958/china-us-quiet-crackdown-ai-exports",
-      "published": "2026-07-07T19:51:38+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "CoinDesk",
       "title": "Reserve Bank of India still favors crypto prohibition to curtail tax evasion: Reuters",
       "summary": "",
@@ -630,6 +608,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "Decrypt",
+      "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
+      "summary": "The investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
+      "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
+      "published": "2026-07-08T20:40:38+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
       "source": "CoinDesk",
       "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
       "summary": "",
@@ -641,11 +630,22 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "Adam Back's BSTR scraps SPAC merger, seeks new deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/08/adam-back-s-bstr-scraps-original-spac-terms-seeks-new-deal",
-      "published": "2026-07-08T14:17:26+00:00",
+      "source": "Decrypt",
+      "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
+      "summary": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships\u2014and by Musk's own account, at least one generation behind them.",
+      "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
+      "published": "2026-07-08T22:26:31+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "\u2018Best course of action:\u2019 DeFi dashboard Zapper to shut down after 7 years",
+      "summary": "<p>Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.</p>",
+      "url": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-08T20:57:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -657,17 +657,6 @@
       "summary": "<p>Crypto venture firm Paradigm has raised its fourth fund, a $1.2 billion vehicle that will invest in crypto, AI, robotics, and other startups.</p>",
       "url": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics?utm_source=rss&utm_medium=rss",
       "published": "2026-07-08T17:02:55+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "ZEC jumps 12% as Zcash nears mathematical proof against hidden counterfeit bugs",
-      "summary": "<p>Project Tachyon outlined new details of its verification effort for Zcash's upcoming Ironwood shielded pool.</p>",
-      "url": "https://www.theblock.co/post/407495/zec-price-jumps-zcash-nears-mathematical-proof-hidden-counterfeit-bugs?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-07T18:12:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
