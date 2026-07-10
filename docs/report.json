@@ -1,15 +1,29 @@
 {
-  "generated_at": "2026-07-10T14:45:10.302497+00:00",
+  "generated_at": "2026-07-10T19:44:21.722457+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.9509,
+      "article_count": 2,
+      "avg_compound": 0.9708,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a></p>\n<p>Circle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
+          "published": "2026-07-10T16:43:52+00:00",
+          "coins": [
+            "BTC",
+            "USDC"
+          ],
+          "compound": 0.9906,
+          "label": "BULLISH",
+          "confidence": 0.9906
+        },
         {
           "source": "TheBlock",
           "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
@@ -52,24 +66,24 @@
     },
     "ETH": {
       "article_count": 2,
-      "avg_compound": 0.3014,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
+      "avg_compound": -0.2231,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
-          "summary": "<p>The Ethereum Foundation's Protocol Security team has been using coordinated AI agents to test critical network infrastructure.</p>",
-          "url": "https://www.theblock.co/post/407793/ethereum-foundation-says-ai-agents-find-real-bugs-but-most-are-false-positives?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-09T19:51:23+00:00",
+          "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
+          "summary": "<p>Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.</p>",
+          "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T16:07:20+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.7307,
-          "label": "BULLISH",
-          "confidence": 0.7307
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         },
         {
           "source": "Decrypt",
@@ -87,52 +101,65 @@
       ],
       "no_news": false
     },
-    "BNB": {
+    "SOL": {
       "article_count": 2,
-      "avg_compound": -0.2202,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
+      "avg_compound": 0.1993,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto\u2019s Top VC Pushes Into AI",
-          "summary": "BNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
-          "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
-          "published": "2026-07-09T12:23:22+00:00",
+          "source": "TheBlock",
+          "title": "SK Hynix\u2019s $26.5 billion US listing brought to Telegram users via xStocks",
+          "summary": "<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>",
+          "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T18:49:02+00:00",
           "coins": [
-            "BNB",
-            "BTC"
+            "SOL"
           ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
         },
         {
-          "source": "TheBlock",
-          "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
-          "summary": "<p>Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.</p>",
-          "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-10T13:17:52+00:00",
+          "source": "Decrypt",
+          "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
+          "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
+          "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+          "published": "2026-07-09T17:24:19+00:00",
           "coins": [
-            "BNB"
+            "SOL"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.1206,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 12,
-      "neutral": 5,
+      "article_count": 22,
+      "avg_compound": 0.0073,
+      "overall": "NEUTRAL",
+      "bullish": 10,
+      "bearish": 8,
+      "neutral": 4,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a></p>\n<p>Circle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
+          "published": "2026-07-10T16:43:52+00:00",
+          "coins": [
+            "BTC",
+            "USDC"
+          ],
+          "compound": 0.9906,
+          "label": "BULLISH",
+          "confidence": 0.9906
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin is \u201cA Screaming Buy\u201d: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
@@ -158,43 +185,30 @@
           "compound": -0.8898,
           "label": "BEARISH",
           "confidence": 0.8898
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Hampshire-Council-Rejects-100-Million-Bitcoin-Backed-Bond.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a></p>\n<p>New Hampshire's Executive Council voted 3-2 to reject a proposed $100 million Bitcoin-backed municipal bond, shelving what supporters said would have been the world's first such issuance despite arguments that it posed no risk to taxpayers.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
-          "published": "2026-07-09T15:28:30+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8492,
-          "label": "BEARISH",
-          "confidence": 0.8492
         }
       ],
       "no_news": false
     },
-    "SOL": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
-      "bullish": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
-          "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
-          "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
-          "published": "2026-07-09T17:24:19+00:00",
+          "source": "TheBlock",
+          "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
+          "summary": "<p>Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.</p>",
+          "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T13:17:52+00:00",
           "coins": [
-            "SOL"
+            "BNB"
           ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -347,6 +361,17 @@
   "uncategorised": [
     {
       "source": "Decrypt",
+      "title": "Circle Stock Jumps as Stablecoin Issuer Wins Final Federal Banking Charter Approval",
+      "summary": "Circle secured final OCC approval to establish a national trust bank, shifting its $73.2 billion stablecoin to a unified federal framework.",
+      "url": "https://decrypt.co/373227/circle-stock-jumps-stablecoin-issuer-final-federal-banking-charter",
+      "published": "2026-07-10T14:54:40+00:00",
+      "coins": [],
+      "compound": 0.9552,
+      "label": "BULLISH",
+      "confidence": 0.9552
+    },
+    {
+      "source": "Decrypt",
       "title": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison",
       "summary": "A convicted launderer serving time for a $5 million scheme allegedly moved crypto that a court had ordered him to forfeit.",
       "url": "https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
@@ -412,17 +437,6 @@
       "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "Labour MPs Push to Make UK Crypto Donation Ban Permanent",
-      "summary": "The lawmakers have tabled amendments to make the current moratorium permanent, as the fallout over Reform UK's funding widens.",
-      "url": "https://decrypt.co/373130/labour-mps-push-to-make-uk-crypto-donation-ban-permanent",
-      "published": "2026-07-09T15:26:59+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "TheBlock",
       "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
       "summary": "<p>Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency.</p>",
@@ -468,6 +482,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+      "published": "2026-07-10T16:02:21+00:00",
+      "coins": [],
+      "compound": -0.4588,
+      "label": "BEARISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
       "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
@@ -478,26 +503,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
-      "published": "2026-07-09T20:42:49+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "TheBlock",
-      "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
-      "summary": "<p>Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.\u00a0</p>",
-      "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T21:13:44+00:00",
+      "title": "Kraken to relaunch its mobile app with agentic trading and advice at the center",
+      "summary": "<p>Kraken is adding autonomous AI agents capable of monitoring markets and suggesting trades for users.</p>",
+      "url": "https://www.theblock.co/post/407899/kraken-to-relaunch-its-mobile-app-with-agentic-trading-and-advise-at-the-center?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T16:27:23+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -533,15 +547,48 @@
       "confidence": 0.1779
     },
     {
-      "source": "CoinDesk",
-      "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
-      "published": "2026-07-09T20:31:39+00:00",
+      "source": "TheBlock",
+      "title": "Empery Digital offloads 1,400 bitcoins to help fund AI pivot, pay debt",
+      "summary": "<p>Empery Digital used part of the proceeds for a 25% stake in an AI data center campus project.</p>",
+      "url": "https://www.theblock.co/post/407900/empery-digital-offloads-1400-bitcoins-help-fund-ai-pivot-pay-debt?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T16:39:45+00:00",
       "coins": [],
-      "compound": -0.0772,
+      "compound": -0.0516,
       "label": "BEARISH",
-      "confidence": 0.0772
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
+      "published": "2026-07-10T15:26:43+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Xbox CEO Joins Fed AI Jobs Task Force Days After Announcing 3,200 Layoffs",
+      "summary": "Asha Sharma will advise the Federal Reserve on AI\u2019s impact on jobs and productivity as Xbox undergoes the biggest restructuring in its history.",
+      "url": "https://decrypt.co/373277/xbox-ceo-fed-ai-jobs-task-force-days-after-layoffs",
+      "published": "2026-07-10T18:02:21+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Won't Sign Housing Bill With CBDC Ban\u2014Will It Become Law Tonight Anyway?",
+      "summary": "Unless President Trump vetoes the bill, it will become law at midnight, banning the Federal Reserve from developing a CBDC until 2031.",
+      "url": "https://decrypt.co/373230/trump-wont-sign-housing-bill-cbdc-ban-become-law-anyway",
+      "published": "2026-07-10T15:13:12+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
@@ -560,17 +607,6 @@
       "summary": "The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor\u2014and it's already live in production.",
       "url": "https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8",
       "published": "2026-07-09T20:40:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "MoonPay Brings Its AI Crypto Agents to Telegram",
-      "summary": "MoonAgents lets users analyze markets and prepare crypto transactions through Telegram while keeping keys on their own devices.",
-      "url": "https://decrypt.co/373059/moonpay-ai-crypto-agents-telegram",
-      "published": "2026-07-09T13:01:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
