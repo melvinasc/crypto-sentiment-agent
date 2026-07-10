@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-10T09:49:19.819172+00:00",
+  "generated_at": "2026-07-10T14:45:10.302497+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
-      "article_count": 2,
-      "avg_compound": 0.5624,
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.9509,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
+          "summary": "<p>Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase.</p>",
+          "url": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T11:25:14+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.9509,
+          "label": "BULLISH",
+          "confidence": 0.9509
+        }
+      ],
+      "no_news": false
+    },
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.743,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,44 +46,6 @@
           "compound": 0.743,
           "label": "BULLISH",
           "confidence": 0.743
-        },
-        {
-          "source": "TheBlock",
-          "title": "Why this Wall Street veteran is betting on Avalanche",
-          "summary": "<p>Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.</p>",
-          "url": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-09T15:03:40+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto\u2019s Top VC Pushes Into AI",
-          "summary": "BNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
-          "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
-          "published": "2026-07-09T12:23:22+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
         }
       ],
       "no_news": false
@@ -101,38 +87,65 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.2202,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
-          "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
-          "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
-          "published": "2026-07-09T17:24:19+00:00",
+          "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto\u2019s Top VC Pushes Into AI",
+          "summary": "BNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
+          "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
+          "published": "2026-07-09T12:23:22+00:00",
           "coins": [
-            "SOL"
+            "BNB",
+            "BTC"
           ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
+          "summary": "<p>Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.</p>",
+          "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T13:17:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 25,
-      "avg_compound": 0.0133,
-      "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 8,
-      "neutral": 6,
+      "avg_compound": -0.1206,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 12,
+      "neutral": 5,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin is \u201cA Screaming Buy\u201d: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Chartered-Backs-100000-Target-Shrugs-Off-Strategy-MSTR-Sell-Off.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered\" rel=\"nofollow\">Bitcoin is &#8220;A Screaming Buy&#8221;: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off</a></p>\n<p>Standard Chartered reaffirmed its $100,000 end-2026 Bitcoin price target, calling Bitcoin \"a screaming buy\" and arguing that Strategy's recent sell-off reflects a communication issue around its new monetization strategy rather than a weakening Bitcoin outlook.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered\" rel=\"nofollow\">Bitcoin is &#8220;A Screaming Buy&#8221;: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
+          "published": "2026-07-10T13:49:38+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9531,
+          "label": "BEARISH",
+          "confidence": 0.9531
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "JPMorgan Says the Real Threat to Bitcoin Isn\u2019t Strategy (MSTR) \u2014 It\u2019s Private Blockchains",
@@ -158,19 +171,30 @@
           "compound": -0.8492,
           "label": "BEARISH",
           "confidence": 0.8492
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a></p>\n<p>CFTC Chairman Michael Selig urged Congress to pass the Clarity Act before the August recess, saying the crypto market-structure bill is \"so close\" despite ongoing disputes over ethics and stablecoin provisions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close",
-          "published": "2026-07-08T17:55:34+00:00",
+          "source": "Decrypt",
+          "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
+          "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
+          "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+          "published": "2026-07-09T17:24:19+00:00",
           "coins": [
-            "BTC"
+            "SOL"
           ],
-          "compound": 0.8278,
+          "compound": 0.1027,
           "label": "BULLISH",
-          "confidence": 0.8278
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -309,16 +333,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -332,15 +346,26 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Supreme Court ruling expanding Trump\u2019s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances",
-      "summary": "<p>A recent Supreme Court ruling expanding President Trump's authority to remove leaders of many agencies could have broader implications.</p>",
-      "url": "https://www.theblock.co/post/407750/supreme-court-ruling-expanding-trumps-authority-over-federal-agencies-raises-questions-for-sec-cftc-as-crypto-rulemaking-advances?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T14:56:38+00:00",
+      "source": "Decrypt",
+      "title": "Jailed Fraudster Charged With Moving $290K in Forfeited Crypto From Prison",
+      "summary": "A convicted launderer serving time for a $5 million scheme allegedly moved crypto that a court had ordered him to forfeit.",
+      "url": "https://decrypt.co/373212/jailed-fraudster-charged-with-moving-290k-in-forfeited-crypto-from-prison",
+      "published": "2026-07-10T11:30:57+00:00",
       "coins": [],
-      "compound": 0.8316,
+      "compound": -0.8957,
+      "label": "BEARISH",
+      "confidence": 0.8957
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle soars after securing U.S. trust bank approval in crypto expansion",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/10/circle-secures-u-s-trust-bank-approval-in-crypto-expansion",
+      "published": "2026-07-10T11:41:47+00:00",
+      "coins": [],
+      "compound": 0.8271,
       "label": "BULLISH",
-      "confidence": 0.8316
+      "confidence": 0.8271
     },
     {
       "source": "Decrypt",
@@ -355,14 +380,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "A 20-Year-Old's Crypto Wallet Moved $123M in Romance-Scam Cash: Interpol Says",
-      "summary": "The two Thai arrests were part of Operation First Light, a 97-country sweep that logged 5,811 arrests and intercepted $293 million.",
-      "url": "https://decrypt.co/373107/a-20-year-olds-crypto-wallet-moved-123m-in-romance-scam-cash-interpol-says",
-      "published": "2026-07-09T09:21:54+00:00",
+      "title": "Morning Minute: Robinhood Chain Explodes Onto the Crypto Scene",
+      "summary": "Plus, Circle wins a national bank charter and pops 10%. And the Clarity Act gets a new draft while the clock is ticking\u2026",
+      "url": "https://decrypt.co/373215/morning-minute-robinhood-chain-explodes-onto-the-crypto-scene",
+      "published": "2026-07-10T12:12:55+00:00",
       "coins": [],
-      "compound": -0.7003,
-      "label": "BEARISH",
-      "confidence": 0.7003
+      "compound": 0.7506,
+      "label": "BULLISH",
+      "confidence": 0.7506
     },
     {
       "source": "TheBlock",
@@ -376,15 +401,15 @@
       "confidence": 0.6705
     },
     {
-      "source": "Decrypt",
-      "title": "Sony Bank Clears OCC Hurdle for Dollar Stablecoin",
-      "summary": "The lender's new US subsidiary, Connectia Trust, would issue a dollar-pegged stablecoin once it clears the regulator's final conditions.",
-      "url": "https://decrypt.co/373109/sony-bank-clears-occ-hurdle-for-dollar-stablecoin",
-      "published": "2026-07-09T11:03:08+00:00",
+      "source": "TheBlock",
+      "title": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is \u2018virtually non-existent\u2019",
+      "summary": "<p>Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware.</p>",
+      "url": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T11:08:31+00:00",
       "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
     },
     {
       "source": "Decrypt",
@@ -395,17 +420,6 @@
       "coins": [],
       "compound": -0.5574,
       "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "Decrypt",
-      "title": "EU Set to Revise MiCA in 2027 to Cover Foreign Stablecoin Issuers",
-      "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
-      "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-      "published": "2026-07-09T12:18:24+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
       "confidence": 0.5574
     },
     {
@@ -453,15 +467,15 @@
       "confidence": 0.4767
     },
     {
-      "source": "TheBlock",
-      "title": "White House defends Trump\u2019s regulatory appointments as CFTC vacancies complicate crypto bill push",
-      "summary": "<p>The White House pushed back against Democrats\u2019 criticism that the administration has declined to appoint commissioners to regulatory agencies.</p>",
-      "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T17:53:16+00:00",
+      "source": "CoinDesk",
+      "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
+      "published": "2026-07-10T12:29:08+00:00",
       "coins": [],
-      "compound": -0.4404,
+      "compound": -0.3818,
       "label": "BEARISH",
-      "confidence": 0.4404
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -480,17 +494,6 @@
       "summary": "<p>Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.\u00a0</p>",
       "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
       "published": "2026-07-09T21:13:44+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
-      "summary": "<p>The CFTC and Securities and Exchange Commission issued a Request for Information in mid-June on financial innovation.</p>",
-      "url": "https://www.theblock.co/post/407780/hyperliquid-policy-center-phantom-urge-cftc-to-stop-treating-onchain-protocols-like-traditional-brokers-and-exchanges?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T16:00:23+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
@@ -520,25 +523,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
+      "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
-      "published": "2026-07-09T20:28:51+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
+      "published": "2026-07-10T10:37:44+00:00",
       "coins": [],
-      "compound": 0.1531,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Newest version of crypto Clarity Act may drop as soon as next week, sources say",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/09/newest-version-of-crypto-clarity-act-may-drop-as-soon-as-next-week-sources-say",
-      "published": "2026-07-09T19:34:24+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -550,6 +542,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Carolina Bill Recognizes CFTC's \u2018Federal Regulatory Authority\u2019 Over Prediction Markets",
+      "summary": "The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
+      "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
+      "published": "2026-07-10T10:01:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
@@ -574,11 +577,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "The New Grok 4.5 Is Out. Elon Musk Says It Competes With Last Year's Claude Opus",
-      "summary": "SpaceXAI's new coding model is cheaper and faster than Anthropic and OpenAI's flagships\u2014and by Musk's own account, at least one generation behind them.",
-      "url": "https://decrypt.co/373094/grok-4-5-elon-musk-claude-opus",
-      "published": "2026-07-08T22:26:31+00:00",
+      "source": "TheBlock",
+      "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
+      "summary": "<p>Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.</p>",
+      "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T10:04:08+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
