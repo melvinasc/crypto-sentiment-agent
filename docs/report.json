@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T04:02:20.190311+00:00",
+  "generated_at": "2026-07-10T09:49:19.819172+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -64,37 +64,13 @@
       ],
       "no_news": false
     },
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": 0.3182,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "PayPal seeks to increase use of PYUSD stablecoin with native issuance on Polygon",
-          "summary": "<p>The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.</p>",
-          "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-09T13:54:53+00:00",
-          "coins": [
-            "MATIC"
-          ],
-          "compound": 0.3182,
-          "label": "BULLISH",
-          "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1507,
+      "article_count": 2,
+      "avg_compound": 0.3014,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -121,30 +97,17 @@
           "compound": -0.128,
           "label": "BEARISH",
           "confidence": 0.128
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
-          "published": "2026-07-09T14:58:55+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.0513,
+      "article_count": 1,
+      "avg_compound": 0.1027,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -158,30 +121,15 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Latin America\u2019s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-          "published": "2026-07-09T10:55:37+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0229,
+      "article_count": 25,
+      "avg_compound": 0.0133,
       "overall": "NEUTRAL",
-      "bullish": 9,
+      "bullish": 11,
       "bearish": 8,
       "neutral": 6,
       "top_articles": [
@@ -227,7 +175,7 @@
       ],
       "no_news": false
     },
-    "LINK": {
+    "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -237,12 +185,12 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
+          "title": "XRP up 2% as buyers push through $1.10 resistance",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
-          "published": "2026-07-09T12:00:00+00:00",
+          "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
+          "published": "2026-07-10T05:13:48+00:00",
           "coins": [
-            "LINK"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -291,7 +239,27 @@
       "top_articles": [],
       "no_news": true
     },
+    "LINK": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "LTC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "MATIC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -360,30 +328,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Crypto hack losses fall below $1 billion in H1 2026 despite record attack volume: Immunefi",
-      "summary": "<p>Crypto hacks hit a record 207 incidents in H1 2026, but losses fell to $972M as DeFi exploit damage dropped 74% from 2022, per Immunefi.</p>",
-      "url": "https://www.theblock.co/post/407707/crypto-hack-losses-fall-below-1-billion-in-h1-2026-even-as-attack-volume-hits-record-immunefi?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T13:00:00+00:00",
-      "coins": [],
-      "compound": -0.8599,
-      "label": "BEARISH",
-      "confidence": 0.8599
-    },
     {
       "source": "TheBlock",
       "title": "Supreme Court ruling expanding Trump\u2019s authority over federal agencies raises questions for SEC, CFTC as crypto rulemaking advances",
@@ -416,6 +363,17 @@
       "compound": -0.7003,
       "label": "BEARISH",
       "confidence": 0.7003
+    },
+    {
+      "source": "TheBlock",
+      "title": "UK Labour MPs push to permanently ban crypto political donations",
+      "summary": "<p>Labour MPs are gathering support for proposed amendments to a key bill that would permanently ban crypto political donations.</p>",
+      "url": "https://www.theblock.co/post/407842/uk-labour-mps-crypto-ban?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T08:44:30+00:00",
+      "coins": [],
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
     },
     {
       "source": "Decrypt",
@@ -452,6 +410,50 @@
     },
     {
       "source": "TheBlock",
+      "title": "DOJ charges federal inmate over alleged theft of $290,000 in crypto forfeited to US government",
+      "summary": "<p>Federal inmate Rossen Iossifov faces new charges for allegedly taking $290,000 in government-forfeited cryptocurrency.</p>",
+      "url": "https://www.theblock.co/post/407854/doj-charges-federal-inmate-over-alleged-theft-of-290000-in-crypto-forfeited-to-us-government?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T09:13:08+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
+      "published": "2026-07-10T09:35:21+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cathie Wood\u2019s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
+      "summary": "<p>Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%.</p>",
+      "url": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T09:09:24+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
+      "title": "Polymarket files applications to offer regulated margin trading in US",
+      "summary": "<p>Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.</p>",
+      "url": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T04:10:25+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
       "title": "White House defends Trump\u2019s regulatory appointments as CFTC vacancies complicate crypto bill push",
       "summary": "<p>The White House pushed back against Democrats\u2019 criticism that the administration has declined to appoint commissioners to regulatory agencies.</p>",
       "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push?utm_source=rss&utm_medium=rss",
@@ -460,17 +462,6 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
-    },
-    {
-      "source": "TheBlock",
-      "title": "Tarun Chitra\u2019s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
-      "summary": "<p>Chitra said he expects tokenization and vaults to grow the DeFi market faster than overall stablecoin growth over the next few years.</p>",
-      "url": "https://www.theblock.co/post/407723/tarun-chitra-gauntlet-125-million-series-c-funding-sbi-holdings?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T13:42:54+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -517,17 +508,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-      "published": "2026-07-09T11:08:37+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "Decrypt",
       "title": "Swift Readies Ledger for 24/7 Token Transfers\u2014Though True Settlement Is Stuck on Old Rails",
       "summary": "Swift\u2019s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
@@ -572,28 +552,6 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "Aave rolls out vaults for yield-hungry fintech investors",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
-      "published": "2026-07-09T13:01:38+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Age verification is the surveillance nobody voted for",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
-      "published": "2026-07-09T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost",
       "summary": "The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor\u2014and it's already live in production.",
@@ -628,10 +586,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Hong Kong SFC orders crypto platforms, online brokers to phase out OTP logins",
-      "summary": "<p>Hong Kong SFC orders internet brokers, crypto platforms to replace OTP logins with passkeys within 12 months following 57% spoofing surge.</p>",
-      "url": "https://www.theblock.co/post/407732/hong-kong-sfc-orders-crypto-platforms-online-brokers-to-phase-out-otp-logins?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T14:01:43+00:00",
+      "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
+      "summary": "<p>North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.</p>",
+      "url": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T05:51:59+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
