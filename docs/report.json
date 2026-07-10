@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-07-09T19:57:22.226493+00:00",
+  "generated_at": "2026-07-10T04:02:20.190311+00:00",
   "total_articles": 55,
   "coins": {
+    "AVAX": {
+      "article_count": 2,
+      "avg_compound": 0.5624,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Avalanche Treasury Firm AVAX One Reclaims Nasdaq Compliance After Reverse Stock Split",
+          "summary": "AVAX One, which stockpiles the native token of the Avalanche crypto network, is back in Nasdaq's good graces after a reverse stock split.",
+          "url": "https://decrypt.co/373193/avalanche-treasury-firm-avax-one-reclaims-nasdaq-compliance",
+          "published": "2026-07-09T20:57:49+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.743,
+          "label": "BULLISH",
+          "confidence": 0.743
+        },
+        {
+          "source": "TheBlock",
+          "title": "Why this Wall Street veteran is betting on Avalanche",
+          "summary": "<p>Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.</p>",
+          "url": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-09T15:03:40+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
     "BNB": {
       "article_count": 1,
       "avg_compound": -0.4404,
@@ -23,30 +60,6 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.3818,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Why this Wall Street veteran is betting on Avalanche",
-          "summary": "<p>Avalanche Treasury Company CEO Bart Smith explains his beliefs on the functions of treasury companies and his bull thesis for Avalanche.</p>",
-          "url": "https://www.theblock.co/post/407752/why-this-wall-street-veteran-is-betting-on-avalanche?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-09T15:03:40+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
         }
       ],
       "no_news": false
@@ -75,79 +88,14 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0664,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 9,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-          "published": "2026-07-08T19:23:13+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.9199,
-          "label": "BEARISH",
-          "confidence": 0.9199
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Hampshire-Council-Rejects-100-Million-Bitcoin-Backed-Bond.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a></p>\n<p>New Hampshire's Executive Council voted 3-2 to reject a proposed $100 million Bitcoin-backed municipal bond, shelving what supporters said would have been the world's first such issuance despite arguments that it posed no risk to taxpayers.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
-          "published": "2026-07-09T15:28:30+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8492,
-          "label": "BEARISH",
-          "confidence": 0.8492
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a></p>\n<p>CFTC Chairman Michael Selig urged Congress to pass the Clarity Act before the August recess, saying the crypto market-structure bill is \"so close\" despite ongoing disputes over ethics and stablecoin provisions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close",
-          "published": "2026-07-08T17:55:34+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8278,
-          "label": "BULLISH",
-          "confidence": 0.8278
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0634,
-      "overall": "BEARISH",
+      "article_count": 4,
+      "avg_compound": 0.1507,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
-          "summary": "Bitcoin is looking slightly more optimistic but failed the breakout everyone was watching. Meanwhile, ETH just printed a weekly death cross for the first time in years.",
-          "url": "https://decrypt.co/373060/bitcoin-price-stalls-ethereum-flashes-worst-weekly-signal-years",
-          "published": "2026-07-08T19:23:13+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.9199,
-          "label": "BEARISH",
-          "confidence": 0.9199
-        },
         {
           "source": "TheBlock",
           "title": "Ethereum Foundation says AI agents find real bugs, but most are false positives",
@@ -173,17 +121,30 @@
           "compound": -0.128,
           "label": "BEARISH",
           "confidence": 0.128
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
+          "published": "2026-07-09T14:58:55+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0342,
-      "overall": "NEUTRAL",
+      "article_count": 2,
+      "avg_compound": 0.0513,
+      "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -212,19 +173,56 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.0229,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 6,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "JPMorgan Says the Real Threat to Bitcoin Isn\u2019t Strategy (MSTR) \u2014 It\u2019s Private Blockchains",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/JPMorgan-Says-the-Real-Threat-to-Bitcoin-Isnt-Strategy-MSTR-\u2014-Its-Private-Blockchains.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin\" rel=\"nofollow\">JPMorgan Says the Real Threat to Bitcoin Isn&#8217;t Strategy (MSTR) \u2014 It&#8217;s Private Blockchains</a></p>\n<p>JPMorgan says Strategy's Bitcoin sales are a short-term concern, but the bigger long-term risk is that banks and institutions adopt private blockchains over public networks, reducing activity and capital flows across the broader crypto ecosystem.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin\" rel=\"nofollow\">JPMorgan Says the Real Threat to Bitcoin Isn&#8217;t Strategy (MSTR) \u2014 It&#8217;s Private Blockchains</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/jpmorgan-says-the-real-threat-to-bitcoin",
+          "published": "2026-07-09T20:33:56+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8898,
+          "label": "BEARISH",
+          "confidence": 0.8898
         },
         {
-          "source": "TheBlock",
-          "title": "Stripe-owned Privy and Jito co-develop Solana transaction inclusion tool FullSend",
-          "summary": "<p>FullSend works by automatically routing every transaction signed in a Privy wallet directly to the current Solana block-building leader.</p>",
-          "url": "https://www.theblock.co/post/407628/stripe-privy-jito-develop-solana-transaction-inclusion-tool-fullsend?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-09T12:30:02+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Hampshire-Council-Rejects-100-Million-Bitcoin-Backed-Bond.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a></p>\n<p>New Hampshire's Executive Council voted 3-2 to reject a proposed $100 million Bitcoin-backed municipal bond, shelving what supporters said would have been the world's first such issuance despite arguments that it posed no risk to taxpayers.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million\" rel=\"nofollow\">New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/new-hampshire-council-rejects-100-million",
+          "published": "2026-07-09T15:28:30+00:00",
           "coins": [
-            "SOL"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.8492,
+          "label": "BEARISH",
+          "confidence": 0.8492
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Scott-Bessent-Backs-Strategic-Bitcoin-Reserve-Urges-Senate-to-Pass-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a></p>\n<p>CFTC Chairman Michael Selig urged Congress to pass the Clarity Act before the August recess, saying the crypto market-structure bill is \"so close\" despite ongoing disputes over ethics and stablecoin provisions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close\" rel=\"nofollow\">CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/cftc-chair-says-clarity-act-is-so-close",
+          "published": "2026-07-08T17:55:34+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8278,
+          "label": "BULLISH",
+          "confidence": 0.8278
         }
       ],
       "no_news": false
@@ -398,15 +396,15 @@
       "confidence": 0.8316
     },
     {
-      "source": "CoinDesk",
-      "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
-      "published": "2026-07-09T09:49:26+00:00",
+      "source": "Decrypt",
+      "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
+      "summary": "Researchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.",
+      "url": "https://decrypt.co/373196/ai-agents-botnets-hallucinations-researchers-warn",
+      "published": "2026-07-09T21:45:01+00:00",
       "coins": [],
-      "compound": 0.8271,
-      "label": "BULLISH",
-      "confidence": 0.8271
+      "compound": -0.7783,
+      "label": "BEARISH",
+      "confidence": 0.7783
     },
     {
       "source": "Decrypt",
@@ -429,17 +427,6 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "TheBlock",
-      "title": "Aave Labs rolls out Stable Vaults, offering predictable stablecoin yield aimed at mainstream users",
-      "summary": "<p>Stable Vaults will continuously \u201coptimize capital allocation\u201d across DeFi yield strategies, like Aave V3 and V4 markets.</p>",
-      "url": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-09T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
@@ -475,28 +462,6 @@
       "confidence": 0.4404
     },
     {
-      "source": "Decrypt",
-      "title": "Lucky Trader Turns $85 Into $2 Million on Robinhood Chain Meme Coin",
-      "summary": "The meme coin CashCat on Robinhood Chain is the latest flavor of the hour, and one trader has turned a mini-investment into a small fortune in less than three weeks.",
-      "url": "https://decrypt.co/373052/lucky-trader-robinhood-chain-meme-coin-cashcat",
-      "published": "2026-07-08T16:59:23+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto remains resilient in face of renewed Middle East tensions",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-      "published": "2026-07-09T10:36:02+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "TheBlock",
       "title": "Tarun Chitra\u2019s Gauntlet raises $125 million Series C from sole investor SBI Holdings",
       "summary": "<p>Chitra said he expects tokenization and vaults to grow the DeFi market faster than overall stablecoin growth over the next few years.</p>",
@@ -509,10 +474,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto for Advisors: Q2 2026 Digital Asset Review",
+      "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
       "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review",
-      "published": "2026-07-09T10:40:45+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
+      "published": "2026-07-09T20:42:49+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase Chief Legal Officer Paul Grewal steps down, remains in advisory role",
+      "summary": "<p>Coinbase Chief Legal Officer Paul Grewal joined the firm in mid-2020 to lead its legal, compliance and government relations operations.\u00a0</p>",
+      "url": "https://www.theblock.co/post/407809/coinbase-chief-legal-officer-paul-grewal-steps-down?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-09T21:13:44+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
@@ -528,6 +504,17 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisis at Fed",
+      "summary": "Former Fed Chair Ben Bernanke will have the power to appoint Anthropic board members as part of company's Long-Term Benefit Trust.",
+      "url": "https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed",
+      "published": "2026-07-09T20:22:29+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -552,15 +539,15 @@
       "confidence": 0.2023
     },
     {
-      "source": "Decrypt",
-      "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
-      "summary": "The investment firm said its fourth fund will back AI, robotics, and crypto startups as it broadens beyond digital assets.",
-      "url": "https://decrypt.co/373088/paradigm-billion-fund-crypto-vc-ai",
-      "published": "2026-07-08T20:40:38+00:00",
+      "source": "CoinDesk",
+      "title": "Arbitrum jumps 19% benefitting from Robinhood's $568 million onchain trading frenzy",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/09/arbitrum-jumps-19-benefitting-from-robinhood-s-usd568-million-onchain-trading-frenzy",
+      "published": "2026-07-09T20:28:51+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.1531,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
@@ -572,6 +559,17 @@
       "compound": 0.1531,
       "label": "BULLISH",
       "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
+      "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
+      "published": "2026-07-09T20:31:39+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
@@ -596,22 +594,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Singapore's Temasek investment fund says crypto is off the table, will focus on AI",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/09/singapore-s-temasek-investment-fund-says-crypto-is-off-the-table-will-focus-on-ai",
-      "published": "2026-07-09T10:22:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet",
-      "published": "2026-07-09T09:51:20+00:00",
+      "source": "Decrypt",
+      "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost",
+      "summary": "The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor\u2014and it's already live in production.",
+      "url": "https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8",
+      "published": "2026-07-09T20:40:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
