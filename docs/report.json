@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T13:43:46.122168+00:00",
+  "generated_at": "2026-07-11T19:16:22.596739+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -89,13 +89,27 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.1913,
+      "article_count": 4,
+      "avg_compound": -0.1415,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
+      "bullish": 1,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
+          "summary": "<p>The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week\u2019s rebound recovered only about 3% of those outflows.</p>",
+          "url": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-11T15:19:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        },
         {
           "source": "TheBlock",
           "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
@@ -110,28 +124,28 @@
           "confidence": 0.3182
         },
         {
-          "source": "CoinDesk",
-          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-          "published": "2026-07-11T12:00:00+00:00",
+          "source": "Decrypt",
+          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+          "published": "2026-07-11T16:21:34+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.0644,
-          "label": "BEARISH",
-          "confidence": 0.0644
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0192,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 8,
-      "neutral": 3,
+      "article_count": 19,
+      "avg_compound": -0.0604,
+      "overall": "BEARISH",
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -465,17 +479,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "TheBlock",
-      "title": "Cathie Wood\u2019s Ark Invest buys $14 million worth of Circle, offloads Robinhood shares",
-      "summary": "<p>Circle Internet Group's stock dropped 1.65% during Thursday's trading session, extending its one-month decline to 20.2%.</p>",
-      "url": "https://www.theblock.co/post/407853/ark-invest-buys-14-million-worth-circle?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T09:09:24+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
       "summary": "",
@@ -520,15 +523,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "Anthropic AI Oversight Board Adds Ben Bernanke, Who Oversaw 2008 Financial Crisis at Fed",
-      "summary": "Former Fed Chair Ben Bernanke will have the power to appoint Anthropic board members as part of company's Long-Term Benefit Trust.",
-      "url": "https://decrypt.co/373181/anthropic-ai-oversight-board-ben-bernanke-2008-federal-crisis-fed",
-      "published": "2026-07-09T20:22:29+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+      "published": "2026-07-11T17:07:24+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -540,6 +543,28 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+      "summary": "",
+      "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+      "published": "2026-07-11T18:06:58+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The UK has finally shown it\u2019s serious about crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+      "published": "2026-07-11T15:00:00+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
