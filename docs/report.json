@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T19:44:21.722457+00:00",
+  "generated_at": "2026-07-11T03:29:17.371046+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -64,6 +64,30 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.296,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "SK Hynix\u2019s $26.5 billion US listing brought to Telegram users via xStocks",
+          "summary": "<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>",
+          "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-10T18:49:02+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 2,
       "avg_compound": -0.2231,
@@ -101,50 +125,13 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1993,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "SK Hynix\u2019s $26.5 billion US listing brought to Telegram users via xStocks",
-          "summary": "<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>",
-          "url": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-10T18:49:02+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "Decrypt",
-          "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
-          "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
-          "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
-          "published": "2026-07-09T17:24:19+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.0073,
+      "article_count": 21,
+      "avg_compound": -0.0362,
       "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 8,
-      "neutral": 4,
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -393,6 +380,17 @@
       "confidence": 0.8271
     },
     {
+      "source": "TheBlock",
+      "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
+      "summary": "<p>A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said.</p>",
+      "url": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T20:12:46+00:00",
+      "coins": [],
+      "compound": -0.8225,
+      "label": "BEARISH",
+      "confidence": 0.8225
+    },
+    {
       "source": "Decrypt",
       "title": "AI Agents Could Be Turned Into Botnets Through Hallucinations, Researchers Warn",
       "summary": "Researchers warn AI agents could be tricked into downloading malicious code by exploiting the same hallucinations that cause chatbots to make mistakes.",
@@ -424,6 +422,17 @@
       "compound": -0.6705,
       "label": "BEARISH",
       "confidence": 0.6705
+    },
+    {
+      "source": "TheBlock",
+      "title": "Here\u2019s what\u2019s next for the Clarity Act as Congress returns to Washington",
+      "summary": "<p>Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over.</p>",
+      "url": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-10T19:50:57+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -470,17 +479,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "TheBlock",
-      "title": "Polymarket files applications to offer regulated margin trading in US",
-      "summary": "<p>Polymarket's rival platform, Kalshi, already received US regulatory approval to provide margin trading back in March.</p>",
-      "url": "https://www.theblock.co/post/407820/polymarket-margin-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T04:10:25+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
       "summary": "",
@@ -490,6 +488,17 @@
       "compound": -0.4588,
       "label": "BEARISH",
       "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
+      "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
+      "summary": "Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
+      "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
+      "published": "2026-07-10T20:35:44+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
     },
     {
       "source": "CoinDesk",
@@ -525,17 +534,6 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "Swift Readies Ledger for 24/7 Token Transfers\u2014Though True Settlement Is Stuck on Old Rails",
-      "summary": "Swift\u2019s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
-      "url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
-      "published": "2026-07-09T16:23:00+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
       "summary": "",
@@ -559,10 +557,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+      "published": "2026-07-10T21:26:55+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
       "published": "2026-07-10T15:26:43+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
+      "summary": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
+      "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
+      "published": "2026-07-10T21:50:30+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -618,17 +638,6 @@
       "summary": "<p>Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.</p>",
       "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
       "published": "2026-07-10T10:04:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "North Carolina passes bill recognizing CFTC preemption over prediction markets",
-      "summary": "<p>North Carolina's new law taxes prediction market platforms at 6% of their net trading fee revenue that is attributable to North Carolina residents.</p>",
-      "url": "https://www.theblock.co/post/407830/north-carolina-cftc-preemption-prediction-markets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T05:51:59+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
