@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T08:07:10.930119+00:00",
+  "generated_at": "2026-07-11T13:43:46.122168+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -90,7 +90,7 @@
     },
     "ETH": {
       "article_count": 2,
-      "avg_compound": -0.2231,
+      "avg_compound": -0.1913,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 2,
@@ -110,27 +110,27 @@
           "confidence": 0.3182
         },
         {
-          "source": "Decrypt",
-          "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
-          "summary": "Ethereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
-          "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
-          "published": "2026-07-09T18:27:47+00:00",
+          "source": "CoinDesk",
+          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+          "published": "2026-07-11T12:00:00+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.128,
+          "compound": -0.0644,
           "label": "BEARISH",
-          "confidence": 0.128
+          "confidence": 0.0644
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.0362,
+      "avg_compound": -0.0192,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 9,
+      "bullish": 10,
+      "bearish": 8,
       "neutral": 3,
       "top_articles": [
         {
@@ -192,30 +192,6 @@
           "published": "2026-07-10T13:17:52+00:00",
           "coins": [
             "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP up 2% as buyers push through $1.10 resistance",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
-          "published": "2026-07-10T05:13:48+00:00",
-          "coins": [
-            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -343,6 +319,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -367,6 +353,17 @@
       "compound": -0.8957,
       "label": "BEARISH",
       "confidence": 0.8957
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
+      "summary": "Google's cheapest, fastest image model is a genuinely capable tool\u2014until you need it to be great.",
+      "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
+      "published": "2026-07-11T13:01:02+00:00",
+      "coins": [],
+      "compound": 0.872,
+      "label": "BULLISH",
+      "confidence": 0.872
     },
     {
       "source": "CoinDesk",
