@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T03:40:49.533609+00:00",
+  "generated_at": "2026-07-12T08:28:20.052875+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -89,11 +89,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.1415,
+      "article_count": 5,
+      "avg_compound": -0.1235,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 3,
+      "bearish": 4,
       "neutral": 0,
       "top_articles": [
         {
@@ -140,12 +140,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.0604,
-      "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 9,
-      "neutral": 1,
+      "article_count": 20,
+      "avg_compound": -0.0398,
+      "overall": "NEUTRAL",
+      "bullish": 10,
+      "bearish": 10,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -206,6 +206,30 @@
           "published": "2026-07-10T13:17:52+00:00",
           "coins": [
             "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
+          "published": "2026-07-12T06:09:49+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -333,16 +357,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -458,17 +472,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Polymarket seeks approval to bring margin trading to U.S. customers",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/10/polymarket-seeks-approval-to-bring-margin-trading-to-u-s-customers",
-      "published": "2026-07-10T09:35:21+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "CoinDesk",
       "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
@@ -521,17 +524,6 @@
       "compound": -0.34,
       "label": "BEARISH",
       "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto defies equity weakness as altcoin optimism builds into the weekend",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/10/crypto-defies-equity-weakness-as-altcoin-optimism-builds-into-the-weekend",
-      "published": "2026-07-10T10:37:44+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
