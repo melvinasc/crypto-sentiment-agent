@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:44:53.123102+00:00",
+  "generated_at": "2026-07-12T19:16:19.983935+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -140,12 +140,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0398,
+      "article_count": 21,
+      "avg_compound": -0.0379,
       "overall": "NEUTRAL",
       "bullish": 10,
       "bearish": 10,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -471,6 +471,17 @@
       "confidence": 0.5574
     },
     {
+      "source": "Decrypt",
+      "title": "How to Make Product Ads With AI for TikTok and YouTube\u2014For (Almost) Free",
+      "summary": "One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
+      "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
+      "published": "2026-07-12T14:01:03+00:00",
+      "coins": [],
+      "compound": 0.4601,
+      "label": "BULLISH",
+      "confidence": 0.4601
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
       "summary": "",
@@ -491,17 +502,6 @@
       "compound": 0.4215,
       "label": "BULLISH",
       "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX, MetaMask, Matter Labs back dispute resolution court for AI agents",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/10/okx-metamask-matter-labs-back-dispute-resolution-court-for-ai-agents",
-      "published": "2026-07-10T12:29:08+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -571,6 +571,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Signs of life?: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+      "published": "2026-07-12T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
@@ -630,28 +641,6 @@
       "summary": "The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
       "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
       "published": "2026-07-10T10:01:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Perplexity Fine-Tuned a Chinese AI Model to Match Claude Opus 4.8 at One-Third the Cost",
-      "summary": "The company's post-trained GLM 5.2 preview pairs a cheaper open-source base with a frontier advisor\u2014and it's already live in production.",
-      "url": "https://decrypt.co/373184/perplexity-fine-tuned-chinese-ai-model-claude-opus-4-8",
-      "published": "2026-07-09T20:40:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Revolut integrates its crypto exchange with AI assistants as agentic trading spreads",
-      "summary": "<p>Revolut X now connects to Claude, Gemini, OpenClaw, and Cursor, letting crypto users analyze, backtest, and execute trades via AI prompts.</p>",
-      "url": "https://www.theblock.co/post/407865/revolut-integrates-its-crypto-exchange-with-ai-assistants-as-agentic-trading-spreads?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T10:04:08+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
