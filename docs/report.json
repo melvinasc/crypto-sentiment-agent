@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-12T19:16:19.983935+00:00",
+  "generated_at": "2026-07-13T03:42:51.067676+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.9708,
+      "article_count": 1,
+      "avg_compound": 0.9906,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -23,19 +23,6 @@
           "compound": 0.9906,
           "label": "BULLISH",
           "confidence": 0.9906
-        },
-        {
-          "source": "TheBlock",
-          "title": "Stablecoin firm Circle wins final OCC approval to open national trust bank",
-          "summary": "<p>Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase.</p>",
-          "url": "https://www.theblock.co/post/407876/stablecoin-firm-circle-wins-final-occ-approval-to-open-national-trust-bank?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-10T11:25:14+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.9509,
-          "label": "BULLISH",
-          "confidence": 0.9509
         }
       ],
       "no_news": false
@@ -141,7 +128,7 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.0379,
+      "avg_compound": -0.0419,
       "overall": "NEUTRAL",
       "bullish": 10,
       "bearish": 10,
@@ -450,14 +437,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Ledger researchers disclose Tangem card flaw; Tangem says risk to everyday users is \u2018virtually non-existent\u2019",
-      "summary": "<p>Ledger researchers disclosed a laser attack that resets Tangem card passwords by bypassing a recovery-state check in the firmware.</p>",
-      "url": "https://www.theblock.co/post/407871/ledger-researchers-disclose-tangem-card-flaw-tangem-says-risk-to-everyday-users-is-virtually-non-existent?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-10T11:08:31+00:00",
+      "title": "Crypto fatwa sparks debate over Pakistan\u2019s digital asset framework",
+      "summary": "<p>Pakistan\u2019s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.</p>",
+      "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-12T21:23:57+00:00",
       "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -641,6 +628,17 @@
       "summary": "The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
       "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
       "published": "2026-07-10T10:01:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Funding: Why Japan\u2019s SBI Holdings is investing big in crypto",
+      "summary": "<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.</p>",
+      "url": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T02:12:42+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
