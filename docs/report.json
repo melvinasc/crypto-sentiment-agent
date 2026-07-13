@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T03:42:51.067676+00:00",
+  "generated_at": "2026-07-13T09:41:55.938370+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -76,11 +76,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.1235,
+      "article_count": 4,
+      "avg_compound": -0.0748,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 4,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
         {
@@ -98,19 +98,6 @@
           "confidence": 0.3612
         },
         {
-          "source": "TheBlock",
-          "title": "Cambridge research puts 31% of Ethereum node activity in the US, where a third offline can stall finalization",
-          "summary": "<p>Cambridge finds 31% of Ethereum node activity in the U.S., clustered on AWS, Hetzner and OVH, raising jurisdictional/counterparty questions.</p>",
-          "url": "https://www.theblock.co/post/407909/cambridge-research-puts-ethereum-node-activity-in-us-where-third-offline-can-stall-finalization?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-10T16:07:20+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
           "source": "Decrypt",
           "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
           "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
@@ -122,17 +109,30 @@
           "compound": 0.1779,
           "label": "BULLISH",
           "confidence": 0.1779
+        },
+        {
+          "source": "CoinDesk",
+          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+          "published": "2026-07-11T12:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.0644,
+          "label": "BEARISH",
+          "confidence": 0.0644
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0419,
+      "article_count": 22,
+      "avg_compound": -0.0121,
       "overall": "NEUTRAL",
       "bullish": 10,
-      "bearish": 10,
-      "neutral": 1,
+      "bearish": 9,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -177,7 +177,7 @@
       ],
       "no_news": false
     },
-    "BNB": {
+    "USDT": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -187,12 +187,12 @@
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Binance co-CEO says 70% of EU withdrawals went to self-custody after MiCA deadline, with just 30% going to licensed platforms",
-          "summary": "<p>Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.</p>",
-          "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-10T13:17:52+00:00",
+          "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+          "summary": "<p>The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.</p>",
+          "url": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-13T08:19:26+00:00",
           "coins": [
-            "BNB"
+            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -226,6 +226,16 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -326,16 +336,6 @@
       "no_news": true
     },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -469,17 +469,6 @@
       "confidence": 0.4601
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-      "published": "2026-07-10T16:02:21+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
       "source": "Decrypt",
       "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
       "summary": "Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
@@ -558,32 +547,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+      "published": "2026-07-13T08:55:50+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Signs of life?: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
       "published": "2026-07-12T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-      "published": "2026-07-10T21:26:55+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "published": "2026-07-10T15:26:43+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -628,6 +606,28 @@
       "summary": "The state's budget law leaves oversight of Kalshi and Polymarket to the CFTC and taxes them at 6%, far below what other states are pursuing.",
       "url": "https://decrypt.co/373209/north-carolina-bill-recognizes-cftcs-federal-regulatory-authority-over-prediction-markets",
       "published": "2026-07-10T10:01:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Japan\u2019s SBI Group to launch JPYSC stablecoin lending service this month",
+      "summary": "<p>The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.</p>",
+      "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T07:22:28+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Japan\u2019s Lawson convenience store pilots stablecoin payments with JPYC: report",
+      "summary": "<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.</p>",
+      "url": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T03:59:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
