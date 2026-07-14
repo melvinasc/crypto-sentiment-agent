@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:18:19.354921+00:00",
+  "generated_at": "2026-07-14T08:21:33.094351+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -22,6 +22,43 @@
           "compound": 0.7351,
           "label": "BULLISH",
           "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.4646,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "What Is RLUSD? Ripple\u2019s XRP-Native Stablecoin Explained",
+          "summary": "<p>RLUSD is a regulated stablecoin issued by Ripple Labs \u2014 the firm behind the XRP blockchain \u2014 designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. dollars by approved [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T06:53:47+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
+        },
+        {
+          "source": "CoinDesk",
+          "title": "UK Treasury report on tokenization cites Ripple as convergence model",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
+          "published": "2026-07-13T14:06:53+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -88,37 +125,13 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "UK Treasury report on tokenization cites Ripple as convergence model",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
-          "published": "2026-07-13T14:06:53+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.122,
+      "article_count": 6,
+      "avg_compound": 0.1016,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -165,12 +178,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0396,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 23,
+      "avg_compound": 0.0556,
+      "overall": "BULLISH",
+      "bullish": 10,
       "bearish": 6,
-      "neutral": 5,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -216,12 +229,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -235,30 +248,17 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market",
-          "summary": "<p>SBI and the Solana Foundation are collaborating to build an onchain financial market with SBI R3 rebranding to SBI Solana Global.</p>",
-          "url": "https://www.theblock.co/post/408010/sbi-holdings-solana-foundation-partner-to-build-japan-based-onchain-financial-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-13T10:39:44+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -279,19 +279,6 @@
           "summary": "South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.",
           "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
           "published": "2026-07-13T18:57:19+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
-          "summary": "<p>The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.</p>",
-          "url": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-13T08:19:26+00:00",
           "coins": [
             "USDT"
           ],
@@ -556,28 +543,6 @@
       "compound": -0.25,
       "label": "BEARISH",
       "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wall Street transfer agents lobby SEC, warning that third-party tokens pose risks to market integrity",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/13/wall-street-transfer-agents-lobby-sec-warning-that-third-party-tokens-pose-risks-to-market-integrity",
-      "published": "2026-07-13T13:45:00+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain surges into top five by DEX volume: Bernstein",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein",
-      "published": "2026-07-13T12:49:00+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
