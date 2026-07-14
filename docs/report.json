@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:40:05.481792+00:00",
+  "generated_at": "2026-07-14T03:18:19.354921+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -64,6 +64,30 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.296,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+          "summary": "",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
+          "published": "2026-07-13T20:27:47+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 1,
       "avg_compound": 0.2023,
@@ -90,10 +114,10 @@
     },
     "ETH": {
       "article_count": 5,
-      "avg_compound": 0.198,
+      "avg_compound": 0.122,
       "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
+      "bullish": 2,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
         {
@@ -124,28 +148,29 @@
           "confidence": 0.3182
         },
         {
-          "source": "Decrypt",
-          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-          "published": "2026-07-11T16:21:34+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
+          "summary": "<p>Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.</p>",
+          "url": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-13T22:06:02+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0322,
+      "article_count": 20,
+      "avg_compound": 0.0396,
       "overall": "NEUTRAL",
-      "bullish": 10,
+      "bullish": 9,
       "bearish": 6,
-      "neutral": 3,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -191,26 +216,13 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "SBI Holdings' blockchain initiative pivots to Solana for tokenization, stablecoin issuance",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/13/sbi-holdings-blockchain-initiative-pivots-to-solana-for-tokenization-stablecoin-issuance",
-          "published": "2026-07-13T11:40:51+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "TheBlock",
           "title": "Onchain Pok\u00e9mon cards come to Solana-based DEX Jupiter",
@@ -291,16 +303,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -414,25 +416,14 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
-      "summary": "Google's cheapest, fastest image model is a genuinely capable tool\u2014until you need it to be great.",
-      "url": "https://decrypt.co/373002/google-nano-banana-2-lite-vs-nano-banana-2-comparison-review",
-      "published": "2026-07-11T13:01:02+00:00",
+      "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
+      "summary": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
+      "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+      "published": "2026-07-13T22:46:04+00:00",
       "coins": [],
-      "compound": 0.872,
-      "label": "BULLISH",
-      "confidence": 0.872
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Profit-taking, MidEast hostilities drag crypto lower after bullish week",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week",
-      "published": "2026-07-13T10:30:39+00:00",
-      "coins": [],
-      "compound": -0.7351,
+      "compound": -0.6808,
       "label": "BEARISH",
-      "confidence": 0.7351
+      "confidence": 0.6808
     },
     {
       "source": "TheBlock",
@@ -491,14 +482,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
-      "summary": "Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
-      "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
-      "published": "2026-07-10T20:35:44+00:00",
+      "title": "Claude's Personality Changes Depending on the Model\u2014And the Language You Speak",
+      "summary": "According to new Anthropic research, Claude consistently expresses different values across models and languages.",
+      "url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
+      "published": "2026-07-13T20:39:53+00:00",
       "coins": [],
-      "compound": 0.4215,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4215
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -523,15 +514,37 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock, Goldman Sachs, JPMorgan, Morgan Stanley join UK government's tokenization taskforce",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/13/uk-government-unveils-tokenization-taskforce-with-blackrock-goldman-jpmorgan-morgan-stanley",
-      "published": "2026-07-13T11:40:21+00:00",
+      "source": "TheBlock",
+      "title": "Hyperliquid\u2019s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
+      "summary": "<p>HIP-3's share of total Hyperliquid perp volume has climbed from roughly 2% at the start of the year to around 50% now.</p>",
+      "url": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-13T20:33:47+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
+      "summary": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
+      "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
+      "published": "2026-07-13T22:11:05+00:00",
+      "coins": [],
+      "compound": 0.2944,
+      "label": "BULLISH",
+      "confidence": 0.2944
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
+      "published": "2026-07-13T19:43:03+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
@@ -589,6 +602,17 @@
       "confidence": 0.2023
     },
     {
+      "source": "Decrypt",
+      "title": "Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks",
+      "summary": "Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.",
+      "url": "https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
+      "published": "2026-07-13T20:15:24+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
       "source": "TheBlock",
       "title": "President Trump, White House press Senate to advance the Clarity Act while ethics fight looms",
       "summary": "<p>President Trump and other key administration officials and lawmakers are making a renewed push to pass cryptocurrency legislation into law.</p>",
@@ -601,21 +625,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
-      "published": "2026-07-13T15:17:05+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
+      "published": "2026-07-13T20:15:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
-      "summary": "Apple alleges former employees took confidential designs, supplier information, and engineering files before joining OpenAI.",
-      "url": "https://decrypt.co/373339/apple-sues-openai-claims-former-employees-stole-trade-secrets",
-      "published": "2026-07-10T21:50:30+00:00",
+      "source": "CoinDesk",
+      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
+      "published": "2026-07-13T15:17:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -638,28 +662,6 @@
       "summary": "<p>Stablecoin payments were priced 3.2 bps below interbank FX rates across 260 corridors in Q2, per Borderless.xyz's benchmark.</p>",
       "url": "https://www.theblock.co/post/408006/stablecoin-fx-priced-below-interbank-rates-in-q2-with-routing-now-the-biggest-cost-lever-borderless?utm_source=rss&utm_medium=rss",
       "published": "2026-07-13T14:01:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Japan\u2019s SBI Group to launch JPYSC stablecoin lending service this month",
-      "summary": "<p>The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.</p>",
-      "url": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T07:22:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Japan\u2019s Lawson convenience store pilots stablecoin payments with JPYC: report",
-      "summary": "<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.</p>",
-      "url": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T03:59:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
