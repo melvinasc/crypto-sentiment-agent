@@ -1,74 +1,13 @@
 {
-  "generated_at": "2026-07-14T08:21:33.094351+00:00",
+  "generated_at": "2026-07-14T14:03:01.657152+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.7351,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Japan\u2019s largest security token platform moves nearly $3 billion to Avalanche blockchain",
-          "summary": "<p>Progmat develops security token infrastructure that accounts for 64.6% of Japan\u2019s security token market total issuance value.</p>",
-          "url": "https://www.theblock.co/post/408036/japans-largest-security-token-platform-moves-nearly-3-billion-to-avalanche-blockchain?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-13T14:29:57+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.7351,
-          "label": "BULLISH",
-          "confidence": 0.7351
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.4646,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "What Is RLUSD? Ripple\u2019s XRP-Native Stablecoin Explained",
-          "summary": "<p>RLUSD is a regulated stablecoin issued by Ripple Labs \u2014 the firm behind the XRP blockchain \u2014 designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. dollars by approved [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T06:53:47+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
-        },
-        {
-          "source": "CoinDesk",
-          "title": "UK Treasury report on tokenization cites Ripple as convergence model",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/07/13/ripple-lands-inside-uk-plan-for-tokenized-repo-bonds-and-funds",
-          "published": "2026-07-13T14:06:53+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.3971,
+      "article_count": 1,
+      "avg_compound": 0.9906,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
@@ -84,19 +23,6 @@
           "compound": 0.9906,
           "label": "BULLISH",
           "confidence": 0.9906
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Mizuho says Circle bank approval doesn't solve USDC growth, stablecoin competition risks",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/13/mizuho-says-circle-bank-approval-doesn-t-solve-usdc-growth-stablecoin-competition-risks",
-          "published": "2026-07-13T16:34:48+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.1965,
-          "label": "BEARISH",
-          "confidence": 0.1965
         }
       ],
       "no_news": false
@@ -125,65 +51,51 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1016,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.1346,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 1,
-      "neutral": 3,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand",
-          "summary": "According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.",
-          "url": "https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
-          "published": "2026-07-13T15:22:10+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4939,
-          "label": "BULLISH",
-          "confidence": 0.4939
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch",
-          "summary": "U.S. spot Bitcoin ETFs closed their first positive week\u00a0since May, but a big week ahead will likely determine crypto's near-term fate.",
-          "url": "https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
-          "published": "2026-07-13T11:53:11+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.3182,
-          "label": "BULLISH",
-          "confidence": 0.3182
-        },
-        {
           "source": "TheBlock",
-          "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
-          "summary": "<p>Retail attention via social chatter is back to 2020 levels even as institutional involvement has moved in the opposite direction.</p>",
-          "url": "https://www.theblock.co/post/408061/bitcoin-ethereum-tweet-volume-falls-12-month-lows-despite-institutional-crypto-boom?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-13T22:06:02+00:00",
+          "title": "What Is RLUSD? Ripple\u2019s XRP-Native Stablecoin Explained",
+          "summary": "<p>RLUSD is a regulated stablecoin issued by Ripple Labs \u2014 the firm behind the XRP blockchain \u2014 designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. dollars by approved [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T06:53:47+00:00",
           "coins": [
-            "BTC",
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
+          "published": "2026-07-14T10:27:21+00:00",
+          "coins": [
+            "XRP",
             "ETH"
           ],
-          "compound": -0.2023,
+          "compound": -0.4576,
           "label": "BEARISH",
-          "confidence": 0.2023
+          "confidence": 0.4576
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": 0.0556,
+      "article_count": 27,
+      "avg_compound": 0.1081,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 6,
-      "neutral": 7,
+      "bullish": 11,
+      "bearish": 5,
+      "neutral": 11,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -228,6 +140,58 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 7,
+      "avg_compound": 0.0364,
+      "overall": "NEUTRAL",
+      "bullish": 3,
+      "bearish": 2,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand",
+          "summary": "According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.",
+          "url": "https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
+          "published": "2026-07-13T15:22:10+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4939,
+          "label": "BULLISH",
+          "confidence": 0.4939
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
+          "published": "2026-07-14T10:27:21+00:00",
+          "coins": [
+            "XRP",
+            "ETH"
+          ],
+          "compound": -0.4576,
+          "label": "BEARISH",
+          "confidence": 0.4576
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch",
+          "summary": "U.S. spot Bitcoin ETFs closed their first positive week\u00a0since May, but a big week ahead will likely determine crypto's near-term fate.",
+          "url": "https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
+          "published": "2026-07-13T11:53:11+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -253,26 +217,13 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bolivia weighs adding Tether's USDT to its national payments system",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system",
-          "published": "2026-07-13T14:47:52+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "Decrypt",
           "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
@@ -290,6 +241,16 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -402,6 +363,28 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Former LASD deputy jailed for obstructing crypto \u2018mogul\u2019 Adam Iza extortion probe",
+      "summary": "<p>A former LASD deputy was sentenced to 18 months in federal prison for lying about an Adam Iza extortion incident.</p>",
+      "url": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T09:55:02+00:00",
+      "coins": [],
+      "compound": -0.875,
+      "label": "BEARISH",
+      "confidence": 0.875
+    },
+    {
+      "source": "TheBlock",
+      "title": "UK HMRC adopts \u2018no gain, no loss\u2019 tax treatment for crypto lending, liquidity pools",
+      "summary": "<p>HMRC adopts \"no gain, no loss\" treatment for certain crypto loans and liquidity pool transactions, deferring CGT until economic disposal.</p>",
+      "url": "https://www.theblock.co/post/408206/uk-hmrc-adopts-no-gain-no-loss-tax-treatment-for-crypto-lending-liquidity-pools?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T10:59:02+00:00",
+      "coins": [],
+      "compound": 0.8542,
+      "label": "BULLISH",
+      "confidence": 0.8542
+    },
+    {
       "source": "Decrypt",
       "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
       "summary": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
@@ -414,14 +397,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "UK lays out tokenized finance roadmap with projected \u00a333 billion annual boost",
-      "summary": "<p>Industry leaders say payment infrastructure must evolve alongside tokenized assets to enable real-time settlement.</p>",
-      "url": "https://www.theblock.co/post/408046/uk-lays-out-tokenized-finance-roadmap-projected-33-billion-annual-boost?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T16:42:36+00:00",
+      "title": "US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act",
+      "summary": "<p>The groups warned that the current bill could allow stablecoins to substitute for bank deposits and increase the risk of deposit flight from community banks.</p>",
+      "url": "https://www.theblock.co/post/408144/us-banking-groups-urge-stablecoin-provisions-clarity-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T08:32:49+00:00",
       "coins": [],
-      "compound": 0.5267,
+      "compound": 0.6124,
       "label": "BULLISH",
-      "confidence": 0.5267
+      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -436,17 +419,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "How to Make Product Ads With AI for TikTok and YouTube\u2014For (Almost) Free",
-      "summary": "One product photo, three AI tools, and about 20 minutes: Here's the full workflow for generating a sales video without a camera, a model, or a studio.",
-      "url": "https://decrypt.co/373290/how-to-make-ai-ads-tiktok-youtube-free",
-      "published": "2026-07-12T14:01:03+00:00",
-      "coins": [],
-      "compound": 0.4601,
-      "label": "BULLISH",
-      "confidence": 0.4601
-    },
-    {
-      "source": "Decrypt",
       "title": "'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'",
       "summary": "The younger generation's judgment of AI has been \u201cimmediate and harsh,\u201d according to the Oscar-winning director.",
       "url": "https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
@@ -457,15 +429,15 @@
       "confidence": 0.4588
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood Chain draws over $3 billion in weekly DEX volume to join top five chains: Bernstein",
-      "summary": "<p>Robinhood Chain hit $3.1B in weekly DEX volume and 65K users since its July 1 launch, as the Layer 2 eyes tokenized markets, Bernstein said.</p>",
-      "url": "https://www.theblock.co/post/408024/robinhood-chain-draws-over-3-billion-in-weekly-dex-volume-to-join-top-five-chains-bernstein?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T12:30:48+00:00",
+      "source": "CoinDesk",
+      "title": "Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout",
+      "published": "2026-07-14T11:00:00+00:00",
       "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
     },
     {
       "source": "Decrypt",
@@ -480,14 +452,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Chinese prosecutors call for more proactive approach to investigating crypto money laundering",
-      "summary": "<p>For the most part, China prohibits crypto trading and services while authorities actively investigate and prosecute crimes.</p>",
-      "url": "https://www.theblock.co/post/408035/chinese-prosecutors-call-for-more-proactive-approach-to-investigating-crypto-money-laundering?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T14:58:33+00:00",
+      "title": "South Korea maintains blockchain economy push as AI takes center stage",
+      "summary": "<p>Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds.</p>",
+      "url": "https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T08:51:22+00:00",
       "coins": [],
-      "compound": 0.4005,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.4005
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -523,44 +495,11 @@
       "confidence": 0.2944
     },
     {
-      "source": "CoinDesk",
-      "title": "TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race",
-      "published": "2026-07-13T19:43:03+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials",
-      "published": "2026-07-13T17:49:10+00:00",
-      "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
-    },
-    {
       "source": "Decrypt",
       "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
       "summary": "Robinhood Chain traders are reaching for Tendies over Apple.",
       "url": "https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
       "published": "2026-07-13T16:59:36+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
-      "title": "Chinese Prosecutors Float Treating Crypto Mixer, Privacy Coin Use as Sign of Money Laundering",
-      "summary": "An article in the top prosecutors' paper urges new blockchain evidence rules, presumptions of intent, and a state platform to sell seized coins.",
-      "url": "https://decrypt.co/373374/chinese-prosecutors-float-treating-crypto-mixer-privacy-coin-use-as-sign-of-money-laundering",
-      "published": "2026-07-13T10:43:13+00:00",
       "coins": [],
       "compound": 0.2023,
       "label": "BULLISH",
@@ -578,22 +517,22 @@
       "confidence": 0.128
     },
     {
-      "source": "TheBlock",
-      "title": "President Trump, White House press Senate to advance the Clarity Act while ethics fight looms",
-      "summary": "<p>President Trump and other key administration officials and lawmakers are making a renewed push to pass cryptocurrency legislation into law.</p>",
-      "url": "https://www.theblock.co/post/408054/trump-white-house-press-senate-advance-clarity-act-ethics-fight-looms?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T15:51:09+00:00",
+      "source": "Decrypt",
+      "title": "US Government Moves $288M in Seized Crypto to Coinbase Prime",
+      "summary": "The seized coins landed at the government's custodian, which stops short of a sale but has revived questions about Trump's no-sell pledge.",
+      "url": "https://decrypt.co/373463/us-government-moves-288m-in-seized-crypto-to-coinbase-prime",
+      "published": "2026-07-14T11:08:43+00:00",
       "coins": [],
-      "compound": -0.128,
+      "compound": -0.0772,
       "label": "BEARISH",
-      "confidence": 0.128
+      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
-      "title": "Franklin Crypto CIO says crypto prices are disconnected from fundamentals",
+      "title": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals",
-      "published": "2026-07-13T20:15:29+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
+      "published": "2026-07-14T12:53:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -601,10 +540,54 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood built a blockchain for tokenized stocks. Memecoins took over",
+      "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-built-a-blockchain-for-tokenized-stocks-memecoins-took-over",
-      "published": "2026-07-13T15:17:05+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
+      "published": "2026-07-14T12:33:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
+      "published": "2026-07-14T12:10:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan\u2019s biggest card network taps Circle to bring stablecoins to 40 million merchants",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
+      "published": "2026-07-14T12:01:50+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "European Central Bank taps 36 payment providers for yearlong digital euro pilot",
+      "summary": "<p>The ECB selected 36 payment providers to test a beta digital euro in a yearlong pilot beginning in late 2027.</p>",
+      "url": "https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T13:30:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "CleanSpark signs $6.6 billion, 20-year data center lease with unnamed global tech firm",
+      "summary": "<p>CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville, Georgia, with a confidential tech tenant.</p>",
+      "url": "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T12:25:45+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -616,17 +599,6 @@
       "summary": "<p>Expected to launch in September, v1 will enable users to margin their entire Polymarket portfolios to place additional leveraged bets.</p>",
       "url": "https://www.theblock.co/post/408129/gondor-v1-let-users-borrow-against-entire-polymarket-portfolio?utm_source=rss&utm_medium=rss",
       "published": "2026-07-13T19:37:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Stablecoin FX priced below interbank rates in Q2, with routing now the biggest cost lever: Borderless",
-      "summary": "<p>Stablecoin payments were priced 3.2 bps below interbank FX rates across 260 corridors in Q2, per Borderless.xyz's benchmark.</p>",
-      "url": "https://www.theblock.co/post/408006/stablecoin-fx-priced-below-interbank-rates-in-q2-with-routing-now-the-biggest-cost-lever-borderless?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T14:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
