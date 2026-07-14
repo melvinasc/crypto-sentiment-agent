@@ -1,35 +1,10 @@
 {
-  "generated_at": "2026-07-14T14:03:01.657152+00:00",
+  "generated_at": "2026-07-14T19:37:44.067375+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.9906,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a></p>\n<p>Circle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
-          "published": "2026-07-10T16:43:52+00:00",
-          "coins": [
-            "BTC",
-            "USDC"
-          ],
-          "compound": 0.9906,
-          "label": "BULLISH",
-          "confidence": 0.9906
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 1,
-      "avg_compound": 0.296,
+      "avg_compound": 0.7579,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
@@ -37,116 +12,125 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share",
+          "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
           "summary": "",
-          "url": "https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share",
-          "published": "2026-07-13T20:27:47+00:00",
+          "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
+          "published": "2026-07-14T17:33:19+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": 0.296,
+          "compound": 0.7579,
           "label": "BULLISH",
-          "confidence": 0.296
+          "confidence": 0.7579
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": -0.462,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure",
+          "summary": "<p>Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing concerns that USDC is coming under pressure.</p>",
+          "url": "https://www.theblock.co/post/408280/wall-street-cautious-circle-warn-usdc-economics?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T17:14:47+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        },
+        {
+          "source": "CoinDesk",
+          "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
+          "published": "2026-07-14T14:57:16+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.1346,
+      "article_count": 1,
+      "avg_compound": 0.4019,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "What Is RLUSD? Ripple\u2019s XRP-Native Stablecoin Explained",
-          "summary": "<p>RLUSD is a regulated stablecoin issued by Ripple Labs \u2014 the firm behind the XRP blockchain \u2014 designed to maintain a steady value of one U.S. dollar per token. Each RLUSD is backed one-to-one by a reserve of cash, short-term U.S. Treasury bills, and other cash equivalents, and is redeemable for U.S. dollars by approved [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408170/what-is-rlusd?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T06:53:47+00:00",
+          "title": "Dragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more",
+          "summary": "<p>The startup enables corporate users to use stablecoins while connecting to traditional banking rails and compliance systems.</p>",
+          "url": "https://www.theblock.co/post/408242/dragonfly-firstmark-series-a-stablecoin-velocity-coinbase-ripple-capital-one-ventures?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T14:30:43+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.7269,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.7269
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
-          "published": "2026-07-14T10:27:21+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": -0.4576,
-          "label": "BEARISH",
-          "confidence": 0.4576
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.1081,
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.2009,
       "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 5,
-      "neutral": 11,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Circle-CRCL-Wins-Final-OCC-Approval-for-National-Trust-Bank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a></p>\n<p>Circle won final OCC approval to establish a national trust bank, allowing it to place USDC reserves under federal oversight and expanding its regulated digital asset custody business.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval\" rel=\"nofollow\">Circle (CRCL) Wins Final OCC Approval for National Trust Bank</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/circle-crcl-wins-final-occ-approval",
-          "published": "2026-07-10T16:43:52+00:00",
+          "source": "TheBlock",
+          "title": "Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption",
+          "summary": "<p>\u201cPact Labs gives us the rails to make digital dollars designed to be compliant with U.S. regulations,\" says Tether USAT.</p>",
+          "url": "https://www.theblock.co/post/408239/tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T14:37:15+00:00",
           "coins": [
-            "BTC",
-            "USDC"
+            "USDT"
           ],
-          "compound": 0.9906,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.9906
+          "confidence": 0.4019
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitwise Sees a Bottom in Bitcoin\u2019s Worst Vibes Yet: \u2018Darkest Before the Dawn\u2019",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Backed-Loans-Could-Hit-1-Trillion-Ledn-Says-\u2014-But-Most-Crypto-Holders-Still-Havent-Borrowed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a></p>\n<p>Bitwise says Bitcoin's brutal nine-month downturn masks a stronger-than-ever foundation, arguing institutional adoption, corporate buying, and improving market infrastructure position the industry for a rebound despite record ETF outflows and weak sentiment.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin",
-          "published": "2026-07-13T19:08:34+00:00",
+          "source": "Decrypt",
+          "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
+          "summary": "South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.",
+          "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
+          "published": "2026-07-13T18:57:19+00:00",
           "coins": [
-            "BTC"
+            "USDT"
           ],
-          "compound": -0.9732,
-          "label": "BEARISH",
-          "confidence": 0.9732
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin is \u201cA Screaming Buy\u201d: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-is-22A-Screaming-Buy22-Standard-Chartered-Backs-100000-Target-Shrugs-Off-Strategy-MSTR-Sell-Off.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered\" rel=\"nofollow\">Bitcoin is &#8220;A Screaming Buy&#8221;: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off</a></p>\n<p>Standard Chartered reaffirmed its $100,000 end-2026 Bitcoin price target, calling Bitcoin \"a screaming buy\" and arguing that Strategy's recent sell-off reflects a communication issue around its new monetization strategy rather than a weakening Bitcoin outlook.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered\" rel=\"nofollow\">Bitcoin is &#8220;A Screaming Buy&#8221;: Standard Chartered Backs $100,000 Target, Shrugs Off Strategy (MSTR) Sell-Off</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-screaming-buy-standard-chartered",
-          "published": "2026-07-10T13:49:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9531,
-          "label": "BEARISH",
-          "confidence": 0.9531
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.0364,
-      "overall": "NEUTRAL",
-      "bullish": 3,
-      "bearish": 2,
-      "neutral": 2,
+      "article_count": 3,
+      "avg_compound": 0.1989,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -162,80 +146,81 @@
           "confidence": 0.4939
         },
         {
-          "source": "CoinDesk",
-          "title": "XRP and ether bulls are getting louder as prices fall, signaling more trouble ahead",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/14/xrp-ether-bulls-get-loud-as-prices-fade-raising-downside-risk",
-          "published": "2026-07-14T10:27:21+00:00",
+          "source": "TheBlock",
+          "title": "Distributed compute startup Boundless expands 4,000-GPU network from ZK to AI",
+          "summary": "<p>Boundless, which built a 4,000 GPU cluster to settle Ethereum and Base ZK proofs on Bitcoin, is expanding to AI compute.</p>",
+          "url": "https://www.theblock.co/post/408213/distributed-compute-startup-boundless-gpus-zk-to-ai?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T13:00:00+00:00",
           "coins": [
-            "XRP",
-            "ETH"
+            "ETH",
+            "BTC"
           ],
-          "compound": -0.4576,
-          "label": "BEARISH",
-          "confidence": 0.4576
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         },
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: BTC and ETH ETFs Flip Green After Lengthy Outflow Stretch",
-          "summary": "U.S. spot Bitcoin ETFs closed their first positive week\u00a0since May, but a big week ahead will likely determine crypto's near-term fate.",
-          "url": "https://decrypt.co/373377/morning-minute-btc-and-eth-etfs-flip-green-after-lengthy-outflow-stretch",
-          "published": "2026-07-13T11:53:11+00:00",
+          "source": "CoinDesk",
+          "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
+          "published": "2026-07-14T14:31:44+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": 0.3182,
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0616,
+      "overall": "BULLISH",
+      "bullish": 8,
+      "bearish": 6,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitwise Sees a Bottom in Bitcoin\u2019s Worst Vibes Yet: \u2018Darkest Before the Dawn\u2019",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Backed-Loans-Could-Hit-1-Trillion-Ledn-Says-\u2014-But-Most-Crypto-Holders-Still-Havent-Borrowed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a></p>\n<p>Bitwise says Bitcoin's brutal nine-month downturn masks a stronger-than-ever foundation, arguing institutional adoption, corporate buying, and improving market infrastructure position the industry for a rebound despite record ETF outflows and weak sentiment.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin",
+          "published": "2026-07-13T19:08:34+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9732,
+          "label": "BEARISH",
+          "confidence": 0.9732
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "UK Adopts \u2018No Gain, No Loss\u2019 Tax Treatment for Crypto Lending and Liquidity Pools",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/UK-Adopts-No-Gain-No-Loss-Tax-Treatment-for-Crypto-Lending-and-Liquidity-Pools.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/uk-adopts-no-gain-no-loss-tax-crypto\" rel=\"nofollow\">UK Adopts &#8216;No Gain, No Loss&#8217; Tax Treatment for Crypto Lending and Liquidity Pools</a></p>\n<p>The UK will introduce a \"no gain, no loss\" tax treatment for qualifying crypto lending and DeFi liquidity pool transactions from April 6, 2027, deferring Capital Gains Tax until users make an economic disposal of their cryptocurrency.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/uk-adopts-no-gain-no-loss-tax-crypto\" rel=\"nofollow\">UK Adopts &#8216;No Gain, No Loss&#8217; Tax Treatment for Crypto Lending and Liquidity Pools</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/uk-adopts-no-gain-no-loss-tax-crypto",
+          "published": "2026-07-14T14:54:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8971,
           "label": "BULLISH",
-          "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "confidence": 0.8971
+        },
         {
-          "source": "TheBlock",
-          "title": "Onchain Pok\u00e9mon cards come to Solana-based DEX Jupiter",
-          "summary": "<p>While tokenized Pok\u00e9mon cards aren\u2019t new, having Jupiter enter the space could give the whole category a legitimacy boost.</p>",
-          "url": "https://www.theblock.co/post/408059/onchain-pokemon-cards-come-to-solana-based-dex-jupiter?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-13T16:56:34+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Representatives-Urge-Senate-to-Vote-on-CLARITY-Act-in-July-Address-Ethics-Concerns.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/u-s-house-urge-senate-vote-clarity-act\" rel=\"nofollow\">U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns</a></p>\n<p>Rep. French Hill urged the Senate to vote on the CLARITY Act before the August recess, arguing the bill would establish a transparent crypto market framework that addresses ethics concerns surrounding President Trump's digital asset ventures.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/u-s-house-urge-senate-vote-clarity-act\" rel=\"nofollow\">U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/u-s-house-urge-senate-vote-clarity-act",
+          "published": "2026-07-10T20:23:50+00:00",
           "coins": [
-            "SOL"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
-          "summary": "South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.",
-          "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
-          "published": "2026-07-13T18:57:19+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.8842,
+          "label": "BULLISH",
+          "confidence": 0.8842
         }
       ],
       "no_news": false
@@ -340,6 +325,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -364,17 +359,6 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Former LASD deputy jailed for obstructing crypto \u2018mogul\u2019 Adam Iza extortion probe",
-      "summary": "<p>A former LASD deputy was sentenced to 18 months in federal prison for lying about an Adam Iza extortion incident.</p>",
-      "url": "https://www.theblock.co/post/408193/former-lasd-deputy-jailed-for-obstructing-crypto-mogul-adam-iza-extortion-probe?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T09:55:02+00:00",
-      "coins": [],
-      "compound": -0.875,
-      "label": "BEARISH",
-      "confidence": 0.875
-    },
-    {
-      "source": "TheBlock",
       "title": "UK HMRC adopts \u2018no gain, no loss\u2019 tax treatment for crypto lending, liquidity pools",
       "summary": "<p>HMRC adopts \"no gain, no loss\" treatment for certain crypto loans and liquidity pool transactions, deferring CGT until economic disposal.</p>",
       "url": "https://www.theblock.co/post/408206/uk-hmrc-adopts-no-gain-no-loss-tax-treatment-for-crypto-lending-liquidity-pools?utm_source=rss&utm_medium=rss",
@@ -383,6 +367,28 @@
       "compound": 0.8542,
       "label": "BULLISH",
       "confidence": 0.8542
+    },
+    {
+      "source": "TheBlock",
+      "title": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
+      "summary": "<p>The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets. </p>",
+      "url": "https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T17:59:25+00:00",
+      "coins": [],
+      "compound": 0.8402,
+      "label": "BULLISH",
+      "confidence": 0.8402
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
+      "published": "2026-07-14T16:59:44+00:00",
+      "coins": [],
+      "compound": -0.6808,
+      "label": "BEARISH",
+      "confidence": 0.6808
     },
     {
       "source": "Decrypt",
@@ -394,17 +400,6 @@
       "compound": -0.6808,
       "label": "BEARISH",
       "confidence": 0.6808
-    },
-    {
-      "source": "TheBlock",
-      "title": "US banking groups urge Senate to strengthen stablecoin provisions in Clarity Act",
-      "summary": "<p>The groups warned that the current bill could allow stablecoins to substitute for bank deposits and increase the risk of deposit flight from community banks.</p>",
-      "url": "https://www.theblock.co/post/408144/us-banking-groups-urge-stablecoin-provisions-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T08:32:49+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -430,14 +425,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Prediction markets just crushed traditional sportsbooks in a massive $50 billion World Cup breakout",
+      "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/14/prediction-markets-just-crushed-traditional-sportsbooks-in-a-massive-usd50-billion-world-cup-breakout",
-      "published": "2026-07-14T11:00:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
+      "published": "2026-07-14T18:57:15+00:00",
       "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
+      "published": "2026-07-14T17:27:48+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -451,22 +457,11 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea maintains blockchain economy push as AI takes center stage",
-      "summary": "<p>Plans include the enactment of the Digital Asset Basic Act and advancement of a CBDC project linked to the tokenization of government bonds.</p>",
-      "url": "https://www.theblock.co/post/408180/south-korea-blockchain-economy-h2-2026?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T08:51:22+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bank of Thailand Flags Abnormal Stablecoin Trades in 'Grey Economy' Crackdown",
-      "summary": "Data analytics flagged stablecoin transfers meant to evade scrutiny, the central bank says, handing the findings to the securities regulator.",
-      "url": "https://decrypt.co/373380/bank-of-thailand-flags-abnormal-stablecoin-trades-in-grey-economy-crackdown",
-      "published": "2026-07-13T13:56:36+00:00",
+      "source": "CoinDesk",
+      "title": "For pension funds, tokenization\u2019s real play is balance-sheet management, Fidelity\u2019s Lai says",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says",
+      "published": "2026-07-14T14:05:18+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -474,13 +469,13 @@
     },
     {
       "source": "TheBlock",
-      "title": "Hyperliquid\u2019s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
-      "summary": "<p>HIP-3's share of total Hyperliquid perp volume has climbed from roughly 2% at the start of the year to around 50% now.</p>",
-      "url": "https://www.theblock.co/post/408064/hyperliquid-hip-3-markets-surge-50-perp-volume-onchain-stock-trading-grows?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T20:33:47+00:00",
+      "title": "CoinFund\u2019s David Pakman says crypto hasn\u2019t solved tokenomics",
+      "summary": "<p>During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.</p>",
+      "url": "https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T17:32:08+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
+      "compound": -0.296,
+      "label": "BEARISH",
       "confidence": 0.296
     },
     {
@@ -495,6 +490,17 @@
       "confidence": 0.2944
     },
     {
+      "source": "CoinDesk",
+      "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
+      "published": "2026-07-14T16:39:26+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
       "source": "Decrypt",
       "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
       "summary": "Robinhood Chain traders are reaching for Tendies over Apple.",
@@ -507,10 +513,32 @@
     },
     {
       "source": "Decrypt",
+      "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
+      "summary": "Moving crypto into a lending protocol or liquidity pool won\u2019t count as a taxable disposal, deferring the charge until a real cash-out.",
+      "url": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
+      "published": "2026-07-14T15:00:26+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
       "title": "Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks",
       "summary": "Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.",
       "url": "https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
       "published": "2026-07-13T20:15:24+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
+      "summary": "<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.</p>",
+      "url": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T19:08:00+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
@@ -526,6 +554,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
+      "published": "2026-07-14T16:29:48+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -573,6 +612,39 @@
     },
     {
       "source": "TheBlock",
+      "title": "Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
+      "summary": "<p>Galaxy will act as the sole intermediary between the accredited borrowers and the blockchain-based lending protocols.</p>",
+      "url": "https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T15:33:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Benchmark sees \u2018long pathway for growth\u2019 in Hut 8, raises target to $165 on $16.8 billion AI data center deals",
+      "summary": "<p>Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center contracts and Beacon Point commercialization.</p>",
+      "url": "https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T15:10:13+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Decentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report",
+      "summary": "<p>Nous Research is raising at least $75 million led by Robot Ventures at a $1.5 billion valuation, per TechCrunch.</p>",
+      "url": "https://www.theblock.co/post/408237/decentralized-ai-project-nous-research-in-talks-to-raise-75m-at-1-5b-valuation-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-14T14:24:13+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
       "title": "European Central Bank taps 36 payment providers for yearlong digital euro pilot",
       "summary": "<p>The ECB selected 36 payment providers to test a beta digital euro in a yearlong pilot beginning in late 2027.</p>",
       "url": "https://www.theblock.co/post/408228/european-central-bank-taps-36-payment-providers-for-yearlong-digital-euro-pilot?utm_source=rss&utm_medium=rss",
@@ -588,17 +660,6 @@
       "summary": "<p>CleanSpark has signed a 20-year, $6.6 billion data center lease in Sandersville, Georgia, with a confidential tech tenant.</p>",
       "url": "https://www.theblock.co/post/408215/cleanspark-signs-20-year-data-center-lease-with-unnamed-tech-giant?utm_source=rss&utm_medium=rss",
       "published": "2026-07-14T12:25:45+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Gondor v1 to let users borrow against their entire Polymarket portfolio",
-      "summary": "<p>Expected to launch in September, v1 will enable users to margin their entire Polymarket portfolios to place additional leveraged bets.</p>",
-      "url": "https://www.theblock.co/post/408129/gondor-v1-let-users-borrow-against-entire-polymarket-portfolio?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-13T19:37:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
