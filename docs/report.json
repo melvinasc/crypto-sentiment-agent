@@ -1,28 +1,53 @@
 {
-  "generated_at": "2026-07-15T14:00:30.687686+00:00",
+  "generated_at": "2026-07-15T19:23:48.378727+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
+    "USDC": {
       "article_count": 2,
-      "avg_compound": 0.6083,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
+      "avg_compound": -0.667,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Binance bets on becoming a crypto 'super app' as stablecoins reshape growth",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/14/binance-bets-on-becoming-a-crypto-super-app-as-stablecoins-reshape-growth",
-          "published": "2026-07-14T17:33:19+00:00",
+          "source": "TheBlock",
+          "title": "Ostium pauses trading after apparent $18 million vault exploit",
+          "summary": "<p>Onchain data shows the Ostium attacker dispersing the stolen funds across multiple wallets after converting USDC into ETH.</p>",
+          "url": "https://www.theblock.co/post/408450/ostium-pauses-trading-after-apparent-18-million-vault-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T15:47:52+00:00",
           "coins": [
-            "BNB"
+            "USDC",
+            "ETH"
           ],
-          "compound": 0.7579,
-          "label": "BULLISH",
-          "confidence": 0.7579
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
         },
+        {
+          "source": "CoinDesk",
+          "title": "Open USD poses biggest threat yet to Circle's USDC, CoinShares says",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/15/open-usd-poses-biggest-threat-yet-to-circle-s-usdc-coinshares-says",
+          "published": "2026-07-15T14:03:54+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.4588,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
           "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
@@ -39,13 +64,38 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.4404,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Crypto Long & Short: To ETH or not to ETH \u2014 is SOL the better diversifier?",
+          "summary": "",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+          "published": "2026-07-15T14:58:09+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 2,
-      "avg_compound": -0.4442,
+      "avg_compound": -0.3553,
       "overall": "BEARISH",
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -62,40 +112,66 @@
         },
         {
           "source": "Decrypt",
-          "title": "Bolivia Is Considering Adding Tether's USDT Stablecoin to National Payments System: Report",
-          "summary": "South American nation Bolivia is considering the use of the largest dollar-backed stablecoin, USDT, per a local report.",
-          "url": "https://decrypt.co/373410/bolivia-considering-tether-usdt-stablecoin-national-payments-system",
-          "published": "2026-07-13T18:57:19+00:00",
+          "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+          "summary": "OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.",
+          "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+          "published": "2026-07-15T16:54:14+00:00",
           "coins": [
-            "USDT"
+            "USDT",
+            "TRX"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+          "summary": "OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.",
+          "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+          "published": "2026-07-15T16:54:14+00:00",
+          "coins": [
+            "USDT",
+            "TRX"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.2272,
+      "article_count": 18,
+      "avg_compound": 0.1386,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 4,
-      "neutral": 5,
+      "bullish": 8,
+      "bearish": 6,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitwise Sees a Bottom in Bitcoin\u2019s Worst Vibes Yet: \u2018Darkest Before the Dawn\u2019",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Backed-Loans-Could-Hit-1-Trillion-Ledn-Says-\u2014-But-Most-Crypto-Holders-Still-Havent-Borrowed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a></p>\n<p>Bitwise says Bitcoin's brutal nine-month downturn masks a stronger-than-ever foundation, arguing institutional adoption, corporate buying, and improving market infrastructure position the industry for a rebound despite record ETF outflows and weak sentiment.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin\" rel=\"nofollow\">Bitwise Sees a Bottom in Bitcoin&#8217;s Worst Vibes Yet: &#8216;Darkest Before the Dawn&#8217;\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitwise-sees-a-bottom-in-bitcoin",
-          "published": "2026-07-13T19:08:34+00:00",
+          "title": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/VerifiedX-and-BitGo-Sign-MOU-to-Deliver-Qualified-Custody-for-vBTC-Expanding-Institutional-Access-to-Native-Bitcoin-Utility-and-with-Immediate-Support-for-Non-Synthetic-Canonical-on-Base.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/verifiedx-and-bitgo-sign-mou\" rel=\"nofollow\">VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base</a></p>\n<p>VerifiedX today announced the signing of a Memorandum of Understanding (MOU) with BitGo to provide qualified custody support for vBTC, with immediate support for vBTC.b, the non-synthetic canonical Bitcoin asset issued through the VerifiedX Network and deployed on Base. The partnership represents a significant milestone in bringing institutional-grade custody, compliance, and security standards to programmable [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/press-releases/verifiedx-and-bitgo-sign-mou\" rel=\"nofollow\">VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/bitcoin-magazine\" rel=\"nofollow\">Bitcoin Magazine</a>.</p>",
+          "url": "https://bitcoinmagazine.com/press-releases/verifiedx-and-bitgo-sign-mou",
+          "published": "2026-07-15T14:30:00+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9732,
-          "label": "BEARISH",
-          "confidence": 0.9732
+          "compound": 0.936,
+          "label": "BULLISH",
+          "confidence": 0.936
         },
         {
           "source": "Bitcoin Magazine",
@@ -111,72 +187,75 @@
           "confidence": 0.8971
         },
         {
-          "source": "TheBlock",
-          "title": "Bitcoin vs Gold as a Reserve Asset",
-          "summary": "<p>A reserve asset is something an institution or government holds to preserve value, provide liquidity, and act as a store of wealth outside its day-to-day operating currency. Bitcoin and gold are both treated as reserve assets because each is scarce, hard to counterfeit, and independent of any single company&#8217;s performance. Gold has filled that role [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408147/bitcoin-vs-gold-as-a-reserve-asset?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-15T01:52:59+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "China\u2019s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Chinas-Prosecutors-Move-to-Treat-Crypto-Mixers-as-Evidence-of-Money-Laundering.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers\" rel=\"nofollow\">China&#8217;s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering</a></p>\n<p>China's Supreme People's Procuratorate published proposals that would make it easier to prosecute crypto-related money laundering, including treating the use of mixers and privacy coins as presumptive evidence of laundering intent.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers\" rel=\"nofollow\">China&#8217;s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers",
+          "published": "2026-07-14T19:47:38+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8805,
+          "compound": 0.836,
           "label": "BULLISH",
-          "confidence": 0.8805
+          "confidence": 0.836
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0671,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
+      "article_count": 6,
+      "avg_compound": -0.049,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 2,
       "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
-          "summary": "<p>The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.</p>",
-          "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T20:56:51+00:00",
+          "title": "Ostium pauses trading after apparent $18 million vault exploit",
+          "summary": "<p>Onchain data shows the Ostium attacker dispersing the stolen funds across multiple wallets after converting USDC into ETH.</p>",
+          "url": "https://www.theblock.co/post/408450/ostium-pauses-trading-after-apparent-18-million-vault-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T15:47:52+00:00",
           "coins": [
+            "USDC",
             "ETH"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
         },
         {
           "source": "CoinDesk",
-          "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
+          "title": "Crypto Long & Short: To ETH or not to ETH \u2014 is SOL the better diversifier?",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
-          "published": "2026-07-15T13:19:48+00:00",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/07/15/crypto-long-and-short-to-eth-or-not-to-eth-is-sol-the-better-diversifier",
+          "published": "2026-07-15T14:58:09+00:00",
           "coins": [
-            "ETH"
+            "ETH",
+            "SOL"
           ],
-          "compound": -0.1531,
-          "label": "BEARISH",
-          "confidence": 0.1531
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
         },
         {
-          "source": "Decrypt",
-          "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
-          "summary": "The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.",
-          "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
-          "published": "2026-07-15T11:12:45+00:00",
+          "source": "TheBlock",
+          "title": "Kraken Institutional taps Upshift to build vaults that earn yield on idle bitcoin, ETH and stablecoins",
+          "summary": "<p>Upshift will build dedicated vaults tailored to each client\u2019s specific investment strategy and risk considerations.</p>",
+          "url": "https://www.theblock.co/post/408448/kraken-institutional-taps-upshift-to-build-vaults-that-earn-yield-on-idle-bitcoin-eth-and-stablecoins?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T16:05:02+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "AVAX": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -185,13 +264,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
-          "published": "2026-07-15T06:05:24+00:00",
+          "source": "TheBlock",
+          "title": "Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year",
+          "summary": "<p>Aave Labs founder Stani Kulechov on V4's Avalanche debut, disrupting prime brokers, and why RWAs will double to $100 billion by December. </p>",
+          "url": "https://www.theblock.co/post/408366/stani-kulechov-on-aave-v4-avalanche-and-why-rwas-will-hit-100-billion-this-year?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T15:03:29+00:00",
           "coins": [
-            "XRP"
+            "AVAX"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -201,16 +280,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -300,26 +369,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -330,7 +379,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -365,30 +414,52 @@
       "confidence": 0.8316
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea to bring crypto under new state asset management law",
-      "summary": "<p>The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.</p>",
-      "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T07:19:45+00:00",
+      "source": "Decrypt",
+      "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+      "summary": "Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
+      "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+      "published": "2026-07-15T17:01:25+00:00",
       "coins": [],
-      "compound": 0.7579,
+      "compound": -0.8126,
+      "label": "BEARISH",
+      "confidence": 0.8126
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+      "summary": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
+      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+      "published": "2026-07-15T18:02:06+00:00",
+      "coins": [],
+      "compound": 0.7739,
       "label": "BULLISH",
-      "confidence": 0.7579
+      "confidence": 0.7739
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi",
+      "published": "2026-07-15T15:27:43+00:00",
+      "coins": [],
+      "compound": -0.765,
+      "label": "BEARISH",
+      "confidence": 0.765
     },
     {
       "source": "TheBlock",
-      "title": "How Asset Managers Are Investing in Crypto",
-      "summary": "<p>Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity. Most invest on behalf of clients rather than for their own accounts. Their aim is to deliver digital asset exposure inside the brokerage, retirement, and advisory structures clients already use, with the custody, [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T01:55:20+00:00",
+      "title": "\u2018Bull markets everywhere\u2019: Bitwise says crypto equities beat every major asset class but emerging markets in H1 2026",
+      "summary": "<p>Crypto assets fell 36% while crypto equities gained 23% in the first half of the year, with tokenized RWAs hitting a record $33 billion in Q2.</p>",
+      "url": "https://www.theblock.co/post/408449/bull-markets-everywhere-bitwise-crypto-equities-beat-major-asset-class-h1?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T15:50:36+00:00",
       "coins": [],
-      "compound": 0.7579,
+      "compound": 0.7466,
       "label": "BULLISH",
-      "confidence": 0.7579
+      "confidence": 0.7466
     },
     {
       "source": "TheBlock",
-      "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman: WSJ",
+      "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
       "summary": "<p>JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized.</p>",
       "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
       "published": "2026-07-15T13:54:22+00:00",
@@ -396,6 +467,17 @@
       "compound": 0.743,
       "label": "BULLISH",
       "confidence": 0.743
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
+      "summary": "<p>Glacis aims to expand ZeroDelta, its multichain clearing platform for stablecoins, into tokenized securities and foreign exchange over time.</p>",
+      "url": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T16:43:07+00:00",
+      "coins": [],
+      "compound": 0.7003,
+      "label": "BULLISH",
+      "confidence": 0.7003
     },
     {
       "source": "TheBlock",
@@ -410,58 +492,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
-      "summary": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
-      "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
-      "published": "2026-07-13T22:46:04+00:00",
+      "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
+      "summary": "Pollak said he is handing the Base App back to Coinbase to focus on building Base into \"the blockchain for global finance\" after conceding the network's push into on-chain social missed the mark.",
+      "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
+      "published": "2026-07-15T18:50:55+00:00",
       "coins": [],
-      "compound": -0.6808,
+      "compound": -0.6486,
       "label": "BEARISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stripe mounts blockbuster $53 billion bid to buy PayPal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/15/stripe-mounts-blockbuster-usd53-billion-bid-to-buy-paypal",
-      "published": "2026-07-15T10:41:39+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
+      "confidence": 0.6486
     },
     {
       "source": "TheBlock",
-      "title": "Ark Invest adds $14 million in Circle shares while selling Robinhood",
-      "summary": "<p>Ark Invest bought $14 million worth of Circle and $1.5 million worth of Block Inc., while selling $3.2 million worth of Robinhood.</p>",
-      "url": "https://www.theblock.co/post/408336/ark-invest-adds-14-million-in-circle?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T01:52:11+00:00",
+      "title": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
+      "summary": "<p>The firm seeks to offer tokenized long-term investments like \"Treasury funds, iShares ETFs, and even private markets.\"</p>",
+      "url": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T16:56:06+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.6486,
       "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill",
-      "published": "2026-07-14T18:57:15+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "Claude's Personality Changes Depending on the Model\u2014And the Language You Speak",
-      "summary": "According to new Anthropic research, Claude consistently expresses different values across models and languages.",
-      "url": "https://decrypt.co/373422/anthropic-claude-personality-changes-model-language",
-      "published": "2026-07-13T20:39:53+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.6486
     },
     {
       "source": "Decrypt",
@@ -476,36 +525,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court",
+      "title": "DTCC moves tokenized securities into live trading, marking a milestone for Wall Street's blockchain push",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
-      "published": "2026-07-14T20:51:05+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/15/dtcc-moves-tokenized-securities-into-live-trading-marking-a-milestone-for-wall-street-s-blockchain-push",
+      "published": "2026-07-15T17:02:22+00:00",
       "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
+      "compound": 0.296,
+      "label": "BULLISH",
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
-      "summary": "About 200 protesters marched through San Francisco on Saturday, calling on leading AI companies to halt development of more powerful models over concerns about AI safety, jobs, and the environment.",
-      "url": "https://decrypt.co/373433/stop-ai-protest-openai-anthropic-google-deepmind",
-      "published": "2026-07-13T22:11:05+00:00",
+      "source": "CoinDesk",
+      "title": "South Korea to modify 76-year-old law to classify cryptocurrencies as national assets",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/15/south-korea-to-modify-76-year-old-law-to-classify-cryptocurrencies-as-national-assets",
+      "published": "2026-07-15T14:35:26+00:00",
       "coins": [],
-      "compound": 0.2944,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.2944
-    },
-    {
-      "source": "TheBlock",
-      "title": "Japan passes key bill recognizing crypto as financial product, lowering tax rate",
-      "summary": "<p>The amendments establish the basis for separate crypto taxation at a rate of approximately 20%, down from the current maximum 55% rate.</p>",
-      "url": "https://www.theblock.co/post/408361/japan-passes-key-bill?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T09:47:33+00:00",
-      "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -530,6 +568,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "TheBlock",
+      "title": "William Blair cuts Coinbase forecasts but says crypto downturn nearing a bottom",
+      "summary": "<p>William Blair expects Coinbase's earnings to bottom in the second half of 2026 before rebounding next year.</p>",
+      "url": "https://www.theblock.co/post/408423/blair-cuts-coinbase-forecasts-but-crypto-downturn-nearing-bottom?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T15:16:20+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
       "source": "Decrypt",
       "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
       "summary": "Moving crypto into a lending protocol or liquidity pool won\u2019t count as a taxable disposal, deferring the charge until a real cash-out.",
@@ -541,15 +590,26 @@
       "confidence": 0.128
     },
     {
-      "source": "Decrypt",
-      "title": "Democratic Opposition to Clarity Act Grows in Crypto Bill's Do-or-Die Final Weeks",
-      "summary": "Democrats are mounting a final case against the Clarity Act centered on its lack of language restricting Trump's sprawling crypto fortune.",
-      "url": "https://decrypt.co/373419/democratic-opposition-clarity-act-grows-crypto-bill-final-weeks",
-      "published": "2026-07-13T20:15:24+00:00",
+      "source": "CoinDesk",
+      "title": "The privacy paradox of protecting kids online",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online",
+      "published": "2026-07-15T14:58:50+00:00",
       "coins": [],
-      "compound": 0.128,
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor and Securitize collaborate on blockchain-based IPOs",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/15/cantor-and-securitize-collaborate-on-blockchain-based-ipos",
+      "published": "2026-07-15T16:52:28+00:00",
+      "coins": [],
+      "compound": 0.0772,
       "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
@@ -574,15 +634,15 @@
       "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
-      "summary": "<p>Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.</p>",
-      "url": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T08:44:27+00:00",
+      "source": "CoinDesk",
+      "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+      "published": "2026-07-15T14:37:36+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -607,17 +667,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "UK plans first G7 digital sovereign bond by early 2027",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
-      "published": "2026-07-15T08:16:34+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
       "summary": "The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.",
@@ -630,10 +679,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "TeraWulf falls 7% after New York orders one-year pause on new data center permits",
-      "summary": "<p>TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.</p>",
-      "url": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-15T05:10:00+00:00",
+      "title": "Coinbase\u2019s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short",
+      "summary": "<p>Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents.</p>",
+      "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T17:58:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
