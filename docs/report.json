@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-15T08:27:35.760634+00:00",
+  "generated_at": "2026-07-15T14:00:30.687686+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.7579,
+      "article_count": 2,
+      "avg_compound": 0.6083,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,117 +22,43 @@
           "compound": 0.7579,
           "label": "BULLISH",
           "confidence": 0.7579
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": -0.462,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Wall Street turns cautious on Circle as analysts warn USDC economics face mounting pressure",
-          "summary": "<p>Mizuho downgraded the stock and JPMorgan lowered earnings estimates, citing concerns that USDC is coming under pressure.</p>",
-          "url": "https://www.theblock.co/post/408280/wall-street-cautious-circle-warn-usdc-economics?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T17:14:47+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "CoinDesk",
-          "title": "JPMorgan says Hyperliquid's rise threatens Circle's USDC economics",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics",
-          "published": "2026-07-14T14:57:16+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.3051,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "BitMine Buys $49 Million in Ethereum as Tom Lee Hails Early Robinhood Chain Demand",
-          "summary": "According to BitMine Chairman Tom Lee, Ethereum is benefiting from the early success of the Robinhood Chain layer-2 network.",
-          "url": "https://decrypt.co/373392/bitmine-buys-49-million-ethereum-tom-lee-hails-robinhood-chain-demand",
-          "published": "2026-07-13T15:22:10+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4939,
-          "label": "BULLISH",
-          "confidence": 0.4939
         },
         {
           "source": "TheBlock",
-          "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
-          "summary": "<p>The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.</p>",
-          "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T20:56:51+00:00",
+          "title": "How Crypto Venues Are Building Financial Operating Systems: Binance as a Super App",
+          "summary": "<p>From Trading Venue to Financial Operating System Across crypto&#8217;s largest venues, the fundamentals of execution, including pricing, depth, latency, and fees, are converging. These remain critical to the business and a precondition for competing at scale, but as they standardize across the top platforms, they become harder to differentiate on. Alongside them, ecosystem breadth is [&hellip;]</p>",
+          "url": "https://www.theblock.co/post/408308/how-crypto-venues-are-building-financial-operating-systems-binance-as-a-super-app?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T12:56:18+00:00",
           "coins": [
-            "ETH"
+            "BNB"
           ],
-          "compound": 0.4215,
+          "compound": 0.4588,
           "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology",
-          "published": "2026-07-14T14:31:44+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.4588
         }
       ],
       "no_news": false
     },
     "USDT": {
       "article_count": 2,
-      "avg_compound": 0.2009,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.4442,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tether leads $7 million round in Pact Labs to boost USAT stablecoin adoption",
-          "summary": "<p>\u201cPact Labs gives us the rails to make digital dollars designed to be compliant with U.S. regulations,\" says Tether USAT.</p>",
-          "url": "https://www.theblock.co/post/408239/tether-leads-7-million-round-in-pact-labs-to-boost-usat-stablecoin-adoption?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T14:37:15+00:00",
+          "title": "Circle suspended Tether-backed fund over market manipulation concerns, arbitration filings show",
+          "summary": "<p>Circle suspended Heka Funds over suspected market manipulation after learning Tether had invested $800 million in the arbitrage fund.</p>",
+          "url": "https://www.theblock.co/post/408377/circle-suspended-tether-backed-fund-over-market-manipulation-concerns-arbitration-filings-show?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-15T12:23:46+00:00",
           "coins": [
             "USDT"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": -0.8885,
+          "label": "BEARISH",
+          "confidence": 0.8885
         },
         {
           "source": "Decrypt",
@@ -151,12 +77,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": 0.1342,
+      "article_count": 19,
+      "avg_compound": 0.2272,
       "overall": "BULLISH",
-      "bullish": 8,
-      "bearish": 5,
-      "neutral": 4,
+      "bullish": 10,
+      "bearish": 4,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -200,6 +126,56 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.0671,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
+          "summary": "<p>The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.</p>",
+          "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-14T20:56:51+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "CoinDesk",
+          "title": "A timeline of the Ethereum Foundation's ongoing shakeup",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/15/a-timeline-of-the-ethereum-foundation-s-ongoing-shakeup",
+          "published": "2026-07-15T13:19:48+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
+        },
+        {
+          "source": "Decrypt",
+          "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
+          "summary": "The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.",
+          "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+          "published": "2026-07-15T11:12:45+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -210,7 +186,7 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+          "title": "AI agentic payments enter mainstream as Visa, Mastercard, Ripple back x402 standard",
           "summary": "",
           "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
           "published": "2026-07-15T06:05:24+00:00",
@@ -353,19 +329,40 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
-      "summary": "<p>The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets. </p>",
-      "url": "https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T17:59:25+00:00",
+      "source": "Decrypt",
+      "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
+      "summary": "A government-backed review says magistrates and judges aren't ready for a coming surge in crypto money laundering and AI-enabled fraud cases.",
+      "url": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
+      "published": "2026-07-15T12:15:31+00:00",
       "coins": [],
-      "compound": 0.8402,
+      "compound": -0.9261,
+      "label": "BEARISH",
+      "confidence": 0.9261
+    },
+    {
+      "source": "TheBlock",
+      "title": "Tokenization startup Tradable plans to bring $1 billion worth of private credit assets to Stellar",
+      "summary": "<p>Stellar has become a top choice for institutional tokenization, including from the likes of Franklin Templeton and WisdomTree.</p>",
+      "url": "https://www.theblock.co/post/408399/tokenization-startup-tradable-plans-bring-1-billion-private-credit-assets-stellar?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T13:35:07+00:00",
+      "coins": [],
+      "compound": 0.8316,
       "label": "BULLISH",
-      "confidence": 0.8402
+      "confidence": 0.8316
     },
     {
       "source": "TheBlock",
@@ -390,15 +387,26 @@
       "confidence": 0.7579
     },
     {
-      "source": "CoinDesk",
-      "title": "Mizuho downgrades Circle to underperform, cuts price target to $50 on Open USD threat",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/14/mizuho-downgrades-circle-to-underperform-cuts-price-target-to-usd50-on-open-usd-threat",
-      "published": "2026-07-14T16:59:44+00:00",
+      "source": "TheBlock",
+      "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman: WSJ",
+      "summary": "<p>JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized.</p>",
+      "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T13:54:22+00:00",
       "coins": [],
-      "compound": -0.6808,
+      "compound": 0.743,
+      "label": "BULLISH",
+      "confidence": 0.743
+    },
+    {
+      "source": "TheBlock",
+      "title": "Czech Republic moves to block Polymarket over unlicensed gambling",
+      "summary": "<p>The Czech Republic moved to block Polymarket, joining other European jurisdictions targeting prediction markets over unlicensed gambling.</p>",
+      "url": "https://www.theblock.co/post/408371/czech-republic-moves-to-block-polymarket-over-unlicensed-gambling?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T10:45:44+00:00",
+      "coins": [],
+      "compound": -0.7003,
       "label": "BEARISH",
-      "confidence": 0.6808
+      "confidence": 0.7003
     },
     {
       "source": "Decrypt",
@@ -412,26 +420,15 @@
       "confidence": 0.6808
     },
     {
-      "source": "Decrypt",
-      "title": "This Is How Much Your Boyfriend Is Spending on AI Girlfriends",
-      "summary": "Romantic AI companion apps have brought in nearly half a billion dollars as users pay for virtual partners, flirting, and digital intimacy.",
-      "url": "https://decrypt.co/373395/how-much-your-boyfriend-spending-ai-girlfriends",
-      "published": "2026-07-13T16:40:36+00:00",
+      "source": "CoinDesk",
+      "title": "Stripe mounts blockbuster $53 billion bid to buy PayPal",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/15/stripe-mounts-blockbuster-usd53-billion-bid-to-buy-paypal",
+      "published": "2026-07-15T10:41:39+00:00",
       "coins": [],
-      "compound": 0.4767,
+      "compound": 0.5994,
       "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
-      "title": "'The Odyssey' Director Chris Nolan: Young Audiences are Rejecting 'AI Slop'",
-      "summary": "The younger generation's judgment of AI has been \u201cimmediate and harsh,\u201d according to the Oscar-winning director.",
-      "url": "https://decrypt.co/373401/the-odyssey-director-chris-nolan-ai-slop",
-      "published": "2026-07-13T17:16:44+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
+      "confidence": 0.5994
     },
     {
       "source": "TheBlock",
@@ -456,17 +453,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "The Clarity Act isn't a ticket to sanctions evasion, actually",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/14/the-clarity-act-isn-t-a-ticket-to-sanctions-evasion-actually",
-      "published": "2026-07-14T17:27:48+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
       "title": "Claude's Personality Changes Depending on the Model\u2014And the Language You Speak",
       "summary": "According to new Anthropic research, Claude consistently expresses different values across models and languages.",
@@ -478,15 +464,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "For pension funds, tokenization\u2019s real play is balance-sheet management, Fidelity\u2019s Lai says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/14/for-pension-funds-tokenization-s-real-play-is-balance-sheet-management-fidelity-s-lai-says",
-      "published": "2026-07-14T14:05:18+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Rips on Cool CPI",
+      "summary": "Circle has a rough day. Pump.fun pumps on first major unlock. And Robinhood Chain sees its first big rotation.",
+      "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
+      "published": "2026-07-15T12:26:45+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.3182
     },
     {
       "source": "CoinDesk",
@@ -494,17 +480,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court",
       "published": "2026-07-14T20:51:05+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "CoinFund\u2019s David Pakman says crypto hasn\u2019t solved tokenomics",
-      "summary": "<p>During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.</p>",
-      "url": "https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T17:32:08+00:00",
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
@@ -522,26 +497,26 @@
       "confidence": 0.2944
     },
     {
-      "source": "CoinDesk",
-      "title": "Wikipedia blackout could hurt how AI engines like ChatGPT understand crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/14/wikipedia-blackout-could-hurt-how-ai-engines-like-chatgpt-understand-crypto",
-      "published": "2026-07-14T16:39:26+00:00",
+      "source": "TheBlock",
+      "title": "Japan passes key bill recognizing crypto as financial product, lowering tax rate",
+      "summary": "<p>The amendments establish the basis for separate crypto taxation at a rate of approximately 20%, down from the current maximum 55% rate.</p>",
+      "url": "https://www.theblock.co/post/408361/japan-passes-key-bill?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T09:47:33+00:00",
       "coins": [],
-      "compound": -0.2263,
+      "compound": -0.25,
       "label": "BEARISH",
-      "confidence": 0.2263
+      "confidence": 0.25
     },
     {
-      "source": "Decrypt",
-      "title": "Robinhood Chain's Early Momentum Is Being Driven By Meme Coins, Not Tokenized Stocks",
-      "summary": "Robinhood Chain traders are reaching for Tendies over Apple.",
-      "url": "https://decrypt.co/373398/robinhood-chain-momentum-meme-coins-not-tokenized-stocks",
-      "published": "2026-07-13T16:59:36+00:00",
+      "source": "CoinDesk",
+      "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
+      "published": "2026-07-15T12:12:01+00:00",
       "coins": [],
-      "compound": 0.2023,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.2023
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -577,15 +552,15 @@
       "confidence": 0.128
     },
     {
-      "source": "TheBlock",
-      "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
-      "summary": "<p>Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.</p>",
-      "url": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T19:08:00+00:00",
+      "source": "CoinDesk",
+      "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
+      "published": "2026-07-15T12:05:33+00:00",
       "coins": [],
-      "compound": 0.128,
+      "compound": 0.0772,
       "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.0772
     },
     {
       "source": "Decrypt",
@@ -599,6 +574,39 @@
       "confidence": 0.0772
     },
     {
+      "source": "TheBlock",
+      "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
+      "summary": "<p>Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.</p>",
+      "url": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T08:44:27+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
+      "published": "2026-07-15T12:11:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto steadies as Middle East tensions counter U.S. inflation report boost",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/15/crypto-steadies-as-middle-east-tensions-counter-u-s-inflation-report-boost",
+      "published": "2026-07-15T11:05:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
       "source": "CoinDesk",
       "title": "UK plans first G7 digital sovereign bond by early 2027",
       "summary": "",
@@ -610,33 +618,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
-      "published": "2026-07-14T16:29:48+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hut 8 price target hiked to $165 at Benchmark as AI pivot reshapes valuation",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/14/hut-8-price-target-hiked-to-usd165-at-benchmark-as-ai-pivot-reshapes-valuation",
-      "published": "2026-07-14T12:53:05+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. June CPI fell 0.4%, likely cooling move toward Fed rate hikes",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/14/u-s-june-cpi-fell-0-4-likely-cooling-move-toward-fed-rate-hikes",
-      "published": "2026-07-14T12:33:24+00:00",
+      "source": "Decrypt",
+      "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
+      "summary": "The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.",
+      "url": "https://decrypt.co/373520/us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules",
+      "published": "2026-07-15T09:08:39+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -648,28 +634,6 @@
       "summary": "<p>TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.</p>",
       "url": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss",
       "published": "2026-07-15T05:10:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Galaxy blends Aave, Morpho and other DeFi rates in new GOFR crypto borrowing product",
-      "summary": "<p>Galaxy will act as the sole intermediary between the accredited borrowers and the blockchain-based lending protocols.</p>",
-      "url": "https://www.theblock.co/post/408267/galaxy-blends-aave-morpho-other-defi-rates-new-gofr-crypto-borrowing-product?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T15:33:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Benchmark sees \u2018long pathway for growth\u2019 in Hut 8, raises target to $165 on $16.8 billion AI data center deals",
-      "summary": "<p>Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center contracts and Beacon Point commercialization.</p>",
-      "url": "https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T15:10:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
