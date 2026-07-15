@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T03:17:51.243819+00:00",
+  "generated_at": "2026-07-15T08:27:35.760634+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -59,30 +59,6 @@
           "compound": -0.3818,
           "label": "BEARISH",
           "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Dragonfly, FirstMark lead $38 million Series A for stablecoin startup Velocity with support from Coinbase, Ripple and more",
-          "summary": "<p>The startup enables corporate users to use stablecoins while connecting to traditional banking rails and compliance systems.</p>",
-          "url": "https://www.theblock.co/post/408242/dragonfly-firstmark-series-a-stablecoin-velocity-coinbase-ripple-capital-one-ventures?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-14T14:30:43+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -220,6 +196,30 @@
           "compound": 0.8805,
           "label": "BULLISH",
           "confidence": 0.8805
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Visa, Mastercard and Ripple back x402 as agent payments average 32 cents",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/15/visa-mastercard-and-ripple-join-the-standard-letting-ai-agents-pay-in-stablecoins",
+          "published": "2026-07-15T06:05:24+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -366,6 +366,17 @@
       "compound": 0.8402,
       "label": "BULLISH",
       "confidence": 0.8402
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea to bring crypto under new state asset management law",
+      "summary": "<p>The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.</p>",
+      "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T07:19:45+00:00",
+      "coins": [],
+      "compound": 0.7579,
+      "label": "BULLISH",
+      "confidence": 0.7579
     },
     {
       "source": "TheBlock",
@@ -589,6 +600,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "UK plans first G7 digital sovereign bond by early 2027",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+      "published": "2026-07-15T08:16:34+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
@@ -621,22 +643,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "ECB picks firms including Deutsche Bank, Revolut for digital euro pilot",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/14/ecb-picks-firms-including-deutsche-bank-revolut-for-digital-euro-pilot",
-      "published": "2026-07-14T12:10:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan\u2019s biggest card network taps Circle to bring stablecoins to 40 million merchants",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/14/circle-signs-mou-with-japan-s-largest-card-network-to-explore-stablecoin-payments",
-      "published": "2026-07-14T12:01:50+00:00",
+      "source": "TheBlock",
+      "title": "TeraWulf falls 7% after New York orders one-year pause on new data center permits",
+      "summary": "<p>TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.</p>",
+      "url": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-15T05:10:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -659,17 +670,6 @@
       "summary": "<p>Benchmark raised Hut 8's target to $165, citing $16.8 billion in AI data center contracts and Beacon Point commercialization.</p>",
       "url": "https://www.theblock.co/post/408264/benchmark-sees-long-pathway-growth-hut-8-raises-target-to-165-on-ai-data-center-deals?utm_source=rss&utm_medium=rss",
       "published": "2026-07-14T15:10:13+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Decentralized AI project Nous Research in talks to raise $75M at $1.5B valuation: report",
-      "summary": "<p>Nous Research is raising at least $75 million led by Robot Ventures at a $1.5 billion valuation, per TechCrunch.</p>",
-      "url": "https://www.theblock.co/post/408237/decentralized-ai-project-nous-research-in-talks-to-raise-75m-at-1-5b-valuation-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-14T14:24:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
