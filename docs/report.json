@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T03:24:49.648747+00:00",
+  "generated_at": "2026-07-16T08:26:21.049013+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -116,12 +116,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0588,
-      "overall": "BEARISH",
+      "article_count": 6,
+      "avg_compound": -0.049,
+      "overall": "NEUTRAL",
       "bullish": 2,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -169,12 +169,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": -0.0265,
+      "article_count": 21,
+      "avg_compound": -0.0436,
       "overall": "NEUTRAL",
-      "bullish": 7,
+      "bullish": 6,
       "bearish": 9,
-      "neutral": 2,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -218,30 +218,6 @@
       ],
       "no_news": false
     },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year",
-          "summary": "<p>Aave Labs founder Stani Kulechov on V4's Avalanche debut, disrupting prime brokers, and why RWAs will double to $100 billion by December. </p>",
-          "url": "https://www.theblock.co/post/408366/stani-kulechov-on-aave-v4-avalanche-and-why-rwas-will-hit-100-billion-this-year?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-15T15:03:29+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "MATIC": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -267,6 +243,16 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -577,17 +563,6 @@
       "confidence": 0.1779
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock's crypto assets fall 39% despite $15 billion of net inflows",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/15/blackrock-s-crypto-assets-fall-39-despite-usd15-billion-of-net-inflows",
-      "published": "2026-07-15T12:12:01+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "Decrypt",
       "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
       "summary": "Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
@@ -633,21 +608,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Japan reclassifies crypto as a financial asset, paves way for tax cuts",
+      "title": "U.S. Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/15/japan-reclassifies-crypto-as-a-financial-asset-paves-way-for-tax-cuts",
-      "published": "2026-07-15T12:05:33+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "CoinDesk",
-      "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
-      "published": "2026-07-15T14:37:36+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/16/u-s-senate-unanimously-opposes-clemency-for-ftx-founder-sam-bankman-fried",
+      "published": "2026-07-16T06:00:43+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -655,10 +619,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The launchpad that fueled Robinhood Chain's memecoin boom just gave away all its revenue",
+      "title": "President Trump expected to meet with senators to work on ethics concerns in crypto bill",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/15/the-launchpad-that-fueled-robinhood-chain-s-memecoin-boom-just-gave-away-all-its-revenue",
-      "published": "2026-07-15T12:11:58+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/15/high-level-white-house-meeting-said-to-be-planned-to-hash-out-clarity-act-ethics-section",
+      "published": "2026-07-15T14:37:36+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
