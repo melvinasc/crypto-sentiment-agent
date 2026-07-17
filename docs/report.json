@@ -1,27 +1,53 @@
 {
-  "generated_at": "2026-07-17T08:22:18.075759+00:00",
+  "generated_at": "2026-07-17T13:55:06.467879+00:00",
   "total_articles": 55,
   "coins": {
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
+    "BTC": {
+      "article_count": 24,
+      "avg_compound": -0.1307,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 6,
+      "bearish": 12,
+      "neutral": 6,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-          "summary": "<p>\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.</p>",
-          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T13:47:51+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump\u2019s China Charge, but Onchain Data Points to Buyers",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Falls-Under-63000-on-U.S.-Iran-Strikes-and-Trumps-China-Charge-but-Onchain-Data-Points-to-Buyers.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000\" rel=\"nofollow\">Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump&#8217;s China Charge, but Onchain Data Points to Buyers</a></p>\n<p>Bitcoin price fell below $63,000 as U.S. strikes on Iran and renewed U.S.-China tensions sparked a broader risk-off sell-off, though analysts say resilient onchain data and renewed ETF inflows suggest buyers are quickly stepping back into the market.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000\" rel=\"nofollow\">Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump&#8217;s China Charge, but Onchain Data Points to Buyers</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-63000",
+          "published": "2026-07-17T13:34:44+00:00",
           "coins": [
-            "MATIC"
+            "BTC"
           ],
-          "compound": -0.1027,
+          "compound": -0.9578,
           "label": "BEARISH",
-          "confidence": 0.1027
+          "confidence": 0.9578
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a></p>\n<p>Crypto.com receives $400 million investment from Citadel Securities </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
+          "published": "2026-07-16T21:09:28+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8689,
+          "label": "BULLISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
+          "summary": "<p>Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said.</p>",
+          "url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-16T19:21:56+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7906,
+          "label": "BULLISH",
+          "confidence": 0.7906
         }
       ],
       "no_news": false
@@ -75,56 +101,6 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0787,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 11,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a></p>\n<p>Crypto.com receives $400 million investment from Citadel Securities </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
-          "published": "2026-07-16T21:09:28+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8689,
-          "label": "BULLISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
-          "summary": "<p>Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said.</p>",
-          "url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T19:21:56+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.7906,
-          "label": "BULLISH",
-          "confidence": 0.7906
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin to $40,000? If History\u2019s Anything to Go By, It\u2019s Possible, Says Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Falls-5.5-in-5-Days-to-Below-73000-as-Spot-ETF-Outflows-Accelerate-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a></p>\n<p>Bitcoin could drop as low as $38,000 this year, a new report claims.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
-          "published": "2026-07-15T21:04:16+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7677,
-          "label": "BEARISH",
-          "confidence": 0.7677
         }
       ],
       "no_news": false
@@ -323,6 +299,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "MATIC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -366,6 +352,39 @@
   },
   "uncategorised": [
     {
+      "source": "Decrypt",
+      "title": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud",
+      "summary": "The gang built fake police websites to fool victims, then spent the stolen crypto on Rolexes and luxury holidays, the Met said.",
+      "url": "https://decrypt.co/373702/three-men-jailed-for-posing-as-police-in-5-3m-uk-crypto-fraud",
+      "published": "2026-07-17T13:46:58+00:00",
+      "coins": [],
+      "compound": -0.9423,
+      "label": "BEARISH",
+      "confidence": 0.9423
+    },
+    {
+      "source": "TheBlock",
+      "title": "UK gang jailed over $5.4 million crypto scam posing as police",
+      "summary": "<p>The gang impersonated police officers and used convincing fake police websites to steal more than \u00a34M in cryptocurrency from eight victims.</p>",
+      "url": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-17T08:28:00+00:00",
+      "coins": [],
+      "compound": -0.8885,
+      "label": "BEARISH",
+      "confidence": 0.8885
+    },
+    {
+      "source": "TheBlock",
+      "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
+      "summary": "<p>SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.</p>",
+      "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-17T13:15:13+00:00",
+      "coins": [],
+      "compound": 0.8271,
+      "label": "BULLISH",
+      "confidence": 0.8271
+    },
+    {
       "source": "TheBlock",
       "title": "SEC vs CFTC: Who Regulates Crypto?",
       "summary": "<p>Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).\u00a0 In broad terms, the SEC handles crypto assets that behave like investments in a company. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them. Which [&hellip;]</p>",
@@ -399,15 +418,15 @@
       "confidence": 0.8126
     },
     {
-      "source": "Decrypt",
-      "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
-      "summary": "PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free. We tested it, and it's as impressive as it sounds.",
-      "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
-      "published": "2026-07-15T19:55:41+00:00",
+      "source": "TheBlock",
+      "title": "Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports",
+      "summary": "<p>The defendant reportedly led a criminal group that operated under the guise of BitShine, which was once registered with the FSC.</p>",
+      "url": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-17T08:48:10+00:00",
       "coins": [],
-      "compound": 0.765,
-      "label": "BULLISH",
-      "confidence": 0.765
+      "compound": -0.7906,
+      "label": "BEARISH",
+      "confidence": 0.7906
     },
     {
       "source": "TheBlock",
@@ -421,15 +440,15 @@
       "confidence": 0.7579
     },
     {
-      "source": "Decrypt",
-      "title": "Base Creator Jesse Pollak Steps Back From App Leadership After Admitting Social Bet 'Was Wrong'",
-      "summary": "Pollak said he is handing the Base App back to Coinbase to focus on building Base into \"the blockchain for global finance\" after conceding the network's push into on-chain social missed the mark.",
-      "url": "https://decrypt.co/373574/base-jesse-pollak-steps-back-social-bet-wrong",
-      "published": "2026-07-15T18:50:55+00:00",
+      "source": "CoinDesk",
+      "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
+      "summary": "",
+      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
+      "published": "2026-07-17T08:50:22+00:00",
       "coins": [],
-      "compound": -0.6486,
+      "compound": -0.7506,
       "label": "BEARISH",
-      "confidence": 0.6486
+      "confidence": 0.7506
     },
     {
       "source": "CoinDesk",
@@ -441,17 +460,6 @@
       "compound": 0.6369,
       "label": "BULLISH",
       "confidence": 0.6369
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Uses AI Red Team to Strengthen GPT-5.6 Against Prompt Injection Attacks",
-      "summary": "OpenAI said its new automated red-teaming model, GPT-Red, uncovered vulnerabilities that were used to make GPT-5.6 more resistant to prompt injection attacks.",
-      "url": "https://decrypt.co/373613/openai-ai-red-team-strengthen-gpt-5-6-prompt-injection-attacks",
-      "published": "2026-07-15T20:50:11+00:00",
-      "coins": [],
-      "compound": -0.6249,
-      "label": "BEARISH",
-      "confidence": 0.6249
     },
     {
       "source": "TheBlock",
@@ -481,6 +489,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/16/citadel-securities-invests-usd400-million-in-crypto-com-valuing-exchange-at-usd20-billion",
       "published": "2026-07-16T18:00:00+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
+      "summary": "Wall Street and crypto's convergence snapped into focus, while crypto majors gave back most of the week's gains as broader markets sold off.",
+      "url": "https://decrypt.co/373699/morning-minute-citadel-securities-invests-400m-in-crypto-com",
+      "published": "2026-07-17T12:09:14+00:00",
       "coins": [],
       "compound": 0.5574,
       "label": "BULLISH",
@@ -542,6 +561,17 @@
       "confidence": 0.34
     },
     {
+      "source": "Decrypt",
+      "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
+      "summary": "The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
+      "url": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
+      "published": "2026-07-17T10:12:33+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
       "source": "TheBlock",
       "title": "Trump\u2019s longtime teleprompter operator accused of using insider knowledge to place bets on Kalshi: ABC News",
       "summary": "<p>President Trump's teleprompter is under scrutiny following a report alleging that he used insider knowledge to place bets on Kalshi.</p>",
@@ -586,17 +616,6 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Keyrock closes deal for BlockFills\u2019 institutional trading and brokerage assets",
-      "summary": "<p>The Brussels-based firm was earlier selected as the buyer for $3.25 million in BlockFills\u2019 Chapter 11 bankruptcy process.</p>",
-      "url": "https://www.theblock.co/post/408639/keyrock-closes-deal-blockfill-institutional-trading-brokerage-assets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T14:42:26+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "Decrypt",
       "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
       "summary": "Source code leaked reveals how substantial portions of Suno\u2019s training library were assembled.",
@@ -605,17 +624,6 @@
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "SBI extends onchain finance push with Ondo deal to tokenize Japanese stocks",
-      "summary": "<p>Japan's SBI Holdings will use JPYSC for settlement and collateral while distributing Ondo products through its network.</p>",
-      "url": "https://www.theblock.co/post/408633/sbi-extends-onchain-finance-push-with-ondo-deal-tokenize-japanese-stocks?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T14:59:02+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
       "confidence": 0.128
     },
     {
@@ -630,59 +638,15 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Strengthening defenses against AI fraud",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud",
-      "published": "2026-07-16T14:54:11+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
       "source": "TheBlock",
-      "title": "Ledger unveils hardware-backed Agent Stack to prevent rogue AI transactions",
-      "summary": "<p>With Ledger Agent Stack, users can deploy bots to read balances, suggest transactions, prepare swaps and draft operations.</p>",
-      "url": "https://www.theblock.co/post/408549/ledger-unveils-hardware-backed-agent-stack?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T13:00:00+00:00",
+      "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
+      "summary": "<p>Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, with regulated GPU futures targeted for late 2026.</p>",
+      "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-17T12:48:20+00:00",
       "coins": [],
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto brokerage firm Alpaca raises $135 million for tokenized stock infrastructure",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/16/crypto-brokerage-firm-alpaca-raises-usd135-million-for-tokenized-stock-infrastructure",
-      "published": "2026-07-16T14:19:32+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger wants AI agents to manage crypto without holding your keys",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/15/ledger-wants-ai-agents-to-manage-crypto-without-holding-your-keys",
-      "published": "2026-07-16T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Galaxy targets institutional stablecoin yield with new DeFi vaults",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/16/galaxy-targets-institutional-stablecoin-yield-with-new-defi-vaults",
-      "published": "2026-07-16T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
     },
     {
       "source": "TheBlock",
