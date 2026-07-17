@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T03:27:15.169027+00:00",
+  "generated_at": "2026-07-17T08:22:18.075759+00:00",
   "total_articles": 55,
   "coins": {
     "MATIC": {
@@ -26,13 +26,66 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.1017,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "This $28 million ether market bet aims to profit from pure market chaos",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
+          "published": "2026-07-17T07:28:52+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
+          "published": "2026-07-17T07:29:41+00:00",
+          "coins": [
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+          "published": "2026-07-16T20:01:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.0441,
-      "overall": "NEUTRAL",
+      "article_count": 21,
+      "avg_compound": -0.0787,
+      "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 8,
-      "neutral": 5,
+      "bearish": 11,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -77,60 +130,60 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.0384,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/16/tether-invests-usd20-million-in-argentine-neobank-uala-as-it-expands-latin-america-push",
-          "published": "2026-07-16T10:12:05+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        },
-        {
-          "source": "CoinDesk",
-          "title": "U.S. adds four Iran central bank crypto wallets to sanctions, Tether freezes $131 million of contents",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/16/u-s-adds-four-iran-central-bank-crypto-wallets-to-sanctions-tether-freezes-usd131-million-of-contents",
-          "published": "2026-07-16T10:07:06+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
       "article_count": 1,
-      "avg_compound": 0.0,
+      "avg_compound": 0.0258,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-          "published": "2026-07-16T20:01:03+00:00",
+          "source": "TheBlock",
+          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-17T04:22:22+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
+            "USDT",
+            "USDC"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": 0.0129,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-17T04:22:22+00:00",
+          "coins": [
+            "USDT",
+            "USDC"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        },
+        {
+          "source": "TheBlock",
+          "title": "Visa launching internal stablecoin platform for clients that provides access to OUSD: report",
+          "summary": "<p>Open Standard's stablecoin is expected to become a major competitor to Circle's USDC, the dominant stablecoin in the U.S.</p>",
+          "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-16T15:15:28+00:00",
+          "coins": [
+            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -157,30 +210,6 @@
             "BTC",
             "ETH",
             "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Visa launching internal stablecoin platform for clients that provides access to OUSD: report",
-          "summary": "<p>Open Standard's stablecoin is expected to become a major competitor to Circle's USDC, the dominant stablecoin in the U.S.</p>",
-          "url": "https://www.theblock.co/post/408645/visa-launching-internal-stablecoin-platform-provides-access-ousd-fortune?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T15:15:28+00:00",
-          "coins": [
-            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -336,6 +365,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "SEC vs CFTC: Who Regulates Crypto?",
+      "summary": "<p>Crypto oversight is split mainly between two agencies: the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).\u00a0 In broad terms, the SEC handles crypto assets that behave like investments in a company. Meanwhile, the CFTC handles assets that behave like commodities, along with futures and other derivatives tied to them. Which [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/408729/sec-vs-cftc-who-regulates-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-17T03:49:02+00:00",
+      "coins": [],
+      "compound": 0.8225,
+      "label": "BULLISH",
+      "confidence": 0.8225
+    },
     {
       "source": "TheBlock",
       "title": "US jury indicts South Dakota crypto investor on 29 counts over alleged $20 million investor fraud",
@@ -645,44 +685,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Inside the high-stakes race to build an open financial system specifically for AI bots",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
-      "published": "2026-07-16T11:22:37+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "Multicoin Capital makes first Hyperliquid ecosystem investment in Trasia, an Asia-focused trading platform",
       "summary": "<p>Built on Hyperliquid, Trasia was co-founded by former Multicoin Capital partner Mable Jiang and aims to serve Asian traders.</p>",
       "url": "https://www.theblock.co/post/408670/multicoin-capital-hyperliquid-ecosystem-investment-trasia?utm_source=rss&utm_medium=rss",
       "published": "2026-07-16T16:00:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "MoonPay acquires Y Combinator-backed crypto deposits startup Glide in all-equity deal",
-      "summary": "<p>Crypto unicorn MoonPay has acquired Glide, a Y Combinator-backed crypto deposits startup, in an all-equity deal.</p>",
-      "url": "https://www.theblock.co/post/408603/moonpay-acquires-y-combinator-crypto-glide-all-equity-deal?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Dune research finds 85% of concentrated DeFi liquidity is underutilized, with $150M in annual fees foregone",
-      "summary": "<p>Dune research commissioned by 1inch finds 85% of concentrated DeFi liquidity underutilized, with $150M in annual fees forgone.</p>",
-      "url": "https://www.theblock.co/post/408591/dune-research-finds-85-of-concentrated-defi-liquidity-is-underutilized-with-150m-in-annual-fees-foregone?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T12:50:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
