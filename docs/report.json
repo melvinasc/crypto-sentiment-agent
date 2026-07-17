@@ -1,28 +1,89 @@
 {
-  "generated_at": "2026-07-16T19:23:24.301304+00:00",
+  "generated_at": "2026-07-17T03:27:15.169027+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 3,
-      "avg_compound": 0.1845,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 1,
+    "MATIC": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tether invests $20 million in Ual\u00e1 as the fintech firm reaches $3.2 billion valuation",
-          "summary": "<p>Tether invested $20 million in Argentine neobank Ual\u00e1, joining a $197 million funding round that valued the fintech at $3.2 billion.</p>",
-          "url": "https://www.theblock.co/post/408604/tether-invests-20-million-in-uala-as-the-fintech-firm-reaches-3-2-billion-valuation?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T12:46:06+00:00",
+          "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
+          "summary": "<p>\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.</p>",
+          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-16T13:47:51+00:00",
           "coins": [
-            "USDT"
+            "MATIC"
           ],
-          "compound": 0.4767,
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": -0.0441,
+      "overall": "NEUTRAL",
+      "bullish": 6,
+      "bearish": 8,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a></p>\n<p>Crypto.com receives $400 million investment from Citadel Securities </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel\" rel=\"nofollow\">Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
+          "published": "2026-07-16T21:09:28+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8689,
           "label": "BULLISH",
-          "confidence": 0.4767
+          "confidence": 0.8689
         },
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
+          "summary": "<p>Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said.</p>",
+          "url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-16T19:21:56+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7906,
+          "label": "BULLISH",
+          "confidence": 0.7906
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin to $40,000? If History\u2019s Anything to Go By, It\u2019s Possible, Says Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Falls-5.5-in-5-Days-to-Below-73000-as-Spot-ETF-Outflows-Accelerate-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a></p>\n<p>Bitcoin could drop as low as $38,000 this year, a new report claims.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
+          "published": "2026-07-15T21:04:16+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7677,
+          "label": "BEARISH",
+          "confidence": 0.7677
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.0384,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
         {
           "source": "CoinDesk",
           "title": "Tether invests $20 million in Argentine neobank Ual\u00e1 as it expands Latin America push",
@@ -52,76 +113,54 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 18,
-      "avg_compound": -0.1193,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 9,
-      "neutral": 4,
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "JPMorgan says bitcoin outlook sees \u2018encouraging sign\u2019 as Strategy boosts cash reserves",
-          "summary": "<p>Strategy's larger cash reserves and improving institutional demand in bitcoin futures are \"encouraging signs\" for bitcoin, JPMorgan said.</p>",
-          "url": "https://www.theblock.co/post/408712/jpmorgan-bitcoin-outlook-encouraging-sign-strategy-cash-reserves?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T19:21:56+00:00",
+          "source": "Decrypt",
+          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+          "published": "2026-07-16T20:01:03+00:00",
           "coins": [
-            "BTC"
+            "BTC",
+            "ETH",
+            "SOL"
           ],
-          "compound": 0.7906,
-          "label": "BULLISH",
-          "confidence": 0.7906
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin to $40,000? If History\u2019s Anything to Go By, It\u2019s Possible, Says Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Bitcoin-Price-Falls-5.5-in-5-Days-to-Below-73000-as-Spot-ETF-Outflows-Accelerate-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a></p>\n<p>Bitcoin could drop as low as $38,000 this year, a new report claims.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report\" rel=\"nofollow\">Bitcoin to $40,000? If History&#8217;s Anything to Go By, It&#8217;s Possible, Says Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-to-40000-its-possible-report",
-          "published": "2026-07-15T21:04:16+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7677,
-          "label": "BEARISH",
-          "confidence": 0.7677
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Fed Chair Warsh: No Bailout for Crypto Industry in Crisis",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Senate-Confirms-Bitcoin-Friendly-Kevin-Warsh-to-Fed-Board-Clearing-Path-to-Chairmanship.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fed-chair-warsh-no-bailout-for-crypto\" rel=\"nofollow\">Fed Chair Warsh: No Bailout for Crypto Industry in Crisis</a></p>\n<p>Federal Reserve Chair Kevin Warsh said the Fed will not bail out failing crypto firms, insisting the industry must bear its own risks while regulators finalize rules under the GENIUS Act.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fed-chair-warsh-no-bailout-for-crypto\" rel=\"nofollow\">Fed Chair Warsh: No Bailout for Crypto Industry in Crisis</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fed-chair-warsh-no-bailout-for-crypto",
-          "published": "2026-07-16T18:30:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.6715,
-          "label": "BEARISH",
-          "confidence": 0.6715
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "MATIC": {
+    "SOL": {
       "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Polygon Labs announces second round of layoffs in 2026 as firm looks to finalize Coinme acquisition",
-          "summary": "<p>\"Two rounds of changes in one year is a lot to ask of a team, and I understand it is hard to manage,\" Polygon Labs CEO Marc Boiron said.</p>",
-          "url": "https://www.theblock.co/post/408625/polygon-labs-second-round-of-layoffs-2026-finalize-coinme-acquisition?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-16T13:47:51+00:00",
+          "source": "Decrypt",
+          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+          "published": "2026-07-16T20:01:03+00:00",
           "coins": [
-            "MATIC"
+            "BTC",
+            "ETH",
+            "SOL"
           ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -235,16 +274,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "ETH": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -276,16 +305,6 @@
       "no_news": true
     },
     "SHIB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -341,28 +360,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
-      "summary": "Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
-      "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
-      "published": "2026-07-15T17:01:25+00:00",
-      "coins": [],
-      "compound": -0.8126,
-      "label": "BEARISH",
-      "confidence": 0.8126
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
-      "summary": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
-      "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
-      "published": "2026-07-15T18:02:06+00:00",
-      "coins": [],
-      "compound": 0.7739,
-      "label": "BULLISH",
-      "confidence": 0.7739
-    },
-    {
-      "source": "Decrypt",
       "title": "Meet Bonsai: The First 27B AI Model That Fits on Your Phone",
       "summary": "PrismML's Bonsai 27B runs full reasoning AI on an iPhone for free. We tested it, and it's as impressive as it sounds.",
       "url": "https://decrypt.co/373578/meet-bonsai-first-27b-ai-model-fits-phone",
@@ -415,6 +412,17 @@
       "compound": -0.6249,
       "label": "BEARISH",
       "confidence": 0.6249
+    },
+    {
+      "source": "TheBlock",
+      "title": "MegaETH sunsets Mega Mafia accelerator program, noting \u2018most\u2019 of its successful apps left",
+      "summary": "<p>MegaETH did not take equity or governance positions in the approximately 20 projects incubated in the Mega Mafia.</p>",
+      "url": "https://www.theblock.co/post/408718/megaeth-sunsets-mega-mafia-accelerator-program-noting-most-successful-apps-left?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-16T19:58:35+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "CoinDesk",
@@ -547,6 +555,17 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
+      "summary": "Source code leaked reveals how substantial portions of Suno\u2019s training library were assembled.",
+      "url": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
+      "published": "2026-07-16T21:01:03+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
     },
     {
       "source": "TheBlock",
