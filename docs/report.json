@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:38:49.751379+00:00",
+  "generated_at": "2026-07-18T19:14:48.051599+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,13 +27,37 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.3675,
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.4588,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
+          "summary": "<p>Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.</p>",
+          "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-18T14:04:54+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.245,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -50,56 +74,16 @@
         },
         {
           "source": "Decrypt",
-          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-          "published": "2026-07-16T20:01:03+00:00",
+          "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
+          "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
+          "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
+          "published": "2026-07-18T15:21:03+00:00",
           "coins": [
-            "BTC",
-            "ETH",
             "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.1017,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "This $28 million ether market bet aims to profit from pure market chaos",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/17/this-usd28-million-ether-market-bet-aims-to-profit-from-pure-market-chaos",
-          "published": "2026-07-17T07:28:52+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.2023,
-          "label": "BEARISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ether falls twice as hard as bitcoin and HYPE drops 10% as the chip trade unwinds",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/17/ether-falls-twice-as-hard-as-bitcoin-and-hype-drops-10-as-the-chip-trade-unwinds",
-          "published": "2026-07-17T07:29:41+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
         },
         {
           "source": "Decrypt",
@@ -120,12 +104,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0972,
+      "article_count": 23,
+      "avg_compound": -0.1459,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 6,
       "bearish": 13,
-      "neutral": 5,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -257,7 +241,7 @@
       ],
       "no_news": false
     },
-    "XRP": {
+    "ETH": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -267,13 +251,14 @@
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Can't Keep Up as Bitcoin Takes a Breather: Analysis",
-          "summary": "The post-CPI rally gave XRP a nudge. The coin barely moved. Now the chart is filling in the picture.",
-          "url": "https://decrypt.co/373649/xrp-price-cant-keep-up-bitcoin-takes-breather",
-          "published": "2026-07-16T16:56:54+00:00",
+          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
+          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
+          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
+          "published": "2026-07-16T20:01:03+00:00",
           "coins": [
-            "XRP",
-            "BTC"
+            "BTC",
+            "ETH",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -382,7 +367,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "UNI": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -461,28 +446,6 @@
       "confidence": 0.7684
     },
     {
-      "source": "CoinDesk",
-      "title": "Airbnb CEO says X account was hacked, attacker posted AI-slop on tokenization",
-      "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/07/17/airbnb-ceo-says-x-account-was-hacked-attacker-posted-ai-slop-thread-on-tokenization",
-      "published": "2026-07-17T08:50:22+00:00",
-      "coins": [],
-      "compound": -0.7506,
-      "label": "BEARISH",
-      "confidence": 0.7506
-    },
-    {
-      "source": "CoinDesk",
-      "title": "$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf",
-      "published": "2026-07-16T18:38:13+00:00",
-      "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
-      "confidence": 0.6369
-    },
-    {
       "source": "Decrypt",
       "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
       "summary": "ECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
@@ -491,17 +454,6 @@
       "coins": [],
       "compound": -0.5859,
       "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "TheBlock",
-      "title": "MegaETH sunsets Mega Mafia accelerator program, noting \u2018most\u2019 of its successful apps left",
-      "summary": "<p>MegaETH did not take equity or governance positions in the approximately 20 projects incubated in the Mega Mafia.</p>",
-      "url": "https://www.theblock.co/post/408718/megaeth-sunsets-mega-mafia-accelerator-program-noting-most-successful-apps-left?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-16T19:58:35+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
       "confidence": 0.5859
     },
     {
@@ -536,6 +488,17 @@
       "compound": 0.5106,
       "label": "BULLISH",
       "confidence": 0.5106
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
+      "summary": "",
+      "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
+      "published": "2026-07-18T15:50:31+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -646,6 +609,39 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "published": "2026-07-18T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "published": "2026-07-18T16:09:59+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization has become a strategic priority for 84% of financial firms",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+      "published": "2026-07-18T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
