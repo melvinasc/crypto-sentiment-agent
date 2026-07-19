@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:29:23.061441+00:00",
+  "generated_at": "2026-07-19T13:41:16.885149+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -47,6 +47,44 @@
           "compound": 0.4588,
           "label": "BULLISH",
           "confidence": 0.4588
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": -0.2504,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+          "summary": "",
+          "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+          "published": "2026-07-19T13:00:00+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "TheBlock",
+          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
+          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
+          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-17T04:22:22+00:00",
+          "coins": [
+            "USDT",
+            "USDC"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -104,10 +142,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1362,
+      "article_count": 20,
+      "avg_compound": -0.1397,
       "overall": "BEARISH",
-      "bullish": 6,
+      "bullish": 5,
       "bearish": 11,
       "neutral": 4,
       "top_articles": [
@@ -155,31 +193,6 @@
       "no_news": false
     },
     "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-17T04:22:22+00:00",
-          "coins": [
-            "USDT",
-            "USDC"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
       "article_count": 1,
       "avg_compound": 0.0258,
       "overall": "NEUTRAL",
@@ -501,17 +514,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "published": "2026-07-17T13:46:46+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
       "summary": "The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
@@ -620,6 +622,17 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+      "published": "2026-07-19T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
