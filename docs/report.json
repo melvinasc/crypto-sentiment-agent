@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:41:16.885149+00:00",
+  "generated_at": "2026-07-19T19:17:00.895099+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,6 +27,30 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.5267,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+          "summary": "",
+          "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+          "published": "2026-07-19T13:00:00+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.4588,
@@ -47,44 +71,6 @@
           "compound": 0.4588,
           "label": "BULLISH",
           "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.2504,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-          "summary": "",
-          "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
-          "published": "2026-07-19T13:00:00+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "TheBlock",
-          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-17T04:22:22+00:00",
-          "coins": [
-            "USDT",
-            "USDC"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -142,11 +128,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.1397,
+      "article_count": 21,
+      "avg_compound": -0.1427,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 11,
+      "bearish": 12,
       "neutral": 4,
       "top_articles": [
         {
@@ -192,52 +178,14 @@
       ],
       "no_news": false
     },
-    "USDC": {
+    "ADA": {
       "article_count": 1,
-      "avg_compound": 0.0258,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "USDT vs USDC: Comparing the Two Largest Stablecoins",
-          "summary": "<p>USDT and USDC are stablecoins pegged one-to-one to the U.S. dollar, each backed by reserves covering every token in circulation. Tether&#8217;s USDT is the largest stablecoin, with the deepest liquidity across global exchanges. Circle&#8217;s USDC is the second-largest, with Circle staking its reputation on being a publicly traded company, with frequent audits, U.S. and E.U. [&hellip;]</p>",
-          "url": "https://www.theblock.co/learn/408738/usdt-vs-usdc-comparing-the-two-largest-stablecoins?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-17T04:22:22+00:00",
-          "coins": [
-            "USDT",
-            "USDC"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 2,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano hands core development to outside teams in decentralization push",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-          "published": "2026-07-17T16:23:26+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "Decrypt",
           "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
@@ -380,6 +328,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -446,6 +404,17 @@
       "compound": 0.7684,
       "label": "BULLISH",
       "confidence": 0.7684
+    },
+    {
+      "source": "TheBlock",
+      "title": "France orders internet providers to block Polymarket ahead of World Cup final",
+      "summary": "<p>The order cuts French users off ahead of the World Cup final, which will settle the largest event markets in the industry's history.</p>",
+      "url": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-19T17:56:54+00:00",
+      "coins": [],
+      "compound": -0.6249,
+      "label": "BEARISH",
+      "confidence": 0.6249
     },
     {
       "source": "Decrypt",
@@ -558,28 +527,6 @@
       "confidence": 0.2182
     },
     {
-      "source": "CoinDesk",
-      "title": "Stripe and Swift race to control the next generation of global payments infrastructure",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/17/stripe-and-swift-race-to-control-the-next-generation-of-global-payments-infrastructure",
-      "published": "2026-07-17T17:23:01+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside Robinhood\u2019s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "published": "2026-07-17T15:36:39+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "Decrypt",
       "title": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
       "summary": "The Visa Stablecoin Platform will let financial institutions integrate stablecoin payments and treasury operations into Visa's existing network.",
@@ -589,6 +536,17 @@
       "compound": 0.2023,
       "label": "BULLISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI is destroying the internet. Math is our only hope.",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
+      "published": "2026-07-19T14:00:00+00:00",
+      "coins": [],
+      "compound": -0.1779,
+      "label": "BEARISH",
+      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -622,6 +580,17 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The GENIUS Act turns 1: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+      "published": "2026-07-19T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
