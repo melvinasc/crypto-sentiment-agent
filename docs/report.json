@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T03:37:02.310341+00:00",
+  "generated_at": "2026-07-19T08:29:23.061441+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -104,11 +104,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1445,
+      "article_count": 21,
+      "avg_compound": -0.1362,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 12,
+      "bearish": 11,
       "neutral": 4,
       "top_articles": [
         {
@@ -620,6 +620,17 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "published": "2026-07-19T05:37:34+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
