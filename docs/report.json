@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:17:00.895099+00:00",
+  "generated_at": "2026-07-20T03:51:20.760575+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -75,39 +75,27 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.245,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.4037,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "China\u2019s Kimi K3 Is Out\u2014And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
-          "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard\u2014at Claude Sonnet pricing.",
-          "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
-          "published": "2026-07-17T17:36:42+00:00",
+          "source": "TheBlock",
+          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
+          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T03:33:56+00:00",
           "coins": [
-            "SOL"
+            "SOL",
+            "ETH"
           ],
-          "compound": 0.7351,
-          "label": "BULLISH",
-          "confidence": 0.7351
-        },
-        {
-          "source": "Decrypt",
-          "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-          "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
-          "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-          "published": "2026-07-18T15:21:03+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
         },
         {
           "source": "Decrypt",
@@ -128,11 +116,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1427,
+      "article_count": 22,
+      "avg_compound": -0.1544,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 12,
+      "bearish": 13,
       "neutral": 4,
       "top_articles": [
         {
@@ -178,6 +166,57 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 4,
+      "avg_compound": -0.0181,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
+          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T03:33:56+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "Decrypt",
+          "title": "China\u2019s Kimi K3 Is Out\u2014And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+          "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard\u2014at Claude Sonnet pricing.",
+          "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
+          "published": "2026-07-17T17:36:42+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
+        },
+        {
+          "source": "Decrypt",
+          "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
+          "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
+          "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
+          "published": "2026-07-18T15:21:03+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -194,32 +233,6 @@
           "published": "2026-07-17T19:12:41+00:00",
           "coins": [
             "ADA"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-          "published": "2026-07-16T20:01:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -363,50 +376,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "UK gang jailed over $5.4 million crypto scam posing as police",
-      "summary": "<p>The gang impersonated police officers and used convincing fake police websites to steal more than \u00a34M in cryptocurrency from eight victims.</p>",
-      "url": "https://www.theblock.co/post/408745/uk-gang-jailed-crypto-scam?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T08:28:00+00:00",
-      "coins": [],
-      "compound": -0.8885,
-      "label": "BEARISH",
-      "confidence": 0.8885
-    },
-    {
-      "source": "TheBlock",
-      "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
-      "summary": "<p>SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.</p>",
-      "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T13:15:13+00:00",
-      "coins": [],
-      "compound": 0.8271,
-      "label": "BULLISH",
-      "confidence": 0.8271
-    },
-    {
-      "source": "TheBlock",
-      "title": "Taiwan sentences BitShine crypto exchange ringleader to 22 years in $39 million fraud case: reports",
-      "summary": "<p>The defendant reportedly led a criminal group that operated under the guise of BitShine, which was once registered with the FSC.</p>",
-      "url": "https://www.theblock.co/post/408748/taiwan-sentences-bitshine-crypto-exchange-ringleader-22-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T08:48:10+00:00",
-      "coins": [],
-      "compound": -0.7906,
-      "label": "BEARISH",
-      "confidence": 0.7906
-    },
-    {
-      "source": "TheBlock",
-      "title": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership",
-      "summary": "<p>The deal's financial terms were not disclosed, but Yahoo Sports reported the agreement is worth more than $70 million.</p>",
-      "url": "https://www.theblock.co/post/408772/galaxy-digital-puts-name-texas-tech-football-stadium-15-year-partnership?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T14:33:42+00:00",
-      "coins": [],
-      "compound": 0.7684,
-      "label": "BULLISH",
-      "confidence": 0.7684
-    },
-    {
-      "source": "TheBlock",
       "title": "France orders internet providers to block Polymarket ahead of World Cup final",
       "summary": "<p>The order cuts French users off ahead of the World Cup final, which will settle the largest event markets in the industry's history.</p>",
       "url": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss",
@@ -461,6 +430,17 @@
       "confidence": 0.5106
     },
     {
+      "source": "TheBlock",
+      "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+      "summary": "<p>The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.</p>",
+      "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-19T20:31:29+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
       "source": "CoinDesk",
       "title": "France orders country's internet service providers to block Polymarket",
       "summary": "",
@@ -481,6 +461,17 @@
       "compound": -0.4019,
       "label": "BEARISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Stablecoins vs Traditional Banking",
+      "summary": "<p>A stablecoin is a cryptocurrency pegged to a reference asset, such as the U.S. dollar or Euro. Like a bank, stablecoin issuers hold onto vast amounts of deposits, as they take cash in return for issuing their coin onchain. This makes them similar in some ways to a traditional bank, but the two differ in [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/408854/stablecoins-vs-traditional-banking?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T03:29:46+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -550,6 +541,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
+      "summary": "<p>By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.</p>",
+      "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T03:48:32+00:00",
+      "coins": [],
+      "compound": -0.1779,
+      "label": "BEARISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "TheBlock",
       "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
       "summary": "<p>Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation</p>",
       "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
@@ -569,17 +571,6 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto-style derivatives reach AI compute ahead of planned CME and ICE futures: Bernstein",
-      "summary": "<p>Crypto-style perps and prediction markets hit AI compute ahead of CME and ICE, with regulated GPU futures targeted for late 2026.</p>",
-      "url": "https://www.theblock.co/post/408758/crypto-style-derivatives-reach-ai-compute-ahead-of-planned-cme-and-ice-futures-bernstein?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T12:48:20+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
