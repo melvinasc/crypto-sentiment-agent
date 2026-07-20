@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T09:29:47.598519+00:00",
+  "generated_at": "2026-07-20T14:25:08.754586+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,61 +27,13 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.5267,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
-          "summary": "",
-          "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
-          "published": "2026-07-19T13:00:00+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.4588,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-          "summary": "<p>Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.</p>",
-          "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-18T14:04:54+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.4037,
+      "article_count": 6,
+      "avg_compound": -0.2145,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
+      "bullish": 1,
+      "bearish": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -99,29 +51,93 @@
         },
         {
           "source": "Decrypt",
-          "title": "Morgan Stanley Launches Bitcoin, Ethereum, and Solana Trading on E*Trade",
-          "summary": "Eligible customers can now buy, sell, and hold Bitcoin, Ethereum, and Solana with Morgan Stanley via Zero Hash.",
-          "url": "https://decrypt.co/373681/morgan-stanley-launches-bitcoin-ethereum-solana-trading-etrade",
-          "published": "2026-07-16T20:01:03+00:00",
+          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
+          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+          "published": "2026-07-20T13:47:06+00:00",
           "coins": [
-            "BTC",
-            "ETH",
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.7717,
+          "label": "BEARISH",
+          "confidence": 0.7717
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
+          "summary": "<p>Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.</p>",
+          "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T13:43:15+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7506,
+          "label": "BULLISH",
+          "confidence": 0.7506
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 5,
+      "avg_compound": -0.1688,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
+          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T03:33:56+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "Decrypt",
+          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
+          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+          "published": "2026-07-20T13:47:06+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.7717,
+          "label": "BEARISH",
+          "confidence": 0.7717
+        },
+        {
+          "source": "Decrypt",
+          "title": "China\u2019s Kimi K3 Is Out\u2014And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
+          "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard\u2014at Claude Sonnet pricing.",
+          "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
+          "published": "2026-07-17T17:36:42+00:00",
+          "coins": [
             "SOL"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.1356,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 13,
-      "neutral": 5,
+      "article_count": 22,
+      "avg_compound": 0.0281,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -152,67 +168,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Sentiment-Is-Turning-Bullish-But-Its-Too-Early-to-Celebrate-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares\" rel=\"nofollow\">Bitcoin Sentiment Is Turning Bullish \u2014 But It&#8217;s Too Early to Celebrate: Report</a></p>\n<p>CoinShares has said that while investors have put money in crypto funds again, the Bitcoin price may still struggle.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares\" rel=\"nofollow\">Bitcoin Sentiment Is Turning Bullish \u2014 But It&#8217;s Too Early to Celebrate: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
-          "published": "2026-07-17T19:07:30+00:00",
+          "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a></p>\n<p>Strategy sold $263.5 million in MSTR shares last week without buying bitcoin, raising its U.S. dollar reserve to a record $3.225 billion while maintaining its 843,775 BTC treasury and continuing its recent shift toward cash accumulation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
+          "published": "2026-07-20T12:29:51+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9231,
+          "compound": 0.9393,
           "label": "BULLISH",
-          "confidence": 0.9231
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 4,
-      "avg_compound": -0.0181,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
-          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-20T03:33:56+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "Decrypt",
-          "title": "China\u2019s Kimi K3 Is Out\u2014And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
-          "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard\u2014at Claude Sonnet pricing.",
-          "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
-          "published": "2026-07-17T17:36:42+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.7351,
-          "label": "BULLISH",
-          "confidence": 0.7351
-        },
-        {
-          "source": "Decrypt",
-          "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-          "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
-          "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-          "published": "2026-07-18T15:21:03+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.9393
         }
       ],
       "no_news": false
@@ -341,7 +306,27 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -373,6 +358,17 @@
       "compound": -0.9423,
       "label": "BEARISH",
       "confidence": 0.9423
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "published": "2026-07-20T07:15:47+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
     },
     {
       "source": "TheBlock",
@@ -409,17 +405,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are \u2018complete garbage\u2019",
-      "summary": "<p>\"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week.</p>",
-      "url": "https://www.theblock.co/post/408794/trezor-exec-pushes-back-zachxbt-claim-hardware-wallets-complete-garbage?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T18:13:25+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "TheBlock",
       "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
       "summary": "<p>The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.</p>",
       "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
@@ -428,17 +413,6 @@
       "compound": -0.4939,
       "label": "BEARISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "CoinDesk",
-      "title": "France orders country's internet service providers to block Polymarket",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "published": "2026-07-18T21:52:18+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
     },
     {
       "source": "TheBlock",
@@ -474,6 +448,17 @@
       "confidence": 0.34
     },
     {
+      "source": "CoinDesk",
+      "title": "Brazil\u2019s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
+      "published": "2026-07-20T12:02:28+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
       "source": "Decrypt",
       "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
       "summary": "The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
@@ -485,15 +470,26 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "Mira Murati Drops Her First AI Model After Leaving OpenAI\u2014And It's Fully Open Source",
-      "summary": "Mira Murati's Inkling won't dethrone the best Chinese open-weights models, but it gives Western developers something they haven't yet had.",
-      "url": "https://decrypt.co/373671/mira-murati-inkling-ai-model-openai-open-source",
-      "published": "2026-07-16T18:27:11+00:00",
+      "source": "CoinDesk",
+      "title": "Exodus to cut 25% of global workforce in payments shift",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
+      "published": "2026-07-20T13:53:08+00:00",
       "coins": [],
-      "compound": -0.2924,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.2924
+      "confidence": 0.2732
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
+      "summary": "Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
+      "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
+      "published": "2026-07-20T12:00:02+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -518,28 +514,6 @@
       "confidence": 0.2182
     },
     {
-      "source": "Decrypt",
-      "title": "Visa Unveils Stablecoin Platform for Banks and Fintech Companies",
-      "summary": "The Visa Stablecoin Platform will let financial institutions integrate stablecoin payments and treasury operations into Visa's existing network.",
-      "url": "https://decrypt.co/373668/visa-stablecoin-platform-banks-fintech-open-usd",
-      "published": "2026-07-16T17:57:57+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI is destroying the internet. Math is our only hope.",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope",
-      "published": "2026-07-19T14:00:00+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "TheBlock",
       "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
       "summary": "<p>By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.</p>",
@@ -548,17 +522,6 @@
       "coins": [],
       "compound": -0.1779,
       "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "TheBlock",
-      "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-      "summary": "<p>Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation</p>",
-      "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T21:08:02+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
       "confidence": 0.1779
     },
     {
@@ -574,54 +537,65 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
+      "published": "2026-07-20T09:31:22+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
+      "published": "2026-07-20T13:49:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Korea prepares for live CBDC transactions with 9 banks in September",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/bank-of-korea-prepares-for-live-cbdc-transactions-with-nine-banks-in-september",
+      "published": "2026-07-20T11:10:07+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market slips even as equities advance. Pump surges on social-media chatter",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/20/crypto-market-slips-even-as-equities-advance-pump-surges-on-social-media-chatter",
+      "published": "2026-07-20T10:33:14+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
+      "published": "2026-07-20T10:04:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
       "published": "2026-07-20T08:57:53+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The GENIUS Act turns 1: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
-      "published": "2026-07-19T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken says simpler options can unlock crypto's next derivatives market",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
-      "published": "2026-07-19T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-      "published": "2026-07-19T05:37:34+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto executives say digital native generations may never need a bank account",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-      "published": "2026-07-18T18:30:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -640,10 +614,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
-      "summary": "<p>So far the company's\u00a0bankruptcy estate has distributed nearly $10 billion to creditors and other claimants since repayments began in 2025.</p>",
-      "url": "https://www.theblock.co/post/408803/ftx-to-distribute-roughly-900-million-to-creditors-in-fifth-wave-of-payouts?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-17T18:27:59+00:00",
+      "title": "Bernstein lifts Robinhood target to $160, sees prediction markets revenue overtaking crypto",
+      "summary": "<p>Bernstein raised its Robinhood price target to $160, citing prediction markets, Rothera, and Robinhood Chain as key revenue drivers.</p>",
+      "url": "https://www.theblock.co/post/408903/bernstein-lifts-robinhood-target-to-160-sees-prediction-markets-revenue-overtaking-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T12:44:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
