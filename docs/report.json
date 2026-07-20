@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T03:51:20.760575+00:00",
+  "generated_at": "2026-07-20T09:29:47.598519+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -116,12 +116,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1544,
+      "article_count": 23,
+      "avg_compound": -0.1356,
       "overall": "BEARISH",
       "bullish": 5,
       "bearish": 13,
-      "neutral": 4,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -408,17 +408,6 @@
       "confidence": 0.5574
     },
     {
-      "source": "CoinDesk",
-      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-      "published": "2026-07-17T18:00:11+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
-    },
-    {
       "source": "TheBlock",
       "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are \u2018complete garbage\u2019",
       "summary": "<p>\"I do not advise using them for important tasks like signing transactions or storing funds,\" ZachXBT wrote this week.</p>",
@@ -452,14 +441,14 @@
       "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-      "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-      "published": "2026-07-18T15:50:31+00:00",
+      "source": "TheBlock",
+      "title": "Hyperliquid\u2019s HIP-4 to support permissionless deployment for outcome markets",
+      "summary": "<p>HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.</p>",
+      "url": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T05:34:45+00:00",
       "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
+      "compound": 0.4019,
+      "label": "BULLISH",
       "confidence": 0.4019
     },
     {
@@ -472,6 +461,17 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+      "published": "2026-07-20T08:10:34+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "Decrypt",
@@ -574,6 +574,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
+      "published": "2026-07-20T08:57:53+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "The GENIUS Act turns 1: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
@@ -611,28 +622,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
       "published": "2026-07-18T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-      "published": "2026-07-18T16:09:59+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenization has become a strategic priority for 84% of financial firms",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-      "published": "2026-07-18T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
