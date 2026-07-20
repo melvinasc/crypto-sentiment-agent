@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:25:08.754586+00:00",
+  "generated_at": "2026-07-20T19:51:32.861588+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,65 +27,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.2145,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
-          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
-          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-20T03:33:56+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "Decrypt",
-          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
-          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-          "published": "2026-07-20T13:47:06+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": -0.7717,
-          "label": "BEARISH",
-          "confidence": 0.7717
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
-          "summary": "<p>Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.</p>",
-          "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-20T13:43:15+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.7506,
-          "label": "BULLISH",
-          "confidence": 0.7506
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 5,
-      "avg_compound": -0.1688,
+      "article_count": 4,
+      "avg_compound": -0.211,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -131,14 +79,129 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": -0.1652,
+      "overall": "BEARISH",
+      "bullish": 2,
+      "bearish": 3,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Allbridge Core pauses protocol after $1.65 million flash loan exploit: onchain analysts",
+          "summary": "<p>Security firms PeckShield and CertiK flagged that the attacker has bridged the stolen funds from Solana to Ethereum.</p>",
+          "url": "https://www.theblock.co/post/408855/allbridge-core-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T03:33:56+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "Decrypt",
+          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
+          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
+          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
+          "published": "2026-07-20T13:47:06+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": -0.7717,
+          "label": "BEARISH",
+          "confidence": 0.7717
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitmine expands Ethereum treasury to 5.78 million ETH, repurchases 5.5 million shares",
+          "summary": "<p>Bitmine expanded its ether treasury to 5.78 million ETH and repurchased 5.5 million shares under its $4 billion buyback program.</p>",
+          "url": "https://www.theblock.co/post/408913/bitmine-expands-ethereum-treasury-5-78-million-eth-repurchases-5-5-million-shares?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-20T13:43:15+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7506,
+          "label": "BULLISH",
+          "confidence": 0.7506
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 3,
+      "avg_compound": -0.1615,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
+          "summary": "For the first time in Cardano's history, no company flipped the switch on a major protocol update.",
+          "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
+          "published": "2026-07-20T18:50:48+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
+          "published": "2026-07-20T14:31:23+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        },
+        {
+          "source": "Decrypt",
+          "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
+          "summary": "Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+          "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
+          "published": "2026-07-17T19:12:41+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.0281,
+      "article_count": 21,
+      "avg_compound": 0.0341,
       "overall": "NEUTRAL",
-      "bullish": 9,
+      "bullish": 8,
       "bearish": 9,
       "neutral": 4,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Russia Moves to Rein In Crypto Fraud With New Legislation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-to-Rein-in-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation\" rel=\"nofollow\">Russia Moves to Rein In Crypto Fraud With New Legislation</a></p>\n<p>Russia is pushing ahead with regulating the cryptocurrency market, with the State Duma considering a bill on combating fraud in the industry, according to reports.&#160; The bill will look at \u201ccombating the illegal use of cryptocurrencies within our country,\u201d Anatoly Aksakov, chairman of the State Duma Committee on Financial Markets, reportedly said. Lawmakers will vote [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation\" rel=\"nofollow\">Russia Moves to Rein In Crypto Fraud With New Legislation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation",
+          "published": "2026-07-20T17:43:51+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9709,
+          "label": "BEARISH",
+          "confidence": 0.9709
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump\u2019s China Charge, but Onchain Data Points to Buyers",
@@ -165,43 +228,6 @@
           "compound": -0.9552,
           "label": "BEARISH",
           "confidence": 0.9552
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a></p>\n<p>Strategy sold $263.5 million in MSTR shares last week without buying bitcoin, raising its U.S. dollar reserve to a record $3.225 billion while maintaining its 843,775 BTC treasury and continuing its recent shift toward cash accumulation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
-          "published": "2026-07-20T12:29:51+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9393,
-          "label": "BULLISH",
-          "confidence": 0.9393
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
-          "summary": "Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
-          "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
-          "published": "2026-07-17T19:12:41+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -360,28 +386,6 @@
       "confidence": 0.9423
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Crypto cuts losses as report of Iran proposal sends oil lower, stocks higher",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
-      "published": "2026-07-20T07:15:47+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
-      "source": "TheBlock",
-      "title": "France orders internet providers to block Polymarket ahead of World Cup final",
-      "summary": "<p>The order cuts French users off ahead of the World Cup final, which will settle the largest event markets in the industry's history.</p>",
-      "url": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-19T17:56:54+00:00",
-      "coins": [],
-      "compound": -0.6249,
-      "label": "BEARISH",
-      "confidence": 0.6249
-    },
-    {
       "source": "Decrypt",
       "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
       "summary": "ECB board member Piero Cipollone laid out the three-layer threat banks face from digital payments, and pitched the digital euro as the only structural answer.",
@@ -405,17 +409,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
-      "summary": "<p>The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.</p>",
-      "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-19T20:31:29+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
       "title": "Hyperliquid\u2019s HIP-4 to support permissionless deployment for outcome markets",
       "summary": "<p>HIP-4 deployers must stake 500,000 HYPE tokens and can take up to 50% fees on their validator-aligned markets.</p>",
       "url": "https://www.theblock.co/post/408875/hyperliquid-hip-4-permissionless-deployment?utm_source=rss&utm_medium=rss",
@@ -424,6 +417,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Former NY Governor Cuomo joins OKX board, touts 24/7 tokenized trading",
+      "summary": "<p>Andrew Cuomo said OKX could help bring round-the-clock trading and more international capital into U.S. markets.</p>",
+      "url": "https://www.theblock.co/post/408938/former-ny-governor-cuomo-joins-okx-board-touts-24-7-tokenized-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T17:25:58+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -448,22 +452,33 @@
       "confidence": 0.34
     },
     {
+      "source": "TheBlock",
+      "title": "Benchmark backs Exodus after 25% workforce cut, says stablecoin pivot is being overlooked",
+      "summary": "<p>Late Friday afternoon, Exodus said it expects the restructuring to generate $10 million to $13 million in annualized cost savings.</p>",
+      "url": "https://www.theblock.co/post/408924/benchmark-backs-exodus-workforce-cut-stablecoin-pivot-overlooked?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T15:07:52+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "AI-assisted hacking is outpacing traditional code reviews, NEAR co-founder says",
+      "summary": "<p>NEAR co-founder Polosukhin called formal verification a necessary shift for securing blockchain code from AI hacking.</p>",
+      "url": "https://www.theblock.co/post/408943/ai-assisted-hacking-outpacing-traditional-code-reviews-near-co-founder-says?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T18:20:02+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "CoinDesk",
       "title": "Brazil\u2019s securities regulator sets up task force with 60-day deadline for tokenization proposal",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
       "published": "2026-07-20T12:02:28+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto.com Hits $20B Valuation After $400M Citadel Securities Investment",
-      "summary": "The market maker's stake marks Crypto.com's first institutional funding round, as Wall Street deepens its push into crypto.",
-      "url": "https://decrypt.co/373693/crypto-com-hits-20b-valuation-after-400m-citadel-securities-investment",
-      "published": "2026-07-17T10:12:33+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -504,17 +519,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
-      "summary": "<p>The delay does not postpone the law\u2019s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.</p>",
-      "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-18T22:04:40+00:00",
-      "coins": [],
-      "compound": 0.2182,
-      "label": "BULLISH",
-      "confidence": 0.2182
-    },
-    {
-      "source": "TheBlock",
       "title": "Japanese logistics firm turns to JPYC stablecoin to fight labor shortages: report",
       "summary": "<p>By offering contractors faster payments with stablecoins, the firm seeks to attract more business partners, according to Nikkei.</p>",
       "url": "https://www.theblock.co/post/408862/japanese-logistics-firm-jpyc?utm_source=rss&utm_medium=rss",
@@ -523,17 +527,6 @@
       "compound": -0.1779,
       "label": "BEARISH",
       "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "Leaks Reveal Suno Fed Thousands of Hours of Deezer, YouTube and Pond5 Data Into Its AI",
-      "summary": "Source code leaked reveals how substantial portions of Suno\u2019s training library were assembled.",
-      "url": "https://decrypt.co/373682/leaks-reveal-suno-fed-thousands-hours-deezer-youtube-pond5-data-ai",
-      "published": "2026-07-16T21:01:03+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -548,7 +541,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Hut 8 surges on $9.8 billion AI data-center lease, lifting compute sector",
+      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
       "published": "2026-07-20T13:49:24+00:00",
@@ -607,6 +600,17 @@
       "summary": "The Nasdaq-listed digital-asset firm will rebrand the Red Raiders' home as \"Galaxy Stadium.\" The bigger bet is on the cheap power and open land of West Texas.",
       "url": "https://decrypt.co/373710/galaxy-texas-tech-stadium-15-year-crypto-native-deal",
       "published": "2026-07-17T17:09:33+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Vietnam sets new crypto trading fines on par with drunk-driving penalties",
+      "summary": "<p>Domestic investors who trade crypto without going through a licensed service provider face fines of roughly $1,140 to $1,900.</p>",
+      "url": "https://www.theblock.co/post/408980/vietnam-new-unlicensed-crypto-trading-fines-on-par-drunk-driving-penalties?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-20T19:47:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
