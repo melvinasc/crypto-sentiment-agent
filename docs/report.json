@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:31:19.490324+00:00",
+  "generated_at": "2026-07-21T08:40:30.225740+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -78,11 +78,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.1085,
+      "article_count": 18,
+      "avg_compound": 0.0733,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 6,
+      "bullish": 9,
+      "bearish": 5,
       "neutral": 4,
       "top_articles": [
         {
@@ -129,11 +129,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0368,
-      "overall": "NEUTRAL",
+      "article_count": 4,
+      "avg_compound": 0.0687,
+      "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -164,17 +164,17 @@
           "confidence": 0.7506
         },
         {
-          "source": "TheBlock",
-          "title": "Ethereum co-founder Vitalik Buterin \u2018vibe-codes\u2019 anonymous billboard demo with onchain moderation on Aztec",
-          "summary": "<p>Vitalik Buterin \"vibe-coded\" an anonymous billboard demo on Aztec with onchain moderation, a censor role, and a local LLM flagging daemon.\n</p>",
-          "url": "https://www.theblock.co/post/408888/ethereum-co-founder-vitalik-buterin-vibe-codes-anonymous-billboard-demo-with-onchain-moderation-on-aztec?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-20T11:24:22+00:00",
+          "source": "Decrypt",
+          "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
+          "summary": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
+          "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
+          "published": "2026-07-20T16:12:36+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.4588,
-          "label": "BEARISH",
-          "confidence": 0.4588
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -222,6 +222,30 @@
           "published": "2026-07-18T15:21:03+00:00",
           "coins": [
             "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+          "published": "2026-07-21T07:21:04+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -359,16 +383,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -406,6 +420,17 @@
       "confidence": 0.5859
     },
     {
+      "source": "TheBlock",
+      "title": "Washington judge blocks Kalshi\u2019s sports prediction markets over state gambling laws",
+      "summary": "<p>A Washington state court granted the state's motion for a preliminary injunction, saying Kalshi operates illegal gambling activities.</p>",
+      "url": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T05:09:24+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
       "source": "Decrypt",
       "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
       "summary": "The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto\u2014bypassing Western sanctions.",
@@ -439,11 +464,11 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
-      "published": "2026-07-20T08:10:34+00:00",
+      "source": "TheBlock",
+      "title": "London Stock Exchange plans overnight venue to extend trading hours: FT",
+      "summary": "<p>London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.</p>",
+      "url": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T07:57:02+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -538,6 +563,28 @@
       "confidence": 0.1027
     },
     {
+      "source": "TheBlock",
+      "title": "UK parliamentary group launches probe into crypto sector\u2019s banking challenges",
+      "summary": "<p>This comes weeks after the publication of the UK\u2019s new crypto regulatory framework, set to take effect in October 2027.</p>",
+      "url": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T07:26:25+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
+      "published": "2026-07-21T06:15:26+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
       "source": "CoinDesk",
       "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
       "summary": "",
@@ -576,17 +623,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
       "published": "2026-07-20T10:04:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
-      "published": "2026-07-20T08:57:53+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
