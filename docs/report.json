@@ -1,13 +1,37 @@
 {
-  "generated_at": "2026-07-21T14:10:53.882445+00:00",
+  "generated_at": "2026-07-21T19:43:05.307451+00:00",
   "total_articles": 55,
   "coins": {
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.4215,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
+          "summary": "<p>Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds have $350 million in net inflows.</p>",
+          "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-21T18:06:01+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
-      "article_count": 2,
-      "avg_compound": -0.2422,
+      "article_count": 1,
+      "avg_compound": -0.3818,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
@@ -22,66 +46,76 @@
           "compound": -0.3818,
           "label": "BEARISH",
           "confidence": 0.3818
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Inside Cardano's 'Van Rossum' hard fork, and what it means for users",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users",
-          "published": "2026-07-20T14:31:23+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.2146,
-      "overall": "BEARISH",
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.296,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
-          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-          "published": "2026-07-20T13:47:06+00:00",
+          "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
+          "summary": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
+          "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
+          "published": "2026-07-20T16:12:36+00:00",
           "coins": [
-            "SOL",
             "ETH"
           ],
-          "compound": -0.7717,
-          "label": "BEARISH",
-          "confidence": 0.7717
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.284,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
+          "summary": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
+          "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
+          "published": "2026-07-21T16:20:29+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.8519,
+          "label": "BULLISH",
+          "confidence": 0.8519
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
+          "published": "2026-07-21T07:21:04+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "TheBlock",
-          "title": "Jito rolls out JTX self-custodial trading platform for Solana tokens and RWAs",
-          "summary": "<p>Jito Labs launched JTX, a self-custodial Solana trading platform with spot trading for tokens and tokenized RWAs.</p>",
-          "url": "https://www.theblock.co/post/409040/jito-rolls-out-jtx-self-custodial-trading-platform-for-solana-tokens-and-rwas?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-21T13:05:01+00:00",
+          "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
+          "summary": "<p>Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa.</p>",
+          "url": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-21T18:47:21+00:00",
           "coins": [
-            "SOL"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "Decrypt",
-          "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
-          "summary": "OpenAI's GPT-5.6 Sol or Anthropic's Claude Fable 5: Which one is right for you? The answer depends on your needs. Here's our review.",
-          "url": "https://decrypt.co/373770/openai-gpt-5-6-vs-anthropic-fable-5-review",
-          "published": "2026-07-18T15:21:03+00:00",
-          "coins": [
-            "SOL"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -91,13 +125,27 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.125,
+      "article_count": 3,
+      "avg_compound": -0.182,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Jack Mallers Quits Twenty One Capital as Tether's Bitcoin Merger Collapses",
+          "summary": "XXI stock dropped nearly 18% after the company's co-founder stepped down and Tether's plan to combine three Bitcoin firms officially fell apart.",
+          "url": "https://decrypt.co/373940/jack-mallers-quits-twenty-one-capital-as-tethers-bitcoin-merger-collapses",
+          "published": "2026-07-21T16:06:20+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
         {
           "source": "TheBlock",
           "title": "Jack Mallers leaves Twenty One as Strike exits Tether\u2019s three-way bitcoin merger",
@@ -129,127 +177,52 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.046,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Allbridge Pauses Cross-Chain Protocol After $1.65M Flash Loan Attack",
-          "summary": "An attacker used a flash loan to distort the bridge's Solana stablecoin pools before moving the proceeds to Ethereum, security firms said.",
-          "url": "https://decrypt.co/373831/allbridge-pauses-cross-chain-protocol-after-1-65m-flash-loan-attack",
-          "published": "2026-07-20T13:47:06+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": -0.7717,
-          "label": "BEARISH",
-          "confidence": 0.7717
-        },
-        {
-          "source": "TheBlock",
-          "title": "Aztec upgrades to V5 in alpha, adding full private execution environment to decentralized Ethereum L2",
-          "summary": "<p>Aztec V5 focuses on supporting \"client-side proving,\" enabling computation-heavy ZK proofs on simple devices like phones and laptops.\u00a0</p>",
-          "url": "https://www.theblock.co/post/409065/aztec-upgrades-v5-alpha-adding-private-execution-environment-decentralized-ethereum-l2?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-21T13:20:40+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-          "summary": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
-          "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
-          "published": "2026-07-20T16:12:36+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.0341,
-      "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 7,
-      "neutral": 5,
+      "article_count": 22,
+      "avg_compound": 0.085,
+      "overall": "BULLISH",
+      "bullish": 10,
+      "bearish": 9,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Russia Moves to Rein In Crypto Fraud With New Legislation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Russia-to-Rein-in-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation\" rel=\"nofollow\">Russia Moves to Rein In Crypto Fraud With New Legislation</a></p>\n<p>Russia is pushing ahead with regulating the cryptocurrency market, with the State Duma considering a bill on combating fraud in the industry, according to reports.&#160; The bill will look at \u201ccombating the illegal use of cryptocurrencies within our country,\u201d Anatoly Aksakov, chairman of the State Duma Committee on Financial Markets, reportedly said. Lawmakers will vote [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation\" rel=\"nofollow\">Russia Moves to Rein In Crypto Fraud With New Legislation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/russia-to-regulate-crypto-with-legislation",
-          "published": "2026-07-20T17:43:51+00:00",
+          "title": "White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/White-House-Presses-Senate-Democrats-To-Accept-Trump-Ethics-Deal-On-Clarity-Act-Report-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/white-house-presses-senate-democrats\" rel=\"nofollow\">White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act</a></p>\n<p>White House officials are urging Senate Democrats to accept President Trump's ethics deal on the Clarity Act, with negotiations entering the final stretch before Congress' August recess.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/white-house-presses-senate-democrats\" rel=\"nofollow\">White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
+          "published": "2026-07-21T19:25:50+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9709,
-          "label": "BEARISH",
-          "confidence": 0.9709
+          "compound": 0.946,
+          "label": "BULLISH",
+          "confidence": 0.946
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Coinbase Executive Says Clarity Act Has \u2018Tremendous Momentum\u2019 in the Senate",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Executive-Says-Clarity-Act-Has-Tremendous-Momentum-in-the-Senate.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support\" rel=\"nofollow\">Coinbase Executive Says Clarity Act Has &#8216;Tremendous Momentum&#8217; in the Senate</a></p>\n<p>Coinbase's Ryan VanGrack said the Clarity Act is gaining strong Senate momentum and argued it would bring long-awaited federal rules, stronger consumer protections, and regulatory clarity to the crypto industry.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support\" rel=\"nofollow\">Coinbase Executive Says Clarity Act Has &#8216;Tremendous Momentum&#8217; in the Senate</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coinbase-executive-clarity-act-support",
-          "published": "2026-07-20T18:20:55+00:00",
+          "title": "U.S. Senator: Clarity Act is \u2018Almost There,\u2019 Treasury Secretary Puts It at the \u20181-Yard Line\u2019",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there\" rel=\"nofollow\">U.S. Senator: Clarity Act is &#8216;Almost There,\u2019 Treasury Secretary Puts It at the &#8216;1-Yard Line&#8217;</a></p>\n<p>Senate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-structure bill before the August recess.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there\" rel=\"nofollow\">U.S. Senator: Clarity Act is &#8216;Almost There,\u2019 Treasury Secretary Puts It at the &#8216;1-Yard Line&#8217;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
+          "published": "2026-07-21T16:21:17+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9413,
+          "compound": 0.8965,
           "label": "BULLISH",
-          "confidence": 0.9413
+          "confidence": 0.8965
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Strategy-MSTR-Sells-Bitcoin-for-First-Time-in-Years-as-Bitcoin-Price-Tumbles.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a></p>\n<p>Strategy sold $263.5 million in MSTR shares last week without buying bitcoin, raising its U.S. dollar reserve to a record $3.225 billion while maintaining its 843,775 BTC treasury and continuing its recent shift toward cash accumulation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr\" rel=\"nofollow\">Strategy (MSTR) Sells $263.5 Million in MSTR Shares, Skips Bitcoin Purchase as USD Reserve Tops $3.2 Billion</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/strategy-sells-263-5-million-in-mstr",
-          "published": "2026-07-20T12:29:51+00:00",
+          "title": "U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah\u2019s Assets",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/U.S.-Charges-Two-Men-for-389-Million-Bitcoin-and-Crypto-Money-Laundering-Scheme-Tied-to-Dark-Web.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran\" rel=\"nofollow\">U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah&#8217;s Assets</a></p>\n<p>Treasury Secretary Scott Bessent said the U.S. froze a $130 million crypto wallet linked to Iran's IRGC as part of a broader effort to track and seize assets tied to Supreme Leader Ali Khamenei and increase economic pressure on Tehran.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran\" rel=\"nofollow\">U.S. Treasury Freezes $130 Million Iran-Linked IRGC Crypto Wallet, Tracks Ayatollah&#8217;s Assets</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bessent-says-treasury-froze-130m-iran",
+          "published": "2026-07-21T14:42:30+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9393,
+          "compound": 0.743,
           "label": "BULLISH",
-          "confidence": 0.9393
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP jumps 4% as traders watch 'triangle breakout' toward $1.35",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/21/xrp-jumps-4-as-traders-watch-triangle-breakout-toward-usd1-35",
-          "published": "2026-07-21T07:21:04+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.743
         }
       ],
       "no_news": false
@@ -387,15 +360,15 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "SEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
-      "summary": "<p>The defendants allegedly raised $22 million from more than 380 investors through a fraudulent crypto asset mining scheme.</p>",
-      "url": "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T02:37:30+00:00",
+      "source": "Decrypt",
+      "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+      "summary": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
+      "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+      "published": "2026-07-21T18:55:45+00:00",
       "coins": [],
-      "compound": -0.765,
+      "compound": -0.8402,
       "label": "BEARISH",
-      "confidence": 0.765
+      "confidence": 0.8402
     },
     {
       "source": "Decrypt",
@@ -409,6 +382,17 @@
       "confidence": 0.7579
     },
     {
+      "source": "Decrypt",
+      "title": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
+      "summary": "Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6\u201310x efficiency gain.",
+      "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
+      "published": "2026-07-21T17:24:37+00:00",
+      "coins": [],
+      "compound": 0.7096,
+      "label": "BULLISH",
+      "confidence": 0.7096
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto markets rally on Clarity progress report, Asian chip-stock rebound",
       "summary": "",
@@ -418,17 +402,6 @@
       "compound": 0.6705,
       "label": "BULLISH",
       "confidence": 0.6705
-    },
-    {
-      "source": "TheBlock",
-      "title": "Morpho launches fixed-rate lending protocol Midnight on Base to expand onchain credit markets",
-      "summary": "<p>Morpho has launched Midnight, a fixed-rate, fixed-term lending protocol on Base that complements its existing variable-rate lending protocol.</p>",
-      "url": "https://www.theblock.co/post/409062/morpho-midnight-fixed-rate-lending-protocol-base-onchain-credit-markets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
     },
     {
       "source": "CoinDesk",
@@ -454,14 +427,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Washington judge blocks Kalshi\u2019s sports prediction markets over state gambling laws",
-      "summary": "<p>A Washington state court granted the state's motion for a preliminary injunction, saying Kalshi operates illegal gambling activities.</p>",
-      "url": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T05:09:24+00:00",
+      "title": "Augustus raises $180 million Series B at $1 billion valuation to build the \u2018Global Dollar Bank\u2019",
+      "summary": "<p>Augustus supports stablecoins alongside traditional payment rails including Swift, ACH, and SEPA, according to a press release.</p>",
+      "url": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T16:51:02+00:00",
       "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -475,6 +448,28 @@
       "confidence": 0.4939
     },
     {
+      "source": "TheBlock",
+      "title": "Ousted founder\u2019s $1.6 million claim tops Movement Labs\u2019 bankruptcy filing",
+      "summary": "<p>MVMT filed for bankruptcy earlier this month, reporting assets between $100,001 and $500,000 and liabilities of up to $10 million.</p>",
+      "url": "https://www.theblock.co/post/409151/ousted-founders-1-6-million-claim-tops-movement-labs-bankruptcy-filing?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T19:11:02+00:00",
+      "coins": [],
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
+      "published": "2026-07-21T17:54:40+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
+    },
+    {
       "source": "Decrypt",
       "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
       "summary": "A cross-party group is examining why UK banks block accounts and payments for crypto firms\u2014and whether it's holding the sector back.",
@@ -486,15 +481,37 @@
       "confidence": 0.4404
     },
     {
-      "source": "TheBlock",
-      "title": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
-      "summary": "<p>President Trump has agreed to ethics language \u2014 potentially moving the ball forward to getting crypto legislation passed into law.\u00a0</p>",
-      "url": "https://www.theblock.co/post/409000/trump-agrees-to-ethics-provision-crypto-bill?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T00:58:26+00:00",
+      "source": "CoinDesk",
+      "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
+      "published": "2026-07-21T18:14:39+00:00",
       "coins": [],
-      "compound": 0.4404,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4404
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
+      "summary": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
+      "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
+      "published": "2026-07-21T18:13:48+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitget plans US expansion \u2018with or without\u2019 Clarity Act, CEO says",
+      "summary": "<p>Bitget CEO Gracy Chen is leading the crypto exchange's push into the U.S. after initially shelving expansion plans in 2022.</p>",
+      "url": "https://www.theblock.co/post/409100/bitget-plans-us-expansion-with-without-clarity-act-ceo-says?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T16:11:41+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -502,6 +519,17 @@
       "summary": "Islamabad is building the enforcement side of its crypto push, standing up a unit to police money laundering even as it licenses exchanges.",
       "url": "https://decrypt.co/373922/pakistan-launches-crypto-investigation-unit-to-fight-money-laundering",
       "published": "2026-07-21T11:40:48+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
+      "summary": "<p>As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in.</p>",
+      "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T19:28:39+00:00",
       "coins": [],
       "compound": -0.3818,
       "label": "BEARISH",
@@ -520,80 +548,47 @@
     },
     {
       "source": "TheBlock",
-      "title": "London Stock Exchange plans overnight venue to extend trading hours: FT",
-      "summary": "<p>London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.</p>",
-      "url": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T07:57:02+00:00",
+      "title": "Russia passes landmark crypto bill allowing regulated retail trading",
+      "summary": "<p>Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill.</p>",
+      "url": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T17:48:29+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.1531,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase says \u2018low-risk\u2019 config change behind 50-minute July 14 outage impacting trading, card transactions",
+      "summary": "<p>Coinbase said user funds were never at risk, and user transactions that were stuck \u201cin-flight\u201d were completed once service was restored.</p>",
+      "url": "https://www.theblock.co/post/409105/coinbase-says-low-risk-config-change-behind-50-minute-july-14-outage-impacting-trading-card-transactions?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T15:35:21+00:00",
+      "coins": [],
+      "compound": -0.048,
+      "label": "NEUTRAL",
+      "confidence": 0.048
     },
     {
       "source": "CoinDesk",
-      "title": "Brazil\u2019s securities regulator sets up task force with 60-day deadline for tokenization proposal",
+      "title": "Russia\u2019s parliament passes crypto market law with $3,800 annual cap for retail investors",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/20/brazil-s-securities-regulator-sets-up-task-force-with-60-day-deadline-for-tokenization-proposal",
-      "published": "2026-07-20T12:02:28+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
+      "published": "2026-07-21T15:19:44+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Chain tops $430 million in TVL, FalconX sees RWAs as the key differentiator",
-      "summary": "<p>Robinhood Chain hit $431M TVL and 250K+ daily users in under three weeks, but memecoins account for 80% of its $9B DEX volume, FalconX says.</p>",
-      "url": "https://www.theblock.co/post/409049/robinhood-chain-tops-430-million-in-tvl-falconx-sees-rwas-as-the-key-differentiator?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T11:43:29+00:00",
-      "coins": [],
-      "compound": 0.2846,
-      "label": "BULLISH",
-      "confidence": 0.2846
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
-      "title": "Exodus to cut 25% of global workforce in payments shift",
+      "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/20/exodus-to-cut-25-of-global-workforce-in-payments-shift",
-      "published": "2026-07-20T13:53:08+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+      "published": "2026-07-21T14:27:03+00:00",
       "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Hyperliquid Opens Prediction Markets to Anyone in HIP-4 Upgrade",
-      "summary": "Plus, a selloff in Oil has markets looking green into the Monday open. And PUMP is leading all alt movers on the week at a surprising time.",
-      "url": "https://decrypt.co/373828/morning-minute-hyperliquid-opens-prediction-markets-to-anyone-in-hip-4-upgrade",
-      "published": "2026-07-20T12:00:02+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi, Polymarket open interest falls 20% as World Cup frenzy winds down",
-      "summary": "<p>Sports accounted for 80% of both Kalshi and Polymarket's total volumes throughout the weekslong World Cup tournament.</p>",
-      "url": "https://www.theblock.co/post/408965/kalshi-polymarket-open-interest-falls-20-as-world-cup-frenzy-winds-down?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-20T21:12:50+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "TheBlock",
-      "title": "UK parliamentary group launches probe into crypto sector\u2019s banking challenges",
-      "summary": "<p>This comes weeks after the publication of the UK\u2019s new crypto regulatory framework, set to take effect in October 2027.</p>",
-      "url": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T07:26:25+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -607,22 +602,33 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "AI compute stocks bounce as Hut 8, IREN land billions in new contracts",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/20/hut-8-surges-on-usd9-8-billion-ai-data-center-lease-lifting-compute-sector",
-      "published": "2026-07-20T13:49:24+00:00",
+      "source": "Decrypt",
+      "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
+      "summary": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
+      "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
+      "published": "2026-07-20T21:12:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
-      "summary": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
-      "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
-      "published": "2026-07-20T21:12:03+00:00",
+      "source": "TheBlock",
+      "title": "Telegram plans \u2018largest rollout of a non-custodial crypto wallet in human history\u2019",
+      "summary": "<p>The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto.</p>",
+      "url": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T15:20:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "London Stock Exchange\u2019s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen",
+      "summary": "<p>London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00\u201307:50, with testing by end-2026 and ETPs first in H1 2027.</p>",
+      "url": "https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T14:46:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -645,17 +651,6 @@
       "summary": "<p>Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and also introduced beta perpetual markets with USDG collateral.</p>",
       "url": "https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss",
       "published": "2026-07-21T13:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-      "summary": "<p>The first exchange-traded fund tied to Worldcoin could soon be headed to U.S. markets, as Grayscale files for a Worldcoin ETF.</p>",
-      "url": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-20T21:25:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
