@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:43:05.307451+00:00",
+  "generated_at": "2026-07-22T03:29:43.913697+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -22,54 +22,6 @@
           "compound": 0.4215,
           "label": "BULLISH",
           "confidence": 0.4215
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": -0.3818,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Cardano Triggers Hard Fork With First Community-Voted Upgrade",
-          "summary": "For the first time in Cardano's history, no company flipped the switch on a major protocol update.",
-          "url": "https://decrypt.co/373858/cardano-van-rossem-hard-fork-live-community-upgrade",
-          "published": "2026-07-20T18:50:48+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.296,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee's Bitmine Taps the Brakes on ETH Buys, Pivots $86M Into Stock Buyback",
-          "summary": "\"The reduced pace of buys reflects that Bitmine repurchased 5.5 million common shares,\" Bitmine Chairman Tom Lee said in a statement.",
-          "url": "https://decrypt.co/373847/tom-lee-bitmine-taps-brakes-eth-buys-86m-stock-buyback",
-          "published": "2026-07-20T16:12:36+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -125,11 +77,11 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.182,
+      "article_count": 2,
+      "avg_compound": -0.148,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -145,20 +97,6 @@
           "compound": -0.296,
           "label": "BEARISH",
           "confidence": 0.296
-        },
-        {
-          "source": "TheBlock",
-          "title": "Jack Mallers leaves Twenty One as Strike exits Tether\u2019s three-way bitcoin merger",
-          "summary": "<p>Twenty One Capital named Raphael Zagury CEO, replacing founder Jack Mallers, as Strike exits a Tether-backed three-way merger.</p>",
-          "url": "https://www.theblock.co/post/409075/jack-mallers-leaves-twenty-one-as-strike-exits-tethers-three-way-bitcoin-merger?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-21T13:47:00+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
         },
         {
           "source": "CoinDesk",
@@ -178,11 +116,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.085,
-      "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 9,
+      "article_count": 21,
+      "avg_compound": 0.0457,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 10,
       "neutral": 3,
       "top_articles": [
         {
@@ -227,6 +165,16 @@
       ],
       "no_news": false
     },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -268,6 +216,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -372,6 +330,28 @@
     },
     {
       "source": "Decrypt",
+      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
+      "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
+      "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
+      "published": "2026-07-21T21:29:03+00:00",
+      "coins": [],
+      "compound": -0.8225,
+      "label": "BEARISH",
+      "confidence": 0.8225
+    },
+    {
+      "source": "TheBlock",
+      "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
+      "summary": "<p>FIA's Muhammad Athar Waheed suggested that other major agencies form dedicated teams to tackle digital asset crimes.</p>",
+      "url": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-22T02:46:51+00:00",
+      "coins": [],
+      "compound": 0.8055,
+      "label": "BULLISH",
+      "confidence": 0.8055
+    },
+    {
+      "source": "Decrypt",
       "title": "Morning Minute: The Clarity Act Has New Life",
       "summary": "Odds of the Clarity Act passing in 2026 jumped to 42% after a surprising new development from the White House.",
       "url": "https://decrypt.co/373924/morning-minute-the-clarity-act-has-new-life",
@@ -405,6 +385,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
+      "published": "2026-07-21T21:14:03+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "CoinDesk",
       "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
@@ -413,6 +404,17 @@
       "compound": 0.6369,
       "label": "BULLISH",
       "confidence": 0.6369
+    },
+    {
+      "source": "TheBlock",
+      "title": "Canton developer Digital Asset raises additional $10 million at same $2 billion equity valuation",
+      "summary": "<p>Canton Network developer Digital Asset has raised an additional $10 million from Shinhan Financial Group and SC Ventures.</p>",
+      "url": "https://www.theblock.co/post/409168/canton-digital-asset-additional-10-million-funding-same-2-billion-equity-valuation-expanding-round-365-million?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T20:42:34+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
     },
     {
       "source": "CoinDesk",
@@ -481,6 +483,17 @@
       "confidence": 0.4404
     },
     {
+      "source": "TheBlock",
+      "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
+      "summary": "<p>Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies.</p>",
+      "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T21:11:05+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
       "source": "CoinDesk",
       "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
       "summary": "",
@@ -547,6 +560,28 @@
       "confidence": 0.3612
     },
     {
+      "source": "Decrypt",
+      "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
+      "summary": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
+      "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
+      "published": "2026-07-21T20:20:49+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
+      "summary": "<p>The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions.</p>",
+      "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-21T21:05:02+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
       "source": "TheBlock",
       "title": "Russia passes landmark crypto bill allowing regulated retail trading",
       "summary": "<p>Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill.</p>",
@@ -556,6 +591,17 @@
       "compound": 0.1531,
       "label": "BULLISH",
       "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+      "published": "2026-07-21T22:08:10+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
@@ -591,66 +637,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-      "published": "2026-07-21T06:15:26+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
       "summary": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
       "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
       "published": "2026-07-20T21:12:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Telegram plans \u2018largest rollout of a non-custodial crypto wallet in human history\u2019",
-      "summary": "<p>The messaging platform has long been viewed as a potential gateway for bringing a wider audience into crypto.</p>",
-      "url": "https://www.theblock.co/post/409099/telegram-plans-largest-rollout-non-custodial-crypto-wallet-in-history?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T15:20:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "London Stock Exchange\u2019s LSE 24 signals a bet on digital, AI-driven markets: TD Cowen",
-      "summary": "<p>London Stock Exchange will launch LSE 24, a 24/5 venue trading 17:00\u201307:50, with testing by end-2026 and ETPs first in H1 2027.</p>",
-      "url": "https://www.theblock.co/post/409089/london-stock-exchanges-lse-24-signals-bet-on-digital-ai-driven-markets-td-cowen?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T14:46:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Malaysia shuts down Balaji Srinivasan\u2019s Network School in Forest City",
-      "summary": "<p>Malaysia revoked Network School's license, ordering the Balaji Srinivasan-founded digital nomad commune to cease operations July 22.</p>",
-      "url": "https://www.theblock.co/post/409076/malaysia-shuts-down-balaji-srinivasans-network-school-forest-city?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T13:50:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Arcus rolls out 24/7 tokenized US stocks and perpetual markets on Robinhood Chain",
-      "summary": "<p>Arcus rolled out 24/7 trading for over 95 Stock Tokens on Robinhood Chain and also introduced beta perpetual markets with USDG collateral.</p>",
-      "url": "https://www.theblock.co/post/408895/arcus-rolls-out-24-7-tokenized-us-stocks-and-perpetual-markets-on-robinhood-chain?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T13:30:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
