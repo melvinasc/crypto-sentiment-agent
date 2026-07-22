@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:39:56.236796+00:00",
+  "generated_at": "2026-07-22T14:13:55.059188+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -25,7 +25,7 @@
         },
         {
           "source": "TheBlock",
-          "title": "RippleX sees XRP Ledger agentic transactions hitting 10-million mark soon",
+          "title": "Ripple sees XRP Ledger agentic transactions hitting 10-million mark soon",
           "summary": "<p>Ripple recently joined x402 Foundation, serving as a premier member alongside Coinbase, Circle, and Visa.</p>",
           "url": "https://www.theblock.co/post/408987/ripplex-sees-xrp-ledger-agentic-transactions-hitting-10-million-mark-soon?utm_source=rss&utm_medium=rss",
           "published": "2026-07-21T18:47:21+00:00",
@@ -64,12 +64,12 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.148,
+      "article_count": 1,
+      "avg_compound": -0.296,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -84,31 +84,17 @@
           "compound": -0.296,
           "label": "BEARISH",
           "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Jack Mallers steps down as XXI Capital CEO as Tether's plans to merge three bitcoin firms falls",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/21/jack-mallers-steps-down-as-xxi-capital-ceo-as-tether-s-plans-to-merge-three-bitcoin-firms-falls",
-          "published": "2026-07-21T12:42:29+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": 0.0197,
-      "overall": "NEUTRAL",
-      "bullish": 8,
+      "avg_compound": 0.0785,
+      "overall": "BULLISH",
+      "bullish": 10,
       "bearish": 11,
-      "neutral": 3,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -153,14 +139,28 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+          "summary": "",
+          "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
+          "published": "2026-07-22T11:10:27+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "AVAX": {
       "article_count": 0,
@@ -371,22 +371,22 @@
       "confidence": 0.7096
     },
     {
+      "source": "TheBlock",
+      "title": "Tokenized equity perps drive RWA trading boom to $470 billion monthly volume",
+      "summary": "<p>Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities.</p>",
+      "url": "https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-22T14:08:01+00:00",
+      "coins": [],
+      "compound": 0.707,
+      "label": "BULLISH",
+      "confidence": 0.707
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto Clarity Act still at mercy of ethics section as Democrats balk at Trump deal",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/21/crypto-clarity-act-still-at-mercy-of-ethics-section-as-democrats-balk-at-trump-deal",
       "published": "2026-07-21T21:14:03+00:00",
-      "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
-      "confidence": 0.6369
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MoneyGram's CEO says blockchain works best when customers don't know it's there",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/17/moneygram-s-ceo-says-blockchain-works-best-when-customers-don-t-know-it-s-there",
-      "published": "2026-07-21T13:38:13+00:00",
       "coins": [],
       "compound": 0.6369,
       "label": "BULLISH",
@@ -402,28 +402,6 @@
       "compound": 0.6124,
       "label": "BULLISH",
       "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Augustus raises $180 million Series B at $1 billion valuation to build the \u2018Global Dollar Bank\u2019",
-      "summary": "<p>Augustus supports stablecoins alongside traditional payment rails including Swift, ACH, and SEPA, according to a press release.</p>",
-      "url": "https://www.theblock.co/post/409119/augustus-raises-180-million-series-b-global-dollar-bank?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T16:51:02+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "Decrypt",
-      "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-      "summary": "The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto\u2014bypassing Western sanctions.",
-      "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
-      "published": "2026-07-20T20:02:33+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
     },
     {
       "source": "TheBlock",
@@ -448,26 +426,15 @@
       "confidence": 0.4601
     },
     {
-      "source": "CoinDesk",
-      "title": "Movement Labs files for Chapter 11 bankruptcy months after token scandal",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/21/movement-labs-files-for-chapter-11-months-after-token-scandal-and-strategic-overhaul",
-      "published": "2026-07-21T17:54:40+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
       "source": "Decrypt",
-      "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
-      "summary": "A cross-party group is examining why UK banks block accounts and payments for crypto firms\u2014and whether it's holding the sector back.",
-      "url": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
-      "published": "2026-07-21T09:05:35+00:00",
+      "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
+      "summary": "TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
+      "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
+      "published": "2026-07-22T12:44:48+00:00",
       "coins": [],
-      "compound": -0.4404,
+      "compound": -0.4215,
       "label": "BEARISH",
-      "confidence": 0.4404
+      "confidence": 0.4215
     },
     {
       "source": "TheBlock",
@@ -479,17 +446,6 @@
       "compound": 0.4215,
       "label": "BULLISH",
       "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "White House pushes Senate Democrats to take 'historic' crypto Clarity Act ethics deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/21/white-house-pushes-senate-democrats-to-take-historic-crypto-clarity-act-ethics-deal",
-      "published": "2026-07-21T18:14:39+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -558,15 +514,37 @@
       "confidence": 0.2732
     },
     {
-      "source": "TheBlock",
-      "title": "Russia passes landmark crypto bill allowing regulated retail trading",
-      "summary": "<p>Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill.</p>",
-      "url": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-21T17:48:29+00:00",
+      "source": "CoinDesk",
+      "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
+      "published": "2026-07-22T13:32:40+00:00",
       "coins": [],
-      "compound": 0.1531,
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
+      "summary": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
+      "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
+      "published": "2026-07-22T11:03:43+00:00",
+      "coins": [],
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
+      "published": "2026-07-22T10:30:00+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -591,11 +569,33 @@
       "confidence": 0.0772
     },
     {
+      "source": "TheBlock",
+      "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
+      "summary": "<p>Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.</p>",
+      "url": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-22T12:39:11+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
       "source": "CoinDesk",
-      "title": "Russia\u2019s parliament passes crypto market law with $3,800 annual cap for retail investors",
+      "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/21/russia-s-parliament-passes-crypto-market-law-rules-to-take-effect-sept-1",
-      "published": "2026-07-21T15:19:44+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
+      "published": "2026-07-22T13:45:58+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
+      "published": "2026-07-22T12:12:10+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -603,21 +603,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
+      "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
-      "published": "2026-07-21T14:27:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
-      "summary": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
-      "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
-      "published": "2026-07-20T21:12:03+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
+      "published": "2026-07-22T11:45:42+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
