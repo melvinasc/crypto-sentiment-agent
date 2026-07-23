@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-23T08:41:24.714271+00:00",
+  "generated_at": "2026-07-23T14:23:19.968951+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.7576,
+      "article_count": 5,
+      "avg_compound": -0.5999,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
-      "neutral": 0,
+      "bearish": 4,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -37,42 +37,65 @@
           "confidence": 0.7845
         },
         {
-          "source": "CoinDesk",
-          "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
-          "published": "2026-07-23T06:38:18+00:00",
+          "source": "Decrypt",
+          "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
+          "summary": "The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.",
+          "url": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
+          "published": "2026-07-23T10:24:09+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": -0.6808,
+          "compound": -0.7269,
           "label": "BEARISH",
-          "confidence": 0.6808
+          "confidence": 0.7269
+        }
+      ],
+      "no_news": false
+    },
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
+          "published": "2026-07-23T14:00:00+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.0991,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 11,
-      "neutral": 1,
+      "article_count": 19,
+      "avg_compound": 0.0362,
+      "overall": "NEUTRAL",
+      "bullish": 7,
+      "bearish": 9,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler\u2019s Vanished Texts",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coinbase-Settles-FOIA-Fight-With-the-SEC-Over-Genslers-Vanished-Texts.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec\" rel=\"nofollow\">Coinbase Settles FOIA Fight With the SEC Over Gensler&#8217;s Vanished Texts</a></p>\n<p>Coinbase settled its FOIA lawsuit against the SEC after the agency admitted it destroyed former Chair Gary Gensler's text messages, securing a $150,000 payment and reforms to the SEC's record-retention policies.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec\" rel=\"nofollow\">Coinbase Settles FOIA Fight With the SEC Over Gensler&#8217;s Vanished Texts</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coinbase-settles-foia-fight-with-the-sec",
-          "published": "2026-07-22T15:16:06+00:00",
+          "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin\" rel=\"nofollow\">BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development</a></p>\n<p>Nine major Bitcoin firms launched a consortium pledging $15 million to support Bitcoin security research and long-term resilience, including quantum readiness.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin\" rel=\"nofollow\">BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin",
+          "published": "2026-07-23T13:33:43+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9022,
-          "label": "BEARISH",
-          "confidence": 0.9022
+          "compound": 0.9367,
+          "label": "BULLISH",
+          "confidence": 0.9367
         },
         {
           "source": "Bitcoin Magazine",
@@ -88,17 +111,42 @@
           "confidence": 0.8689
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "VanEck: Bitcoin\u2019s Summer Lull Masks a Tightening Supply Base",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask\" rel=\"nofollow\">VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base</a></p>\n<p>VanEck says Bitcoin's quiet summer trading masks a tightening supply base, with cautious derivatives and weak miner economics weighing on the near term even as long-term holders continue accumulating.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask\" rel=\"nofollow\">VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
-          "published": "2026-07-22T14:22:02+00:00",
+          "source": "TheBlock",
+          "title": "\u2018Not currently the right capital solution\u2019: Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument",
+          "summary": "<p>The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.</p>",
+          "url": "https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T10:38:13+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.7351,
-          "label": "BEARISH",
-          "confidence": 0.7351
+          "compound": 0.7506,
+          "label": "BULLISH",
+          "confidence": 0.7506
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+          "summary": "<p>LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.</p>",
+          "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T13:00:00+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -237,27 +285,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -291,6 +319,17 @@
   "uncategorised": [
     {
       "source": "Decrypt",
+      "title": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
+      "summary": "Once-fragmented syndicates have fused into a single, tech-driven criminal economy that increasingly runs on crypto, the UNODC warns.",
+      "url": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un",
+      "published": "2026-07-23T12:34:20+00:00",
+      "coins": [],
+      "compound": -0.8689,
+      "label": "BEARISH",
+      "confidence": 0.8689
+    },
+    {
+      "source": "Decrypt",
       "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
       "summary": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
       "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
@@ -302,14 +341,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
-      "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
-      "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
-      "published": "2026-07-21T21:29:03+00:00",
+      "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
+      "summary": "Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
+      "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
+      "published": "2026-07-23T11:10:51+00:00",
       "coins": [],
-      "compound": -0.8225,
+      "compound": -0.7964,
       "label": "BEARISH",
-      "confidence": 0.8225
+      "confidence": 0.7964
+    },
+    {
+      "source": "TheBlock",
+      "title": "Proof of Reserves: What It Means for Exchange Trust",
+      "summary": "<p>The Trust Deficit For most of the crypto industry&#8217;s history, users who deposited assets with an exchange simply trusted that the funds were there. FTX ended that complacency when it collapsed in 2022, with investigators finding that billions in customer deposits had been quietly diverted to its affiliated trading firm, leaving a shortfall of roughly [&hellip;]</p>",
+      "url": "https://www.theblock.co/post/409524/proof-of-reserves-what-it-means-for-exchange-trust?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T13:39:10+00:00",
+      "coins": [],
+      "compound": 0.765,
+      "label": "BULLISH",
+      "confidence": 0.765
     },
     {
       "source": "TheBlock",
@@ -345,26 +395,15 @@
       "confidence": 0.6858
     },
     {
-      "source": "TheBlock",
-      "title": "Crypto \u2018wrench attacks\u2019 persist as total climbs to 52 and value targeted jumps more than tenfold, CertiK says",
-      "summary": "<p>CertiK recommends limiting public information that connects a person\u2019s identity, location or routine to their crypto holdings.</p>",
-      "url": "https://www.theblock.co/post/409418/crypto-wrench-attacks-persist-total-climbs-52-value-targeted-jumps-tenfold-certik?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T15:48:35+00:00",
+      "source": "CoinDesk",
+      "title": "The KIDS Act is way worse than digital carding \u2014 it is a mass surveillance system",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system",
+      "published": "2026-07-23T13:00:00+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "TheBlock",
-      "title": "Polymarket \u2018surprised\u2019 France blocked site as information source, plans legal challenge",
-      "summary": "<p>Last week, the ANJ ordered French internet service providers to block access to Polymarket ahead of the World Cup final.</p>",
-      "url": "https://www.theblock.co/post/409395/polymarket-surprised-france-blocked-site-information-source-plans-legal-challenge?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T14:59:00+00:00",
-      "coins": [],
-      "compound": -0.4939,
+      "compound": -0.4767,
       "label": "BEARISH",
-      "confidence": 0.4939
+      "confidence": 0.4767
     },
     {
       "source": "Decrypt",
@@ -390,36 +429,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+      "title": "Polymarket to challenge France\u2019s nationwide website block",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
-      "published": "2026-07-22T23:19:41+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/23/polymarket-to-challenge-france-s-nationwide-website-block",
+      "published": "2026-07-23T11:53:53+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
-      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
-      "published": "2026-07-22T22:22:25+00:00",
+      "url": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
+      "published": "2026-07-23T13:53:19+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Senate releases latest version of Clarity Act including software developer protections and ethics provision with \u2018sunset\u2019 date in 2029",
-      "summary": "<p>After months of deliberations, Republicans released the latest text for broader cryptocurrency legislation.</p>",
-      "url": "https://www.theblock.co/post/409442/senate-releases-latest-clarity-act-software-developer-protections-ethics-provision-sunset-date-2029?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T16:46:22+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.3612
     },
     {
       "source": "CoinDesk",
@@ -455,39 +483,6 @@
       "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "Pavel Durov Wants to Give a Billion Telegram Users a Crypto Wallet",
-      "summary": "The promise of instant, zero-fee crypto transactions for over a billion Telegram users sent its native Gram token up 7%.",
-      "url": "https://decrypt.co/374001/pavel-durov-telegram-crypto-wallet-billion-users",
-      "published": "2026-07-21T20:20:49+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Revolut hits $115 billion valuation in employee share sale: WSJ",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/22/revolut-hits-usd115-billion-valuation-in-employee-share-sale-wsj",
-      "published": "2026-07-22T15:53:54+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK digital bond plans hinge on one missing piece: onchain cash",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/22/uk-digital-bond-plans-hinge-on-one-missing-piece-onchain-cash",
-      "published": "2026-07-22T15:36:49+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Benchmark sees Hut 8 becoming a \u2018power-first data center REIT,\u2019 raises target another 18%",
       "summary": "<p>Benchmark\u2019s new price target implies roughly 75% upside, with Hut 8 shares already up nearly 120% year to date.</p>",
@@ -497,50 +492,6 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "\u2018You will have a painful fall\u2019: SEC\u2019s Peirce warns crypto vault builders against twisting securities law",
-      "summary": "<p>Hester Peirce, aka \"Crypto Mom\", issued a statement clarifying that onchain vaults and lending may fall under the SEC's remit.</p>",
-      "url": "https://www.theblock.co/post/409409/you-will-have-a-painful-fall-secs-peirce-warns-crypto-vault-builders-against-twisting-securities-law?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T15:11:57+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Forget Nvidia: The next big AI trade could be crypto and blockchain",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/21/forget-nvidia-the-next-big-ai-trade-could-be-crypto-and-blockchain",
-      "published": "2026-07-22T13:32:40+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC's Peirce warns some DeFi vaults, onchain lending may fall under securities laws",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/22/sec-s-peirce-warns-some-defi-vaults-onchain-lending-may-fall-under-securities-laws",
-      "published": "2026-07-22T15:37:36+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
-      "title": "Jack Dorsey's Block Launches Buzz, a Nostr-Based Slack and GitHub Rival for AI Agents",
-      "summary": "The free, open source workspace runs on Nostr, gives AI agents their own cryptographic identities, and challenges Slack and GitHub.",
-      "url": "https://decrypt.co/374026/jack-dorseys-block-launches-buzz-a-nostr-based-slack-and-github-rival-for-ai-agents",
-      "published": "2026-07-22T11:03:43+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -576,37 +527,26 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "Benchmark lowers Coinbase earnings estimates but says Clarity Act could eclipse weak second quarter",
-      "summary": "<p>Coinbase trading activity stabilized in June after crypto spot volumes slumped throughout most of the quarter.</p>",
-      "url": "https://www.theblock.co/post/409390/benchmark-lowers-coinbase-earnings-estimates-clarity-act-eclipse-weak-quarter?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T15:03:42+00:00",
-      "coins": [],
-      "compound": -0.1406,
-      "label": "BEARISH",
-      "confidence": 0.1406
-    },
-    {
       "source": "CoinDesk",
-      "title": "New draft of Clarity Act is out, and it would impose limits on Trump's crypto empire",
+      "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/22/new-clarity-act-emerges-that-s-a-start-on-the-final-draft-makes-ethics-rule-temporary",
-      "published": "2026-07-22T16:15:55+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
+      "published": "2026-07-23T08:42:21+00:00",
       "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
+      "compound": -0.128,
+      "label": "BEARISH",
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/22/u-s-seeks-forfeiture-of-usd25-million-in-crypto-tied-to-romance-and-investment-scams",
-      "published": "2026-07-22T13:45:58+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
+      "summary": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
+      "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
+      "published": "2026-07-23T12:02:52+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
       "source": "Decrypt",
@@ -621,6 +561,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
+      "published": "2026-07-23T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX, the exchange that invented perps, is shutting down",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
+      "published": "2026-07-23T08:42:26+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
@@ -631,11 +593,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: The crypto question isn't what to own \u2014 it's what you can survive holding",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
-      "published": "2026-07-22T15:09:47+00:00",
+      "source": "Decrypt",
+      "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
+      "summary": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
+      "url": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
+      "published": "2026-07-23T08:46:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -654,10 +616,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities",
-      "summary": "<p>xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe, South Korea, and other international markets.</p>",
-      "url": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T17:31:33+00:00",
+      "title": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
+      "summary": "<p>Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss.</p>",
+      "url": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T09:09:42+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -665,10 +627,21 @@
     },
     {
       "source": "TheBlock",
-      "title": "Crypto directly employs 34,000 in the US and contributes $55 billion to the economy: NCA report",
-      "summary": "<p>Crypto directly employs 34,000 in the U.S. and contributes $55 billion to the economy in 2026, according to an NCA-funded report.</p>",
-      "url": "https://www.theblock.co/post/409417/crypto-directly-employs-34000-in-the-us-and-contributes-55-billion-to-the-economy-nca-report?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T16:00:00+00:00",
+      "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
+      "summary": "<p>BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review. </p>",
+      "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T09:00:36+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities",
+      "summary": "<p>xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe, South Korea, and other international markets.</p>",
+      "url": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-22T17:31:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
