@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T14:23:19.968951+00:00",
+  "generated_at": "2026-07-23T19:37:25.133077+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.5999,
+      "article_count": 4,
+      "avg_compound": -0.5797,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 4,
+      "bearish": 3,
       "neutral": 1,
       "top_articles": [
         {
@@ -52,6 +52,30 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.25,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Swan CEO claims Twenty One serves Tether\u2019s US political interests, calls Mallers\u2019 role \u2018ceremonial\u2019",
+          "summary": "<p>Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten.</p>",
+          "url": "https://www.theblock.co/post/409538/swan-ceo-twenty-one-serves-tethers-us-political-interests-mallers-role-ceremonial?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T16:31:59+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.1779,
@@ -77,12 +101,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0362,
+      "article_count": 20,
+      "avg_compound": -0.0203,
       "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 9,
-      "neutral": 3,
+      "bullish": 6,
+      "bearish": 10,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -99,29 +123,29 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/needham-winklevoss-bitcoin-etf-would-have-profound-impact-on-price.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump\" rel=\"nofollow\">Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC</a></p>\n<p>Crypto entrepreneurs Tyler and Cameron Winklevoss have again donated their Bitcoin to President Trump. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump\" rel=\"nofollow\">Winklevoss Twins Donated $10 Million From Bitcoin Sale to Trump Super PAC</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/winklevoss-twins-donated-bitcoin-to-trump",
-          "published": "2026-07-22T17:21:41+00:00",
+          "title": "BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a></p>\n<p>BlackRock thinks Bitcoin and other crypto networks have the upper hand when facing the threat of quantum computers. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum",
+          "published": "2026-07-23T16:50:23+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8689,
-          "label": "BULLISH",
-          "confidence": 0.8689
+          "compound": -0.9231,
+          "label": "BEARISH",
+          "confidence": 0.9231
         },
         {
-          "source": "TheBlock",
-          "title": "\u2018Not currently the right capital solution\u2019: Smarter Web sells 178 bitcoin to repay $11.7M convertible instrument",
-          "summary": "<p>The Smarter Web Company sold 177.89 BTC at $65,762 to repay $11.7 million to TOBAM early, cancelling 7.7 million in potential share issuance.</p>",
-          "url": "https://www.theblock.co/post/409506/not-currently-the-right-capital-solution-smarter-web-sells-178-bitcoin-to-repay-11-7m-convertible-instrument?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T10:38:13+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Slumps-But-These-Mining-Stocks-Are-Up-Thanks-to-AI-Deals.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a></p>\n<p>Bitcoin is selling off and so is the stock market \u2014 but mining stocks are on a tear. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up",
+          "published": "2026-07-23T19:05:36+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7506,
+          "compound": 0.8271,
           "label": "BULLISH",
-          "confidence": 0.7506
+          "confidence": 0.8271
         }
       ],
       "no_news": false
@@ -143,30 +167,6 @@
           "coins": [
             "ETH",
             "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP whales accumulate as small holders capitulate",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
-          "published": "2026-07-23T04:11:13+00:00",
-          "coins": [
-            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -305,7 +305,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -319,6 +319,17 @@
   "uncategorised": [
     {
       "source": "Decrypt",
+      "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
+      "summary": "The deleted post touted a bogus \"Vladhood\" token as the mascot of Robinhood Chain\u2014the latest fraud to exploit a network currently dominated by memes.",
+      "url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
+      "published": "2026-07-23T19:27:57+00:00",
+      "coins": [],
+      "compound": -0.8807,
+      "label": "BEARISH",
+      "confidence": 0.8807
+    },
+    {
+      "source": "Decrypt",
       "title": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
       "summary": "Once-fragmented syndicates have fused into a single, tech-driven criminal economy that increasingly runs on crypto, the UNODC warns.",
       "url": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un",
@@ -326,17 +337,6 @@
       "coins": [],
       "compound": -0.8689,
       "label": "BEARISH",
-      "confidence": 0.8689
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hugging Face CEO Thanks Chinese AI for Saving the Day After OpenAI Hack",
-      "summary": "When American commercial AI refused to help investigate the breach, Hugging Face ran Chinese model GLM 5.2 locally. Its CEO now says there's an important lesson in this.",
-      "url": "https://decrypt.co/374052/hugging-face-ceo-thanks-chinese-ai-saving-day-after-openai-hack",
-      "published": "2026-07-22T16:23:16+00:00",
-      "coins": [],
-      "compound": 0.8689,
-      "label": "BULLISH",
       "confidence": 0.8689
     },
     {
@@ -395,6 +395,28 @@
       "confidence": 0.6858
     },
     {
+      "source": "TheBlock",
+      "title": "Coinbase calls AI payments its \u2018most high-conviction bet\u2019 as businesses begin accepting agent payments",
+      "summary": "<p>Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard.</p>",
+      "url": "https://www.theblock.co/post/409539/coinbase-ai-payments-most-high-conviction-bet-businesses-accepting-agent-payments?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "TheBlock",
+      "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
+      "summary": "<p>The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard.</p>",
+      "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T17:05:36+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "CoinDesk",
       "title": "The KIDS Act is way worse than digital carding \u2014 it is a mass surveillance system",
       "summary": "",
@@ -417,15 +439,26 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "Justin Sun's HTX 'Rotating' On-Chain Wallets Amid UK Sanctions: TRM Labs",
-      "summary": "TRM Labs says the UK-sanctioned exchange has rotated hot wallets across blockchains, leaving address-list screening struggling to keep pace.",
-      "url": "https://decrypt.co/374030/justin-suns-htx-rotating-on-chain-wallets-amid-uk-sanctions-trm-labs",
-      "published": "2026-07-22T12:44:48+00:00",
+      "source": "CoinDesk",
+      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
+      "published": "2026-07-23T18:10:02+00:00",
       "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase's corporate customers can now accept payments from AI agents",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
+      "published": "2026-07-23T16:54:12+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -450,59 +483,37 @@
       "confidence": 0.3612
     },
     {
+      "source": "Decrypt",
+      "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans\u2014And It's Working",
+      "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
+      "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
+      "published": "2026-07-23T17:31:17+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
+    },
+    {
       "source": "CoinDesk",
-      "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
-      "published": "2026-07-23T05:01:06+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "US Seizes More Than $25M in Crypto Tied to Investment and Romance Scams",
-      "summary": "Prosecutors filed five forfeiture cases as Secret Service agents traced funds from thousands of victims to launderers in Southeast Asia.",
-      "url": "https://decrypt.co/374049/us-seizes-more-than-25m-in-crypto-tied-to-investment-and-romance-scams",
-      "published": "2026-07-22T15:10:46+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "Centralized Elements 'Frequently Persist' in DeFi and Should Be Regulated: FATF",
-      "summary": "Nearly every country has yet to apply the rules, the watchdog said, warning of outright bans for platforms that don\u2019t comply.",
-      "url": "https://decrypt.co/374041/centralized-elements-frequently-persist-in-defi-and-should-be-regulated-fatf",
-      "published": "2026-07-22T14:41:56+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
+      "published": "2026-07-23T18:29:31+00:00",
       "coins": [],
       "compound": -0.34,
       "label": "BEARISH",
       "confidence": 0.34
     },
     {
-      "source": "TheBlock",
-      "title": "Benchmark sees Hut 8 becoming a \u2018power-first data center REIT,\u2019 raises target another 18%",
-      "summary": "<p>Benchmark\u2019s new price target implies roughly 75% upside, with Hut 8 shares already up nearly 120% year to date.</p>",
-      "url": "https://www.theblock.co/post/409439/benchmark-hut-8-becoming-power-first-data-center-reit-raises-target-18?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T17:46:18+00:00",
+      "source": "CoinDesk",
+      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
+      "published": "2026-07-23T15:36:39+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
+      "compound": -0.296,
+      "label": "BEARISH",
       "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "Clarity Act\u2019s impact on Circle could be negative over the long term, Mizuho says",
-      "summary": "<p>On Wednesday, the Clarity Act took one step closer to becoming law as Republicans released the latest text for the legislation.</p>",
-      "url": "https://www.theblock.co/post/409453/clarity-act-impact-on-circle-could-be-negative-over-long-term-mizuho?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T18:02:44+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -516,28 +527,6 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "SEC reaches settlement with Coinbase over records requests from Gensler era",
-      "summary": "<p>The SEC reached a settlement with Coinbase on Wednesday, ending a years-long legal dispute over the agency's handling of records requests.</p>",
-      "url": "https://www.theblock.co/post/409437/sec-reaches-settlement-coinbase-over-records-requests-gensler-era?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T16:55:08+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "24/7 financial rails: How BNY plans to eliminate the weekend lag in U.S. Treasuries",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/23/24-7-financial-rails-how-bny-plans-to-eliminate-the-weekend-lag-in-u-s-treasuries",
-      "published": "2026-07-23T08:42:21+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
       "summary": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
@@ -549,6 +538,17 @@
       "confidence": 0.0772
     },
     {
+      "source": "TheBlock",
+      "title": "Robinhood CEO\u2019s X account hacked to promote Vladhood memecoin flagged as \u2018scam\u2019",
+      "summary": "<p>Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors.</p>",
+      "url": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T17:55:02+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
       "source": "Decrypt",
       "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
       "summary": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
@@ -558,6 +558,17 @@
       "compound": -0.0103,
       "label": "NEUTRAL",
       "confidence": 0.0103
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: It\u2019s time for tokenization to get to work",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
+      "published": "2026-07-23T14:53:34+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -576,17 +587,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
       "published": "2026-07-23T08:42:26+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
-      "published": "2026-07-23T07:05:42+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -631,17 +631,6 @@
       "summary": "<p>BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review. </p>",
       "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
       "published": "2026-07-23T09:00:36+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kraken parent Payward partners with GTN to scale xStocks internationally, beyond US equities",
-      "summary": "<p>xStocks is tokenizing equities from Hong Kong before expanding to the UK, Europe, South Korea, and other international markets.</p>",
-      "url": "https://www.theblock.co/post/409448/kraken-parent-payward-partners-gtn-scale-xstocks-internationally-beyond-us-equities?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T17:31:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
