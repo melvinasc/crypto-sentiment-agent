@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-23T03:34:36.432424+00:00",
+  "generated_at": "2026-07-23T08:41:24.714271+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.8074,
+      "article_count": 3,
+      "avg_compound": -0.7576,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
         {
@@ -22,16 +22,43 @@
           "compound": -0.8074,
           "label": "BEARISH",
           "confidence": 0.8074
+        },
+        {
+          "source": "TheBlock",
+          "title": "New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid",
+          "summary": "<p>A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.</p>",
+          "url": "https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T08:37:38+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7845,
+          "label": "BEARISH",
+          "confidence": 0.7845
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, Ethereum-linked protocols lose $35 million in multiple attacks hours apart",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/23/bitcoin-ethereum-linked-protocols-lose-usd35-million-in-multiple-attacks-hours-apart",
+          "published": "2026-07-23T06:38:18+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 17,
-      "avg_compound": -0.0158,
-      "overall": "NEUTRAL",
-      "bullish": 6,
-      "bearish": 10,
+      "avg_compound": -0.0991,
+      "overall": "BEARISH",
+      "bullish": 5,
+      "bearish": 11,
       "neutral": 1,
       "top_articles": [
         {
@@ -76,7 +103,7 @@
       ],
       "no_news": false
     },
-    "ADA": {
+    "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -86,12 +113,12 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "SecondFi to shut down after $2.4 million ADA wallet theft",
+          "title": "XRP whales accumulate as small holders capitulate",
           "summary": "",
-          "url": "https://www.coindesk.com/web3/2026/07/22/secondfi-to-shut-down-after-usd2-4-million-ada-wallet-theft",
-          "published": "2026-07-22T11:10:27+00:00",
+          "url": "https://www.coindesk.com/markets/2026/07/23/xrp-whales-accumulate-as-small-holders-capitulate",
+          "published": "2026-07-23T04:11:13+00:00",
           "coins": [
-            "ADA"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -99,6 +126,16 @@
         }
       ],
       "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -249,16 +286,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -286,6 +313,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "South Korea\u2019s Mirae Asset completes acquisition of Korbit crypto exchange",
+      "summary": "<p>Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported.</p>",
+      "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-23T05:01:21+00:00",
+      "coins": [],
+      "compound": 0.743,
+      "label": "BULLISH",
+      "confidence": 0.743
+    },
+    {
+      "source": "TheBlock",
       "title": "Bipartisan support \u2018critical\u2019 as Democrats push back on GOP crypto bill on ethics grounds",
       "summary": "<p>Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.</p>",
       "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
@@ -294,17 +332,6 @@
       "compound": 0.7269,
       "label": "BULLISH",
       "confidence": 0.7269
-    },
-    {
-      "source": "TheBlock",
-      "title": "Tokenized equity perps drive RWA trading boom to $470 billion monthly volume",
-      "summary": "<p>Within the broader RWA category, tokenized equities have been the more popular asset class to trade over tokenized commodities.</p>",
-      "url": "https://www.theblock.co/post/408961/tokenized-equity-perps-drive-rwa-trading-boom-to-470-billion-monthly-volume?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T14:08:01+00:00",
-      "coins": [],
-      "compound": 0.707,
-      "label": "BULLISH",
-      "confidence": 0.707
     },
     {
       "source": "Decrypt",
@@ -393,6 +420,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arbitrum-based AFX Trade drained of $24 million after bridge keys compromised",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/07/23/arbitrum-based-afx-trade-drained-of-usd24-million-after-bridge-keys-compromised",
+      "published": "2026-07-23T05:01:06+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -560,17 +598,6 @@
       "confidence": 0.128
     },
     {
-      "source": "TheBlock",
-      "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
-      "summary": "<p>Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.</p>",
-      "url": "https://www.theblock.co/post/409383/zilliqa-halts-native-transactions-over-bug-in-its-ledger-app-dating-to-2019?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T12:39:11+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. seeks forfeiture of $25 million in crypto tied to romance and investment scams",
       "summary": "",
@@ -594,32 +621,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "South Korea's oldest crypto exchange is now part of the $1 trillion Mirae Group family",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/23/south-korea-s-oldest-crypto-exchange-is-now-part-of-the-usd800-billion-mirae-group-family",
+      "published": "2026-07-23T07:05:42+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto Long & Short: The crypto question isn't what to own \u2014 it's what you can survive holding",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/07/22/crypto-long-and-short-the-crypto-question-isn-t-what-to-own-it-s-what-you-can-survive-holding",
       "published": "2026-07-22T15:09:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi rolls out Midterm Hubs ahead of the November elections in the U.S.",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/22/kalshi-rolls-out-midterm-hubs-ahead-of-the-november-elections-in-the-u-s",
-      "published": "2026-07-22T12:12:10+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Midnight token rebounds 19% after Wanchain bridge hack, Hoskinson calls for ZK revamp",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
-      "published": "2026-07-22T11:45:42+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
