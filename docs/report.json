@@ -1,28 +1,39 @@
 {
-  "generated_at": "2026-07-22T19:37:47.549854+00:00",
+  "generated_at": "2026-07-23T03:34:36.432424+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": -0.8074,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Arbitrum protocol AFX Trade hit by $24 million bridge exploit: Blockaid",
+          "summary": "<p>PeckShield flagged that the attacker bridged the stolen funds from Arbitrum to Ethereum and swapped them for 12,467 ETH.</p>",
+          "url": "https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T01:39:41+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": -0.0271,
+      "article_count": 17,
+      "avg_compound": -0.0158,
       "overall": "NEUTRAL",
       "bullish": 6,
       "bearish": 10,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/White-House-Presses-Senate-Democrats-To-Accept-Trump-Ethics-Deal-On-Clarity-Act-Report-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/white-house-presses-senate-democrats\" rel=\"nofollow\">White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act</a></p>\n<p>White House officials are urging Senate Democrats to accept President Trump's ethics deal on the Clarity Act, with negotiations entering the final stretch before Congress' August recess.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/white-house-presses-senate-democrats\" rel=\"nofollow\">White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
-          "published": "2026-07-21T19:25:50+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.946,
-          "label": "BULLISH",
-          "confidence": 0.946
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Coinbase Settles FOIA Fight With the SEC Over Gensler\u2019s Vanished Texts",
@@ -48,6 +59,19 @@
           "compound": 0.8689,
           "label": "BULLISH",
           "confidence": 0.8689
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "VanEck: Bitcoin\u2019s Summer Lull Masks a Tightening Supply Base",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Exchange-Inflows-Spike-to-49000-BTC-in-a-Day-Signaling-Volatility-is-Coming-Report.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask\" rel=\"nofollow\">VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base</a></p>\n<p>VanEck says Bitcoin's quiet summer trading masks a tightening supply base, with cautious derivatives and weak miner economics weighing on the near term even as long-term holders continue accumulating.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask\" rel=\"nofollow\">VanEck: Bitcoin&#8217;s Summer Lull Masks a Tightening Supply Base</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/vaneck-bitcoins-summer-lull-mask",
+          "published": "2026-07-22T14:22:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
         }
       ],
       "no_news": false
@@ -117,16 +141,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -261,17 +275,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
-      "summary": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
-      "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
-      "published": "2026-07-21T18:55:45+00:00",
-      "coins": [],
-      "compound": -0.8402,
-      "label": "BEARISH",
-      "confidence": 0.8402
-    },
-    {
-      "source": "Decrypt",
       "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
       "summary": "OpenAI's own models just broke out of a sandboxed environment, hacked Hugging Face, just to cheat on a cybersecurity evaluation.",
       "url": "https://decrypt.co/374015/openai-models-escaped-test-environment-hacked-hugging-face-cheat-benchmark",
@@ -283,25 +286,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "US seeks forfeiture of $25 million in crypto tied to global fraud investigations",
-      "summary": "<p>US prosecutors seek forfeiture of $25 million in crypto recovered from five investigations into international fraud and laundering networks.</p>",
-      "url": "https://www.theblock.co/post/409194/us-seeks-forfeiture-25-million-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T07:41:49+00:00",
+      "title": "Bipartisan support \u2018critical\u2019 as Democrats push back on GOP crypto bill on ethics grounds",
+      "summary": "<p>Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.</p>",
+      "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-22T21:57:28+00:00",
       "coins": [],
-      "compound": -0.8225,
-      "label": "BEARISH",
-      "confidence": 0.8225
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
-      "summary": "Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6\u201310x efficiency gain.",
-      "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
-      "published": "2026-07-21T17:24:37+00:00",
-      "coins": [],
-      "compound": 0.7096,
+      "compound": 0.7269,
       "label": "BULLISH",
-      "confidence": 0.7096
+      "confidence": 0.7269
     },
     {
       "source": "TheBlock",
@@ -348,17 +340,6 @@
       "confidence": 0.4939
     },
     {
-      "source": "TheBlock",
-      "title": "BIS warns USD stablecoins can evade capital controls, challenging traditional market regulations",
-      "summary": "<p>BIS says that FX restrictions and capital controls are less effective against stablecoins than against foreign currency bank deposits.</p>",
-      "url": "https://www.theblock.co/post/409193/bis-warns-stablecoins-capital-controls?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T07:47:26+00:00",
-      "coins": [],
-      "compound": 0.4601,
-      "label": "BULLISH",
-      "confidence": 0.4601
-    },
-    {
       "source": "Decrypt",
       "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
       "summary": "The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work\u2014and that most investors aren't positioned for it.",
@@ -381,11 +362,22 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
-      "summary": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
-      "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
-      "published": "2026-07-21T18:13:48+00:00",
+      "source": "CoinDesk",
+      "title": "Senator Lummis: Ethics, other provisions in crypto Clarity Act to be further discussed",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/22/senator-lummis-ethics-other-provisions-in-crypto-clarity-act-to-be-further-discussed",
+      "published": "2026-07-22T23:19:41+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Key Democratic lawmakers say crypto Clarity Act 'falls short' on ethics, other issues",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/22/key-democratic-lawmakers-say-crypto-clarity-act-falls-short-on-ethics-other-issues",
+      "published": "2026-07-22T22:22:25+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -524,6 +516,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "Decrypt",
+      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
+      "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
+      "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
+      "published": "2026-07-22T21:13:04+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
       "source": "TheBlock",
       "title": "SEC reaches settlement with Coinbase over records requests from Gensler era",
       "summary": "<p>The SEC reached a settlement with Coinbase on Wednesday, ending a years-long legal dispute over the agency's handling of records requests.</p>",
@@ -557,17 +560,6 @@
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken parent expands tokenized stocks to Hong Kong, UK and South Korea equities",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/22/kraken-parent-expands-tokenized-stocks-to-hong-kong-uk-and-south-korea-equities",
-      "published": "2026-07-22T10:30:00+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "TheBlock",
       "title": "Zilliqa halts native transactions over bug in its Ledger app dating to 2019",
       "summary": "<p>Zilliqa halted native transactions after revealing a bug in its Ledger app dating to 2019 that exposed private keys via onchain signatures.</p>",
@@ -588,6 +580,17 @@
       "compound": -0.0516,
       "label": "BEARISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "Decrypt",
+      "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
+      "summary": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
+      "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
+      "published": "2026-07-22T19:46:59+00:00",
+      "coins": [],
+      "compound": -0.0103,
+      "label": "NEUTRAL",
+      "confidence": 0.0103
     },
     {
       "source": "CoinDesk",
@@ -617,6 +620,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/22/midnight-token-rebounds-after-wanchain-bridge-hack-hoskinson-calls-for-industry-overhaul",
       "published": "2026-07-22T11:45:42+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
+      "summary": "Payward and fintech GTN are teaming up to bring xStocks\u2014blockchain-based copies of real company shares\u2014to Hong Kong, the UK, Europe, and South Korea.",
+      "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
+      "published": "2026-07-22T20:07:34+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
