@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:37:25.133077+00:00",
+  "generated_at": "2026-07-24T03:31:03.818411+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -102,12 +102,25 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": -0.0203,
-      "overall": "NEUTRAL",
-      "bullish": 6,
-      "bearish": 10,
+      "avg_compound": 0.1451,
+      "overall": "BULLISH",
+      "bullish": 10,
+      "bearish": 6,
       "neutral": 4,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Elizabeth Warren Claims Clarity Act Would Help Trump \u2014 And \u2018Criminals and Cartels\u2019",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Elizabeth-Warren-Claims-Clarity-Act-Would-Help-Trump.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act\" rel=\"nofollow\">Elizabeth Warren Claims Clarity Act Would Help Trump \u2014 And &#8216;Criminals and Cartels&#8217;</a></p>\n<p>The anti-crypto senator claims the latest Clarity bill draft would allow the president to cash in. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act\" rel=\"nofollow\">Elizabeth Warren Claims Clarity Act Would Help Trump \u2014 And &#8216;Criminals and Cartels&#8217;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/elizabeth-warren-slams-clarity-act",
+          "published": "2026-07-23T20:44:09+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9423,
+          "label": "BULLISH",
+          "confidence": 0.9423
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
@@ -133,19 +146,6 @@
           "compound": -0.9231,
           "label": "BEARISH",
           "confidence": 0.9231
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Slumps-But-These-Mining-Stocks-Are-Up-Thanks-to-AI-Deals.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a></p>\n<p>Bitcoin is selling off and so is the stock market \u2014 but mining stocks are on a tear. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up",
-          "published": "2026-07-23T19:05:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8271,
-          "label": "BULLISH",
-          "confidence": 0.8271
         }
       ],
       "no_news": false
@@ -373,6 +373,17 @@
       "confidence": 0.743
     },
     {
+      "source": "Decrypt",
+      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
+      "summary": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
+      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
+      "published": "2026-07-23T20:44:09+00:00",
+      "coins": [],
+      "compound": 0.7297,
+      "label": "BULLISH",
+      "confidence": 0.7297
+    },
+    {
       "source": "TheBlock",
       "title": "Bipartisan support \u2018critical\u2019 as Democrats push back on GOP crypto bill on ethics grounds",
       "summary": "<p>Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.</p>",
@@ -382,17 +393,6 @@
       "compound": 0.7269,
       "label": "BULLISH",
       "confidence": 0.7269
-    },
-    {
-      "source": "Decrypt",
-      "title": "Clarity Act Latest Draft Bars Trump From Crypto Ventures\u2014But Only Until 2029",
-      "summary": "The long-awaited market-structure bill would block officials and their spouses from issuing digital assets and shield non-custodial developers, but the ethics ban expires in 2029 and enforcement rests solely with the DOJ.",
-      "url": "https://decrypt.co/374056/clarity-act-draft-trump-crypto-ventures",
-      "published": "2026-07-22T17:51:54+00:00",
-      "coins": [],
-      "compound": -0.6858,
-      "label": "BEARISH",
-      "confidence": 0.6858
     },
     {
       "source": "TheBlock",
@@ -426,17 +426,6 @@
       "compound": -0.4767,
       "label": "BEARISH",
       "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
-      "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
-      "summary": "The asset manager argues that AI software capable of paying for things autonomously will need blockchain rails to work\u2014and that most investors aren't positioned for it.",
-      "url": "https://decrypt.co/374055/franklin-templeton-agentic-ai-crypto-killer-use-case",
-      "published": "2026-07-22T19:04:05+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
     },
     {
       "source": "CoinDesk",
@@ -516,6 +505,17 @@
       "confidence": 0.296
     },
     {
+      "source": "CoinDesk",
+      "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
+      "published": "2026-07-23T20:16:37+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
       "source": "Decrypt",
       "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
       "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
@@ -582,11 +582,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "BitMEX, the exchange that invented perps, is shutting down",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/23/bitmex-s-11-year-run-comes-to-an-end-notifies-users-it-is-ending-operations-in-by-sept-23",
-      "published": "2026-07-23T08:42:26+00:00",
+      "source": "Decrypt",
+      "title": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video\u2014And Robot Hands",
+      "summary": "FLUX 3 is the German AI lab\u2019s first video model, and the same system is already teaching robots to work an Audi assembly line.",
+      "url": "https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands",
+      "published": "2026-07-23T22:02:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
