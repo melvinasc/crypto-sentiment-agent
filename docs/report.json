@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-07-24T08:37:26.544673+00:00",
+  "generated_at": "2026-07-24T14:01:56.821135+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.3779,
+      "article_count": 2,
+      "avg_compound": -0.3634,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
-      "neutral": 2,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid",
-          "summary": "<p>A second Verus-Ethereum bridge exploit in two months drained $7.54 million through the same vulnerability class used in May, per Blockaid.</p>",
-          "url": "https://www.theblock.co/post/409489/new-verus-ethereum-bridge-attack?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T08:37:38+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7845,
-          "label": "BEARISH",
-          "confidence": 0.7845
-        },
         {
           "source": "Decrypt",
           "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
@@ -37,14 +24,14 @@
           "confidence": 0.7269
         },
         {
-          "source": "CoinDesk",
-          "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-          "published": "2026-07-24T07:22:26+00:00",
+          "source": "TheBlock",
+          "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+          "summary": "<p>LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.</p>",
+          "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T13:00:00+00:00",
           "coins": [
-            "DOGE",
-            "ETH"
+            "ETH",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -102,12 +89,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.1945,
+      "article_count": 26,
+      "avg_compound": 0.0932,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 5,
-      "neutral": 3,
+      "bullish": 11,
+      "bearish": 7,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -124,19 +111,6 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin\" rel=\"nofollow\">BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development</a></p>\n<p>Nine major Bitcoin firms launched a consortium pledging $15 million to support Bitcoin security research and long-term resilience, including quantum readiness.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin\" rel=\"nofollow\">BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/blackrock-coinbase-strategy-bitcoin",
-          "published": "2026-07-23T13:33:43+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9367,
-          "label": "BULLISH",
-          "confidence": 0.9367
-        },
-        {
-          "source": "Bitcoin Magazine",
           "title": "BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a></p>\n<p>BlackRock thinks Bitcoin and other crypto networks have the upper hand when facing the threat of quantum computers. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum",
@@ -147,55 +121,19 @@
           "compound": -0.9231,
           "label": "BEARISH",
           "confidence": 0.9231
-        }
-      ],
-      "no_news": false
-    },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+        },
         {
-          "source": "CoinDesk",
-          "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-          "published": "2026-07-23T14:00:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Slumps-But-These-Mining-Stocks-Are-Up-Thanks-to-AI-Deals.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a></p>\n<p>Bitcoin is selling off and so is the stock market \u2014 but mining stocks are on a tear. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up",
+          "published": "2026-07-23T19:05:36+00:00",
           "coins": [
-            "UNI"
+            "BTC"
           ],
-          "compound": 0.1779,
+          "compound": 0.8271,
           "label": "BULLISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-          "published": "2026-07-24T07:22:26+00:00",
-          "coins": [
-            "DOGE",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.8271
         }
       ],
       "no_news": false
@@ -256,6 +194,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -335,6 +283,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -403,17 +361,6 @@
       "confidence": 0.765
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea\u2019s Mirae Asset completes acquisition of Korbit crypto exchange",
-      "summary": "<p>Mirae Asset also plans to increase its stake from 92.06% to 97.15% through an additional deal later this week, local media reported.</p>",
-      "url": "https://www.theblock.co/post/409485/mirae-asset-completes-acquisition-korbit?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T05:01:21+00:00",
-      "coins": [],
-      "compound": 0.743,
-      "label": "BULLISH",
-      "confidence": 0.743
-    },
-    {
       "source": "Decrypt",
       "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
       "summary": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
@@ -423,6 +370,28 @@
       "compound": 0.7297,
       "label": "BULLISH",
       "confidence": 0.7297
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's institutional influx has killed the memecoin craze",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
+      "published": "2026-07-24T11:35:48+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
+      "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
+      "url": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft",
+      "published": "2026-07-24T09:40:50+00:00",
+      "coins": [],
+      "compound": 0.6908,
+      "label": "BULLISH",
+      "confidence": 0.6908
     },
     {
       "source": "TheBlock",
@@ -437,6 +406,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged \u2018Insider Trading Desk\u2019 as exchange winds down",
+      "summary": "<p>BitMEX, Arthur Hayes, Samuel Reed and Benjamin Delo face a proposed class action alleging insider trading and deliberate server freezes.</p>",
+      "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T12:38:21+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
+    },
+    {
+      "source": "TheBlock",
       "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
       "summary": "<p>The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard.</p>",
       "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
@@ -447,48 +427,15 @@
       "confidence": 0.5574
     },
     {
-      "source": "CoinDesk",
-      "title": "The KIDS Act is way worse than digital carding \u2014 it is a mass surveillance system",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/23/the-kids-act-is-way-worse-than-digital-carding-it-is-a-mass-surveillance-system",
-      "published": "2026-07-23T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
+      "summary": "The order gave GitHub three hours to pull three code repositories, citing the messaging app's use during protest internet shutdowns.",
+      "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
+      "published": "2026-07-24T12:20:01+00:00",
       "coins": [],
-      "compound": -0.4767,
+      "compound": -0.4404,
       "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street locks them out",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
-      "published": "2026-07-23T18:10:02+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Coinbase's corporate customers can now accept payments from AI agents",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/23/coinbase-closes-the-gaps-in-ai-agent-economy-for-businesses-users-and-developers",
-      "published": "2026-07-23T16:54:12+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Goldman Sachs CEO backs Clarity Act despite banking industry's concerns over stablecoin rules",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/23/goldman-sachs-ceo-backs-clarity-act-despite-banking-industry-s-concerns-over-stablecoin-rules",
-      "published": "2026-07-23T13:53:19+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -502,17 +449,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO Vlad Tenev's X account hacked to promote token amid memecoin frenzy",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/23/robinhood-ceo-vlad-tenev-s-x-account-hacked-to-promote-token-amid-memecoin-frenzy",
-      "published": "2026-07-23T18:29:31+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
       "source": "TheBlock",
       "title": "How Do Stablecoins Maintain Their Peg?",
       "summary": "<p>A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market [&hellip;]</p>",
@@ -522,39 +458,6 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The SEC settles with Coinbase over its missing Gary Gensler texts",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/23/sec-agrees-to-end-lawsuit-over-missing-ethereum-records-will-pay-usd150-000-in-fees",
-      "published": "2026-07-23T15:36:39+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-      "published": "2026-07-23T20:16:37+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-      "summary": "The company's \"Everything Exchange\" is heading north. No launch date set yet, but the Coinbase Canada CEO says phase two for the company is in motion.",
-      "url": "https://decrypt.co/374110/coinbase-canada-stocks-crypto-prediction-markets",
-      "published": "2026-07-22T21:13:04+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
     },
     {
       "source": "Decrypt",
@@ -579,15 +482,48 @@
       "confidence": 0.0258
     },
     {
-      "source": "Decrypt",
-      "title": "Alibaba's New Qwen Image 3 AI Wants to Be Useful, Not Just Pretty",
-      "summary": "Qwen Image 3.0 generates dense newspapers and infographic grids in one shot and renders text down to 10 pixels. The catch: no benchmarks, no open weights.",
-      "url": "https://decrypt.co/374084/alibaba-qwen-image-3-ai-useful-not-just-pretty",
-      "published": "2026-07-22T19:46:59+00:00",
+      "source": "CoinDesk",
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "published": "2026-07-24T13:03:03+00:00",
       "coins": [],
-      "compound": -0.0103,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0103
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
+      "published": "2026-07-24T11:58:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
+      "published": "2026-07-24T11:49:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX faces proposed class-action suit for theft, insider trading as crypto exchange shuts down",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/24/bitmex-faces-proposed-class-action-suit-for-theft-insider-trading-as-crypto-exchange-shuts-down",
+      "published": "2026-07-24T09:54:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -595,28 +531,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
       "published": "2026-07-24T06:10:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: It\u2019s time for tokenization to get to work",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work",
-      "published": "2026-07-23T14:53:34+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Abu Dhabi's Mubadala Capital joins tokenization push as Coinbase takes stake in onchain fund",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/23/abu-dhabi-s-mubadala-capital-joins-tokenization-push-as-coinbase-takes-stake-in-onchain-fund",
-      "published": "2026-07-23T12:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -639,17 +553,6 @@
       "summary": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
       "url": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
       "published": "2026-07-23T08:46:51+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
-      "summary": "Payward and fintech GTN are teaming up to bring xStocks\u2014blockchain-based copies of real company shares\u2014to Hong Kong, the UK, Europe, and South Korea.",
-      "url": "https://decrypt.co/374106/kraken-parent-xstocks-beyond-us-equities",
-      "published": "2026-07-22T20:07:34+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
