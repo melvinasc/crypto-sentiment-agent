@@ -1,64 +1,27 @@
 {
-  "generated_at": "2026-07-24T14:01:56.821135+00:00",
+  "generated_at": "2026-07-24T19:40:38.645941+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.3634,
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": -0.3182,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Arbitrum Perp DEX AFX Trade Drained of $24M, Offers Hacker 30% to Return It",
-          "summary": "The exploit hit a custody bridge AFX operates rather than the Arbitrum network itself, with the stolen funds quickly moved to Ethereum.",
-          "url": "https://decrypt.co/374133/arbitrum-perp-dex-afx-trade-drained-of-24m-offers-hacker-30-to-return-it",
-          "published": "2026-07-23T10:24:09+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7269,
-          "label": "BEARISH",
-          "confidence": 0.7269
-        },
-        {
-          "source": "TheBlock",
-          "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
-          "summary": "<p>LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.</p>",
-          "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T13:00:00+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.3182,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Ripple\u2019s RLUSD gets two boosts as transfer volume drops 25%",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
-          "published": "2026-07-24T06:33:37+00:00",
+          "source": "TheBlock",
+          "title": "Cardano co-founder Hoskinson says Bitcoin could lose top spot if governance fails quantum test",
+          "summary": "<p>Cardano\u2019s governance and ability to enact upgrades make it better equipped to respond to existential technical threats, said Hoskinson.</p>",
+          "url": "https://www.theblock.co/post/409627/cardano-co-founder-hoskinson-bitcoin-lose-top-spot-governance-fails-quantum-test?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-24T19:01:53+00:00",
           "coins": [
-            "XRP"
+            "ADA",
+            "BTC"
           ],
-          "compound": 0.3182,
-          "label": "BULLISH",
+          "compound": -0.3182,
+          "label": "BEARISH",
           "confidence": 0.3182
         }
       ],
@@ -88,13 +51,37 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": 0.0932,
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.2144,
       "overall": "BULLISH",
-      "bullish": 11,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+          "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
+          "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+          "published": "2026-07-24T19:30:01+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.2144,
+          "label": "BULLISH",
+          "confidence": 0.2144
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": 0.1427,
+      "overall": "BULLISH",
+      "bullish": 12,
       "bearish": 7,
-      "neutral": 8,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -111,29 +98,54 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a></p>\n<p>BlackRock thinks Bitcoin and other crypto networks have the upper hand when facing the threat of quantum computers. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum\" rel=\"nofollow\">BlackRock Says Crypto Can Outrun the Quantum Threat \u2014 If It Moves Fast Enough</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/blackrock-says-bitcoin-can-outrun-quantum",
-          "published": "2026-07-23T16:50:23+00:00",
+          "title": "Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Top-Crypto-Industry-Groups-Pen-Letter-to-Senate-Leaders-U.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity\" rel=\"nofollow\">Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act</a></p>\n<p>Three advocacy groups are the latest to throw their support behind the crypto market structure bill. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity\" rel=\"nofollow\">Top Crypto Industry Groups Pen Letter to Senate Leaders Urging Them To Support the Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/crypto-industry-groups-support-the-clarity",
+          "published": "2026-07-24T16:05:35+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9231,
-          "label": "BEARISH",
-          "confidence": 0.9231
+          "compound": 0.9413,
+          "label": "BULLISH",
+          "confidence": 0.9413
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Slumps-But-These-Mining-Stocks-Are-Up-Thanks-to-AI-Deals.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a></p>\n<p>Bitcoin is selling off and so is the stock market \u2014 but mining stocks are on a tear. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up\" rel=\"nofollow\">Bitcoin Slumps But These Mining Stocks Are Up Thanks to AI Deals</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-is-down-but-mining-stocks-are-up",
-          "published": "2026-07-23T19:05:36+00:00",
+          "title": "National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Pics-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act\" rel=\"nofollow\">National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill</a></p>\n<p>A number of organizations have thrown support behind the bill this week. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act\" rel=\"nofollow\">National Fraternal Order of Police Gives Green Light to Clarity Act in Latest Support for Crypto Bill</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/fraternal-order-police-support-clarity-act",
+          "published": "2026-07-24T17:07:18+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8271,
+          "compound": 0.936,
           "label": "BULLISH",
-          "confidence": 0.8271
+          "confidence": 0.936
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "LayerZero, Keeta enable tokenized bank deposits across Ethereum, Solana and Base",
+          "summary": "<p>LayerZero and Keeta have partnered to enable native transfers of tokenized bank deposits across Ethereum, Solana, Base, and Keeta.</p>",
+          "url": "https://www.theblock.co/post/409507/layerzero-keeta-enable-tokenized-bank-deposits-across-ethereum-solana-and-base?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T13:00:00+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -162,16 +174,6 @@
         }
       ],
       "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -293,7 +295,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -306,26 +308,15 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Robinhood CEO Vlad Tenev's X Account Hacked to Shill Fake 'Vladhood' Token",
-      "summary": "The deleted post touted a bogus \"Vladhood\" token as the mascot of Robinhood Chain\u2014the latest fraud to exploit a network currently dominated by memes.",
-      "url": "https://decrypt.co/374175/robinhood-ceo-vlad-tenevs-x-account-hacked-to-shill-fake-vladhood-token",
-      "published": "2026-07-23T19:27:57+00:00",
+      "source": "TheBlock",
+      "title": "Wise plans to resubmit national trust bank application under GENIUS Act framework",
+      "summary": "<p>The OCC has granted conditional approval to several stablecoin-focused entities since December.</p>",
+      "url": "https://www.theblock.co/post/409631/wise-plans-resubmit-national-trust-bank-application-under-genius-act-framework?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T17:37:34+00:00",
       "coins": [],
-      "compound": -0.8807,
-      "label": "BEARISH",
-      "confidence": 0.8807
-    },
-    {
-      "source": "Decrypt",
-      "title": "Southeast Asian Scam Networks Cost Victims Up to $114B in a Year: UN",
-      "summary": "Once-fragmented syndicates have fused into a single, tech-driven criminal economy that increasingly runs on crypto, the UNODC warns.",
-      "url": "https://decrypt.co/374140/southeast-asian-scam-networks-cost-victims-up-to-114b-in-a-year-un",
-      "published": "2026-07-23T12:34:20+00:00",
-      "coins": [],
-      "compound": -0.8689,
-      "label": "BEARISH",
-      "confidence": 0.8689
+      "compound": 0.8885,
+      "label": "BULLISH",
+      "confidence": 0.8885
     },
     {
       "source": "TheBlock",
@@ -340,14 +331,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Crypto 'Wrench Attacks' Cost Victims $124M in Six Months, Up 12x: CertiK",
-      "summary": "Physical attacks on crypto holders are increasingly happening at home, and France has become the epicenter, a new report finds.",
-      "url": "https://decrypt.co/374136/crypto-wrench-attacks-cost-victims-124m-in-six-months-up-12x-certik",
-      "published": "2026-07-23T11:10:51+00:00",
+      "title": "Clarity Act on the Ropes as Ethics Fight and Shrinking Calendar Threaten Passage",
+      "summary": "Senate Majority Leader John Thune signals the crypto market-structure bill likely won't clear the chamber before the August recess, as Democrats reject the GOP's ethics language and analysts slash the odds of passage.",
+      "url": "https://decrypt.co/374300/clarity-act-ethics-fight-shrinking-calendar-threaten-passage",
+      "published": "2026-07-24T17:50:26+00:00",
       "coins": [],
-      "compound": -0.7964,
+      "compound": -0.8168,
       "label": "BEARISH",
-      "confidence": 0.7964
+      "confidence": 0.8168
     },
     {
       "source": "TheBlock",
@@ -359,6 +350,28 @@
       "compound": 0.765,
       "label": "BULLISH",
       "confidence": 0.765
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, Meta, and Microsoft Tell Washington: Don't Kill Open-Source AI",
+      "summary": "Twenty-five companies signed a letter defending open-weight models days after a Chinese AI helped Hugging Face survive a hack triggered by OpenAI's own systems.",
+      "url": "https://decrypt.co/374282/nvidia-meta-microsoft-washington-dont-kill-open-source-ai",
+      "published": "2026-07-24T16:34:25+00:00",
+      "coins": [],
+      "compound": 0.7606,
+      "label": "BULLISH",
+      "confidence": 0.7606
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
+      "published": "2026-07-24T15:01:46+00:00",
+      "coins": [],
+      "compound": 0.743,
+      "label": "BULLISH",
+      "confidence": 0.743
     },
     {
       "source": "Decrypt",
@@ -381,6 +394,17 @@
       "compound": -0.7269,
       "label": "BEARISH",
       "confidence": 0.7269
+    },
+    {
+      "source": "TheBlock",
+      "title": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs \u2018last-ditch effort\u2019",
+      "summary": "<p>Seven Democratic negotiators say the latest Clarity Act draft needs stronger ethics and consumer protections.</p>",
+      "url": "https://www.theblock.co/post/409608/galaxy-says-clarity-act-now-needs-last-ditch-effort-cuts-passage-odds-30?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T15:11:17+00:00",
+      "coins": [],
+      "compound": 0.7003,
+      "label": "BULLISH",
+      "confidence": 0.7003
     },
     {
       "source": "Decrypt",
@@ -428,6 +452,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK",
+      "summary": "The 21st package stops short of a full asset freeze for HTX, which it accused of \"significantly frustrating\" its Russia measures.",
+      "url": "https://decrypt.co/374245/eu-names-justin-suns-htx-in-russia-sanctions-two-months-after-uk",
+      "published": "2026-07-24T14:21:37+00:00",
+      "coins": [],
+      "compound": -0.4588,
+      "label": "BEARISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
       "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
       "summary": "The order gave GitHub three hours to pull three code repositories, citing the messaging app's use during protest internet shutdowns.",
       "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
@@ -436,17 +471,6 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
-    },
-    {
-      "source": "Decrypt",
-      "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans\u2014And It's Working",
-      "summary": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
-      "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
-      "published": "2026-07-23T17:31:17+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -460,15 +484,15 @@
       "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
-      "summary": "At least that's what Bitwise's CIO believes. Plus Republicans publish new Clarity Act draft, and the SEC Commissioner has a warning for DeFi.",
-      "url": "https://decrypt.co/374139/morning-minute-wall-street-moving-onchain-will-drive-the-next-bull-market",
-      "published": "2026-07-23T12:02:52+00:00",
+      "source": "CoinDesk",
+      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
+      "published": "2026-07-24T15:00:00+00:00",
       "coins": [],
-      "compound": 0.0772,
+      "compound": 0.25,
       "label": "BULLISH",
-      "confidence": 0.0772
+      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -480,6 +504,17 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
+      "published": "2026-07-24T14:36:16+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -526,11 +561,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-      "published": "2026-07-24T06:10:49+00:00",
+      "source": "Decrypt",
+      "title": "Claude Opus 5 Outscores Fable 5 on Most Benchmarks\u2014At Half the Price",
+      "summary": "Anthropic's new everyday model undercuts its own frontier product on cost and beats it almost everywhere that counts.",
+      "url": "https://decrypt.co/374305/claude-opus-5-outscores-fable-5-most-benchmarks-half-price",
+      "published": "2026-07-24T18:28:43+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "World Foundation Raises $52.5M to Scale Sam Altman\u2019s \u2018Proof of Human\u2019 ID",
+      "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
+      "url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
+      "published": "2026-07-24T14:57:56+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -548,33 +594,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "BitMEX to Close on September 23, Halts New Sign-Ups",
-      "summary": "The crypto derivatives pioneer told users to close positions and withdraw funds before it goes dark on September 23.",
-      "url": "https://decrypt.co/374125/bitmex-to-close-on-september-23-halts-new-sign-ups",
-      "published": "2026-07-23T08:46:51+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
-      "title": "Circle partners with Kakao, Toss Bank to explore stablecoin payment rails in South Korea",
-      "summary": "<p>Circle plans to explore blockchain-based payment infrastructure in South Korea through partnerships with Kakao and Toss.</p>",
-      "url": "https://www.theblock.co/post/409497/circle-partners-with-kakao-toss?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T09:09:42+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "BitMEX to shut down permanently 11 years after Arthur Hayes co-founded crypto exchange",
-      "summary": "<p>BitMEX, co-founded by Arthur Hayes, will shut down on Sept. 23, 2026, at 04:00 UTC after owner HDR Global Trading's strategic review. </p>",
-      "url": "https://www.theblock.co/post/409495/bitmex-to-shut-down-permanently?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T09:00:36+00:00",
+      "title": "World Foundation raises $52.5 million in WLD token sale with one-year lockup",
+      "summary": "<p>The \"first close\" of the WLD token sale was led by Pantera and included Bain Capital Crypto, Eightco Holdings, Selini, Susquehanna other investors.</p>",
+      "url": "https://www.theblock.co/post/409610/world-foundation-wld-token-sale-funding?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T14:50:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
