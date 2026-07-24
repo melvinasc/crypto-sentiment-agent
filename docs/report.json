@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-07-24T03:31:03.818411+00:00",
+  "generated_at": "2026-07-24T08:37:26.544673+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
       "article_count": 4,
-      "avg_compound": -0.5797,
+      "avg_compound": -0.3779,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
-      "neutral": 1,
+      "bearish": 2,
+      "neutral": 2,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Arbitrum protocol AFX Trade hit by $24 million bridge exploit: Blockaid",
-          "summary": "<p>PeckShield flagged that the attacker bridged the stolen funds from Arbitrum to Ethereum and swapped them for 12,467 ETH.</p>",
-          "url": "https://www.theblock.co/post/409482/arbitrum-protocol-afx-trade-exploit?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T01:39:41+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        },
         {
           "source": "TheBlock",
           "title": "New Verus-Ethereum bridge attack drains $7.5 million through flaw used in May: Blockaid",
@@ -48,6 +35,44 @@
           "compound": -0.7269,
           "label": "BEARISH",
           "confidence": 0.7269
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
+          "published": "2026-07-24T07:22:26+00:00",
+          "coins": [
+            "DOGE",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.3182,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple\u2019s RLUSD gets two boosts as transfer volume drops 25%",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
+          "published": "2026-07-24T06:33:37+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
@@ -76,37 +101,13 @@
       ],
       "no_news": false
     },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
-          "published": "2026-07-23T14:00:00+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.1451,
+      "article_count": 18,
+      "avg_compound": 0.1945,
       "overall": "BULLISH",
       "bullish": 10,
-      "bearish": 6,
-      "neutral": 4,
+      "bearish": 5,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -146,6 +147,55 @@
           "compound": -0.9231,
           "label": "BEARISH",
           "confidence": 0.9231
+        }
+      ],
+      "no_news": false
+    },
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Uniswap pushes deeper into tokenized assets with permissioned trading pools",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools",
+          "published": "2026-07-23T14:00:00+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
+          "published": "2026-07-24T07:22:26+00:00",
+          "coins": [
+            "DOGE",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -206,16 +256,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -304,16 +344,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -338,6 +368,17 @@
       "compound": -0.8689,
       "label": "BEARISH",
       "confidence": 0.8689
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Largest Stablecoins Ranked",
+      "summary": "<p>In recent years, stablecoins have emerged as crypto\u2019s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T06:18:31+00:00",
+      "coins": [],
+      "compound": 0.8258,
+      "label": "BULLISH",
+      "confidence": 0.8258
     },
     {
       "source": "Decrypt",
@@ -385,17 +426,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Bipartisan support \u2018critical\u2019 as Democrats push back on GOP crypto bill on ethics grounds",
-      "summary": "<p>Latest Clarity Act draft is drawing praise from the crypto industry and criticism from Democrats and bankers, highlighting deep divisions.</p>",
-      "url": "https://www.theblock.co/post/409470/bipartisan-support-critical-as-democrats-push-back-on-gop-crypto-bill-on-ethics-grounds?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-22T21:57:28+00:00",
-      "coins": [],
-      "compound": 0.7269,
-      "label": "BULLISH",
-      "confidence": 0.7269
-    },
-    {
-      "source": "TheBlock",
       "title": "Coinbase calls AI payments its \u2018most high-conviction bet\u2019 as businesses begin accepting agent payments",
       "summary": "<p>Coinbase will enable businesses to accept payments from AI bots, powered by Coinbase Payments and the x402 standard.</p>",
       "url": "https://www.theblock.co/post/409539/coinbase-ai-payments-most-high-conviction-bet-businesses-accepting-agent-payments?utm_source=rss&utm_medium=rss",
@@ -429,7 +459,7 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street lock them out",
+      "title": "Tassat wants to help smaller banks tap the trillion-dollar stablecoin boom before Wall Street locks them out",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/23/tassat-wants-to-help-smaller-banks-tap-the-trillion-dollar-stablecoin-boom-before-wall-street-lock-them-out",
       "published": "2026-07-23T18:10:02+00:00",
@@ -447,17 +477,6 @@
       "coins": [],
       "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Polymarket to challenge France\u2019s nationwide website block",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/23/polymarket-to-challenge-france-s-nationwide-website-block",
-      "published": "2026-07-23T11:53:53+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
       "confidence": 0.3818
     },
     {
@@ -491,6 +510,17 @@
       "coins": [],
       "compound": -0.34,
       "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "How Do Stablecoins Maintain Their Peg?",
+      "summary": "<p>A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/409577/how-do-stablecoins-maintain-their-peg?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-24T06:01:11+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
       "confidence": 0.34
     },
     {
@@ -558,6 +588,17 @@
       "compound": -0.0103,
       "label": "NEUTRAL",
       "confidence": 0.0103
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+      "published": "2026-07-24T06:10:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
