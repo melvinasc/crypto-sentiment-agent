@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-07-25T13:52:43.927183+00:00",
+  "generated_at": "2026-07-25T19:19:35.638697+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": -0.3818,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+          "summary": "<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>",
+          "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-25T13:59:06+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 1,
       "avg_compound": -0.3182,
@@ -76,12 +101,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.1906,
+      "article_count": 22,
+      "avg_compound": 0.2042,
       "overall": "BULLISH",
-      "bullish": 12,
+      "bullish": 11,
       "bearish": 6,
-      "neutral": 6,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -166,16 +191,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -289,6 +304,17 @@
       "confidence": 0.8885
     },
     {
+      "source": "Decrypt",
+      "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
+      "summary": "The AI Kill Switch Act would let Homeland Security order frontier AI throttled or shut down, with fines up to $20 million a day for defying it.",
+      "url": "https://decrypt.co/374332/what-is-ai-kill-switch-openai-hack-hugging-face",
+      "published": "2026-07-25T14:01:03+00:00",
+      "coins": [],
+      "compound": -0.8271,
+      "label": "BEARISH",
+      "confidence": 0.8271
+    },
+    {
       "source": "TheBlock",
       "title": "The Largest Stablecoins Ranked",
       "summary": "<p>In recent years, stablecoins have emerged as crypto\u2019s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion [&hellip;]</p>",
@@ -311,15 +337,15 @@
       "confidence": 0.8168
     },
     {
-      "source": "TheBlock",
-      "title": "Proof of Reserves: What It Means for Exchange Trust",
-      "summary": "<p>The Trust Deficit For most of the crypto industry&#8217;s history, users who deposited assets with an exchange simply trusted that the funds were there. FTX ended that complacency when it collapsed in 2022, with investigators finding that billions in customer deposits had been quietly diverted to its affiliated trading firm, leaving a shortfall of roughly [&hellip;]</p>",
-      "url": "https://www.theblock.co/post/409524/proof-of-reserves-what-it-means-for-exchange-trust?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T13:39:10+00:00",
+      "source": "CoinDesk",
+      "title": "North Korea arrests hackers accused of laundering stolen funds from country's bank via crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/25/north-korea-arrests-hackers-accused-of-laundering-stolen-funds-from-country-s-bank-via-crypto",
+      "published": "2026-07-25T15:46:05+00:00",
       "coins": [],
-      "compound": 0.765,
-      "label": "BULLISH",
-      "confidence": 0.765
+      "compound": -0.8074,
+      "label": "BEARISH",
+      "confidence": 0.8074
     },
     {
       "source": "Decrypt",
@@ -342,17 +368,6 @@
       "compound": 0.743,
       "label": "BULLISH",
       "confidence": 0.743
-    },
-    {
-      "source": "Decrypt",
-      "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-      "summary": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
-      "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
-      "published": "2026-07-23T20:44:09+00:00",
-      "coins": [],
-      "compound": 0.7297,
-      "label": "BULLISH",
-      "confidence": 0.7297
     },
     {
       "source": "CoinDesk",
@@ -454,6 +469,17 @@
       "confidence": 0.34
     },
     {
+      "source": "TheBlock",
+      "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
+      "summary": "<p>A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com\u2019s derivatives business, though no deal has yet been reached.</p>",
+      "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-25T17:27:20+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
       "source": "CoinDesk",
       "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
       "summary": "",
@@ -496,6 +522,17 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia\u2019s largest bank Sberbank plans crypto trading infrastructure by December",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/25/russia-s-largest-bank-sberbank-plans-crypto-trading-infrastructure-by-december",
+      "published": "2026-07-25T16:59:36+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
