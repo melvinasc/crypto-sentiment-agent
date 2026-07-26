@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:45:18.141500+00:00",
+  "generated_at": "2026-07-26T19:22:32.062941+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -98,30 +98,6 @@
           "compound": 0.9423,
           "label": "BULLISH",
           "confidence": 0.9423
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.25,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Swan CEO claims Twenty One serves Tether\u2019s US political interests, calls Mallers\u2019 role \u2018ceremonial\u2019",
-          "summary": "<p>Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten.</p>",
-          "url": "https://www.theblock.co/post/409538/swan-ceo-twenty-one-serves-tethers-us-political-interests-mallers-role-ceremonial?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T16:31:59+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
         }
       ],
       "no_news": false
@@ -294,6 +270,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -338,6 +324,17 @@
       "compound": 0.8258,
       "label": "BULLISH",
       "confidence": 0.8258
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
+      "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
+      "url": "https://decrypt.co/373884/review-inkling-mira-murati-first-open-source-ai",
+      "published": "2026-07-26T14:01:03+00:00",
+      "coins": [],
+      "compound": 0.8176,
+      "label": "BULLISH",
+      "confidence": 0.8176
     },
     {
       "source": "Decrypt",
@@ -448,6 +445,17 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "CoinDesk",
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "published": "2026-07-26T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -593,17 +601,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto market maker B2C2 held sale talks with multiple potential buyers",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/06/29/crypto-market-maker-b2c2-held-sale-talks-with-multiple-potential-buyers",
-      "published": "2026-07-24T11:49:06+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
       "summary": "For the first time, real-world assets\u2014stocks, commodities, and market indices\u2014outpaced crypto on the world's biggest decentralized derivatives exchange.",
@@ -637,11 +634,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Black Forest Labs Unveils FLUX 3 AI: Ditches Stills for Video\u2014And Robot Hands",
-      "summary": "FLUX 3 is the German AI lab\u2019s first video model, and the same system is already teaching robots to work an Audi assembly line.",
-      "url": "https://decrypt.co/374189/black-forest-labs-flux-3-image-video-robot-hands",
-      "published": "2026-07-23T22:02:41+00:00",
+      "source": "TheBlock",
+      "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
+      "summary": "<p>BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.</p>",
+      "url": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-26T14:55:55+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
