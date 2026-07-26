@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:36:42.576495+00:00",
+  "generated_at": "2026-07-26T13:45:18.141500+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -52,37 +52,13 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.25,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Swan CEO claims Twenty One serves Tether\u2019s US political interests, calls Mallers\u2019 role \u2018ceremonial\u2019",
-          "summary": "<p>Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten.</p>",
-          "url": "https://www.theblock.co/post/409538/swan-ceo-twenty-one-serves-tethers-us-political-interests-mallers-role-ceremonial?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-23T16:31:59+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.2456,
+      "article_count": 19,
+      "avg_compound": 0.2586,
       "overall": "BULLISH",
       "bullish": 11,
       "bearish": 5,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -122,6 +98,30 @@
           "compound": 0.9423,
           "label": "BULLISH",
           "confidence": 0.9423
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.25,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Swan CEO claims Twenty One serves Tether\u2019s US political interests, calls Mallers\u2019 role \u2018ceremonial\u2019",
+          "summary": "<p>Twenty One Capital is Tether's \"U.S. entity for them to ... line pockets where needed for political reasons,\" says Cory Klippsten.</p>",
+          "url": "https://www.theblock.co/post/409538/swan-ceo-twenty-one-serves-tethers-us-political-interests-mallers-role-ceremonial?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-23T16:31:59+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
         }
       ],
       "no_news": false
@@ -384,17 +384,6 @@
       "confidence": 0.743
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto's institutional influx has killed the memecoin craze",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/07/24/crypto-s-institutional-influx-has-killed-the-memecoin-craze",
-      "published": "2026-07-24T11:35:48+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
       "source": "TheBlock",
       "title": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs \u2018last-ditch effort\u2019",
       "summary": "<p>Seven Democratic negotiators say the latest Clarity Act draft needs stronger ethics and consumer protections.</p>",
@@ -503,6 +492,28 @@
       "compound": 0.25,
       "label": "BULLISH",
       "confidence": 0.25
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "published": "2026-07-26T13:00:00+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+      "published": "2026-07-26T10:00:00+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
