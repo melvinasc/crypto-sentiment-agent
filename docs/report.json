@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T03:41:49.961969+00:00",
+  "generated_at": "2026-07-26T08:36:42.576495+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -76,37 +76,13 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.2144,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
-          "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
-          "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
-          "published": "2026-07-24T19:30:01+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.2042,
+      "article_count": 20,
+      "avg_compound": 0.2456,
       "overall": "BULLISH",
       "bullish": 11,
-      "bearish": 6,
-      "neutral": 5,
+      "bearish": 5,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -146,6 +122,54 @@
           "compound": 0.9423,
           "label": "BULLISH",
           "confidence": 0.9423
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.2144,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+          "summary": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
+          "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+          "published": "2026-07-24T19:30:01+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.2144,
+          "label": "BULLISH",
+          "confidence": 0.2144
+        }
+      ],
+      "no_news": false
+    },
+    "SHIB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Shiba Inu surges 36% as South Korean traders fuel mystery rally",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/26/shiba-inu-surges-36-as-south-korean-traders-fuel-mystery-rally",
+          "published": "2026-07-26T07:29:45+00:00",
+          "coins": [
+            "SHIB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -231,16 +255,6 @@
       "no_news": true
     },
     "PEPE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "SHIB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -511,6 +525,17 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange BitMart to shut down after nine years, BMX token crashes 58%",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/26/crypto-exchange-bitmart-to-shut-down-after-nine-years-bmx-token-crashes-58",
+      "published": "2026-07-26T06:59:51+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
