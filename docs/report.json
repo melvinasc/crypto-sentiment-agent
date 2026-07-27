@@ -1,32 +1,7 @@
 {
-  "generated_at": "2026-07-27T03:51:33.596546+00:00",
+  "generated_at": "2026-07-27T10:04:34.533356+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.3818,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
-          "summary": "<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>",
-          "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-25T13:59:06+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 1,
       "avg_compound": -0.3182,
@@ -54,11 +29,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.2418,
+      "avg_compound": 0.2248,
       "overall": "BULLISH",
       "bullish": 11,
-      "bearish": 6,
-      "neutral": 3,
+      "bearish": 7,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -122,6 +97,44 @@
           "compound": 0.2144,
           "label": "BULLISH",
           "confidence": 0.2144
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.1909,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
+          "summary": "<p>Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.</p>",
+          "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-25T13:59:06+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
+          "published": "2026-07-27T06:43:34+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -315,17 +328,6 @@
       "confidence": 0.8271
     },
     {
-      "source": "TheBlock",
-      "title": "The Largest Stablecoins Ranked",
-      "summary": "<p>In recent years, stablecoins have emerged as crypto\u2019s breakout use case. Assets that were created to streamline cryptocurrency trading are now being recognized as a more efficient, flexible, transparent medium of exchange for the world financial system. The total stablecoin market cap has surged on the back of this newfound attention, growing to $300 billion [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/409203/largest-stablecoins-ranked?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T06:18:31+00:00",
-      "coins": [],
-      "compound": 0.8258,
-      "label": "BULLISH",
-      "confidence": 0.8258
-    },
-    {
       "source": "Decrypt",
       "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
       "summary": "After two years of silence from Thinking Machines Lab, Murati's debut model is out and on OpenRouter. The MCP score is genuinely impressive. The price-to-performance math is more complicated.",
@@ -370,17 +372,6 @@
       "confidence": 0.7606
     },
     {
-      "source": "CoinDesk",
-      "title": "Senate Dems should accept the victory they won on Trump's crypto limits: White House",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house",
-      "published": "2026-07-24T15:01:46+00:00",
-      "coins": [],
-      "compound": 0.743,
-      "label": "BULLISH",
-      "confidence": 0.743
-    },
-    {
       "source": "TheBlock",
       "title": "Galaxy cuts Clarity Act passage odds to 30%, says bill needs \u2018last-ditch effort\u2019",
       "summary": "<p>Seven Democratic negotiators say the latest Clarity Act draft needs stronger ethics and consumer protections.</p>",
@@ -393,14 +384,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Polymarket Account in Farage Backer's Name Took $9M in Crypto From Unknown Sources: FT",
-      "summary": "The \"GCottrell93\" account bet the funds on Trump's election win and cashed out the profit, though who paid in and who collected is unclear.",
-      "url": "https://decrypt.co/374212/polymarket-account-in-farage-backers-name-took-9m-in-crypto-from-unknown-sources-ft",
-      "published": "2026-07-24T09:40:50+00:00",
+      "title": "Thailand's SEC Files Criminal Complaint Against Bitkub Over Undisclosed $47M Hack",
+      "summary": "The regulator says the exchange and two former directors left a $47 million theft out of its filings in 2021.",
+      "url": "https://decrypt.co/374343/thailands-sec-files-criminal-complaint-against-bitkub-over-undisclosed-47m-hack",
+      "published": "2026-07-27T09:16:14+00:00",
       "coins": [],
-      "compound": 0.6908,
-      "label": "BULLISH",
-      "confidence": 0.6908
+      "compound": -0.6808,
+      "label": "BEARISH",
+      "confidence": 0.6808
     },
     {
       "source": "TheBlock",
@@ -414,6 +405,39 @@
       "confidence": 0.5859
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say",
+      "published": "2026-07-27T06:37:54+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
+      "published": "2026-07-27T09:43:58+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
+      "published": "2026-07-27T09:15:43+00:00",
+      "coins": [],
+      "compound": -0.4588,
+      "label": "BEARISH",
+      "confidence": 0.4588
+    },
+    {
       "source": "Decrypt",
       "title": "EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK",
       "summary": "The 21st package stops short of a full asset freeze for HTX, which it accused of \"significantly frustrating\" its Russia measures.",
@@ -425,17 +449,6 @@
       "confidence": 0.4588
     },
     {
-      "source": "Decrypt",
-      "title": "India Orders GitHub to Take Down Jack Dorsey's Bitchat Amid Protests",
-      "summary": "The order gave GitHub three hours to pull three code repositories, citing the messaging app's use during protest internet shutdowns.",
-      "url": "https://decrypt.co/374239/india-orders-github-to-take-down-jack-dorseys-bitchat-amid-protests",
-      "published": "2026-07-24T12:20:01+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
       "source": "CoinDesk",
       "title": "2 weeks left for Clarity: State of Crypto",
       "summary": "",
@@ -445,17 +458,6 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "How Do Stablecoins Maintain Their Peg?",
-      "summary": "<p>A stablecoin peg is the target price a stablecoin is designed to hold. For the vast majority of stablecoins, this target is one U.S. dollar. Stablecoins maintain that price through two mechanisms. The first is reserves or collateral that give each token its underlying value; the second is an arbitrage process that returns the market [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/409577/how-do-stablecoins-maintain-their-peg?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-24T06:01:11+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -489,17 +491,6 @@
       "compound": 0.2716,
       "label": "BULLISH",
       "confidence": 0.2716
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Sam Altman-backed World Network secures $52.5 million in fresh funding to fight online AI deepfakes",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/24/sam-altman-backed-world-network-secures-fresh-funding-to-fight-online-ai-deepfakes",
-      "published": "2026-07-24T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
@@ -568,22 +559,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
-      "published": "2026-07-24T14:36:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "published": "2026-07-24T13:03:03+00:00",
+      "source": "Decrypt",
+      "title": "BitMart Becomes Latest Crypto Exchange to Shut Down",
+      "summary": "BitMart\u2019s closure, citing the market environment and \u201cfuture strategic direction,\u201d comes days after crypto perps exchange BitMEX shut down.",
+      "url": "https://decrypt.co/374346/bitmart-becomes-latest-crypto-exchange-to-shut-down",
+      "published": "2026-07-27T09:57:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -617,6 +597,28 @@
       "summary": "Pantera Capital led the one-year locked token sale, joined by Bain Capital Crypto, as World scales its ID network for AI agents.",
       "url": "https://decrypt.co/374216/world-foundation-raises-52-5m-to-scale-sam-altmans-proof-of-human-id",
       "published": "2026-07-24T14:57:56+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea\u2019s KB Kookmin Bank to launch cross-border payment service on JPMorgan\u2019s Kinexys: report",
+      "summary": "<p>The largest bank in South Korea plans to launch a blockchain-based cross-border corporate payments service next month, according to Yonhap.</p>",
+      "url": "https://www.theblock.co/post/409702/kb-kookmin-bank-payment-jpmorgans-kinexys?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T06:38:09+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+      "summary": "<p>The SEC's Hester Peirce says some of them may be \u2014 which could mean registration. Here's what that means, and what comes next.</p>",
+      "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-27T04:39:17+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
