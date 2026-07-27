@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:22:32.062941+00:00",
+  "generated_at": "2026-07-27T03:51:33.596546+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -53,11 +53,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.2586,
+      "article_count": 20,
+      "avg_compound": 0.2418,
       "overall": "BULLISH",
       "bullish": 11,
-      "bearish": 5,
+      "bearish": 6,
       "neutral": 3,
       "top_articles": [
         {
@@ -414,17 +414,6 @@
       "confidence": 0.5859
     },
     {
-      "source": "TheBlock",
-      "title": "MoonPay now accepts Discover Network cards for crypto purchases and sales in US",
-      "summary": "<p>The addition makes Discover the third major U.S. card network supported by MoonPay, alongside Visa and Mastercard.</p>",
-      "url": "https://www.theblock.co/post/409536/moonpay-discover-network-card-payments-crypto?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T17:05:36+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "Decrypt",
       "title": "EU Names Justin Sun's HTX in Russia Sanctions, Two Months After UK",
       "summary": "The 21st package stops short of a full asset freeze for HTX, which it accused of \"significantly frustrating\" its Russia measures.",
@@ -467,6 +456,17 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
+      "summary": "<p>Triple-A said it is investigating and that customer funds are not affected, though it has not fully addressed the incident publicly.\u00a0</p>",
+      "url": "https://www.theblock.co/post/409678/triple-a-hot-wallet-losses-climb-to-11-8-million-as-new-deposits-keep-being-swept-report?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-26T22:38:54+00:00",
+      "coins": [],
+      "compound": -0.3085,
+      "label": "BEARISH",
+      "confidence": 0.3085
     },
     {
       "source": "TheBlock",
@@ -535,15 +535,15 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood CEO\u2019s X account hacked to promote Vladhood memecoin flagged as \u2018scam\u2019",
-      "summary": "<p>Robinhood Chain has seen cumulative DEX volume of about $9 billion, primarily driven by higher-risk memecoins, per Entropy Advisors.</p>",
-      "url": "https://www.theblock.co/post/409560/robinhood-ceo-x-account-apparently-hacked-promote-vladhood-memecoin-flagged-scam?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-23T17:55:02+00:00",
+      "source": "CoinDesk",
+      "title": "South Korea trading giant puts receivables onchain in tokenization test with LG CNS",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/26/south-korea-trading-giant-puts-receivables-onchain-in-tokenization-test-with-lg-cns",
+      "published": "2026-07-27T00:00:00+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -584,17 +584,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
       "published": "2026-07-24T13:03:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU hits Russia with massive 21st sanctions package targeting $120B crypto network",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/24/eu-hits-russia-with-massive-21st-sanctions-package-targeting-usd120b-crypto-network",
-      "published": "2026-07-24T11:58:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
