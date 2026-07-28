@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:22:32.155342+00:00",
+  "generated_at": "2026-07-28T08:46:48.818144+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -90,12 +90,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.2733,
+      "article_count": 19,
+      "avg_compound": 0.2147,
       "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 4,
-      "neutral": 3,
+      "bullish": 10,
+      "bearish": 5,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -140,10 +140,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.2106,
+      "article_count": 6,
+      "avg_compound": 0.1821,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 3,
       "bearish": 1,
       "neutral": 2,
       "top_articles": [
@@ -175,17 +175,16 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Bitmine buys more ether as Tom Lee says rising ETH/BTC ratio points to stronger crypto prices",
+          "title": "Lido begins moving $16.5 billion in staked ether to cut validator count by a third",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/27/bitmine-buys-more-ether-as-tom-lee-says-rising-eth-btc-ratio-points-to-stronger-crypto-prices",
-          "published": "2026-07-27T12:55:57+00:00",
+          "url": "https://www.coindesk.com/tech/2026/07/27/lido-begins-moving-usd16-5-billion-in-staked-ether-to-cut-validator-count-by-a-third",
+          "published": "2026-07-27T14:00:00+00:00",
           "coins": [
-            "ETH",
-            "BTC"
+            "ETH"
           ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
         }
       ],
       "no_news": false
@@ -371,6 +370,17 @@
       "confidence": 0.765
     },
     {
+      "source": "TheBlock",
+      "title": "What Is KuCoin?",
+      "summary": "<p>KuCoin is a global cryptocurrency exchange where users can trade, earn, spend, and manage digital assets. Founded in 2017, the platform is now one of the most popular CEXs, serving more than 45 million users across over 200 countries and regions. These range from first-time crypto users and active retail traders to professional and institutional [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/409571/what-is-kucoin?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-28T05:14:22+00:00",
+      "coins": [],
+      "compound": 0.7574,
+      "label": "BULLISH",
+      "confidence": 0.7574
+    },
+    {
       "source": "Decrypt",
       "title": "A Man Gave Border Agents His Phone Passcode. It Wiped Everything. Now He's Facing Federal Charges",
       "summary": "Samuel Tunick allegedly triggered a GrapheneOS duress password during a warrantless airport search. Federal prosecutors call it destruction of property. His lawyers call it a digital right.",
@@ -416,13 +426,24 @@
     },
     {
       "source": "TheBlock",
-      "title": "STORJ token falls 20% as decentralized storage firm files for Chapter 11 bankruptcy amid crypto shutdown wave",
-      "summary": "<p>STORJ dropped 19% to $0.06 after Storj Labs filed voluntary Chapter 11 on July 26 to resolve legacy liabilities.</p>",
-      "url": "https://www.theblock.co/post/409712/storj-token-falls-20-as-decentralized-storage-firm-files-for-chapter-11-bankruptcy-amid-crypto-shutdown-wave?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-27T11:31:27+00:00",
+      "title": "Judge blocks Minnesota from enforcing prediction market ban in win for Kalshi, Polymarket",
+      "summary": "<p>A federal judge issued a preliminary injunction on Monday, blocking Minnesota from enforcing its new law banning prediction markets.</p>",
+      "url": "https://www.theblock.co/post/409861/judge-blocks-minnesota-prediction-market-ban?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-28T07:22:20+00:00",
       "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the CME and CFTC\u2019s battle over onchain perpetual futures",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+      "published": "2026-07-28T08:00:00+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
       "confidence": 0.3818
     },
     {
@@ -457,6 +478,17 @@
       "compound": 0.2732,
       "label": "BULLISH",
       "confidence": 0.2732
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong\u2019s central bank puts a number on lenders' quantum preparedness. It's very low.",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/28/hong-kong-s-central-bank-puts-a-number-on-lenders-quantum-preparedness-it-s-very-low",
+      "published": "2026-07-28T07:55:41+00:00",
+      "coins": [],
+      "compound": -0.2716,
+      "label": "BEARISH",
+      "confidence": 0.2716
     },
     {
       "source": "CoinDesk",
@@ -501,17 +533,6 @@
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Securitize builds Wall Street credentials with SEC adviser license as tokenization expands",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/27/securitize-builds-wall-street-credentials-with-sec-adviser-license-as-tokenization-expands",
-      "published": "2026-07-27T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -580,28 +601,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto is rewriting how Wall Street traders spend their weekends",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-is-rewriting-how-wall-street-traders-spend-their-weekends",
-      "published": "2026-07-27T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle buys nearly 1,000 blockchain patents from IBM",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/27/circle-buys-nearly-1-000-blockchain-patents-from-ibm",
-      "published": "2026-07-27T12:47:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI\u2019s GPT-6 Will Arrive by September, Markets Predict",
       "summary": "Money is moving on a September bet for OpenAI\u2019s next major model on both Polymarket and Myriad prediction markets.",
@@ -651,17 +650,6 @@
       "summary": "<p>Circle acquired IBM's blockchain patent portfolio of 680+ patent families and nearly 1,000 issued patents.</p>",
       "url": "https://www.theblock.co/post/409750/circle-acquires-ibm-blockchain-patent-portfolio-becomes-largest-us-patent-holder?utm_source=rss&utm_medium=rss",
       "published": "2026-07-27T14:19:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kraken parent Payward acquires Magic Labs\u2019 embedded wallet business",
-      "summary": "<p>Magic Labs is selling its wallet business to Payward and rebranding as Newton Labs to focus on onchain finance infrastructure.</p>",
-      "url": "https://www.theblock.co/post/409705/kraken-parent-payward-acquires-magic-labs-embedded-wallet-business?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-27T12:15:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
