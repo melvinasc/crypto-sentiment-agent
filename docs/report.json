@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-29T14:25:46.087250+00:00",
+  "generated_at": "2026-07-29T19:35:05.056761+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.8807,
+      "article_count": 2,
+      "avg_compound": -0.4473,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -22,170 +22,106 @@
           "compound": -0.8807,
           "label": "BEARISH",
           "confidence": 0.8807
+        },
+        {
+          "source": "TheBlock",
+          "title": "Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: \u2018Our role is not to pick winners\u2019",
+          "summary": "<p>The payment giant will \"remain multi-coin, multi-chain\" and \"not to pick winners\" as stablecoins are poised to proliferate.</p>",
+          "url": "https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T17:06:06+00:00",
+          "coins": [
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.0139,
+          "label": "NEUTRAL",
+          "confidence": 0.0139
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "SOL": {
       "article_count": 1,
-      "avg_compound": 0.5859,
+      "avg_compound": 0.2023,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "XRP Price Slides as Senate Drops Clarity Act and Fed Decision Looms",
-          "summary": "The Senate kicked the can, the Fed has traders on edge, and XRP's charts are running out of support zones to fall back on.",
-          "url": "https://decrypt.co/374579/xrp-price-slides-senate-clarity-act-fed-rate-looms",
-          "published": "2026-07-28T18:35:37+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5859,
-          "label": "BULLISH",
-          "confidence": 0.5859
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
           "source": "TheBlock",
-          "title": "Tether\u2019s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
-          "summary": "<p>USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.</p>",
-          "url": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-29T14:06:34+00:00",
+          "title": "\u2018The moment to act is now\u2019: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
+          "summary": "<p>As the clock ticks on Congress, the Solana Policy Institute is mounting an urgent push for Senate leaders to take up crypto legislation.</p>",
+          "url": "https://www.theblock.co/post/410041/the-moment-to-act-is-now-solana-policy-institute-urges-senate-to-move-on-crypto-bill-as-time-dwindles?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T14:35:02+00:00",
           "coins": [
-            "USDT",
-            "ETH"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.102,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-          "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-          "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-          "published": "2026-07-28T19:14:14+00:00",
-          "coins": [
-            "ETH",
             "SOL"
           ],
-          "compound": 0.5267,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "TheBlock",
-          "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-          "summary": "<p>Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.</p>",
-          "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-28T19:45:26+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4939,
-          "label": "BEARISH",
-          "confidence": 0.4939
-        },
-        {
-          "source": "CoinDesk",
-          "title": "SpaceX is a battleground Solana must win",
-          "summary": "",
-          "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
-          "published": "2026-07-29T08:00:00+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.064,
+      "article_count": 6,
+      "avg_compound": -0.1249,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 3,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-          "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-          "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-          "published": "2026-07-28T19:14:14+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "TheBlock",
-          "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-          "summary": "<p>Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.</p>",
-          "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-28T19:45:26+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4939,
-          "label": "BEARISH",
-          "confidence": 0.4939
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low",
-          "summary": "<p>Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.</p>",
-          "url": "https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-28T18:21:02+00:00",
+          "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+          "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
+          "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+          "published": "2026-07-29T17:18:49+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.25,
+          "compound": -0.6908,
           "label": "BEARISH",
-          "confidence": 0.25
+          "confidence": 0.6908
+        },
+        {
+          "source": "TheBlock",
+          "title": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
+          "summary": "<p>The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.</p>",
+          "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T17:22:33+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
+          "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%\u20133.75% and offered no new signals on when cuts\u2014or hikes\u2014might come.",
+          "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
+          "published": "2026-07-29T18:43:45+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0446,
-      "overall": "NEUTRAL",
+      "article_count": 16,
+      "avg_compound": 0.0593,
+      "overall": "BULLISH",
       "bullish": 7,
-      "bearish": 10,
-      "neutral": 3,
+      "bearish": 7,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -193,19 +129,6 @@
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Bitcoin-Price-Down-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act\" rel=\"nofollow\">Bitcoin Dips As Crypto Clarity Act Hopes Fade\u00a0</a></p>\n<p>Some lawmakers are hoping the long-awaited Clarity Act gets a vote by next week. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act\" rel=\"nofollow\">Bitcoin Dips As Crypto Clarity Act Hopes Fade\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/bitcoin-mining/bitcoin-price-dips-clarity-act",
           "published": "2026-07-28T18:48:20+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9524,
-          "label": "BULLISH",
-          "confidence": 0.9524
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as \u201cExtraordinarily Bipartisan\u201d",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Coinbase-Receives-Conditional-OCC-Approval-to-Form-National-Trust-Company.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity\" rel=\"nofollow\">Coinbase Chief Policy Officer Praises Crypto Clarity Act as &#8220;Extraordinarily Bipartisan&#8221;</a></p>\n<p>Coinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity\" rel=\"nofollow\">Coinbase Chief Policy Officer Praises Crypto Clarity Act as &#8220;Extraordinarily Bipartisan&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coinbase-policy-officer-praises-clarity",
-          "published": "2026-07-27T20:43:13+00:00",
           "coins": [
             "BTC"
           ],
@@ -225,6 +148,58 @@
           "compound": 0.91,
           "label": "BULLISH",
           "confidence": 0.91
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you\" rel=\"nofollow\">I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You</a></p>\n<p>After three days of validation and half a day of deep scanning, the findings force a hard look at what \u201ccontent on the blockchain\u201d really means for ordinary node operators.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you\" rel=\"nofollow\">I Scanned the Entire Bitcoin Blockchain for Images. What I Found Will Shock You</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/guides/i-scanned-the-entire-bitcoin-blockchain-for-images-what-i-found-will-shock-you",
+          "published": "2026-07-28T18:05:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8779,
+          "label": "BEARISH",
+          "confidence": 0.8779
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": -0.0583,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Tether\u2019s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
+          "summary": "<p>USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.</p>",
+          "url": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T14:06:34+00:00",
+          "coins": [
+            "USDT",
+            "ETH"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        },
+        {
+          "source": "TheBlock",
+          "title": "Visa CEO sidesteps labeling Open USD a challenger to Tether and USDC: \u2018Our role is not to pick winners\u2019",
+          "summary": "<p>The payment giant will \"remain multi-coin, multi-chain\" and \"not to pick winners\" as stablecoins are poised to proliferate.</p>",
+          "url": "https://www.theblock.co/post/410064/visa-ceo-downplays-open-usd-challenger-tether-usdc-our-role-is-not-pick-winners?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T17:06:06+00:00",
+          "coins": [
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.0139,
+          "label": "NEUTRAL",
+          "confidence": 0.0139
         }
       ],
       "no_news": false
@@ -372,6 +347,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -409,26 +394,15 @@
       "confidence": 0.9153
     },
     {
-      "source": "Decrypt",
-      "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
-      "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model\u2014the results turned out to be utterly perfect, for an AI model.",
-      "url": "https://decrypt.co/374560/dumbest-ai-prompt-claude-beat-careful-game-design",
-      "published": "2026-07-28T18:04:00+00:00",
+      "source": "TheBlock",
+      "title": "Pump.fun token graduation rate jumps after BOOST changes launch incentives",
+      "summary": "<p>BOOST comes into effect after a token has already bonded, so it doesn\u2019t mechanically lift the share of tokens that reach the threshold.</p>",
+      "url": "https://www.theblock.co/post/409815/pump-fun-token-graduation-rate-jumps-boost-changes-launch-incentives?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T18:51:01+00:00",
       "coins": [],
-      "compound": 0.862,
+      "compound": 0.7925,
       "label": "BULLISH",
-      "confidence": 0.862
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
-      "published": "2026-07-29T09:10:54+00:00",
-      "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
-      "confidence": 0.7717
+      "confidence": 0.7925
     },
     {
       "source": "Decrypt",
@@ -442,15 +416,26 @@
       "confidence": 0.7506
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood Chain deposits climb but volume and users fade after memecoin-fueled launch",
-      "summary": "<p>The number of active accounts on Roinbhood Chain averaged around 275,000 per day, down by 7% week-over-week.</p>",
-      "url": "https://www.theblock.co/post/409813/robinhood-chain-deposits-climb-volume-users-fade-memecoin-fueled-launch?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T16:02:48+00:00",
+      "source": "Decrypt",
+      "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
+      "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
+      "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
+      "published": "2026-07-29T16:09:34+00:00",
       "coins": [],
-      "compound": 0.6124,
+      "compound": 0.7096,
       "label": "BULLISH",
-      "confidence": 0.6124
+      "confidence": 0.7096
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Book Burning? Companies Are Destroying Millions of Books to Feed Chatbots",
+      "summary": "AI developers are quietly buying physical books by the millions, slicing them apart, scanning every page into AI training datasets, and discarding the originals.",
+      "url": "https://decrypt.co/374646/ai-book-burning-companies-destroying-millions-books-chatbots",
+      "published": "2026-07-29T16:38:25+00:00",
+      "coins": [],
+      "compound": -0.6486,
+      "label": "BEARISH",
+      "confidence": 0.6486
     },
     {
       "source": "Decrypt",
@@ -486,6 +471,17 @@
       "confidence": 0.5106
     },
     {
+      "source": "Decrypt",
+      "title": "OpenAI's Rogue AI Hacked Four More Platforms Besides Hugging Face",
+      "summary": "OpenAI quietly updated its breach disclosure to confirm its agent accessed four external services beyond Hugging Face. Only one has been named so far.",
+      "url": "https://decrypt.co/374645/openais-rogue-ai-hacked-four-more-platforms-besides-hugging-face",
+      "published": "2026-07-29T16:16:43+00:00",
+      "coins": [],
+      "compound": 0.4877,
+      "label": "BULLISH",
+      "confidence": 0.4877
+    },
+    {
       "source": "CoinDesk",
       "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
       "summary": "",
@@ -498,14 +494,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+      "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "published": "2026-07-29T06:03:28+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
+      "published": "2026-07-29T15:13:07+00:00",
       "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -517,6 +513,17 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "Anchorage Digital says Fed\u2019s proposed payment account is no \u2018workable substitute\u2019 for master account",
+      "summary": "<p>Anchorage Digital says the Fed's proposed payment account that would give some crypto companies access to the central bank doesn't work.\u00a0</p>",
+      "url": "https://www.theblock.co/post/410068/anchorage-digital-feds-proposed-payment-account-no-substitute-master-account?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T17:01:02+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -531,14 +538,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "First ChatGPT, Now Claude: Frontier AI Models Are Escaping Their Sandboxes",
-      "summary": "A week after OpenAI disclosed a frontier AI sandbox escape, researchers found Anthropic's Claude Cowork could break out of its own virtual machine.",
-      "url": "https://decrypt.co/374557/chatgpt-claude-ai-models-escaping-sandboxes-cowork",
-      "published": "2026-07-28T16:54:11+00:00",
+      "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
+      "summary": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
+      "url": "https://decrypt.co/resources/zcash",
+      "published": "2026-07-29T16:43:52+00:00",
       "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
+      "compound": -0.1779,
+      "label": "BEARISH",
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -552,15 +559,26 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Zcash activates Ironwood upgrade, launching new shielded pool after Orchard vulnerability",
-      "summary": "<p>Ironwood represents something of a unified effort across Zcash\u2019s developer ecosystem after Shielded Labs found a bug in Orchard.</p>",
-      "url": "https://www.theblock.co/post/409934/zcash-ironwood-upgrade-launching-new-shielded-pool-after-orchard-vulnerability?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T17:26:31+00:00",
+      "source": "CoinDesk",
+      "title": "Fed holds rates steady, extending pause as markets await Kevin Warsh's policy roadmap",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/29/fomc-hold-fed-holds-rates-steady-extending-pause-as-markets-await-warsh-s-policy-roadmap",
+      "published": "2026-07-29T17:58:33+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.1027,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT\u2014And Lets It Pay for Things",
+      "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
+      "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+      "published": "2026-07-29T19:31:03+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -574,17 +592,6 @@
       "confidence": 0.0772
     },
     {
-      "source": "Decrypt",
-      "title": "Zcash Activates Ironwood Upgrade After Counterfeiting Scare",
-      "summary": "The long-awaited network upgrade retires Zcash's vulnerable Orchard shielded pool and introduces new safeguards to protect the cryptocurrency's supply.",
-      "url": "https://decrypt.co/374577/zcash-ironwood-upgrade-counterfeiting-scare",
-      "published": "2026-07-28T18:24:19+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
       "source": "TheBlock",
       "title": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
       "summary": "<p>The firm sold $2.3 million worth of Block Inc. shares, $1.6 million worth of Bullish, and $4 million worth of Robinhood.</p>",
@@ -594,6 +601,39 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The traditional 9-to-5 banking day is officially dying, says Morgan Stanley execs",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/29/morgan-stanley-execs-admit-the-traditional-9-to-5-banking-day-is-officially-dying",
+      "published": "2026-07-29T16:09:32+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin firm Brale says new protocol can remove a major hurdle to scaling custom tokens",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/29/stablecoin-firm-brale-says-new-protocol-can-remove-a-major-hurdle-to-scaling-custom-tokens",
+      "published": "2026-07-29T15:27:30+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase hit by spot trading slump: Wall Street trims expectations ahead of earnings",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/29/investors-look-past-expected-weak-q2-earnings-to-focus-on-coinbase-s-political-future",
+      "published": "2026-07-29T15:15:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -630,32 +670,21 @@
     },
     {
       "source": "TheBlock",
+      "title": "SoFi crypto transaction revenue grows 10% to $134 million in Q2",
+      "summary": "<p>Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.</p>",
+      "url": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T15:19:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
       "title": "MoonPay launches PayBox, an AI payment vault for ChatGPT and Claude",
       "summary": "<p>Crypto payments company MoonPay now lets users move money through ChatGPT and Claude with a new AI payment vault called PayBox.</p>",
       "url": "https://www.theblock.co/post/410032/moonpay-paybox-chatgpt-claude?utm_source=rss&utm_medium=rss",
       "published": "2026-07-29T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Galaxy Digital buys 500 acres in McGregor for second Texas AI data center campus",
-      "summary": "<p>The \u201cprivately funded\" Texas campus is expected to generate a minimum of $130 million for McGregor's local tax base, Galaxy said.</p>",
-      "url": "https://www.theblock.co/post/409911/galaxy-digital-buys-500-acres-in-mcgregor-for-second-texas-ai-data-center-campus?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T15:31:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Nansen CEO bets on AI agents to overtake human traders within 2 years",
-      "summary": "<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two years as the platform pivots from analytics to agentic trading.</p>",
-      "url": "https://www.theblock.co/post/409914/nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T15:22:12+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
