@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-29T08:51:42.755579+00:00",
+  "generated_at": "2026-07-29T14:25:46.087250+00:00",
   "total_articles": 55,
   "coins": {
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.8807,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bernstein cuts Circle price target to $140, says Open USD threat will fade",
+          "summary": "<p>Bernstein cuts Circle price target to $140 from $190, keeps Outperform, and says the Open USD threat fades as USDC supply holds near ATH.</p>",
+          "url": "https://www.theblock.co/post/410029/bernstein-cuts-circle-price-target-to-140-says-open-usd-threat-will-fade?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T12:55:18+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.8807,
+          "label": "BEARISH",
+          "confidence": 0.8807
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 1,
       "avg_compound": 0.5859,
@@ -26,29 +50,39 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 5,
-      "avg_compound": 0.2012,
-      "overall": "BULLISH",
-      "bullish": 4,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
-          "published": "2026-07-28T14:30:57+00:00",
+          "source": "TheBlock",
+          "title": "Tether\u2019s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
+          "summary": "<p>USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.</p>",
+          "url": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T14:06:34+00:00",
           "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
+            "USDT",
+            "ETH"
           ],
-          "compound": 0.5719,
-          "label": "BULLISH",
-          "confidence": 0.5719
-        },
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.102,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "Decrypt",
           "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
@@ -76,31 +110,83 @@
           "compound": -0.4939,
           "label": "BEARISH",
           "confidence": 0.4939
+        },
+        {
+          "source": "CoinDesk",
+          "title": "SpaceX is a battleground Solana must win",
+          "summary": "",
+          "url": "https://www.coindesk.com/opinion/2026/07/29/spacex-is-a-battleground-solana-must-win",
+          "published": "2026-07-29T08:00:00+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": -0.064,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 3,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
+          "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
+          "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
+          "published": "2026-07-28T19:14:14+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "TheBlock",
+          "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
+          "summary": "<p>Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.</p>",
+          "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-28T19:45:26+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.4939,
+          "label": "BEARISH",
+          "confidence": 0.4939
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ethereum L2 ecosystem loses momentum as TVL drops to 2-year low",
+          "summary": "<p>Total value locked in Ethereum Layer 2s has slid back to roughly $5 billion, a level last seen in 2023.</p>",
+          "url": "https://www.theblock.co/post/409811/ethereum-l2-ecosystem-loses-momentum-as-tvl-drops-to-two-year-low?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-28T18:21:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.161,
-      "overall": "BULLISH",
-      "bullish": 12,
-      "bearish": 7,
-      "neutral": 1,
+      "avg_compound": -0.0446,
+      "overall": "NEUTRAL",
+      "bullish": 7,
+      "bearish": 10,
+      "neutral": 3,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Republicans Hope For Democratic Support on Crypto Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/U.S.-Senator-Clarity-Act-is-Almost-There-Treasury-Secretary-Puts-It-at-the-1-Yard-Line.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/republicans-want-democrats-clarity-support\" rel=\"nofollow\">Republicans Hope For Democratic Support on Crypto Clarity Act\u00a0</a></p>\n<p>Lawmakers are hoping to push through the crypto market structure bill this week but the Democrats are holding things back, according to Senator Dave McCormick. Speaking to Fox Business on Friday, the Republican senator said that a vote needs to happen now.&#160; &#8220;The Democrats are starting to think, &#8216;We don&#8217;t want to give it a [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/republicans-want-democrats-clarity-support\" rel=\"nofollow\">Republicans Hope For Democratic Support on Crypto Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/republicans-want-democrats-clarity-support",
-          "published": "2026-07-27T19:20:43+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.962,
-          "label": "BULLISH",
-          "confidence": 0.962
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Dips As Crypto Clarity Act Hopes Fade",
@@ -126,60 +212,43 @@
           "compound": 0.9524,
           "label": "BULLISH",
           "confidence": 0.9524
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "SEC Chairman Says He\u2019s \u2018Committed\u2019 to Helping Advance Crypto Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act\" rel=\"nofollow\">SEC Chairman Says He&#8217;s &#8216;Committed&#8217; to Helping Advance Crypto Clarity Act\u00a0</a></p>\n<p>SEC Chairman Paul Atkins is the latest to throw support behind the crypto bill. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act\" rel=\"nofollow\">SEC Chairman Says He&#8217;s &#8216;Committed&#8217; to Helping Advance Crypto Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sec-chair-paul-atkins-supports-clarity-act",
+          "published": "2026-07-28T21:53:59+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.91,
+          "label": "BULLISH",
+          "confidence": 0.91
         }
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.0804,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 2,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Morgan Stanley debuts ether, solana exchange-traded products after bitcoin fund success",
+          "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/28/morgan-stanley-debuts-ether-and-solana-etps-after-bitcoin-fund-success",
-          "published": "2026-07-28T14:30:57+00:00",
+          "url": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
+          "published": "2026-07-29T10:00:00+00:00",
           "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
+            "BNB"
           ],
-          "compound": 0.5719,
-          "label": "BULLISH",
-          "confidence": 0.5719
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morgan Stanley Expands Crypto Push With Ethereum and Solana ETPs",
-          "summary": "The Wall Street giant has launched spot Ethereum and Solana exchange-traded products, expanding its digital asset strategy.",
-          "url": "https://decrypt.co/374592/morgan-stanley-crypto-ethereum-solana-etps",
-          "published": "2026-07-28T19:14:14+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "TheBlock",
-          "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-          "summary": "<p>Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.</p>",
-          "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-28T19:45:26+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4939,
-          "label": "BEARISH",
-          "confidence": 0.4939
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -195,16 +264,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -313,39 +372,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Myanmar Approves Death Penalty for Forced Scam Labor, Life for Crypto Fraud",
-      "summary": "Scam operations across the region drove up to $114 billion in losses in 2025, according to United Nations estimates.",
-      "url": "https://decrypt.co/374519/myanmar-approves-death-penalty-for-forced-scam-labor-life-for-crypto-fraud",
-      "published": "2026-07-28T11:29:21+00:00",
+      "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
+      "summary": "Durov has previously called Russia\u2019s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
+      "url": "https://decrypt.co/374625/russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
+      "published": "2026-07-29T09:34:35+00:00",
       "coins": [],
-      "compound": -0.9601,
+      "compound": -0.9217,
       "label": "BEARISH",
-      "confidence": 0.9601
+      "confidence": 0.9217
     },
     {
       "source": "TheBlock",
@@ -359,6 +398,17 @@
       "confidence": 0.9201
     },
     {
+      "source": "TheBlock",
+      "title": "Safe smart accounts process nearly 130 million transactions in record quarter",
+      "summary": "<p>Programmable smart wallet provider reported another quarter of user growth, ending Q2 2026 with over 63 million Safe accounts created.</p>",
+      "url": "https://www.theblock.co/post/410023/safe-smart-accounts-process-nearly-130-million-transactions-in-record-quarter?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T12:50:02+00:00",
+      "coins": [],
+      "compound": 0.9153,
+      "label": "BULLISH",
+      "confidence": 0.9153
+    },
+    {
       "source": "Decrypt",
       "title": "The Dumbest-Looking AI Prompt Just Beat Months of Careful Game-Design Prompt Engineering",
       "summary": "The dev told Claude Opus 5 to be \"utterly perfect\" and left the rest up to the model\u2014the results turned out to be utterly perfect, for an AI model.",
@@ -370,15 +420,15 @@
       "confidence": 0.862
     },
     {
-      "source": "TheBlock",
-      "title": "1inch launches Aqua publicly, a shared liquidity layer for DeFi across 13 chains",
-      "summary": "<p>1inch launched Aqua publicly across 13 EVM chains, with a 10M 1INCH incentive program for shared, self-custodial DeFi liquidity provisioning.</p>",
-      "url": "https://www.theblock.co/post/409866/1inch-launches-aqua-publicly-a-shared-liquidity-layer-for-defi-across-13-chains?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T12:19:48+00:00",
+      "source": "CoinDesk",
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/29/russia-charges-telegram-founder-pavel-durov-with-aiding-terrorism",
+      "published": "2026-07-29T09:10:54+00:00",
       "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
     },
     {
       "source": "Decrypt",
@@ -404,17 +454,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "1inch's Shared Liquidity Layer Aqua Goes Live",
-      "summary": "The shared liquidity layer opens to all users on 13 chains, letting one wallet balance stand behind several positions at once.",
-      "url": "https://decrypt.co/374533/1inchs-shared-liquidity-layer-aqua-goes-live",
-      "published": "2026-07-28T11:53:26+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
       "title": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
       "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
       "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
@@ -425,22 +464,33 @@
       "confidence": 0.5423
     },
     {
-      "source": "TheBlock",
-      "title": "Barry Silbert-backed Zcash miner Fortitude brings Nebraska facility online to cut its ZEC production costs",
-      "summary": "<p>Fortitude expects its new 12-megawatt mining facility to cut its direct cash mining cost from about $70 to roughly $40 per ZEC.</p>",
-      "url": "https://www.theblock.co/post/409899/barry-silbert-zcash-miner-fortitude-nebraska-facility-online-cut-zec-mining-costs?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T15:13:41+00:00",
+      "source": "Decrypt",
+      "title": "Crypto Scams Cost Americans an Estimated $80.7B in 2025: Report",
+      "summary": "The figure is seven times that of the $11.4 billion in reported losses, a rate drawn from a 2017 survey on how rarely fraud is reported.",
+      "url": "https://decrypt.co/374638/crypto-scams-cost-americans-an-estimated-80-7b-in-2025-report",
+      "published": "2026-07-29T12:10:26+00:00",
       "coins": [],
-      "compound": -0.4939,
+      "compound": -0.5312,
       "label": "BEARISH",
-      "confidence": 0.4939
+      "confidence": 0.5312
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Claude Mythos Breaks Post-Quantum Cryptography",
+      "summary": "Plus markets are mixed ahead of FOMC; new Wall St. giants are backing the Clarity Act; and Zcash officially launched its Ironwood upgrade",
+      "url": "https://decrypt.co/374637/morning-minute-claude-mythos-breaks-post-quantum-cryptography",
+      "published": "2026-07-29T12:15:00+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "CoinDesk",
-      "title": "Wall Street veteran Don Wilson says regulators are getting perps all wrong",
+      "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/28/wall-street-veteran-don-wilson-says-regulators-are-getting-crypto-s-biggest-trading-innovation-all-wrong",
-      "published": "2026-07-28T17:23:35+00:00",
+      "url": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
+      "published": "2026-07-29T13:00:00+00:00",
       "coins": [],
       "compound": -0.4767,
       "label": "BEARISH",
@@ -459,47 +509,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "BlackRock, Fidelity, other Wall Street giants back the Clarity Act",
+      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/28/blackrock-fidelity-other-wall-street-giants-back-the-clarity-act",
-      "published": "2026-07-28T16:08:19+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+      "published": "2026-07-29T09:22:24+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ondo drops tokenized asset blockchain plans for private, high-speed trading network",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/28/ondo-drops-tokenized-asset-blockchain-plans-for-private-high-speed-trading-network",
-      "published": "2026-07-28T19:44:26+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Russia\u2019s central bank drafts first rules for \u2018organized\u2019 crypto trading",
-      "summary": "<p>The Bank of Russia drafted rules establishing organized trading, equity requirements, and digital depositories for digital asset markets.</p>",
-      "url": "https://www.theblock.co/post/409877/russias-central-bank-drafts-first-rules-for-organized-crypto-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T13:22:21+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zcash Miner Fortitude Powers Up Nebraska Facility as It Eyes Public Listing",
-      "summary": "The Digital Currency Group-owned Zcash miner brought its first greenfield site online as it looks to lower mining costs and advance plans to become a public company.",
-      "url": "https://decrypt.co/374491/zcash-miner-fortitude-nebraska-mining-facility",
-      "published": "2026-07-28T11:31:03+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
+      "confidence": 0.34
     },
     {
       "source": "Decrypt",
@@ -580,10 +597,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Coinbase wants to be Canada\u2019s \u2018everything exchange,\u2019 but says clearer rules are needed first",
+      "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
-      "published": "2026-07-28T23:50:38+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
+      "published": "2026-07-29T13:53:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -591,10 +608,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Russia outlines new digital depository rules ahead of fall crypto framework roll-out",
+      "title": "About $80 million ZEC crosses into Zcash's new Ironwood pool in the first day",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/28/russia-outlines-new-digital-depository-rules-ahead-of-fall-crypto-framework-roll-out",
-      "published": "2026-07-28T14:49:50+00:00",
+      "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
+      "published": "2026-07-29T13:32:37+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -602,21 +619,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Hyperliquid is taking crypto perps deep into DeFi\u2019s \u2018money LEGO\u2019 land",
+      "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
-      "published": "2026-07-28T14:49:01+00:00",
+      "url": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
+      "published": "2026-07-29T12:18:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Zcash seals $1.7 billion shielded pool as Ironwood upgrade activates",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/07/28/zcash-seals-usd1-7-billion-shielded-pool-as-ironwood-upgrade-activates",
-      "published": "2026-07-28T14:35:28+00:00",
+      "source": "TheBlock",
+      "title": "MoonPay launches PayBox, an AI payment vault for ChatGPT and Claude",
+      "summary": "<p>Crypto payments company MoonPay now lets users move money through ChatGPT and Claude with a new AI payment vault called PayBox.</p>",
+      "url": "https://www.theblock.co/post/410032/moonpay-paybox-chatgpt-claude?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T13:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -639,17 +656,6 @@
       "summary": "<p>Nansen CEO Alex Svanevik says AI agents will overtake human traders in two years as the platform pivots from analytics to agentic trading.</p>",
       "url": "https://www.theblock.co/post/409914/nansen-ceo-bets-on-ai-agents-to-overtake-human-traders-within-two-years?utm_source=rss&utm_medium=rss",
       "published": "2026-07-28T15:22:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Core Scientific ties its AI pivot to AMD in multi-gigawatt infrastructure deal",
-      "summary": "<p>Core Scientific and AMD partner on 500 MW of U.S. AI data-center capacity from 2027, scalable to 2.5 GW, with warrants to buy CORZ stock.</p>",
-      "url": "https://www.theblock.co/post/409887/core-scientific-ties-ai-pivot-amd-multi-gigawatt-infrastructure-deal?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-28T13:36:11+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
