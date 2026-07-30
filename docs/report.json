@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:35:05.056761+00:00",
+  "generated_at": "2026-07-30T02:57:01.960905+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -117,10 +117,10 @@
     },
     "BTC": {
       "article_count": 16,
-      "avg_compound": 0.0593,
+      "avg_compound": 0.1038,
       "overall": "BULLISH",
-      "bullish": 7,
-      "bearish": 7,
+      "bullish": 8,
+      "bearish": 6,
       "neutral": 2,
       "top_articles": [
         {
@@ -204,30 +204,6 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Binance offers gold and silver options after commodity futures pull in billions in daily volume",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/29/binance-offers-gold-and-silver-options-after-commodity-futures-pull-in-billions-in-daily-volume",
-          "published": "2026-07-29T10:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -239,6 +215,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -406,17 +392,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Claude Mythos Cracked Post-Quantum Cryptography That Humans Spent Years Failing to Break",
-      "summary": "Anthropic\u2019s locked model found a new attack on a post-quantum signature scheme headed for U.S. federal standardization.",
-      "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
-      "published": "2026-07-28T20:45:38+00:00",
-      "coins": [],
-      "compound": -0.7506,
-      "label": "BEARISH",
-      "confidence": 0.7506
-    },
-    {
-      "source": "Decrypt",
       "title": "SEC Ready to Provide Crypto Rules if Clarity Act Flounders: Chair Atkins",
       "summary": "Passed by the House a year ago, the bill cleared Senate Banking in May and still awaits a floor vote.",
       "url": "https://decrypt.co/374643/sec-ready-to-provide-crypto-rules-if-clarity-act-flounders-chair-atkins",
@@ -439,14 +414,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
-      "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
-      "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-      "published": "2026-07-28T22:46:03+00:00",
+      "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
+      "summary": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
+      "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
+      "published": "2026-07-29T22:01:24+00:00",
       "coins": [],
-      "compound": 0.5423,
+      "compound": 0.6369,
       "label": "BULLISH",
-      "confidence": 0.5423
+      "confidence": 0.6369
     },
     {
       "source": "Decrypt",
@@ -494,21 +469,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+      "published": "2026-07-29T23:12:04+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto Long & Short: What this year's $972 million crypto hacks actually tell us about security",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
       "published": "2026-07-29T15:13:07+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
-      "published": "2026-07-29T09:22:24+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -526,15 +501,15 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "Teacher Arrested for Clapping at AI Data Center Public Hearing",
-      "summary": "The arrest of a Kansas teacher at a public hearing highlights growing resistance to AI data centers across the United States.",
-      "url": "https://decrypt.co/374597/teacher-arrested-clapping-ai-data-center-public-hearing",
-      "published": "2026-07-28T20:08:48+00:00",
+      "source": "TheBlock",
+      "title": "Robinhood\u2019s prediction markets top crypto and equities revenue in Q2",
+      "summary": "<p>The trading platform generated $156 million from event contracts, compared with $100 million from cryptocurrency trading.</p>",
+      "url": "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T21:14:23+00:00",
       "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -548,15 +523,15 @@
       "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "Apple Overtakes Nvidia\u2014Which Will Be Bigger by End of July?",
-      "summary": "Apple\u2019s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
-      "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-      "published": "2026-07-28T22:08:04+00:00",
+      "source": "TheBlock",
+      "title": "Fed holds rates steady as 3 officials push for hike while crypto market stays flat",
+      "summary": "<p>The Fed said Middle East-driven energy shocks are keeping inflation above its 2% target, as it keeps it rate range steady.</p>",
+      "url": "https://www.theblock.co/post/410092/fed-holds-rates-steady-three-officials-push-hike-crypto-market-stays-flat?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-29T19:38:31+00:00",
       "coins": [],
-      "compound": -0.1779,
+      "compound": -0.128,
       "label": "BEARISH",
-      "confidence": 0.1779
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -592,15 +567,15 @@
       "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
-      "summary": "<p>The firm sold $2.3 million worth of Block Inc. shares, $1.6 million worth of Bullish, and $4 million worth of Robinhood.</p>",
-      "url": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-29T07:28:37+00:00",
+      "source": "CoinDesk",
+      "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+      "published": "2026-07-29T20:40:43+00:00",
       "coins": [],
-      "compound": 0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -663,6 +638,28 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
       "published": "2026-07-29T12:18:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft Quietly Adds New Windows App That Wants to Scan Your Face",
+      "summary": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
+      "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
+      "published": "2026-07-29T22:31:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
+      "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
+      "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
+      "published": "2026-07-29T20:46:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
