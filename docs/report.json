@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T02:57:01.960905+00:00",
+  "generated_at": "2026-07-30T08:41:49.137705+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -40,6 +40,31 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.4404,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+          "published": "2026-07-30T05:19:47+00:00",
+          "coins": [
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.2023,
@@ -64,64 +89,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.1249,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-          "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
-          "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-          "published": "2026-07-29T17:18:49+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.6908,
-          "label": "BEARISH",
-          "confidence": 0.6908
-        },
-        {
-          "source": "TheBlock",
-          "title": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
-          "summary": "<p>The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.</p>",
-          "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-29T17:22:33+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
-          "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%\u20133.75% and offered no new signals on when cuts\u2014or hikes\u2014might come.",
-          "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-          "published": "2026-07-29T18:43:45+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 16,
-      "avg_compound": 0.1038,
+      "avg_compound": 0.1543,
       "overall": "BULLISH",
-      "bullish": 8,
+      "bullish": 9,
       "bearish": 6,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -204,6 +178,81 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 8,
+      "avg_compound": -0.0386,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 3,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
+          "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
+          "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
+          "published": "2026-07-29T17:18:49+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.6908,
+          "label": "BEARISH",
+          "confidence": 0.6908
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether, XRP flat as chip stocks steady on Samsung's 250-fold profit surge",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/07/30/ether-xrp-flat-as-chip-stocks-steady-on-samsung-s-250-fold-profit-surge",
+          "published": "2026-07-30T05:19:47+00:00",
+          "coins": [
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "TheBlock",
+          "title": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
+          "summary": "<p>The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.</p>",
+          "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-29T17:22:33+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance.US to apply for CFTC license in August for prediction market platform",
+          "summary": "<p>Binance.US CEO Stephen Gregory said at a recent conference that the company will apply for a designated contract market license in August.</p>",
+          "url": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-30T03:17:36+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -215,16 +264,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -333,16 +372,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -356,28 +385,6 @@
       "compound": -0.9217,
       "label": "BEARISH",
       "confidence": 0.9217
-    },
-    {
-      "source": "TheBlock",
-      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
-      "summary": "<p>Russian security forces charged Telegram founder Pavel Durov with aiding terrorism, issuing an international warrant for his arrest.</p>",
-      "url": "https://www.theblock.co/post/410005/russia-charges-telegram-founder-pavel-durov?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-29T07:40:59+00:00",
-      "coins": [],
-      "compound": -0.9201,
-      "label": "BEARISH",
-      "confidence": 0.9201
-    },
-    {
-      "source": "TheBlock",
-      "title": "Safe smart accounts process nearly 130 million transactions in record quarter",
-      "summary": "<p>Programmable smart wallet provider reported another quarter of user growth, ending Q2 2026 with over 63 million Safe accounts created.</p>",
-      "url": "https://www.theblock.co/post/410023/safe-smart-accounts-process-nearly-130-million-transactions-in-record-quarter?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-29T12:50:02+00:00",
-      "coins": [],
-      "compound": 0.9153,
-      "label": "BULLISH",
-      "confidence": 0.9153
     },
     {
       "source": "TheBlock",
@@ -399,6 +406,17 @@
       "coins": [],
       "compound": 0.7096,
       "label": "BULLISH",
+      "confidence": 0.7096
+    },
+    {
+      "source": "TheBlock",
+      "title": "Russia detains crypto mining firm BitRiver founder on fraud charges: report",
+      "summary": "<p>Runets and his company were reportedly involved in a deal with local conglomerate En+ that resulted in $12.5 million in damages.</p>",
+      "url": "https://www.theblock.co/post/410117/russia-detains-bitriver-founder?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-30T05:13:34+00:00",
+      "coins": [],
+      "compound": -0.7096,
+      "label": "BEARISH",
       "confidence": 0.7096
     },
     {
@@ -458,17 +476,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The systemic-risk debate over perpetual futures is aimed at the wrong target",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/29/the-systemic-risk-debate-over-perpetual-futures-is-aimed-at-the-wrong-target",
-      "published": "2026-07-29T13:00:00+00:00",
-      "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "CoinDesk",
       "title": "Senators ready to send stricter ethics rules on Trump's crypto ventures to White House, sources say",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
@@ -484,6 +491,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/07/29/crypto-long-and-short-what-this-year-s-usd972-million-crypto-hacks-actually-tell-us-about-security",
       "published": "2026-07-29T15:13:07+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "Aave proposes reserve deprecations affecting $98 million in supplied assets",
+      "summary": "<p>Aave proposed deprecating 75 reserves and six deployments, affecting $98.1 million in supplied assets and $15.6 million in debt.</p>",
+      "url": "https://www.theblock.co/post/410127/aave-proposes-reserve-deprecations-affecting-98-million-in-supplied-assets?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-30T08:40:10+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -557,14 +575,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets",
-      "summary": "<p>The group of AGs sent a letter to the CFTC, urging the agency to draft new rules consistent with the Commodity Exchange Act.</p>",
-      "url": "https://www.theblock.co/post/410013/state-attorneys-general-cftc-letter-prediction-markets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-29T08:21:19+00:00",
+      "title": "Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw",
+      "summary": "<p>The team said trader collateral was unaffected and that it will release a recovery plan for liquidity providers.</p>",
+      "url": "https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-30T06:25:55+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -627,17 +645,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/07/29/about-usd80-million-zec-crosses-into-zcash-s-new-ironwood-pool-in-the-first-day",
       "published": "2026-07-29T13:32:37+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BNY targets $8.6 trillion transfer agency market on blockchain rails",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/29/bny-targets-usd8-6-trillion-transfer-agency-market-on-blockchain-rails",
-      "published": "2026-07-29T12:18:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
