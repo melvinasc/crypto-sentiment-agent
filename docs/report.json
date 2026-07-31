@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:43:41.654139+00:00",
+  "generated_at": "2026-07-31T03:39:57.433725+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -40,13 +40,26 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": 0.266,
+      "article_count": 20,
+      "avg_compound": 0.269,
       "overall": "BULLISH",
-      "bullish": 12,
-      "bearish": 4,
+      "bullish": 14,
+      "bearish": 5,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "\u2018Bitcoin Senator\u2019 Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill-Senator-Lummis-Says.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity\" rel=\"nofollow\">&#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act</a></p>\n<p>Republican Senator Cynthia Lummis has again attacked the Democrats for holding back the long-awaited crypto Clarity Act.&#160; Speaking on the Crypto in America podcast Thursday, Lummis said that the bill could have been passed months ago but is unfairly being held back.&#160; Lawmakers are hoping the Clarity Act gets passed before Congress departs for August [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity\" rel=\"nofollow\">&#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
+          "published": "2026-07-30T21:37:45+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8555,
+          "label": "BULLISH",
+          "confidence": 0.8555
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
@@ -71,19 +84,6 @@
           ],
           "compound": 0.765,
           "label": "BULLISH",
-          "confidence": 0.765
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/tn2-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions\" rel=\"nofollow\">Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions</a></p>\n<p>The open-source Bitchat app, designed to work without internet or central servers, continued functioning and spreading peer-to-peer after authorities targeted its GitHub code.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions\" rel=\"nofollow\">Bitchat Mesh App Defies India Cybercrime Notice After Protesters Use It During Network Restrictions</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/politics/bitchat-mesh-app-defies-india-cybercrime-notice-after-protesters-use-it-during-network-restrictions",
-          "published": "2026-07-30T14:00:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.765,
-          "label": "BEARISH",
           "confidence": 0.765
         }
       ],
@@ -126,30 +126,6 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance.US to apply for CFTC license in August for prediction market platform",
-          "summary": "<p>Binance.US CEO Stephen Gregory said at a recent conference that the company will apply for a designated contract market license in August.</p>",
-          "url": "https://www.theblock.co/post/410110/binance-us-cftc-license?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-30T03:17:36+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -161,6 +137,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -303,6 +289,17 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Stablecoin Reserve Requirements Explained",
+      "summary": "<p>A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation.\u00a0 Major jurisdictions with stablecoin reserve [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-31T02:31:26+00:00",
+      "coins": [],
+      "compound": 0.8625,
+      "label": "BULLISH",
+      "confidence": 0.8625
+    },
+    {
       "source": "Decrypt",
       "title": "Elon Musk's xAI Sues Minnesota to Kill the US's First AI Nudification Law",
       "summary": "The company argues the law's definition of \"nudification\" is so broad it would make shirtless men and swimwear photos illegal\u2014and wants a federal court to stop it before Saturday.",
@@ -359,28 +356,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Russia detains crypto mining firm BitRiver founder on fraud charges: report",
-      "summary": "<p>Runets and his company were reportedly involved in a deal with local conglomerate En+ that resulted in $12.5 million in damages.</p>",
-      "url": "https://www.theblock.co/post/410117/russia-detains-bitriver-founder?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-30T05:13:34+00:00",
-      "coins": [],
-      "compound": -0.7096,
-      "label": "BEARISH",
-      "confidence": 0.7096
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitRiver founder charged in Russia with $12.5 million fraud",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
-      "published": "2026-07-30T10:02:33+00:00",
-      "coins": [],
-      "compound": -0.6808,
-      "label": "BEARISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "TheBlock",
       "title": "JPMorgan says crypto bill\u2019s fading odds hurt outlook, warns parts could discourage institutional adoption",
       "summary": "<p>The falling odds of the Clarity Act passing the Senate before year-end are a setback for crypto markets, JPMorgan analysts said.</p>",
       "url": "https://www.theblock.co/post/410185/jpmorgan-crypto-bill-clarity-act-market-outlook?utm_source=rss&utm_medium=rss",
@@ -389,6 +364,17 @@
       "compound": -0.6705,
       "label": "BEARISH",
       "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
+      "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
+      "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
+      "published": "2026-07-30T21:19:12+00:00",
+      "coins": [],
+      "compound": -0.6597,
+      "label": "BEARISH",
+      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
@@ -479,15 +465,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto's resilience tested as oil rises after Iran strikes, Fed signals rates could still rise",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/30/crypto-s-resilience-tested-as-oil-rises-after-iran-strikes-fed-signals-rates-could-still-rise",
-      "published": "2026-07-30T10:56:24+00:00",
+      "source": "TheBlock",
+      "title": "Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders",
+      "summary": "<p>Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the recipient\u2019s blockchain address via a blockchain network, and the recipient [&hellip;]</p>",
+      "url": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-31T01:53:33+00:00",
       "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -495,28 +481,6 @@
       "summary": "<p>Owning shares in these companies fit into Aschenbrenner\u2019s belief power and data-center capacity will be critical to scaling AI.</p>",
       "url": "https://www.theblock.co/post/410173/iren-core-scientific-bitcoin-mining-stocks-surge-aschenbrenner-funds-portfolio-liquidation?utm_source=rss&utm_medium=rss",
       "published": "2026-07-30T16:58:45+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cathie Wood\u2019s Ark Invest sells Bitmine, Bullish, Block shares as crypto stocks dip",
-      "summary": "<p>Meanwhile, the investment firm purchased 128,932 shares of Elon Musk's SpaceX, worth roughly $14.5 million.</p>",
-      "url": "https://www.theblock.co/post/410131/ark-invest-sells-bitmine-bullish-block?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-30T08:47:00+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "Aave proposes reserve deprecations affecting $98 million in supplied assets",
-      "summary": "<p>Aave proposed deprecating 75 reserves and six deployments, affecting $98.1 million in supplied assets and $15.6 million in debt.</p>",
-      "url": "https://www.theblock.co/post/410127/aave-proposes-reserve-deprecations-affecting-98-million-in-supplied-assets?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-30T08:40:10+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -557,10 +521,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
+      "title": "Coinbase sinks 5% after missing second quarter revenue estimates",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
-      "published": "2026-07-30T09:54:18+00:00",
+      "url": "https://www.coindesk.com/markets/2026/07/30/coinbase-sinks-5-after-missing-q2-revenue-estimates",
+      "published": "2026-07-30T20:18:33+00:00",
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
@@ -600,17 +564,6 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Ostium blames off-chain breach for $24 million exploit, rules out smart contract flaw",
-      "summary": "<p>The team said trader collateral was unaffected and that it will release a recovery plan for liquidity providers.</p>",
-      "url": "https://www.theblock.co/post/410122/ostium-post-mortem-exploit?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-30T06:25:55+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "CoinDesk",
       "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
       "summary": "",
@@ -638,6 +591,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
       "published": "2026-07-30T17:34:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Everything is becoming a perp",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
+      "published": "2026-07-30T13:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
