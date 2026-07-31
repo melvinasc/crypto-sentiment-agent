@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-31T03:39:57.433725+00:00",
+  "generated_at": "2026-07-31T09:12:26.630477+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.6808,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
+          "summary": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
+          "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
+          "published": "2026-07-30T09:50:02+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 2,
       "avg_compound": 0.3298,
@@ -40,12 +64,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.269,
+      "article_count": 24,
+      "avg_compound": 0.2201,
       "overall": "BULLISH",
-      "bullish": 14,
-      "bearish": 5,
-      "neutral": 1,
+      "bullish": 16,
+      "bearish": 6,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -61,6 +85,19 @@
           "confidence": 0.8555
         },
         {
+          "source": "Decrypt",
+          "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
+          "summary": "Coinkite said it\u2019s likely that an attacker used AI to review previous versions of its open source firmware to uncover a vulnerability.",
+          "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+          "published": "2026-07-31T09:02:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7964,
+          "label": "BEARISH",
+          "confidence": 0.7964
+        },
+        {
           "source": "Bitcoin Magazine",
           "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act\" rel=\"nofollow\">Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto</a></p>\n<p>The Treasury Secretary slammed Democrats for holding back the landmark legislation. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-vote-on-clarity-act\" rel=\"nofollow\">Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
@@ -72,56 +109,6 @@
           "compound": 0.7964,
           "label": "BULLISH",
           "confidence": 0.7964
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-          "summary": "The advance reflects IBM\u2019s continued progress toward machines powerful enough to challenge today's cryptography.",
-          "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-          "published": "2026-07-30T17:36:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.1598,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
-          "summary": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
-          "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
-          "published": "2026-07-30T09:50:02+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
-          "published": "2026-07-30T13:35:51+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
         }
       ],
       "no_news": false
@@ -323,6 +310,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
+      "summary": "<p>New York State is seeking at least $36 billion in compensatory damages from Kalshi, pending a full accounting.</p>",
+      "url": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-31T07:34:48+00:00",
+      "coins": [],
+      "compound": -0.8555,
+      "label": "BEARISH",
+      "confidence": 0.8555
+    },
+    {
+      "source": "TheBlock",
       "title": "Australia\u2019s eSafety regulator sues Telegram over alleged failure to remove pro-terror content, seeks A$54.6 million penalty",
       "summary": "<p>Australia's eSafety regulator sued Telegram in Federal Court over alleged failures to remove pro-terror content.</p>",
       "url": "https://www.theblock.co/post/410152/australias-esafety-regulator-sues-telegram-over-alleged-failure-to-remove-pro-terror-content-seeks-a54-6-million-penalty?utm_source=rss&utm_medium=rss",
@@ -443,15 +441,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Bernstein says Core Scientific\u2019s AMD partnership could generate $14B over 15 years",
-      "summary": "<p>Bernstein values Core Scientific's AMD deal at $14B over 15 years, with AMD backstopping a neocloud lease and holding warrants for 30M CORZ shares.</p>",
-      "url": "https://www.theblock.co/post/410140/bernstein-says-core-scientifics-amd-partnership-could-generate-14b-over-15-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-30T12:15:01+00:00",
+      "source": "CoinDesk",
+      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
+      "published": "2026-07-31T08:57:02+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -565,43 +563,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Telegram faces terror-related legal action in Australia one day after founder is charged by Russia",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/30/telegram-faces-terror-related-legal-action-in-australia-one-day-after-founder-is-charged-by-russia",
-      "published": "2026-07-30T12:09:18+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-      "published": "2026-07-30T11:17:56+00:00",
-      "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
-    },
-    {
-      "source": "CoinDesk",
       "title": "Global banks test tokenized money for cross-border payments in $1 million BIS pilot",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/30/global-banks-test-tokenized-money-for-cross-border-payments-in-usd1-million-bis-pilot",
       "published": "2026-07-30T17:34:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Everything is becoming a perp",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/28/everything-is-becoming-a-perp",
-      "published": "2026-07-30T13:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -613,17 +578,6 @@
       "summary": "A new OneDrive Photos app is appearing on some Windows 11 PCs through OneDrive and Windows updates, adding AI-powered search and an optional facial grouping feature.",
       "url": "https://decrypt.co/374688/microsoft-quietly-adds-windows-app-wants-scan-face-onedrive",
       "published": "2026-07-29T22:31:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Flock Cameras Face Growing Backlash as Privacy Concerns Reach Capitol Hill",
-      "summary": "Growing opposition across America to Flock cameras has reached Capitol Hill, where Rep. Thomas Massie plans legislation to block federal funding for the technology.",
-      "url": "https://decrypt.co/374603/flock-cameras-backlash-privacy-concerns-capitol-hill",
-      "published": "2026-07-29T20:46:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
