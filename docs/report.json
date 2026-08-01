@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:45:06.200186+00:00",
+  "generated_at": "2026-08-01T03:39:01.317445+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -115,12 +115,25 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": 0.1255,
-      "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 8,
+      "avg_compound": 0.0215,
+      "overall": "NEUTRAL",
+      "bullish": 12,
+      "bearish": 9,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a></p>\n<p>Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
+          "published": "2026-07-31T21:01:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8658,
+          "label": "BEARISH",
+          "confidence": 0.8658
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "\u2018Bitcoin Senator\u2019 Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
@@ -146,19 +159,6 @@
           "compound": -0.8225,
           "label": "BEARISH",
           "confidence": 0.8225
-        },
-        {
-          "source": "Decrypt",
-          "title": "Crypto Kiosk Scams Cost Texans $57M as Lawmakers Weigh a Ban",
-          "summary": "Three states have already outlawed Bitcoin ATMs, and a committee chair says Texas will go further than regulating them.",
-          "url": "https://decrypt.co/374778/crypto-kiosk-scams-cost-texans-57m-as-lawmakers-weigh-a-ban",
-          "published": "2026-07-31T11:13:58+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8126,
-          "label": "BEARISH",
-          "confidence": 0.8126
         }
       ],
       "no_news": false
@@ -380,13 +380,13 @@
     },
     {
       "source": "Decrypt",
-      "title": "Researchers Tried Letting AI Do Science. It Failed",
-      "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
-      "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
-      "published": "2026-07-30T19:13:46+00:00",
+      "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
+      "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
+      "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
+      "published": "2026-07-31T20:32:50+00:00",
       "coins": [],
-      "compound": 0.7506,
-      "label": "BULLISH",
+      "compound": -0.7506,
+      "label": "BEARISH",
       "confidence": 0.7506
     },
     {
@@ -446,6 +446,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "AI Music Company Suno Loses Copyright Case in Germany",
+      "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
+      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
+      "published": "2026-07-31T20:03:22+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
       "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
       "summary": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
       "url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
@@ -468,32 +479,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers",
-      "published": "2026-07-31T08:57:02+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
       "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
       "published": "2026-07-31T17:07:30+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "Stablecoins and Cross-Border Payments: How Digital Dollars Move Across Borders",
-      "summary": "<p>Stablecoins are a type of cryptocurrency designed to hold a fixed value against a reference currency, most commonly one U.S. dollar. Transferring stablecoins across countries is unlike transferring money through a bank: A sender converts their local currency into a stablecoin, sends it to the recipient\u2019s blockchain address via a blockchain network, and the recipient [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/410227/stablecoins-and-cross-border-payments?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T01:53:33+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -538,6 +527,17 @@
       "summary": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
       "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
       "published": "2026-07-31T19:43:24+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
+      "summary": "<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi about the State of the Union.</p>",
+      "url": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
+      "published": "2026-07-31T20:25:30+00:00",
       "coins": [],
       "compound": -0.1531,
       "label": "BEARISH",
