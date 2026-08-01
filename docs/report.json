@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T13:44:37.148034+00:00",
+  "generated_at": "2026-08-01T19:20:26.237101+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -198,36 +198,12 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
+    "BTC": {
+      "article_count": 21,
       "avg_compound": -0.1027,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-          "published": "2026-08-01T09:01:08+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0513,
-      "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 10,
+      "bullish": 9,
+      "bearish": 12,
       "neutral": 0,
       "top_articles": [
         {
@@ -268,6 +244,57 @@
           "compound": -0.8225,
           "label": "BEARISH",
           "confidence": 0.8225
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.0496,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+          "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million\u2014nearly double the initial estimate.",
+          "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+          "published": "2026-08-01T16:01:17+00:00",
+          "coins": [
+            "BTC",
+            "BNB"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "TheBlock",
+          "title": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
+          "summary": "<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>",
+          "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-01T19:09:57+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+          "published": "2026-08-01T09:01:08+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -386,17 +413,6 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Stablecoin Reserve Requirements Explained",
-      "summary": "<p>A stablecoin is a digital asset designed to maintain a steady value by pegging its price to another asset, most commonly a fiat currency like the U.S. dollar. Stablecoin reserve requirements are the rules determining the assets an issuer must hold to back up every stablecoin it puts into circulation.\u00a0 Major jurisdictions with stablecoin reserve [&hellip;]</p>",
-      "url": "https://www.theblock.co/learn/410234/stablecoin-reserve-requirements-explained?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T02:31:26+00:00",
-      "coins": [],
-      "compound": 0.8625,
-      "label": "BULLISH",
-      "confidence": 0.8625
-    },
-    {
-      "source": "TheBlock",
       "title": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
       "summary": "<p>New York State is seeking at least $36 billion in compensatory damages from Kalshi, pending a full accounting.</p>",
       "url": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss",
@@ -427,28 +443,6 @@
       "compound": -0.7003,
       "label": "BEARISH",
       "confidence": 0.7003
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle secures New York trust charter as crypto regulatory push accelerates",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/31/circle-secures-new-york-trust-charter-as-crypto-regulatory-push-accelerates",
-      "published": "2026-07-31T13:35:17+00:00",
-      "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Misses on Q2 Earnings as Crypto Trading Activity Slows",
-      "summary": "The exchange reported lower quarterly revenue and a net loss as crypto trading activity declined, while subscription, stablecoin, and lending businesses continued to grow.",
-      "url": "https://decrypt.co/374761/coinbase-misses-q2-earnings-crypto-trading-activity-slows",
-      "published": "2026-07-30T21:19:12+00:00",
-      "coins": [],
-      "compound": -0.6597,
-      "label": "BEARISH",
-      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
@@ -495,15 +489,15 @@
       "confidence": 0.4588
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase's weak quarter leaves Wall Street split on timing of a recovery",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/31/coinbase-s-weak-quarter-leaves-wall-street-split-on-timing-of-a-recovery",
-      "published": "2026-07-31T13:20:45+00:00",
+      "source": "Decrypt",
+      "title": "The More Americans Know About AI, the Less They Like It: Gallup",
+      "summary": "Gallup says Americans are growing more skeptical of artificial intelligence, with rising concerns about job losses, businesses' use of the technology, and the technology\u2019s growing impact.",
+      "url": "https://decrypt.co/374794/more-americans-know-about-ai-less-they-like-gallup",
+      "published": "2026-08-01T15:01:09+00:00",
       "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
+      "compound": 0.3461,
+      "label": "BULLISH",
+      "confidence": 0.3461
     },
     {
       "source": "CoinDesk",
@@ -573,6 +567,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Russian decree bans crypto mining across Moscow region through 2032",
+      "summary": "<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages.\u00a0</p>",
+      "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-01T16:09:15+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
       "title": "Coinbase\u2019s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
       "summary": "<p>Wall Street lowered Coinbase targets after second-quarter earnings but remains split on the company's outlook.</p>",
       "url": "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&utm_medium=rss",
@@ -581,6 +586,28 @@
       "compound": 0.0644,
       "label": "BULLISH",
       "confidence": 0.0644
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "published": "2026-08-01T16:51:35+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "published": "2026-08-01T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -610,28 +637,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
       "published": "2026-07-31T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "RWA perps will outpace tokenization",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-      "published": "2026-07-31T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
-      "published": "2026-07-31T12:28:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
