@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T03:39:01.317445+00:00",
+  "generated_at": "2026-08-01T08:30:39.539321+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -89,6 +89,67 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.3182,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+          "published": "2026-08-01T06:09:51+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.3014,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook",
+          "summary": "<p>TD Cowen cut Sharplink's price target after lowering its 2026 ether forecast while maintaining its long-term Ethereum investment thesis.</p>",
+          "url": "https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-31T13:03:29+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ethereum\u2019s 43-day staking queue isn\u2019t a clean demand signal, Sygnum says",
+          "summary": "<p>Sygnum's Thomas Brunner says Ethereum\u2019s 43-day staking queue reflects mechanics, not just fresh demand from investors.</p>",
+          "url": "https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss",
+          "published": "2026-07-31T14:35:11+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1551,
+          "label": "BULLISH",
+          "confidence": 0.1551
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.1779,
@@ -115,10 +176,10 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": 0.0215,
+      "avg_compound": -0.0374,
       "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 9,
+      "bullish": 11,
+      "bearish": 10,
       "neutral": 1,
       "top_articles": [
         {
@@ -159,57 +220,6 @@
           "compound": -0.8225,
           "label": "BEARISH",
           "confidence": 0.8225
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0114,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "TD Cowen cuts Sharplink price target to $13 on lower 2026 ether outlook",
-          "summary": "<p>TD Cowen cut Sharplink's price target after lowering its 2026 ether forecast while maintaining its long-term Ethereum investment thesis.</p>",
-          "url": "https://www.theblock.co/post/410273/td-cowen-cuts-sharplink-price-target-to-13-on-lower-2026-ether-outlook?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-31T13:03:29+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year",
-          "published": "2026-07-31T11:07:52+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.6369,
-          "label": "BULLISH",
-          "confidence": 0.6369
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum\u2019s 43-day staking queue isn\u2019t a clean demand signal, Sygnum says",
-          "summary": "<p>Sygnum's Thomas Brunner says Ethereum\u2019s 43-day staking queue reflects mechanics, not just fresh demand from investors.</p>",
-          "url": "https://www.theblock.co/post/410285/ethereum-43-day-staking-queue-isnt-clean-demand-signal-sygnum?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-31T14:35:11+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.1551,
-          "label": "BULLISH",
-          "confidence": 0.1551
         }
       ],
       "no_news": false
@@ -335,16 +345,6 @@
       "no_news": true
     },
     "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -604,17 +604,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
       "published": "2026-07-31T12:00:26+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New York sues Kalshi, alleges it offers a gambling platform 'plain and simple'",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple",
-      "published": "2026-07-31T09:55:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
