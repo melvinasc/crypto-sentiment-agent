@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:30:39.539321+00:00",
+  "generated_at": "2026-08-01T13:44:37.148034+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -150,6 +150,30 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.2975,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+          "published": "2026-08-01T13:00:00+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.2975,
+          "label": "BEARISH",
+          "confidence": 0.2975
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.1779,
@@ -174,13 +198,37 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+          "published": "2026-08-01T09:01:08+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0374,
-      "overall": "NEUTRAL",
-      "bullish": 11,
+      "article_count": 20,
+      "avg_compound": -0.0513,
+      "overall": "BEARISH",
+      "bullish": 10,
       "bearish": 10,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -235,16 +283,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -325,16 +363,6 @@
       "no_news": true
     },
     "SHIB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -556,6 +584,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Everyone has the perps convergence backwards",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "published": "2026-08-01T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
@@ -593,17 +632,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters",
       "published": "2026-07-31T12:28:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "World Cup bets smash records as prediction markets hit $20 billion in volume",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/31/world-cup-bets-smash-records-as-prediction-markets-hit-usd20-billion-in-volume",
-      "published": "2026-07-31T12:00:26+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
