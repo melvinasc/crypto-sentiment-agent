@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:20:26.237101+00:00",
+  "generated_at": "2026-08-02T03:39:03.064550+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -199,11 +199,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1027,
+      "article_count": 22,
+      "avg_compound": -0.1298,
       "overall": "BEARISH",
       "bullish": 9,
-      "bearish": 12,
+      "bearish": 13,
       "neutral": 0,
       "top_articles": [
         {
@@ -249,12 +249,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.0496,
+      "article_count": 4,
+      "avg_compound": -0.0372,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 2,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -411,17 +411,6 @@
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "New York sues Kalshi over illegal gambling claims, seeks $36 billion in damages",
-      "summary": "<p>New York State is seeking at least $36 billion in compensatory damages from Kalshi, pending a full accounting.</p>",
-      "url": "https://www.theblock.co/post/410247/new-york-sues-kalshi?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T07:34:48+00:00",
-      "coins": [],
-      "compound": -0.8555,
-      "label": "BEARISH",
-      "confidence": 0.8555
-    },
     {
       "source": "Decrypt",
       "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
@@ -589,6 +578,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Strategy holds STRC dividend at 12%",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "published": "2026-08-01T22:01:57+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
@@ -615,28 +615,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
       "published": "2026-08-01T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum computing nears commercial breakthrough, IBM CEO says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says",
-      "published": "2026-07-31T15:39:30+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto faces 3 barriers to next bull run, STS Digital CEO says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/07/31/crypto-faces-3-barriers-to-next-bull-run-sts-digital-ceo-says",
-      "published": "2026-07-31T15:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
