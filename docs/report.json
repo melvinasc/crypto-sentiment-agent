@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:33:26.935609+00:00",
+  "generated_at": "2026-08-02T13:44:10.825095+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -199,11 +199,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1298,
+      "article_count": 23,
+      "avg_compound": -0.1484,
       "overall": "BEARISH",
       "bullish": 9,
-      "bearish": 13,
+      "bearish": 14,
       "neutral": 0,
       "top_articles": [
         {
@@ -489,17 +489,6 @@
       "confidence": 0.3461
     },
     {
-      "source": "CoinDesk",
-      "title": "Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
-      "published": "2026-07-31T17:07:30+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
       "summary": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
@@ -520,17 +509,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The good and the bad of perps, according to crypto traders",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "published": "2026-07-31T17:53:59+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
     },
     {
       "source": "Decrypt",
@@ -575,6 +553,17 @@
       "compound": 0.0644,
       "label": "BULLISH",
       "confidence": 0.0644
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The reverse bridge: Crypto meets Wall Street using perps",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
+      "published": "2026-08-02T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
