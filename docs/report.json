@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:44:10.825095+00:00",
+  "generated_at": "2026-08-02T19:21:35.701133+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -40,10 +40,10 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": 0.5508,
+      "article_count": 2,
+      "avg_compound": 0.606,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -59,19 +59,6 @@
           "compound": 0.7717,
           "label": "BULLISH",
           "confidence": 0.7717
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-          "published": "2026-07-31T18:24:55+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.4404,
-          "label": "BULLISH",
-          "confidence": 0.4404
         },
         {
           "source": "TheBlock",
@@ -200,11 +187,11 @@
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.1484,
+      "avg_compound": -0.1288,
       "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 14,
-      "neutral": 0,
+      "bullish": 8,
+      "bearish": 13,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -424,17 +411,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "New York AG Seeks $36B From Kalshi Over 'Illegal Gambling'",
-      "summary": "The CFTC asked a court to stop New York enforcing against the prediction market the day before the state filed.",
-      "url": "https://decrypt.co/374775/new-york-ag-seeks-36b-from-kalshi-over-illegal-gambling",
-      "published": "2026-07-31T10:12:16+00:00",
-      "coins": [],
-      "compound": -0.7003,
-      "label": "BEARISH",
-      "confidence": 0.7003
-    },
-    {
-      "source": "Decrypt",
       "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
       "summary": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
       "url": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
@@ -445,15 +421,26 @@
       "confidence": 0.6124
     },
     {
-      "source": "TheBlock",
-      "title": "Bernstein sees 78% upside for Robinhood as tokenization, prediction markets expand its crypto business",
-      "summary": "<p>Bernstein held its $160 Robinhood price target, citing tokenization and prediction markets as Robinhood's next crypto growth drivers.</p>",
-      "url": "https://www.theblock.co/post/410259/bernstein-sees-78-upside-for-robinhood-as-tokenization-prediction-markets-expand-its-crypto-business?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T10:43:58+00:00",
+      "source": "CoinDesk",
+      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
+      "published": "2026-08-02T16:00:00+00:00",
       "coins": [],
-      "compound": 0.5994,
+      "compound": 0.5106,
       "label": "BULLISH",
-      "confidence": 0.5994
+      "confidence": 0.5106
+    },
+    {
+      "source": "Decrypt",
+      "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
+      "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta\u2019s AI glasses under scrutiny.",
+      "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
+      "published": "2026-08-02T15:01:03+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -556,6 +543,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Counting down the days: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
+      "published": "2026-08-02T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "summary": "",
+      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
+      "published": "2026-08-02T17:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "The reverse bridge: Crypto meets Wall Street using perps",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
@@ -604,17 +613,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
       "published": "2026-08-01T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Senate Democrats propose anti-corruption bureau as Trump\u2019s crypto portfolio draws more scrutiny",
-      "summary": "<p>Recent financial disclosures showed that Trump made hundreds of millions of dollars in crypto-related income.</p>",
-      "url": "https://www.theblock.co/post/410260/senate-democrat-anti-corruption-bureau?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T09:34:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
