@@ -1,51 +1,66 @@
 {
-  "generated_at": "2026-08-03T14:57:24.667131+00:00",
+  "generated_at": "2026-08-03T19:47:39.869615+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": 0.9538,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.296,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
-          "summary": "The approval comes weeks after Circle won federal approval to establish a national trust bank, adding another license as the USDC issuer expands.",
-          "url": "https://decrypt.co/374791/circle-new-york-trust-charter-stablecoin-issuer",
-          "published": "2026-07-31T15:32:02+00:00",
+          "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+          "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million\u2014nearly double the initial estimate.",
+          "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+          "published": "2026-08-01T16:01:17+00:00",
           "coins": [
-            "USDC"
+            "BTC",
+            "BNB"
           ],
-          "compound": 0.9538,
-          "label": "BULLISH",
-          "confidence": 0.9538
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.7717,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.2107,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
-          "summary": "The latest attestation offers a snapshot of the assets backing the world's largest stablecoin, including U.S. Treasuries, repo agreements, and more than 146 metric tons of gold.",
-          "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-          "published": "2026-07-31T17:10:49+00:00",
+          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+          "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+          "published": "2026-08-03T17:51:03+00:00",
           "coins": [
-            "USDT"
+            "XRP",
+            "ETH"
           ],
-          "compound": 0.7717,
+          "compound": 0.4215,
           "label": "BULLISH",
-          "confidence": 0.7717
+          "confidence": 0.4215
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
+          "summary": "<p>Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.</p>",
+          "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-03T09:38:48+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -74,13 +89,64 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.1419,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+          "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+          "published": "2026-08-03T17:51:03+00:00",
+          "coins": [
+            "XRP",
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee\u2019s Bitmine Buys More Ethereum, Adds to Stock Buyback",
+          "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
+          "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
+          "published": "2026-08-03T15:31:43+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
+          "summary": "<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.</p>",
+          "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-03T13:48:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
       "article_count": 28,
-      "avg_compound": -0.0923,
+      "avg_compound": -0.1403,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 13,
-      "neutral": 7,
+      "bullish": 9,
+      "bearish": 15,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -97,19 +163,6 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "\u2018Bitcoin Senator\u2019 Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/President-Trump-Supports-Strategic-Bitcoin-Reserve-Bill-Senator-Lummis-Says.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity\" rel=\"nofollow\">&#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act</a></p>\n<p>Republican Senator Cynthia Lummis has again attacked the Democrats for holding back the long-awaited crypto Clarity Act.&#160; Speaking on the Crypto in America podcast Thursday, Lummis said that the bill could have been passed months ago but is unfairly being held back.&#160; Lawmakers are hoping the Clarity Act gets passed before Congress departs for August [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity\" rel=\"nofollow\">&#8216;Bitcoin Senator&#8217; Cynthia Lummis Blasts Democrats For Stalling Crypto Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/cynthia-lummis-blasts-democrats-on-clarity",
-          "published": "2026-07-30T21:37:45+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8555,
-          "label": "BULLISH",
-          "confidence": 0.8555
-        },
-        {
-          "source": "Bitcoin Magazine",
           "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a></p>\n<p>Bitcoin wallets continue to be drained in the ongoing hack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
@@ -120,132 +173,44 @@
           "compound": -0.8357,
           "label": "BEARISH",
           "confidence": 0.8357
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0332,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-          "summary": "<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.</p>",
-          "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-03T13:48:47+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
         },
         {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
-          "published": "2026-08-03T10:51:37+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Wallet-Flaw-Exposes-Years-of-Bitcoin-Seeds.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack\" rel=\"nofollow\">Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen</a></p>\n<p>Over $70 million in Bitcoin has been pinched. Coldcard has since urged its users to take precautions. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack\" rel=\"nofollow\">Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack",
+          "published": "2026-07-31T15:22:11+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "BTC"
           ],
-          "compound": -0.1027,
+          "compound": -0.8225,
           "label": "BEARISH",
-          "confidence": 0.1027
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
-          "published": "2026-08-03T12:53:21+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.8225
         }
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.0153,
-      "overall": "NEUTRAL",
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
-          "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million\u2014nearly double the initial estimate.",
-          "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
-          "published": "2026-08-01T16:01:17+00:00",
+          "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
+          "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
+          "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
+          "published": "2026-08-03T19:17:37+00:00",
           "coins": [
-            "BTC",
-            "BNB"
+            "SOL",
+            "ETH"
           ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "TheBlock",
-          "title": "BNB Chain \u2018pursuing legal action\u2019 against former employee over memecoin launched from tutorial wallet",
-          "summary": "<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>",
-          "url": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-01T19:09:57+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.25,
+          "compound": 0.128,
           "label": "BULLISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "TheBlock",
-          "title": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters",
-          "summary": "<p>Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.</p>",
-          "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-01T21:18:45+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
-          "summary": "<p>Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.</p>",
-          "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-03T09:38:48+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.128
         }
       ],
       "no_news": false
@@ -340,16 +305,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -369,9 +324,40 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
+      "summary": "<p>An FBI agent was arrested after allegedly stealing about $1 million in cryptocurrency from \"adversarial cryptocurrency accounts.\"</p>",
+      "url": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-03T18:48:34+00:00",
+      "coins": [],
+      "compound": -0.9349,
+      "label": "BEARISH",
+      "confidence": 0.9349
+    },
     {
       "source": "TheBlock",
       "title": "Hong Kong police flag $3.3 million romance scam involving fake crypto app",
@@ -406,6 +392,17 @@
       "confidence": 0.5719
     },
     {
+      "source": "TheBlock",
+      "title": "Proof of Attendance Protocol is shutting down after 5+ years",
+      "summary": "<p>Some 46,210 issuers like Coinbase and American Express used POAP to create onchain mementos that users could mint.</p>",
+      "url": "https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-03T18:40:12+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "Decrypt",
       "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
       "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta\u2019s AI glasses under scrutiny.",
@@ -417,15 +414,15 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "AI Music Company Suno Loses Copyright Case in Germany",
-      "summary": "The decision requires AI companies to license copyrighted music used to train models and generate songs, marking another legal win for music rights holders in Europe.",
-      "url": "https://decrypt.co/374802/suno-ai-music-copyright-case-germany",
-      "published": "2026-07-31T20:03:22+00:00",
+      "source": "TheBlock",
+      "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
+      "summary": "<p>BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Street, and Fidelity designed for stablecoin reserves.</p>",
+      "url": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-03T17:48:09+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.5106,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.5106
     },
     {
       "source": "CoinDesk",
@@ -450,6 +447,17 @@
       "confidence": 0.3461
     },
     {
+      "source": "TheBlock",
+      "title": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
+      "summary": "<p>\"You could copy and paste that lawsuit and file it against Nasdaq,\u201d Kalshi CEO Tarek Mansour said during an interview with CNBC.</p>",
+      "url": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-03T18:44:48+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "CoinDesk",
       "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
       "summary": "",
@@ -462,14 +470,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "XDC AI and the Rise of Agentic Finance: When AI Agents Learn to Pay",
-      "summary": "As AI agents move from giving advice to making transactions, a new layer of payment infrastructure is racing to catch up.",
-      "url": "https://decrypt.co/374741/xdc-ai-and-the-rise-of-agentic-finance-when-ai-agents-learn-to-pay",
-      "published": "2026-07-31T15:01:04+00:00",
+      "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
+      "summary": "Authoritarian oppression, corporate treasuries and \u201cwrench attacks\u201d make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
+      "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+      "published": "2026-08-03T17:31:03+00:00",
       "coins": [],
-      "compound": 0.25,
+      "compound": 0.2263,
       "label": "BULLISH",
-      "confidence": 0.25
+      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -483,33 +491,11 @@
       "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "US Is Banning Foreign Robots\u2014Even Roombas",
-      "summary": "New restrictions block future models of foreign-made robots and connected power inverters from receiving FCC approval after U.S. national security agencies warned they could pose cybersecurity and supply chain risks.",
-      "url": "https://decrypt.co/374799/fcc-bans-foreign-humanoid-robots-china-roombas",
-      "published": "2026-07-31T19:43:24+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
       "source": "CoinDesk",
       "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
       "published": "2026-08-03T13:49:40+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Russian decree bans crypto mining across Moscow region through 2032",
-      "summary": "<p>Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages.\u00a0</p>",
-      "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-01T16:09:15+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
