@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:00:49.322778+00:00",
+  "generated_at": "2026-08-03T14:57:24.667131+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -27,10 +27,10 @@
       "no_news": false
     },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.606,
+      "article_count": 1,
+      "avg_compound": 0.7717,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -46,30 +46,41 @@
           "compound": 0.7717,
           "label": "BULLISH",
           "confidence": 0.7717
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tether\u2019s excess reserves fall by more than $4 billion amid weaker Q2 financial results",
-          "summary": "<p>Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.</p>",
-          "url": "https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-31T17:58:47+00:00",
+          "title": "BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more",
+          "summary": "<p>BitGo Link provides a single interface for viewing and moving digital assets held both in BitGo custody and on centralized exchanges.</p>",
+          "url": "https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-03T11:50:02+00:00",
           "coins": [
-            "USDT"
+            "LINK"
           ],
-          "compound": 0.4404,
+          "compound": 0.1779,
           "label": "BULLISH",
-          "confidence": 0.4404
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.145,
+      "article_count": 28,
+      "avg_compound": -0.0923,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 8,
       "bearish": 13,
-      "neutral": 5,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -99,16 +110,67 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Wallet-Flaw-Exposes-Years-of-Bitcoin-Seeds.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack\" rel=\"nofollow\">Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen</a></p>\n<p>Over $70 million in Bitcoin has been pinched. Coldcard has since urged its users to take precautions. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack\" rel=\"nofollow\">Coldcard Wallet Flaw Exposes Years of Bitcoin Seeds After $70M in BTC Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coldcard-wallet-exposed-after-bitcoin-hack",
-          "published": "2026-07-31T15:22:11+00:00",
+          "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a></p>\n<p>Bitcoin wallets continue to be drained in the ongoing hack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
+          "published": "2026-08-03T14:05:38+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8225,
+          "compound": -0.8357,
           "label": "BEARISH",
-          "confidence": 0.8225
+          "confidence": 0.8357
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.0332,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
+          "summary": "<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.</p>",
+          "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-03T13:48:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether decline as Coldcard exploit enters a fifth day",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-ether-decline-as-coldcard-exploit-enters-a-fifth-day",
+          "published": "2026-08-03T10:51:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tom Lee's Bitmine bought more ether, added to stock buyback last week",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
+          "published": "2026-08-03T12:53:21+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -238,26 +300,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "ETH": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -353,17 +395,6 @@
       "confidence": 0.7506
     },
     {
-      "source": "Decrypt",
-      "title": "AI Company Sues Town for Trying to Block Data Center Near National Park",
-      "summary": "A proposed $4.8 billion AI data center near Mammoth Cave National Park has sparked a legal battle that could test how far local governments can go to slow the industry's rapid expansion.",
-      "url": "https://decrypt.co/374764/ai-company-sues-town-data-center-national-park",
-      "published": "2026-07-31T14:01:03+00:00",
-      "coins": [],
-      "compound": -0.6124,
-      "label": "BEARISH",
-      "confidence": 0.6124
-    },
-    {
       "source": "CoinDesk",
       "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
       "summary": "",
@@ -373,17 +404,6 @@
       "compound": 0.5719,
       "label": "BULLISH",
       "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The future of crypto payments won't include on-ramps or bridges, Fun CEO says",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/02/the-future-of-crypto-payments-won-t-include-on-ramps-or-bridges-fun-ceo-says",
-      "published": "2026-08-02T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -408,17 +428,6 @@
       "confidence": 0.4588
     },
     {
-      "source": "Decrypt",
-      "title": "Claude Hacked Three Companies in Internal Testing: Anthropic",
-      "summary": "Anthropic says three Claude models compromised the companies after a testing misconfiguration exposed the AI to the public internet.",
-      "url": "https://decrypt.co/374784/claude-hacked-three-companies-in-internal-testing-anthropic",
-      "published": "2026-07-31T13:47:54+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
       "source": "CoinDesk",
       "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
       "summary": "",
@@ -439,6 +448,17 @@
       "compound": 0.3461,
       "label": "BULLISH",
       "confidence": 0.3461
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
+      "published": "2026-08-03T13:59:50+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -474,15 +494,15 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
-      "summary": "<p>Former expelled U.S. Rep. George Santos settled with CFTC over trades made on Kalshi about the State of the Union.</p>",
-      "url": "https://www.theblock.co/post/410338/george-santos-to-pay-35000-cftc-settlement-kalshi-sotu-bet?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T20:25:30+00:00",
+      "source": "CoinDesk",
+      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
+      "published": "2026-08-03T13:49:40+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
     },
     {
       "source": "TheBlock",
@@ -496,15 +516,15 @@
       "confidence": 0.128
     },
     {
-      "source": "TheBlock",
-      "title": "Coinbase\u2019s Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
-      "summary": "<p>Wall Street lowered Coinbase targets after second-quarter earnings but remains split on the company's outlook.</p>",
-      "url": "https://www.theblock.co/post/410316/coinbase-q2-miss-sparks-split-wall-street-analysts-debate-growth-beyond-trading?utm_source=rss&utm_medium=rss",
-      "published": "2026-07-31T19:34:26+00:00",
+      "source": "CoinDesk",
+      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
+      "published": "2026-08-03T13:15:46+00:00",
       "coins": [],
-      "compound": 0.0644,
+      "compound": 0.1027,
       "label": "BULLISH",
-      "confidence": 0.0644
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -519,10 +539,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Counting down the days: State of Crypto",
+      "title": "Bitget set to exit Japan, close all remaining positions by year-end",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto",
-      "published": "2026-08-02T18:30:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
+      "published": "2026-08-03T12:03:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -530,54 +550,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why a DeFi platform ditched its consumer app to become the secret backend for tech giants",
+      "title": "Bithumb now targets 2028 IPO after major internal restructuring",
       "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants",
-      "published": "2026-08-02T17:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
+      "published": "2026-08-03T10:41:08+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "The reverse bridge: Crypto meets Wall Street using perps",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps",
-      "published": "2026-08-02T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy holds STRC dividend at 12%",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-      "published": "2026-08-01T22:01:57+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "published": "2026-08-01T16:51:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "published": "2026-08-01T16:00:00+00:00",
+      "source": "Decrypt",
+      "title": "South Korean Exchange Bithumb Targets 2028 IPO",
+      "summary": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
+      "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
+      "published": "2026-08-03T11:07:59+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
