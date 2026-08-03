@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-08-02T19:21:35.701133+00:00",
+  "generated_at": "2026-08-03T03:41:11.623866+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.9599,
+      "article_count": 1,
+      "avg_compound": 0.9538,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Circle secures NYDFS trust charter, adding state layer to federal USDC oversight",
-          "summary": "<p>Circle won a limited-purpose trust charter from NYDFS for Circle Internet Trust Company after securing final OCC national trust approval.</p>",
-          "url": "https://www.theblock.co/post/410275/circle-secures-nydfs-trust-charter-adding-state-layer-to-federal-usdc-oversight?utm_source=rss&utm_medium=rss",
-          "published": "2026-07-31T12:59:31+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.9661,
-          "label": "BULLISH",
-          "confidence": 0.9661
-        },
         {
           "source": "Decrypt",
           "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
@@ -186,11 +173,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.1288,
+      "article_count": 24,
+      "avg_compound": -0.1308,
       "overall": "BEARISH",
       "bullish": 8,
-      "bearish": 13,
+      "bearish": 14,
       "neutral": 2,
       "top_articles": [
         {
