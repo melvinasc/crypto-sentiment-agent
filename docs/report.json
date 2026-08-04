@@ -1,12 +1,49 @@
 {
-  "generated_at": "2026-08-04T14:33:35.172516+00:00",
+  "generated_at": "2026-08-04T19:46:33.858862+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
+    "USDC": {
       "article_count": 2,
-      "avg_compound": 0.4188,
+      "avg_compound": 0.6464,
       "overall": "BULLISH",
       "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
+          "summary": "<p>Tokenizing equities has generated significant interest from both crypto natives and firms like JPMorgan and Goldman Sachs.</p>",
+          "url": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T15:27:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.743,
+          "label": "BULLISH",
+          "confidence": 0.743
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
+          "published": "2026-08-04T17:55:23+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.5499,
+          "label": "BULLISH",
+          "confidence": 0.5499
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.465,
+      "overall": "BULLISH",
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,6 +59,19 @@
           "compound": 0.7096,
           "label": "BULLISH",
           "confidence": 0.7096
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
+          "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
+          "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
+          "published": "2026-08-04T18:46:11+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.5574,
+          "label": "BULLISH",
+          "confidence": 0.5574
         },
         {
           "source": "Decrypt",
@@ -41,12 +91,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.2107,
+      "article_count": 1,
+      "avg_compound": 0.4215,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -61,16 +111,39 @@
           "compound": 0.4215,
           "label": "BULLISH",
           "confidence": 0.4215
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 2,
+      "avg_compound": 0.2003,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
+          "summary": "<p>The move pushes the total value migrating from LayerZero to Chainlink near $15 billion, with WBTC representing the largest shift yet.</p>",
+          "url": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T15:24:31+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.4005,
+          "label": "BULLISH",
+          "confidence": 0.4005
         },
         {
           "source": "CoinDesk",
-          "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+          "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-          "published": "2026-08-04T06:12:20+00:00",
+          "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+          "published": "2026-08-04T13:00:00+00:00",
           "coins": [
-            "XRP",
-            "ETH"
+            "LINK"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -80,12 +153,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.1699,
+      "article_count": 5,
+      "avg_compound": 0.1973,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 3,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -126,6 +199,56 @@
           "compound": -0.2263,
           "label": "BEARISH",
           "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.1349,
+      "overall": "BEARISH",
+      "bullish": 10,
+      "bearish": 12,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "FBI Agent Accused of $1 Million Crypto Theft From \u2018Adversarial Nation\u2019",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Accused-of-1-Million-Crypto-Theft-From-Adversarial-Nation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft\" rel=\"nofollow\">FBI Agent Accused of $1 Million Crypto Theft From &#8216;Adversarial Nation&#8217;\u00a0</a></p>\n<p>Court documents allege that Patrick Steven Yaroch was planning on going abroad with the stolen crypto. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft\" rel=\"nofollow\">FBI Agent Accused of $1 Million Crypto Theft From &#8216;Adversarial Nation&#8217;\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft",
+          "published": "2026-08-04T18:51:56+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8934,
+          "label": "BEARISH",
+          "confidence": 0.8934
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a></p>\n<p>Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
+          "published": "2026-07-31T21:01:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8658,
+          "label": "BEARISH",
+          "confidence": 0.8658
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a></p>\n<p>Bitcoin wallets continue to be drained in the ongoing hack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
+          "published": "2026-08-03T14:05:38+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8357,
+          "label": "BEARISH",
+          "confidence": 0.8357
         }
       ],
       "no_news": false
@@ -203,80 +326,6 @@
           "compound": -0.1027,
           "label": "BEARISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0419,
-      "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 11,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a></p>\n<p>Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
-          "published": "2026-07-31T21:01:14+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8658,
-          "label": "BEARISH",
-          "confidence": 0.8658
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a></p>\n<p>Bitcoin wallets continue to be drained in the ongoing hack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
-          "published": "2026-08-03T14:05:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8357,
-          "label": "BEARISH",
-          "confidence": 0.8357
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
-          "summary": "<p>Galaxy said on X that it suspects the losses to be greater once the yet-unconfirmed fourth wave of attacks is included.</p>",
-          "url": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T05:46:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
-          "published": "2026-08-04T13:00:00+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -380,29 +429,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
-      "summary": "<p>An FBI agent was arrested after allegedly stealing about $1 million in cryptocurrency from \"adversarial cryptocurrency accounts.\"</p>",
-      "url": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:48:34+00:00",
+      "source": "Decrypt",
+      "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
+      "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
+      "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
+      "published": "2026-08-04T17:16:49+00:00",
       "coins": [],
-      "compound": -0.9349,
-      "label": "BEARISH",
-      "confidence": 0.9349
+      "compound": 0.9393,
+      "label": "BULLISH",
+      "confidence": 0.9393
     },
     {
       "source": "TheBlock",
@@ -449,39 +488,6 @@
       "confidence": 0.6705
     },
     {
-      "source": "TheBlock",
-      "title": "Blockchain Association counters National Sheriffs\u2019 group claims as pivotal week for Clarity Act unfolds",
-      "summary": "<p>The Blockchain Association said legislation would support law enforcement, countering claims made by the National Sheriffs' Association.</p>",
-      "url": "https://www.theblock.co/post/410507/blockchain-association-counters-sheriffs-associations-claims-pivotal-week-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T21:13:10+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "TheBlock",
-      "title": "Mastercard completes BVNK acquisition to expand stablecoin payments infrastructure",
-      "summary": "<p>Mastercard said it will leverage BVNK's expertise to help enterprises scale use cases involving stablecoins and tokenized assets.</p>",
-      "url": "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T03:34:53+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Proof of Attendance Protocol is shutting down after 5+ years",
-      "summary": "<p>Some 46,210 issuers like Coinbase and American Express used POAP to create onchain mementos that users could mint.</p>",
-      "url": "https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:40:12+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "Decrypt",
       "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
       "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
@@ -502,6 +508,17 @@
       "compound": -0.4188,
       "label": "BEARISH",
       "confidence": 0.4188
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
+      "published": "2026-08-04T16:21:59+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -527,25 +544,36 @@
     },
     {
       "source": "TheBlock",
-      "title": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
-      "summary": "<p>\"You could copy and paste that lawsuit and file it against Nasdaq,\u201d Kalshi CEO Tarek Mansour said during an interview with CNBC.</p>",
-      "url": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T18:44:48+00:00",
+      "title": "Senators seek SEC probe of President Trump\u2019s memecoin as crypto bill enters into a pivotal week",
+      "summary": "<p>Sens. Warren and Blumenthal are calling on the Securities and Exchange Commission to investigate President Donald Trump's memecoin.</p>",
+      "url": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T17:11:17+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
-      "source": "TheBlock",
-      "title": "DEXs capture record 24% of spot crypto trading as CEX volumes sink",
-      "summary": "<p>Spot exchange volume is on track to set a new 12-month low at $670 million, down from its annual high of $2.23 trillion.</p>",
-      "url": "https://www.theblock.co/post/410476/dexs-capture-record-spot-crypto-trading-as-cex-volumes-sink?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T20:46:31+00:00",
+      "source": "CoinDesk",
+      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
+      "published": "2026-08-04T17:14:13+00:00",
       "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
+      "published": "2026-08-04T15:47:05+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
     },
     {
       "source": "Decrypt",
@@ -557,6 +585,28 @@
       "compound": 0.2263,
       "label": "BULLISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
+      "summary": "<p>Users can claim Cloudflare wallet handles now, while funding and payment features will arrive later.</p>",
+      "url": "https://www.theblock.co/post/410629/cloudflare-kicks-off-stablecoin-wallet-rollout-ai-agents-pay-apis-online-content?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T19:33:11+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
+      "published": "2026-08-04T14:38:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -581,11 +631,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
-      "published": "2026-08-04T10:03:24+00:00",
+      "source": "TheBlock",
+      "title": "Robinhood shrugs off crypto slump as Coinbase activity remains tied to trading cycle",
+      "summary": "<p>Robinhood and Coinbase saw crypto trading activity slump alongside broader market conditions, but one managed to offset that weakness.</p>",
+      "url": "https://www.theblock.co/post/410478/robinhood-shrugs-off-crypto-slump-coinbase-activity-remains-tied-trading-cycle?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T16:56:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
