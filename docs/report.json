@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T08:50:07.687636+00:00",
+  "generated_at": "2026-08-04T14:33:35.172516+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.2792,
+      "article_count": 2,
+      "avg_compound": 0.4188,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -36,19 +36,6 @@
           "compound": 0.128,
           "label": "BULLISH",
           "confidence": 0.128
-        },
-        {
-          "source": "CoinDesk",
-          "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
-          "published": "2026-08-04T05:39:18+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -92,38 +79,27 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
+    "ETH": {
+      "article_count": 7,
+      "avg_compound": 0.1699,
       "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+      "bullish": 4,
+      "bearish": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "BitGo launches Link, connecting clients to Coinbase, Kraken, Crypto.com and more",
-          "summary": "<p>BitGo Link provides a single interface for viewing and moving digital assets held both in BitGo custody and on centralized exchanges.</p>",
-          "url": "https://www.theblock.co/post/410408/bitgo-link-coinbase-kraken-crypto-com?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-03T11:50:02+00:00",
+          "title": "BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets",
+          "summary": "<p>BlackRock launched Ethereum-based tokenized share classes for select European money market funds using JPMorgan's Kinexys.</p>",
+          "url": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T09:31:22+00:00",
           "coins": [
-            "LINK"
+            "ETH"
           ],
-          "compound": 0.1779,
+          "compound": 0.6808,
           "label": "BULLISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.159,
-      "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
+          "confidence": 0.6808
+        },
         {
           "source": "Decrypt",
           "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
@@ -139,41 +115,105 @@
           "confidence": 0.4215
         },
         {
-          "source": "Decrypt",
-          "title": "Tom Lee\u2019s Bitmine Buys More Ethereum, Adds to Stock Buyback",
-          "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
-          "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
-          "published": "2026-08-03T15:31:43+00:00",
+          "source": "CoinDesk",
+          "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+          "published": "2026-08-04T14:25:50+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-          "summary": "<p>Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.</p>",
-          "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-03T13:48:47+00:00",
+          "title": "Binance launches bitcoin-backed \u2018Lite Loan\u2019 with $1,000 borrowing limit",
+          "summary": "<p>Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.</p>",
+          "url": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T09:30:03+00:00",
           "coins": [
-            "ETH"
+            "BNB",
+            "BTC",
+            "USDT"
           ],
-          "compound": 0.2023,
+          "compound": 0.128,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance launches bitcoin-backed \u2018Lite Loan\u2019 with $1,000 borrowing limit",
+          "summary": "<p>Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.</p>",
+          "url": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T09:30:03+00:00",
+          "coins": [
+            "BNB",
+            "BTC",
+            "USDT"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
+          "published": "2026-08-04T10:51:11+00:00",
+          "coins": [
+            "BTC",
+            "ADA"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 30,
-      "avg_compound": -0.1225,
-      "overall": "BEARISH",
-      "bullish": 11,
-      "bearish": 14,
-      "neutral": 5,
+      "article_count": 26,
+      "avg_compound": -0.0419,
+      "overall": "NEUTRAL",
+      "bullish": 12,
+      "bearish": 11,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -217,27 +257,31 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 0,
+    "LINK": {
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+          "published": "2026-08-04T13:00:00+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -346,16 +390,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -372,6 +406,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "OKX says Coldcard exploit triggers \u2018record\u2019 inflows to centralized exchanges",
+      "summary": "<p>During the first half of the year, OKX told The Block it prevented $26.3 million in scam-related losses by stopping suspicious transfers.</p>",
+      "url": "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T12:05:02+00:00",
+      "coins": [],
+      "compound": -0.8402,
+      "label": "BEARISH",
+      "confidence": 0.8402
+    },
+    {
+      "source": "TheBlock",
       "title": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
       "summary": "<p>The concept draws from sovereign wealth funds in places like Norway and Singapore, as well as university endowments.</p>",
       "url": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
@@ -380,6 +425,17 @@
       "compound": 0.7783,
       "label": "BULLISH",
       "confidence": 0.7783
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
+      "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
+      "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
+      "published": "2026-08-04T10:52:57+00:00",
+      "coins": [],
+      "compound": -0.7351,
+      "label": "BEARISH",
+      "confidence": 0.7351
     },
     {
       "source": "Decrypt",
@@ -427,25 +483,47 @@
     },
     {
       "source": "Decrypt",
-      "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
-      "summary": "Lawsuits, privacy complaints, secret recordings, and government investigations have put Meta\u2019s AI glasses under scrutiny.",
-      "url": "https://decrypt.co/374808/whats-the-deal-with-meta-pervert-glasses",
-      "published": "2026-08-02T15:01:03+00:00",
+      "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
+      "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
+      "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
+      "published": "2026-08-04T13:36:06+00:00",
       "coins": [],
-      "compound": -0.5106,
+      "compound": -0.4767,
       "label": "BEARISH",
-      "confidence": 0.5106
+      "confidence": 0.4767
     },
     {
-      "source": "TheBlock",
-      "title": "BlackRock launches two tokenized money market funds for stablecoin reserves",
-      "summary": "<p>BRSRV joins a list of funds launched by the likes of Morgan Stanley, State Street, and Fidelity designed for stablecoin reserves.</p>",
-      "url": "https://www.theblock.co/post/410469/blackrock-launches-two-tokenized-money-market-funds-stablecoin-reserves?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T17:48:09+00:00",
+      "source": "Decrypt",
+      "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
+      "summary": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
+      "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
+      "published": "2026-08-04T09:46:24+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": -0.4188,
+      "label": "BEARISH",
+      "confidence": 0.4188
+    },
+    {
+      "source": "CoinDesk",
+      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
+      "published": "2026-08-04T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY to add crypto staking to digital asset custody platform",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "published": "2026-08-04T12:30:00+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -457,17 +535,6 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle slides after Morgan Stanley downgrade, cut in price target",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
-      "published": "2026-08-03T13:59:50+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -493,43 +560,54 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
+      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
-      "published": "2026-08-03T13:49:40+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock expands tokenized cash with new blockchain-based money market offerings",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
-      "published": "2026-08-03T13:15:46+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-      "published": "2026-08-03T22:17:59+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
+      "published": "2026-08-04T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "South Korean Exchange Bithumb Targets 2028 IPO",
-      "summary": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
-      "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
-      "published": "2026-08-03T11:07:59+00:00",
+      "source": "CoinDesk",
+      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
+      "published": "2026-08-04T10:59:41+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/04/blackrock-debuts-tokenized-access-to-usd311-billion-of-money-market-funds-in-europe",
+      "published": "2026-08-04T10:03:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "DCG\u2019s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio",
+      "summary": "<p>Fortitude Mining completed the cash acquisition of a 12.5 MW mining facility for a net outlay of about $4.7 million after credits.</p>",
+      "url": "https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T11:32:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cathie Wood\u2019s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock",
+      "summary": "<p>The firm also offloaded a small amount of Solmate stock as it continues to rebalance its fund weightings amid market volatility.</p>",
+      "url": "https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T11:02:55+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
