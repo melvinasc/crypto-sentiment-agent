@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-04T03:25:53.925822+00:00",
+  "generated_at": "2026-08-04T08:50:07.687636+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.4188,
+      "article_count": 3,
+      "avg_compound": 0.2792,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -36,6 +36,19 @@
           "compound": 0.128,
           "label": "BULLISH",
           "confidence": 0.128
+        },
+        {
+          "source": "CoinDesk",
+          "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
+          "published": "2026-08-04T05:39:18+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -63,13 +76,14 @@
           "confidence": 0.4215
         },
         {
-          "source": "TheBlock",
-          "title": "Ripple invests in ZILO and Licuido to deepen tokenized capital markets push",
-          "summary": "<p>Ripple said the deals are set to bring regulated transfer agency, issuance, and collateral mobility to its infrastructure on the XRP Ledger.</p>",
-          "url": "https://www.theblock.co/post/410397/ripple-invests-zilo-licuido?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-03T09:38:48+00:00",
+          "source": "CoinDesk",
+          "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+          "published": "2026-08-04T06:12:20+00:00",
           "coins": [
-            "XRP"
+            "XRP",
+            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -104,11 +118,11 @@
     },
     "ETH": {
       "article_count": 6,
-      "avg_compound": 0.1419,
+      "avg_compound": 0.159,
       "overall": "BULLISH",
       "bullish": 4,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -154,12 +168,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.0725,
+      "article_count": 30,
+      "avg_compound": -0.1225,
       "overall": "BEARISH",
       "bullish": 11,
-      "bearish": 13,
-      "neutral": 4,
+      "bearish": 14,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -188,17 +202,17 @@
           "confidence": 0.8357
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase\u2019s Chief Policy Officer",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Younger-Democrats-Understand-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase\" rel=\"nofollow\">Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase&#8217;s Chief Policy Officer</a></p>\n<p>The Clarity Act will likely get through despite some \u2014 older \u2014 Democrats holding it back, according to Coinbase&#8217;s Chief Policy Officer, Faryar Shirzad.&#160; Speaking on The Hill&#8217;s morning Rising show Friday, Shirzad said that crypto was &#8220;maybe the most bipartisan issue in Washington.&#8221;&#160; He added that while some lawmakers were holding back the long-awaited [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase\" rel=\"nofollow\">Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase&#8217;s Chief Policy Officer</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/clarity-act-should-pass-says-coinbase",
-          "published": "2026-07-31T19:12:37+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin losses from Coldcard hack could swell to $130 million, Galaxy Research says",
+          "summary": "<p>Galaxy said on X that it suspects the losses to be greater once the yet-unconfirmed fourth wave of attacks is included.</p>",
+          "url": "https://www.theblock.co/post/410533/coldcard-hack-130-million-galaxy-research?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T05:46:06+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7845,
-          "label": "BULLISH",
-          "confidence": 0.7845
+          "compound": -0.802,
+          "label": "BEARISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -357,6 +371,17 @@
       "confidence": 0.9349
     },
     {
+      "source": "TheBlock",
+      "title": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
+      "summary": "<p>The concept draws from sovereign wealth funds in places like Norway and Singapore, as well as university endowments.</p>",
+      "url": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T04:32:28+00:00",
+      "coins": [],
+      "compound": 0.7783,
+      "label": "BULLISH",
+      "confidence": 0.7783
+    },
+    {
       "source": "Decrypt",
       "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
       "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
@@ -379,15 +404,15 @@
       "confidence": 0.6597
     },
     {
-      "source": "CoinDesk",
-      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
-      "published": "2026-08-03T09:38:53+00:00",
+      "source": "TheBlock",
+      "title": "Mastercard completes BVNK acquisition to expand stablecoin payments infrastructure",
+      "summary": "<p>Mastercard said it will leverage BVNK's expertise to help enterprises scale use cases involving stablecoins and tokenized assets.</p>",
+      "url": "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T03:34:53+00:00",
       "coins": [],
-      "compound": 0.5719,
+      "compound": 0.6124,
       "label": "BULLISH",
-      "confidence": 0.5719
+      "confidence": 0.6124
     },
     {
       "source": "TheBlock",
@@ -467,17 +492,6 @@
       "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "Bernstein says Clarity Act failure could accelerate SEC, CFTC crypto rulemaking",
-      "summary": "<p>Bernstein expects SEC and CFTC rulemaking to accelerate under Project Crypto if the Clarity Act fails to pass this year.</p>",
-      "url": "https://www.theblock.co/post/410395/bernstein-says-clarity-act-failure-could-accelerate-sec-cftc-crypto-rulemaking?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T09:49:47+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "CoinDesk",
       "title": "Bernstein sees another leg lower for crypto markets if Clarity Act stalls",
       "summary": "",
@@ -511,44 +525,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitget set to exit Japan, close all remaining positions by year-end",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/03/bitget-set-to-exit-japan-close-all-remaining-positions-by-year-end",
-      "published": "2026-08-03T12:03:41+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bithumb now targets 2028 IPO after major internal restructuring",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-      "published": "2026-08-03T10:41:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "South Korean Exchange Bithumb Targets 2028 IPO",
       "summary": "The exchange plans to file for preliminary listing review in 2027, after switching to international accounting standards this year.",
       "url": "https://decrypt.co/374823/south-korean-exchange-bithumb-targets-2028-ipo",
       "published": "2026-08-03T11:07:59+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "South Korea\u2019s Bithumb officially targets 2028 IPO, outlines multi-year roadmap",
-      "summary": "<p>Bithumb plans to request a preliminary listing review and have its application reviewed by local authorities in 2027.</p>",
-      "url": "https://www.theblock.co/post/410391/south-korea-bithumb-ipo-2028?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-03T09:21:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
