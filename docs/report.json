@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T19:46:33.858862+00:00",
+  "generated_at": "2026-08-05T03:20:52.740803+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -40,26 +40,13 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.465,
+      "article_count": 1,
+      "avg_compound": 0.5574,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Marmot Researchers Turn to OnlyFans for Funding\u2014And There Are Meme Coins Too",
-          "summary": "Scientists are using OnlyFans to help fund decades of marmot research, while unofficial memecoins inspired by the project have emerged on Solana.",
-          "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
-          "published": "2026-08-03T22:29:02+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.7096,
-          "label": "BULLISH",
-          "confidence": 0.7096
-        },
         {
           "source": "Decrypt",
           "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
@@ -72,45 +59,56 @@
           "compound": 0.5574,
           "label": "BULLISH",
           "confidence": 0.5574
-        },
-        {
-          "source": "Decrypt",
-          "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-          "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-          "url": "https://decrypt.co/374865/blackrock-tokenized-money-market-funds-solana-ethereum",
-          "published": "2026-08-03T19:17:37+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
         }
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4215,
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.3196,
       "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-          "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-          "published": "2026-08-03T17:51:03+00:00",
+          "source": "TheBlock",
+          "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
+          "summary": "<p>EIP-8361 would gradually burn a rising share of validator rewards as the staking ratio climbs.</p>",
+          "url": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T19:49:58+00:00",
           "coins": [
-            "XRP",
             "ETH"
           ],
-          "compound": 0.4215,
+          "compound": 0.8126,
           "label": "BULLISH",
-          "confidence": 0.4215
+          "confidence": 0.8126
+        },
+        {
+          "source": "TheBlock",
+          "title": "BlackRock\u2019s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
+          "summary": "<p>The split will consolidate every three ETHA shares into one, increasing the fund\u2019s per-share net asset value.</p>",
+          "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-04T21:34:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7096,
+          "label": "BULLISH",
+          "confidence": 0.7096
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
+          "published": "2026-08-04T14:25:50+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
         }
       ],
       "no_news": false
@@ -152,65 +150,40 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.1973,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BlackRock debuts tokenized share classes for select European money market funds with $311 billion in assets",
-          "summary": "<p>BlackRock launched Ethereum-based tokenized share classes for select European money market funds using JPMorgan's Kinexys.</p>",
-          "url": "https://www.theblock.co/post/410554/blackrock-debuts-tokenized-share-classes-for-select-european-money-market-funds-with-311-billion-in-assets?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T09:31:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.6808,
-          "label": "BULLISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "Decrypt",
-          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-          "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-          "published": "2026-08-03T17:51:03+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-          "published": "2026-08-04T14:25:50+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.1349,
-      "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 12,
-      "neutral": 1,
+      "avg_compound": -0.0312,
+      "overall": "NEUTRAL",
+      "bullish": 12,
+      "bearish": 11,
+      "neutral": 0,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "SEC Commissioner Hester \u2018Crypto Mom\u2019 Peirce Optimistic About Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Hester-Peirce-Defends-Innovation-and-Accountability-in-Bitcoin-2025-Fireside-Chat-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act\" rel=\"nofollow\">SEC Commissioner Hester &#8216;Crypto Mom&#8217; Peirce Optimistic About Clarity Act\u00a0</a></p>\n<p>The regulator is hopeful the long-awaited crypto market structure bill will pass. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act\" rel=\"nofollow\">SEC Commissioner Hester &#8216;Crypto Mom&#8217; Peirce Optimistic About Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act",
+          "published": "2026-08-04T20:53:22+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9246,
+          "label": "BULLISH",
+          "confidence": 0.9246
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Self Custody Is Dead. Long Live Self Custody",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody\" rel=\"nofollow\">Self Custody Is Dead. Long Live Self Custody</a></p>\n<p>The Coldcard security failure has shaken Bitcoin's confidence in hardware wallets\u2014but abandoning self-custody would mean abandoning the very reason Bitcoin exists. History suggests the lesson isn't to trust custodians again, but to build stronger, more resilient ways to hold our own keys.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody\" rel=\"nofollow\">Self Custody Is Dead. Long Live Self Custody</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody",
+          "published": "2026-08-04T21:25:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9136,
+          "label": "BEARISH",
+          "confidence": 0.9136
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "FBI Agent Accused of $1 Million Crypto Theft From \u2018Adversarial Nation\u2019",
@@ -223,114 +196,31 @@
           "compound": -0.8934,
           "label": "BEARISH",
           "confidence": 0.8934
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Coldcard-Bitcoin-Thief-Likely-Used-Top-Blockchain-Services-Provider.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a></p>\n<p>Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service\" rel=\"nofollow\">Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coldcard-thief-used-blockchain-service",
-          "published": "2026-07-31T21:01:14+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8658,
-          "label": "BEARISH",
-          "confidence": 0.8658
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coldcard-Bitcoin-Theft-Continues.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a></p>\n<p>Bitcoin wallets continue to be drained in the ongoing hack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues\" rel=\"nofollow\">Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
-          "published": "2026-08-03T14:05:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8357,
-          "label": "BEARISH",
-          "confidence": 0.8357
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance launches bitcoin-backed \u2018Lite Loan\u2019 with $1,000 borrowing limit",
-          "summary": "<p>Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.</p>",
-          "url": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T09:30:03+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "USDT"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance launches bitcoin-backed \u2018Lite Loan\u2019 with $1,000 borrowing limit",
-          "summary": "<p>Binance has launched Lite Loan, a bitcoin-backed borrowing product that lets eligible users borrow up to $1,000 in USDT.</p>",
-          "url": "https://www.theblock.co/post/410544/binance-lite-loan-bitcoin?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T09:30:03+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "USDT"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
         }
       ],
       "no_news": false
     },
     "ADA": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin rises toward $64,000 as Coldcard exploit, Strategy sales recede. ADA advances",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/04/bitcoin-rises-toward-usd64-000-as-coldcard-exploit-strategy-sales-recede-ada-advances",
-          "published": "2026-08-04T10:51:11+00:00",
-          "coins": [
-            "BTC",
-            "ADA"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -429,6 +319,26 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -444,6 +354,17 @@
       "confidence": 0.9393
     },
     {
+      "source": "Decrypt",
+      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
+      "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
+      "published": "2026-08-04T21:46:03+00:00",
+      "coins": [],
+      "compound": -0.8481,
+      "label": "BEARISH",
+      "confidence": 0.8481
+    },
+    {
       "source": "TheBlock",
       "title": "OKX says Coldcard exploit triggers \u2018record\u2019 inflows to centralized exchanges",
       "summary": "<p>During the first half of the year, OKX told The Block it prevented $26.3 million in scam-related losses by stopping suspicious transfers.</p>",
@@ -455,15 +376,15 @@
       "confidence": 0.8402
     },
     {
-      "source": "TheBlock",
-      "title": "NEAR co-founder proposes protocol sovereign fund for long-term sustainability",
-      "summary": "<p>The concept draws from sovereign wealth funds in places like Norway and Singapore, as well as university endowments.</p>",
-      "url": "https://www.theblock.co/post/410528/near-protocol-sovereign-fund?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T04:32:28+00:00",
+      "source": "Decrypt",
+      "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
+      "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
+      "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
+      "published": "2026-08-04T20:30:52+00:00",
       "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
+      "compound": -0.8074,
+      "label": "BEARISH",
+      "confidence": 0.8074
     },
     {
       "source": "Decrypt",
@@ -477,15 +398,15 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
-      "summary": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
-      "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
-      "published": "2026-08-03T21:17:06+00:00",
+      "source": "TheBlock",
+      "title": "Crypto \u2018will be fine\u2019 even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says",
+      "summary": "<p>The US Congress is entering a month-long recess next week, giving Clarity a three-day window to advance through the Senate.</p>",
+      "url": "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T02:31:03+00:00",
       "coins": [],
-      "compound": -0.6705,
-      "label": "BEARISH",
-      "confidence": 0.6705
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -497,6 +418,17 @@
       "compound": -0.4767,
       "label": "BEARISH",
       "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
+      "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
+      "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
+      "published": "2026-08-04T22:16:03+00:00",
+      "coins": [],
+      "compound": 0.4391,
+      "label": "BULLISH",
+      "confidence": 0.4391
     },
     {
       "source": "Decrypt",
@@ -526,6 +458,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
       "published": "2026-08-04T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
+      "summary": "<p>Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.</p>",
+      "url": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-04T22:15:26+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -574,17 +517,6 @@
       "compound": 0.25,
       "label": "BULLISH",
       "confidence": 0.25
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
-      "summary": "Authoritarian oppression, corporate treasuries and \u201cwrench attacks\u201d make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
-      "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
-      "published": "2026-08-03T17:31:03+00:00",
-      "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
