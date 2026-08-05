@@ -1,49 +1,12 @@
 {
-  "generated_at": "2026-08-05T08:47:07.701301+00:00",
+  "generated_at": "2026-08-05T14:26:11.376487+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
+    "SOL": {
       "article_count": 2,
-      "avg_compound": 0.6464,
+      "avg_compound": 0.4487,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Dinari launches tokenized S&P 500 stocks for US self-custody wallets using USDC",
-          "summary": "<p>Tokenizing equities has generated significant interest from both crypto natives and firms like JPMorgan and Goldman Sachs.</p>",
-          "url": "https://www.theblock.co/post/410588/dinari-tokenized-sp-500-stocks-self-custody-wallets-using-usdc?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T15:27:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.743,
-          "label": "BULLISH",
-          "confidence": 0.743
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Open USD rattled Circle's stock, but its key backers still support USDC",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/03/open-usd-rattled-circle-s-stock-but-its-key-backers-still-support-usdc",
-          "published": "2026-08-04T17:55:23+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.5499,
-          "label": "BULLISH",
-          "confidence": 0.5499
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.5574,
-      "overall": "BULLISH",
-      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -59,17 +22,30 @@
           "compound": 0.5574,
           "label": "BULLISH",
           "confidence": 0.5574
+        },
+        {
+          "source": "Decrypt",
+          "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
+          "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+          "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
+          "published": "2026-08-05T12:47:57+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 5,
-      "avg_compound": 0.2105,
+      "avg_compound": 0.2475,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -98,65 +74,28 @@
           "confidence": 0.7096
         },
         {
-          "source": "CoinDesk",
-          "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
-          "published": "2026-08-05T05:49:57+00:00",
+          "source": "TheBlock",
+          "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
+          "summary": "<p>The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glamsterdam upgrade planned for later this year.</p>",
+          "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T13:00:02+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.2263,
+          "compound": -0.4404,
           "label": "BEARISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 2,
-      "avg_compound": 0.2003,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BitGo moves $7.4 billion Wrapped Bitcoins to Chainlink CCIP in latest LayerZero exodus",
-          "summary": "<p>The move pushes the total value migrating from LayerZero to Chainlink near $15 billion, with WBTC representing the largest shift yet.</p>",
-          "url": "https://www.theblock.co/post/410594/bitgo-moves-7-4-billion-wrapped-bitcoins-to-chainlink-ccip-in-latest-layerzero-exodus?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T15:24:31+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.4005,
-          "label": "BULLISH",
-          "confidence": 0.4005
-        },
-        {
-          "source": "CoinDesk",
-          "title": "BitGo\u2019s WBTC move pushes LayerZero-to-Chainlink tally near $15 billion",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
-          "published": "2026-08-04T13:00:00+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.4404
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0863,
+      "article_count": 26,
+      "avg_compound": -0.1631,
       "overall": "BEARISH",
-      "bullish": 11,
-      "bearish": 12,
-      "neutral": 1,
+      "bullish": 9,
+      "bearish": 15,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -196,6 +135,54 @@
           "compound": -0.8934,
           "label": "BEARISH",
           "confidence": 0.8934
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
+          "summary": "<p>Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 revenue hit $701M and USDC circulation reached $73.3B.</p>",
+          "url": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T12:16:27+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
+          "published": "2026-08-05T12:09:05+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -376,14 +363,14 @@
       "confidence": 0.8074
     },
     {
-      "source": "Decrypt",
-      "title": "Hardware Wallet Firms Warn of Phishing Surge as Coldcard Losses Near $130M",
-      "summary": "Fake \"coordinated hardware audit\" emails are steering holders to a cloned Coldcard site that installs remote-access software.",
-      "url": "https://decrypt.co/374891/hardware-wallet-firms-warn-of-phishing-surge-as-coldcard-losses-near-130m",
-      "published": "2026-08-04T10:52:57+00:00",
+      "source": "TheBlock",
+      "title": "Mastercard expands stablecoin push with Crypto Credential pilot",
+      "summary": "<p>Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted cross-border stablecoin payment flows.</p>",
+      "url": "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T13:00:00+00:00",
       "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
+      "compound": 0.7351,
+      "label": "BULLISH",
       "confidence": 0.7351
     },
     {
@@ -409,6 +396,28 @@
       "confidence": 0.5859
     },
     {
+      "source": "CoinDesk",
+      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
+      "published": "2026-08-05T12:28:39+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
+      "published": "2026-08-05T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.5023,
+      "label": "BULLISH",
+      "confidence": 0.5023
+    },
+    {
       "source": "Decrypt",
       "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
       "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
@@ -431,39 +440,6 @@
       "confidence": 0.4391
     },
     {
-      "source": "Decrypt",
-      "title": "Five Convicted of Imprisoning Crypto Millionaires in London 'Torture' Ordeal",
-      "summary": "Two of the five were also convicted of conspiracy to blackmail, in a case police won without either victim testifying.",
-      "url": "https://decrypt.co/374889/five-convicted-of-imprisoning-crypto-millionaires-in-london-torture-ordeal",
-      "published": "2026-08-04T09:46:24+00:00",
-      "coins": [],
-      "compound": -0.4188,
-      "label": "BEARISH",
-      "confidence": 0.4188
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act sits idle over Trump ethics question as Warren asks SEC to investigate him",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/04/clarity-act-sits-idle-over-trump-ethics-question-as-warren-asks-sec-to-investigate-him",
-      "published": "2026-08-04T16:21:59+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "As Clarity Act teeters, mystery group hammers away at crypto in Washington ads",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/03/as-clarity-act-teeters-mystery-group-hammers-away-at-crypto-in-washington-ads",
-      "published": "2026-08-04T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "TheBlock",
       "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
       "summary": "<p>Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.</p>",
@@ -476,58 +452,69 @@
     },
     {
       "source": "CoinDesk",
-      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
+      "title": "Nomura\u2019s Laser Digital backs ZIGChain for onchain private credit push in UAE",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
-      "published": "2026-08-05T05:12:46+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
+      "published": "2026-08-05T13:25:04+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.34,
       "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
+      "published": "2026-08-05T09:55:32+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
+      "published": "2026-08-05T12:12:08+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "Senators seek SEC probe of President Trump\u2019s memecoin as crypto bill enters into a pivotal week",
-      "summary": "<p>Sens. Warren and Blumenthal are calling on the Securities and Exchange Commission to investigate President Donald Trump's memecoin.</p>",
-      "url": "https://www.theblock.co/post/410624/senators-seek-sec-probe-president-trump-memecoin-crypto-bill-enters-pivotal-week?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T17:11:17+00:00",
+      "source": "CoinDesk",
+      "title": "Galaxy Digital shares slip 5% after second-quarter results",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
+      "published": "2026-08-05T12:42:19+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Samsung is poised to become a dominant stablecoin distributor, analysts say",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/04/samsung-is-poised-to-become-a-dominant-stablecoin-distributor-analysts-say",
-      "published": "2026-08-04T17:14:13+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Wells Fargo joins JPMorgan and Citi in the race to tokenize Wall Street\u2019s settlement rails",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/04/wells-fargo-to-offer-tokenized-deposits-for-24-7-corporate-payments",
-      "published": "2026-08-04T15:47:05+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
       "source": "TheBlock",
-      "title": "Cloudflare kicks off stablecoin wallet rollout for AI agents to pay for APIs and online content",
-      "summary": "<p>Users can claim Cloudflare wallet handles now, while funding and payment features will arrive later.</p>",
-      "url": "https://www.theblock.co/post/410629/cloudflare-kicks-off-stablecoin-wallet-rollout-ai-agents-pay-apis-online-content?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T19:33:11+00:00",
+      "title": "Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration",
+      "summary": "<p>Visa Direct reportedly connects to more than 18 billion endpoints, including cards, bank accounts and digital wallets.</p>",
+      "url": "https://www.theblock.co/post/410657/stablecoin-capabilities-visa-direct-zerohash?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T12:00:00+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
+      "compound": 0.1027,
+      "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
+      "published": "2026-08-05T11:13:17+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
@@ -542,21 +529,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
+      "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-      "published": "2026-08-04T14:38:23+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dinari brings tokenized U.S. stocks to American investors as equity race heats up",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/04/dinari-brings-tokenized-u-s-stocks-to-american-investors-as-equity-race-heats-up",
-      "published": "2026-08-04T14:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
+      "published": "2026-08-05T13:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -564,10 +540,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Robinhood shrugs off crypto slump as Coinbase activity remains tied to trading cycle",
-      "summary": "<p>Robinhood and Coinbase saw crypto trading activity slump alongside broader market conditions, but one managed to offset that weakness.</p>",
-      "url": "https://www.theblock.co/post/410478/robinhood-shrugs-off-crypto-slump-coinbase-activity-remains-tied-trading-cycle?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T16:56:41+00:00",
+      "title": "Saylor\u2019s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts",
+      "summary": "<p>Trump Accounts will invest in mutual funds or ETFs that track the S&amp;P 500 or another index of mainly U.S. equities.</p>",
+      "url": "https://www.theblock.co/post/410849/saylors-strategy-joins-morgan-stanley-goldman-sachs-contributions-trump-accounts?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T14:16:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
