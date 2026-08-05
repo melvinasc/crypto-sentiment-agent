@@ -1,28 +1,15 @@
 {
-  "generated_at": "2026-08-05T14:26:11.376487+00:00",
+  "generated_at": "2026-08-05T19:46:12.662040+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.4487,
+      "article_count": 1,
+      "avg_compound": 0.34,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Proposal Would Increase Daily SOL Burns More Than 10-Fold",
-          "summary": "Validators are considering changes that would increase the amount of SOL permanently removed from circulation while reducing the rate of new token issuance.",
-          "url": "https://decrypt.co/374915/solana-proposal-increase-daily-sol-burns-10-fold",
-          "published": "2026-08-04T18:46:11+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.5574,
-          "label": "BULLISH",
-          "confidence": 0.5574
-        },
         {
           "source": "Decrypt",
           "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
@@ -39,63 +26,39 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2475,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 2,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.296,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum researchers propose burning validator rewards to cap staking at 50%",
-          "summary": "<p>EIP-8361 would gradually burn a rising share of validator rewards as the staking ratio climbs.</p>",
-          "url": "https://www.theblock.co/post/410643/ethereum-researchers-propose-burning-validator-rewards-cap-staking-50?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T19:49:58+00:00",
+          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
+          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T19:09:26+00:00",
           "coins": [
-            "ETH"
+            "BTC",
+            "ETH",
+            "XRP"
           ],
-          "compound": 0.8126,
-          "label": "BULLISH",
-          "confidence": 0.8126
-        },
-        {
-          "source": "TheBlock",
-          "title": "BlackRock\u2019s spot Ethereum ETF to undergo 1-for-3 reverse share split in October",
-          "summary": "<p>The split will consolidate every three ETHA shares into one, increasing the fund\u2019s per-share net asset value.</p>",
-          "url": "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-04T21:34:47+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.7096,
-          "label": "BULLISH",
-          "confidence": 0.7096
-        },
-        {
-          "source": "TheBlock",
-          "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
-          "summary": "<p>The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glamsterdam upgrade planned for later this year.</p>",
-          "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T13:00:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.4404,
+          "compound": -0.296,
           "label": "BEARISH",
-          "confidence": 0.4404
+          "confidence": 0.296
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.1631,
+      "article_count": 27,
+      "avg_compound": -0.2391,
       "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 15,
-      "neutral": 2,
+      "bullish": 6,
+      "bearish": 17,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -139,13 +102,65 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.1182,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
+          "summary": "<p>The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glamsterdam upgrade planned for later this year.</p>",
+          "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T13:00:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
+          "summary": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
+          "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
+          "published": "2026-08-05T11:29:23+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        },
+        {
+          "source": "TheBlock",
+          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
+          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T19:09:26+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
+      "article_count": 2,
+      "avg_compound": 0.0513,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -159,6 +174,19 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
+        },
+        {
+          "source": "Decrypt",
+          "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+          "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+          "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+          "published": "2026-08-05T15:38:09+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -316,29 +344,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Alibaba Just Gave Away Its Best AI Model For Free, Almost Matching Claude and ChatGPT",
-      "summary": "The first Qwen Max model with public weights is free to download next week. Alibaba's own scorecard says the Americans still win on code.",
-      "url": "https://decrypt.co/374906/alibaba-best-ai-model-qwen-free-claude-chatgpt",
-      "published": "2026-08-04T17:16:49+00:00",
+      "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
+      "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
+      "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
+      "published": "2026-08-05T15:24:38+00:00",
       "coins": [],
-      "compound": 0.9393,
-      "label": "BULLISH",
-      "confidence": 0.9393
+      "compound": -0.872,
+      "label": "BEARISH",
+      "confidence": 0.872
     },
     {
       "source": "Decrypt",
@@ -352,15 +370,26 @@
       "confidence": 0.8481
     },
     {
-      "source": "Decrypt",
-      "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
-      "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
-      "url": "https://decrypt.co/374921/ai-data-center-protest-arrests",
-      "published": "2026-08-04T20:30:52+00:00",
+      "source": "TheBlock",
+      "title": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling",
+      "summary": "<p>An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.</p>",
+      "url": "https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T16:17:47+00:00",
       "coins": [],
-      "compound": -0.8074,
+      "compound": -0.7964,
       "label": "BEARISH",
-      "confidence": 0.8074
+      "confidence": 0.7964
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
+      "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
+      "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
+      "published": "2026-08-05T19:11:23+00:00",
+      "coins": [],
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
     },
     {
       "source": "TheBlock",
@@ -372,28 +401,6 @@
       "compound": 0.7351,
       "label": "BULLISH",
       "confidence": 0.7351
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto \u2018will be fine\u2019 even if Clarity fails to pass this week, Bitwise CIO Matt Hougan says",
-      "summary": "<p>The US Congress is entering a month-long recess next week, giving Clarity a three-day window to advance through the Senate.</p>",
-      "url": "https://www.theblock.co/post/410676/crypto-will-be-fine-if-clarity-fails-matt-hougan?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T02:31:03+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
-      "summary": "<p>Fairshake backed Michigan's Bill Huizenga and Washington's Suzan DelBene, Kim Schrier, Marilyn Strickland and Amanda McKinney.</p>",
-      "url": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T06:29:14+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
     },
     {
       "source": "CoinDesk",
@@ -419,17 +426,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Apple's AI Slop Problem Left a $200K macOS Exploit Unreported",
-      "summary": "A Milan start-up says it found a full-takeover flaw in macOS using ChatGPT, then hit Apple's new submission cap before it could file it.",
-      "url": "https://decrypt.co/374900/apples-ai-slop-problem-left-a-200k-macos-exploit-unreported",
-      "published": "2026-08-04T13:36:06+00:00",
-      "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
       "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
       "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
       "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
@@ -440,15 +436,15 @@
       "confidence": 0.4391
     },
     {
-      "source": "TheBlock",
-      "title": "Tribal gaming regulators, senators make a renewed push to add prediction markets provision to Clarity Act",
-      "summary": "<p>Senators and tribal gaming regulators are pushing to keep sports betting under state jurisdiction, resisting efforts by a federal regulator.</p>",
-      "url": "https://www.theblock.co/post/410668/tribal-gaming-regulators-senators-make-renewed-push-add-prediction-markets-provision-clarity-act?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T22:15:26+00:00",
+      "source": "Decrypt",
+      "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
+      "summary": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
+      "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
+      "published": "2026-08-05T18:43:47+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.3612
     },
     {
       "source": "CoinDesk",
@@ -495,6 +491,17 @@
       "confidence": 0.296
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
+      "published": "2026-08-05T18:15:21+00:00",
+      "coins": [],
+      "compound": -0.1655,
+      "label": "BEARISH",
+      "confidence": 0.1655
+    },
+    {
       "source": "TheBlock",
       "title": "Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration",
       "summary": "<p>Visa Direct reportedly connects to more than 18 billion endpoints, including cards, bank accounts and digital wallets.</p>",
@@ -518,6 +525,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "Kraken parent Payward shifts position on tokenized equities and voting rights",
+      "summary": "<p>While previously xStocks holders had no voting rights, this deal will allow eligible investors to submit proxy voting preferences.</p>",
+      "url": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T15:26:17+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue",
+      "summary": "<p>Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.</p>",
+      "url": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T15:02:26+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "TheBlock",
       "title": "Eliza Labs founder declares native token \u2018dead,\u2019 winds down foundation after Burwick Law settlement",
       "summary": "<p>Walters said the team used its remaining treasury and available funds to settle the class action lawsuit represented by Burwick Law.</p>",
       "url": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss",
@@ -533,6 +562,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
       "published": "2026-08-05T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
+      "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
+      "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
+      "published": "2026-08-05T19:42:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
