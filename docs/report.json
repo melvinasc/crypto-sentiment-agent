@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:20:52.740803+00:00",
+  "generated_at": "2026-08-05T08:47:07.701301+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -64,11 +64,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3196,
+      "article_count": 5,
+      "avg_compound": 0.2105,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
         {
@@ -99,10 +99,10 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Intesa Sanpaolo slashed IBIT stake by 94% in 2Q, tripled ether ETF holding as crypto prices slumped",
+          "title": "New Ethereum proposal would cut issuance to zero if staked ETH reaches $112 billion",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/04/intesa-sanpaolo-slashed-ibit-stake-by-94-in-2q-tripled-ether-etf-holding-as-crypto-prices-slumped",
-          "published": "2026-08-04T14:25:50+00:00",
+          "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+          "published": "2026-08-05T05:49:57+00:00",
           "coins": [
             "ETH"
           ],
@@ -151,12 +151,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0312,
-      "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 11,
-      "neutral": 0,
+      "article_count": 24,
+      "avg_compound": -0.0863,
+      "overall": "BEARISH",
+      "bullish": 11,
+      "bearish": 12,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -365,17 +365,6 @@
       "confidence": 0.8481
     },
     {
-      "source": "TheBlock",
-      "title": "OKX says Coldcard exploit triggers \u2018record\u2019 inflows to centralized exchanges",
-      "summary": "<p>During the first half of the year, OKX told The Block it prevented $26.3 million in scam-related losses by stopping suspicious transfers.</p>",
-      "url": "https://www.theblock.co/post/410515/okx-says-coldcard-exploit-record-inflows-centralized-exchanges?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T12:05:02+00:00",
-      "coins": [],
-      "compound": -0.8402,
-      "label": "BEARISH",
-      "confidence": 0.8402
-    },
-    {
       "source": "Decrypt",
       "title": "Police Have Arrested 37 Americans Over AI Data Center Protests This Year",
       "summary": "Dozens of arrests tied to opposition against AI data centers underscore how local disputes over massive computing projects are growing into a national political movement.",
@@ -407,6 +396,17 @@
       "compound": 0.6124,
       "label": "BULLISH",
       "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto PAC Fairshake scores primary wins in Michigan and Washington",
+      "summary": "<p>Fairshake backed Michigan's Bill Huizenga and Washington's Suzan DelBene, Kim Schrier, Marilyn Strickland and Amanda McKinney.</p>",
+      "url": "https://www.theblock.co/post/410744/fairshake-michigan-washington-primaries?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T06:29:14+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -476,14 +476,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "BNY to add crypto staking to digital asset custody platform",
+      "title": "\"You stole, please return some.\" Coldcard hacker's wallet becomes a graffiti wall of pleas and hustles",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
-      "published": "2026-08-04T12:30:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+      "published": "2026-08-05T05:12:46+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -530,6 +530,17 @@
       "confidence": 0.1027
     },
     {
+      "source": "TheBlock",
+      "title": "Eliza Labs founder declares native token \u2018dead,\u2019 winds down foundation after Burwick Law settlement",
+      "summary": "<p>Walters said the team used its remaining treasury and available funds to settle the class action lawsuit represented by Burwick Law.</p>",
+      "url": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T07:39:06+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
       "source": "CoinDesk",
       "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
       "summary": "",
@@ -552,44 +563,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "South African lawmakers propose draft rules on cross-border crypto transactions",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/04/south-african-lawmakers-propose-draft-rules-on-cross-border-crypto-transactions",
-      "published": "2026-08-04T10:59:41+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "Robinhood shrugs off crypto slump as Coinbase activity remains tied to trading cycle",
       "summary": "<p>Robinhood and Coinbase saw crypto trading activity slump alongside broader market conditions, but one managed to offset that weakness.</p>",
       "url": "https://www.theblock.co/post/410478/robinhood-shrugs-off-crypto-slump-coinbase-activity-remains-tied-trading-cycle?utm_source=rss&utm_medium=rss",
       "published": "2026-08-04T16:56:41+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "DCG\u2019s Fortitude acquires 12.5 MW Nebraska facility for net $4.7 million, expanding Zcash mining portfolio",
-      "summary": "<p>Fortitude Mining completed the cash acquisition of a 12.5 MW mining facility for a net outlay of about $4.7 million after credits.</p>",
-      "url": "https://www.theblock.co/post/410565/dcgs-fortitude-acquires-nebraska-facility-zcash-mining?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T11:32:23+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cathie Wood\u2019s Ark Invest snaps up nearly $10 million in Coinbase and Circle stock",
-      "summary": "<p>The firm also offloaded a small amount of Solmate stock as it continues to rebalance its fund weightings amid market volatility.</p>",
-      "url": "https://www.theblock.co/post/410558/cathie-woods-ark-invest-snaps-up-nearly-10-million-in-coinbase-and-circle-stock?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-04T11:02:55+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
