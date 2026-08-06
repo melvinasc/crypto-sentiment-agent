@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T03:23:53.761779+00:00",
+  "generated_at": "2026-08-06T08:49:04.141299+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -22,32 +22,6 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.296,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
-          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T19:09:26+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -77,12 +51,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2032,
+      "article_count": 25,
+      "avg_compound": -0.2092,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 13,
-      "neutral": 4,
+      "bearish": 14,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -126,13 +100,53 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.148,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
+          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T19:09:26+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+          "published": "2026-08-06T04:46:17+00:00",
+          "coins": [
+            "XRP",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.1182,
+      "article_count": 4,
+      "avg_compound": -0.0887,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -179,43 +193,6 @@
       "no_news": false
     },
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.0513,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Circle names BlackRock, DTCC among Arc validators as Q2 revenue hits $701 million",
-          "summary": "<p>Circle named BlackRock, Visa, DTCC and eight others as Arc validators as Q2 revenue hit $701M and USDC circulation reached $73.3B.</p>",
-          "url": "https://www.theblock.co/post/410840/circle-names-blackrock-dtcc-among-arc-validators-as-q2-revenue-hits-701-million?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T12:16:27+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        },
-        {
-          "source": "Decrypt",
-          "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-          "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
-          "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
-          "published": "2026-08-05T15:38:09+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -224,13 +201,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Yellow Card raises $40 million to link banks to stablecoin processing",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/05/yellow-card-raises-usd40-million-to-link-banks-to-stablecoin-processing",
-          "published": "2026-08-05T12:09:05+00:00",
+          "source": "Decrypt",
+          "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+          "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+          "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+          "published": "2026-08-05T15:38:09+00:00",
           "coins": [
-            "LINK"
+            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -280,6 +257,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -429,17 +416,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "AI agent token once worth $2.4 billion ends with founder calling it dead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/ai-agent-token-once-worth-usd2-4-billion-ends-with-founder-calling-it-dead",
-      "published": "2026-08-05T12:28:39+00:00",
-      "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
       "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
@@ -459,6 +435,17 @@
       "compound": 0.4391,
       "label": "BULLISH",
       "confidence": 0.4391
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here are the possible outcomes for Clarity right now",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
+      "published": "2026-08-06T03:49:04+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -484,6 +471,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
+      "published": "2026-08-06T04:31:41+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
       "title": "Nomura\u2019s Laser Digital backs ZIGChain for onchain private credit push in UAE",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
@@ -505,26 +503,15 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "SpaceX extends decline to 11% on lockup expiration and capex spending fears",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/spacex-stock-drops-11-premarket-as-lockup-spending-fears-hit-first-earnings",
-      "published": "2026-08-05T12:12:08+00:00",
+      "source": "TheBlock",
+      "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
+      "summary": "<p>The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.</p>",
+      "url": "https://www.theblock.co/post/410959/jpyc-stablecoin-raises-38-million?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T06:54:15+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Galaxy Digital shares slip 5% after second-quarter results",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
-      "published": "2026-08-05T12:42:19+00:00",
-      "coins": [],
-      "compound": 0.296,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -558,28 +545,6 @@
       "compound": -0.1655,
       "label": "BEARISH",
       "confidence": 0.1655
-    },
-    {
-      "source": "TheBlock",
-      "title": "Visa expands stablecoin capabilities on Visa Direct with zerohash collaboration",
-      "summary": "<p>Visa Direct reportedly connects to more than 18 billion endpoints, including cards, bank accounts and digital wallets.</p>",
-      "url": "https://www.theblock.co/post/410657/stablecoin-capabilities-visa-direct-zerohash?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle shares fall 3% despite earnings beat as stablecoin issuer misses on revenue",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/circle-shares-jump-as-earnings-beat-offsets-revenue-miss-arc-blockchain-gains-wall-street-backing",
-      "published": "2026-08-05T11:13:17+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
@@ -620,6 +585,17 @@
       "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
       "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
       "published": "2026-08-05T19:42:48+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
+      "summary": "<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.</p>",
+      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T08:00:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
