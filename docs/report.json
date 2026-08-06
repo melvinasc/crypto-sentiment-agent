@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T19:46:12.662040+00:00",
+  "generated_at": "2026-08-06T03:23:53.761779+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
@@ -52,14 +52,51 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.2263,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Crypto firm RedotPay says it will defend itself \u2018vigorously\u2019 against Binance lawsuit",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
+          "published": "2026-08-05T21:40:33+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.2391,
+      "article_count": 23,
+      "avg_compound": -0.2032,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 17,
+      "bearish": 13,
       "neutral": 4,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit\" rel=\"nofollow\">Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit</a></p>\n<p>Triggered by the Coldcard RNG vulnerability that drained over $100 million, the Bitcoin Red Team led by Calle and Rob Hamilton has already filed 4,962 findings across 390 open-source projects using frontier AI models.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit\" rel=\"nofollow\">Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit",
+          "published": "2026-08-05T20:33:06+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9451,
+          "label": "BEARISH",
+          "confidence": 0.9451
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "SEC Commissioner Hester \u2018Crypto Mom\u2019 Peirce Optimistic About Clarity Act",
@@ -85,19 +122,6 @@
           "compound": -0.9136,
           "label": "BEARISH",
           "confidence": 0.9136
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "FBI Agent Accused of $1 Million Crypto Theft From \u2018Adversarial Nation\u2019",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Accused-of-1-Million-Crypto-Theft-From-Adversarial-Nation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft\" rel=\"nofollow\">FBI Agent Accused of $1 Million Crypto Theft From &#8216;Adversarial Nation&#8217;\u00a0</a></p>\n<p>Court documents allege that Patrick Steven Yaroch was planning on going abroad with the stolen crypto. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft\" rel=\"nofollow\">FBI Agent Accused of $1 Million Crypto Theft From &#8216;Adversarial Nation&#8217;\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fbi-agent-accused-of-1million-crypto-theft",
-          "published": "2026-08-04T18:51:56+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8934,
-          "label": "BEARISH",
-          "confidence": 0.8934
         }
       ],
       "no_news": false
@@ -235,16 +259,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "BNB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "DAI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -359,17 +373,6 @@
       "confidence": 0.872
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-      "url": "https://decrypt.co/374928/openai-emails-text-messages-apple-trade-secrets-lawsuit",
-      "published": "2026-08-04T21:46:03+00:00",
-      "coins": [],
-      "compound": -0.8481,
-      "label": "BEARISH",
-      "confidence": 0.8481
-    },
-    {
       "source": "TheBlock",
       "title": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling",
       "summary": "<p>An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.</p>",
@@ -401,6 +404,28 @@
       "compound": 0.7351,
       "label": "BULLISH",
       "confidence": 0.7351
+    },
+    {
+      "source": "TheBlock",
+      "title": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
+      "summary": "<p>With a procedural vote on crypto legislation up in the air, lawmakers are racing to resolve outstanding issues within the next few days.</p>",
+      "url": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-05T21:41:36+00:00",
+      "coins": [],
+      "compound": 0.7003,
+      "label": "BULLISH",
+      "confidence": 0.7003
+    },
+    {
+      "source": "TheBlock",
+      "title": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
+      "summary": "<p>The law continues to ban the use of crypto to pay for goods and services within Russia, while allowing use for cross-border settlements.</p>",
+      "url": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T02:11:16+00:00",
+      "coins": [],
+      "compound": -0.5719,
+      "label": "BEARISH",
+      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
@@ -437,6 +462,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Cloudflare OS: Here\u2019s What\u2019s Inside the Open-Source AI Agent Platform",
+      "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge\u2014a clear bet on agent infrastructure.",
+      "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
+      "published": "2026-08-05T20:46:03+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "Decrypt",
       "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
       "summary": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
       "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
@@ -458,14 +494,14 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "Coldcard hack sparks a self-custody security overhaul: Cory Klippsten",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/coldcard-hack-sparks-a-self-custody-security-overhaul-cory-klippsten",
-      "published": "2026-08-05T09:55:32+00:00",
+      "source": "Decrypt",
+      "title": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
+      "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes\u2014but on the benchmarks that matter, it lags behind.",
+      "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
+      "published": "2026-08-05T21:24:06+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
+      "compound": -0.34,
+      "label": "BEARISH",
       "confidence": 0.34
     },
     {
@@ -485,6 +521,28 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
       "published": "2026-08-05T12:42:19+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
+      "summary": "A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
+      "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
+      "published": "2026-08-05T20:16:03+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
+      "summary": "<p>SpaceX plunged as investors grew concerned about the firm's $18.4 billion in capital expenditure during Q2, despite revenue growth.</p>",
+      "url": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T02:22:22+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -540,17 +598,6 @@
       "summary": "<p>Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.</p>",
       "url": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss",
       "published": "2026-08-05T15:02:26+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "TheBlock",
-      "title": "Eliza Labs founder declares native token \u2018dead,\u2019 winds down foundation after Burwick Law settlement",
-      "summary": "<p>Walters said the team used its remaining treasury and available funds to settle the class action lawsuit represented by Burwick Law.</p>",
-      "url": "https://www.theblock.co/post/410774/eliza-labs-native-token-dead?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T07:39:06+00:00",
       "coins": [],
       "compound": -0.0258,
       "label": "NEUTRAL",
