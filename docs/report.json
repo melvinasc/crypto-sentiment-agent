@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-06T08:49:04.141299+00:00",
+  "generated_at": "2026-08-06T14:29:13.906894+00:00",
   "total_articles": 55,
   "coins": {
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.6486,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+          "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
+          "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+          "published": "2026-08-06T12:28:46+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.6486,
+          "label": "BULLISH",
+          "confidence": 0.6486
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.34,
@@ -50,13 +74,107 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.2092,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.148,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 14,
-      "neutral": 5,
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
+          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T19:09:26+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+          "published": "2026-08-06T04:46:17+00:00",
+          "coins": [
+            "XRP",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.1348,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+          "published": "2026-08-06T10:43:07+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.7003,
+          "label": "BULLISH",
+          "confidence": 0.7003
+        },
+        {
+          "source": "TheBlock",
+          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
+          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
+          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-05T19:09:26+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+          "published": "2026-08-06T04:46:17+00:00",
+          "coins": [
+            "XRP",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.0891,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 10,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -100,106 +218,27 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.148,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
-          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T19:09:26+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-          "published": "2026-08-06T04:46:17+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.0887,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "World Chain becomes first production L2 to ship streaming Block Access Lists via Flashblocks",
-          "summary": "<p>The L2 will activate the feature on mainnet on Aug. 17 ahead of Ethereum's Glamsterdam upgrade planned for later this year.</p>",
-          "url": "https://www.theblock.co/post/410651/world-chain-first-production-l2-block-access-lists-via-flashblocks?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T13:00:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Proposal Would Burn Staking Rewards to Zero if Half of ETH Is Staked",
-          "summary": "The incentive to stake beyond half the supply would disappear at activation, with the yield cut phasing in over 18 months.",
-          "url": "https://decrypt.co/374944/ethereum-proposal-would-burn-staking-rewards-to-zero-if-half-of-eth-is-staked",
-          "published": "2026-08-05T11:29:23+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "TheBlock",
-          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
-          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T19:09:26+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
-      "article_count": 1,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
+          "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
+          "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
+          "published": "2026-08-06T13:34:07+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "Decrypt",
           "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
@@ -326,16 +365,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -348,6 +377,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as \u2018wrench attack\u2019 hotspot: Chainalysis",
+      "summary": "<p>Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.</p>",
+      "url": "https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T12:00:00+00:00",
+      "coins": [],
+      "compound": -0.9595,
+      "label": "BEARISH",
+      "confidence": 0.9595
+    },
     {
       "source": "Decrypt",
       "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
@@ -382,15 +422,37 @@
       "confidence": 0.7717
     },
     {
-      "source": "TheBlock",
-      "title": "Mastercard expands stablecoin push with Crypto Credential pilot",
-      "summary": "<p>Mastercard and Borderless.xyz are piloting Crypto Credential to support trusted cross-border stablecoin payment flows.</p>",
-      "url": "https://www.theblock.co/post/410830/mastercard-expands-stablecoin-push-with-crypto-credential-pilot?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
+      "summary": "The blockchain analytics firm says home invasions are becoming more common, France has emerged as the leading hotspot, and some attackers are using increasingly sophisticated laundering techniques.",
+      "url": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
+      "published": "2026-08-06T12:01:04+00:00",
       "coins": [],
-      "compound": 0.7351,
-      "label": "BULLISH",
+      "compound": -0.7351,
+      "label": "BEARISH",
       "confidence": 0.7351
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Free Markets and Innovation, Sort Of",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
+      "published": "2026-08-06T11:30:00+00:00",
+      "coins": [],
+      "compound": 0.7096,
+      "label": "BULLISH",
+      "confidence": 0.7096
+    },
+    {
+      "source": "Decrypt",
+      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+      "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
+      "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+      "published": "2026-08-06T12:46:19+00:00",
+      "coins": [],
+      "compound": -0.7003,
+      "label": "BEARISH",
+      "confidence": 0.7003
     },
     {
       "source": "TheBlock",
@@ -405,6 +467,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT",
+      "summary": "<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients.\u00a0</p>",
+      "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T09:08:47+00:00",
+      "coins": [],
+      "compound": -0.5994,
+      "label": "BEARISH",
+      "confidence": 0.5994
+    },
+    {
+      "source": "TheBlock",
       "title": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
       "summary": "<p>The law continues to ban the use of crypto to pay for goods and services within Russia, while allowing use for cross-border settlements.</p>",
       "url": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss",
@@ -413,28 +486,6 @@
       "compound": -0.5719,
       "label": "BEARISH",
       "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto may have institutionalized, but it still trades like a rumor mill",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
-      "published": "2026-08-05T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.5023,
-      "label": "BULLISH",
-      "confidence": 0.5023
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Enthusiast Bugs His Toddler's Sleepover and Feeds It to Claude\u2014The Internet Bugs Back",
-      "summary": "Nicholas Charriere turned an hour of nonsense into a family website with named tracks. One reply calling him creepy got more likes than his post.",
-      "url": "https://decrypt.co/374930/ai-enthusiast-bugged-toddler-sleepover-claude",
-      "published": "2026-08-04T22:16:03+00:00",
-      "coins": [],
-      "compound": 0.4391,
-      "label": "BULLISH",
-      "confidence": 0.4391
     },
     {
       "source": "CoinDesk",
@@ -459,6 +510,17 @@
       "confidence": 0.3818
     },
     {
+      "source": "TheBlock",
+      "title": "Bernstein reaffirms TeraWulf Outperform rating as HPC revenue hits 71% of Q2 total",
+      "summary": "<p>Bernstein keeps TeraWulf at Outperform after Q2 HPC revenue hit $32M, 71% of total, with Muskie Campus the next growth site.</p>",
+      "url": "https://www.theblock.co/post/410975/bernstein-reaffirms-terawulf-outperform-rating-as-hpc-revenue-hits-71-of-q2-total?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T11:15:46+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
       "source": "Decrypt",
       "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
       "summary": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
@@ -475,17 +537,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
       "published": "2026-08-06T04:31:41+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nomura\u2019s Laser Digital backs ZIGChain for onchain private credit push in UAE",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
-      "published": "2026-08-05T13:25:04+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -537,14 +588,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's campaign efforts see rare loss, but crypto roster in Congress likely to grow",
+      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/05/crypto-s-campaign-efforts-see-rare-loss-but-crypto-roster-in-congress-likely-to-grow",
-      "published": "2026-08-05T18:15:21+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
+      "published": "2026-08-06T12:46:42+00:00",
       "coins": [],
-      "compound": -0.1655,
+      "compound": -0.2023,
       "label": "BEARISH",
-      "confidence": 0.1655
+      "confidence": 0.2023
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
+      "published": "2026-08-06T09:19:03+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -558,22 +620,11 @@
       "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue",
-      "summary": "<p>Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.</p>",
-      "url": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T15:02:26+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
       "source": "CoinDesk",
-      "title": "Ondo Finance hires former Blockchain.com CFO Adam Schlisman",
+      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
-      "published": "2026-08-05T13:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
+      "published": "2026-08-06T10:53:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -592,10 +643,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
-      "summary": "<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.</p>",
-      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T08:00:03+00:00",
+      "title": "Bernstein says Circle\u2019s Q2 counters bearish concerns over competition, reserve income",
+      "summary": "<p>Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.</p>",
+      "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T12:10:44+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -603,10 +654,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Saylor\u2019s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts",
-      "summary": "<p>Trump Accounts will invest in mutual funds or ETFs that track the S&amp;P 500 or another index of mainly U.S. equities.</p>",
-      "url": "https://www.theblock.co/post/410849/saylors-strategy-joins-morgan-stanley-goldman-sachs-contributions-trump-accounts?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T14:16:41+00:00",
+      "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
+      "summary": "<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.</p>",
+      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T08:00:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
