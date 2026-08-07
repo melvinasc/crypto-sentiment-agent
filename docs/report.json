@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T14:29:13.906894+00:00",
+  "generated_at": "2026-08-07T00:09:33.424280+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -26,100 +26,12 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.34,
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.3502,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
-          "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
-          "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-          "published": "2026-08-05T12:47:57+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.2263,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Crypto firm RedotPay says it will defend itself \u2018vigorously\u2019 against Binance lawsuit",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/05/binance-sues-redotpay-for-usd470-million-claiming-it-diverted-users",
-          "published": "2026-08-05T21:40:33+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.148,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
-          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T19:09:26+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-          "published": "2026-08-06T04:46:17+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.1348,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -137,19 +49,57 @@
           "confidence": 0.7003
         },
         {
-          "source": "TheBlock",
-          "title": "CryptoQuant says bitcoin, ether and XRP whales are accumulating, signaling a \u2018late-stage bear market\u2019",
-          "summary": "<p>Large crypto holders are accumulating bitcoin, ether, and XRP as prices remain under pressure, CryptoQuant said.</p>",
-          "url": "https://www.theblock.co/post/410920/cryptoquant-bitcoin-ether-xrp-whales-accumulating-late-stage-bear-market?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-05T19:09:26+00:00",
+          "source": "CoinDesk",
+          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
+          "published": "2026-08-06T04:46:17+00:00",
           "coins": [
-            "BTC",
-            "ETH",
+            "XRP",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": -0.2777,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP, Bitcoin Whales Are Accumulating\u2014Is the Bear Market Nearly Over?",
+          "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
+          "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
+          "published": "2026-08-06T18:13:40+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
+          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
+          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-06T16:17:58+00:00",
+          "coins": [
+            "SOL",
             "XRP"
           ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         },
         {
           "source": "CoinDesk",
@@ -168,13 +118,37 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
+          "published": "2026-08-06T16:10:04+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0891,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 10,
-      "neutral": 6,
+      "article_count": 20,
+      "avg_compound": -0.0348,
+      "overall": "NEUTRAL",
+      "bullish": 6,
+      "bearish": 7,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -191,40 +165,65 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "SEC Commissioner Hester \u2018Crypto Mom\u2019 Peirce Optimistic About Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Hester-Peirce-Defends-Innovation-and-Accountability-in-Bitcoin-2025-Fireside-Chat-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act\" rel=\"nofollow\">SEC Commissioner Hester &#8216;Crypto Mom&#8217; Peirce Optimistic About Clarity Act\u00a0</a></p>\n<p>The regulator is hopeful the long-awaited crypto market structure bill will pass. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act\" rel=\"nofollow\">SEC Commissioner Hester &#8216;Crypto Mom&#8217; Peirce Optimistic About Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/hester-peirce-hopeful-about-clarity-act",
-          "published": "2026-08-04T20:53:22+00:00",
+          "title": "Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senate-Whip-Barrasso-Becomes-Latest-Lawmaker-to-Support-Crypto-Clarity-Act-But-Time-May-Be-Running-Out.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/barrasso-supports-clarity-act\" rel=\"nofollow\">Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out\u00a0</a></p>\n<p>While Republicans are urging lawmakers to get the bill over the line, there isn't much time left before the Senate goes to recess. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/barrasso-supports-clarity-act\" rel=\"nofollow\">Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/barrasso-supports-clarity-act",
+          "published": "2026-08-06T19:43:15+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9246,
+          "compound": 0.9194,
           "label": "BULLISH",
-          "confidence": 0.9246
+          "confidence": 0.9194
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Self Custody Is Dead. Long Live Self Custody",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody\" rel=\"nofollow\">Self Custody Is Dead. Long Live Self Custody</a></p>\n<p>The Coldcard security failure has shaken Bitcoin's confidence in hardware wallets\u2014but abandoning self-custody would mean abandoning the very reason Bitcoin exists. History suggests the lesson isn't to trust custodians again, but to build stronger, more resilient ways to hold our own keys.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody\" rel=\"nofollow\">Self Custody Is Dead. Long Live Self Custody</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody",
-          "published": "2026-08-04T21:25:26+00:00",
+          "title": "Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Russia-Passes-Law-to-Regulate-Crypto-Exchanges-Keeps-Payment-Ban-in-Place.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place\" rel=\"nofollow\">Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place</a></p>\n<p>New crypto regulations have been signed into law. But citizens in the country won't be able to buy coffee with Bitcoin anytime soon. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place\" rel=\"nofollow\">Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place",
+          "published": "2026-08-05T17:39:39+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9136,
+          "compound": -0.8873,
           "label": "BEARISH",
-          "confidence": 0.9136
+          "confidence": 0.8873
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
+          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
+          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-06T16:17:58+00:00",
+          "coins": [
+            "SOL",
+            "XRP"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
     },
     "USDC": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -232,19 +231,6 @@
           "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
           "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
           "published": "2026-08-06T13:34:07+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
-          "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
-          "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
-          "published": "2026-08-05T15:38:09+00:00",
           "coins": [
             "USDC"
           ],
@@ -266,6 +252,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -364,16 +360,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -390,36 +376,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
-      "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
-      "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
-      "published": "2026-08-05T15:24:38+00:00",
+      "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
+      "summary": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
+      "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
+      "published": "2026-08-06T19:51:09+00:00",
       "coins": [],
-      "compound": -0.872,
+      "compound": -0.8519,
       "label": "BEARISH",
-      "confidence": 0.872
+      "confidence": 0.8519
     },
     {
-      "source": "TheBlock",
-      "title": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling",
-      "summary": "<p>An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.</p>",
-      "url": "https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T16:17:47+00:00",
+      "source": "CoinDesk",
+      "title": "Power struggle erupts at Ondo Finance after founder\u2019s death",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
+      "published": "2026-08-06T21:59:33+00:00",
       "coins": [],
-      "compound": -0.7964,
+      "compound": -0.7351,
       "label": "BEARISH",
-      "confidence": 0.7964
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI and Anthropic's Rogue Models Hacked Real Companies. The Law Has No Answer",
-      "summary": "Two AI labs say unreleased models broke into live systems to game benchmarks. Prosecuting a line of code is harder than it looks.",
-      "url": "https://decrypt.co/374991/openai-anthropic-rogue-ai-models-hacked-law",
-      "published": "2026-08-05T19:11:23+00:00",
-      "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
-      "confidence": 0.7717
+      "confidence": 0.7351
     },
     {
       "source": "Decrypt",
@@ -455,15 +430,26 @@
       "confidence": 0.7003
     },
     {
-      "source": "TheBlock",
-      "title": "\u2018At a standstill:\u2019 Senate races to salvage Clarity Act before August recess as ethics fight, law enforcement concerns loom",
-      "summary": "<p>With a procedural vote on crypto legislation up in the air, lawmakers are racing to resolve outstanding issues within the next few days.</p>",
-      "url": "https://www.theblock.co/post/410940/standstill-senate-races-salvage-clarity-act-before-august-recess-ethics-fight-law-enforcement-concerns-loom?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T21:41:36+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
+      "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
+      "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
+      "published": "2026-08-06T18:26:29+00:00",
       "coins": [],
-      "compound": 0.7003,
+      "compound": 0.6808,
       "label": "BULLISH",
-      "confidence": 0.7003
+      "confidence": 0.6808
+    },
+    {
+      "source": "TheBlock",
+      "title": "Late Ondo founder\u2019s mother seeks control of company and removal of De Bode as CEO",
+      "summary": "<p>After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take over as CEO.</p>",
+      "url": "https://www.theblock.co/post/411006/late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T19:45:06+00:00",
+      "coins": [],
+      "compound": -0.5994,
+      "label": "BEARISH",
+      "confidence": 0.5994
     },
     {
       "source": "TheBlock",
@@ -477,37 +463,37 @@
       "confidence": 0.5994
     },
     {
-      "source": "TheBlock",
-      "title": "Putin signs landmark crypto law allowing regulated retail trading in Russia",
-      "summary": "<p>The law continues to ban the use of crypto to pay for goods and services within Russia, while allowing use for cross-border settlements.</p>",
-      "url": "https://www.theblock.co/post/410951/putin-signs-russia-crypto-law?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T02:11:16+00:00",
+      "source": "Decrypt",
+      "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
+      "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
+      "url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
+      "published": "2026-08-06T17:20:54+00:00",
       "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here are the possible outcomes for Clarity right now",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/05/here-are-the-possible-outcomes-for-clarity-right-now",
-      "published": "2026-08-06T03:49:04+00:00",
-      "coins": [],
-      "compound": 0.4019,
+      "compound": 0.5859,
       "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
-      "title": "Cloudflare OS: Here\u2019s What\u2019s Inside the Open-Source AI Agent Platform",
-      "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge\u2014a clear bet on agent infrastructure.",
-      "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
-      "published": "2026-08-05T20:46:03+00:00",
+      "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
+      "summary": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
+      "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
+      "published": "2026-08-06T20:31:03+00:00",
       "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
+      "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pok\u00e9mon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
+      "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
+      "published": "2026-08-06T21:01:03+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
     },
     {
       "source": "TheBlock",
@@ -521,37 +507,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "Feds Say an NFT Founder Raised $10 Million Only to Blow It All on Gambling, Trading, and a DJ Hobby",
-      "summary": "Prosecutors say the founder of NFT marketplace Few and Far promised investors their money would build a Web3 platform before diverting it to personal expenses.",
-      "url": "https://decrypt.co/374986/nft-founder-10-million-fraud-gambling-dj-hobby",
-      "published": "2026-08-05T18:43:47+00:00",
+      "source": "TheBlock",
+      "title": "Block\u2019s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
+      "summary": "<p>Analysts remain bullish on Block following Q2 earnings beat, though Mizuho questioned why spending is rising despite a 40% workforce cut.</p>",
+      "url": "https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T16:12:35+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.3213,
       "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CASHCAT jumps 120% in a week as Robinhood Chain hits $774 million of value locked",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/05/cashcat-jumps-120-in-a-week-as-robinhood-chain-tvl-hits-usd774-million",
-      "published": "2026-08-06T04:31:41+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
-      "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes\u2014but on the benchmarks that matter, it lags behind.",
-      "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
-      "published": "2026-08-05T21:24:06+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
+      "confidence": 0.3213
     },
     {
       "source": "TheBlock",
@@ -566,21 +530,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Perplexity Wins Appeal Against Amazon in AI Agent Shopping Lawsuit",
-      "summary": "A U.S. appeals court ruled Amazon is unlikely to prove Perplexity violated federal hacking law, marking the first appellate decision on whether AI agents can legally act on users' behalf online.",
-      "url": "https://decrypt.co/374996/perplexity-amazon-ai-agent-lawsuit",
-      "published": "2026-08-05T20:16:03+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
-      "summary": "<p>SpaceX plunged as investors grew concerned about the firm's $18.4 billion in capital expenditure during Q2, despite revenue growth.</p>",
-      "url": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T02:22:22+00:00",
+      "title": "DuckDuckGo\u2019s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
+      "summary": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
+      "url": "https://decrypt.co/375037/duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week",
+      "published": "2026-08-06T16:19:39+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -610,14 +563,58 @@
     },
     {
       "source": "TheBlock",
-      "title": "Kraken parent Payward shifts position on tokenized equities and voting rights",
-      "summary": "<p>While previously xStocks holders had no voting rights, this deal will allow eligible investors to submit proxy voting preferences.</p>",
-      "url": "https://www.theblock.co/post/410878/kraken-parent-payward-shifts-position-tokenized-equities-voting-rights?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-05T15:26:17+00:00",
+      "title": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
+      "summary": "<p>President Trump is reviewing ethics language in a bid to pass cryptocurrency legislation \u2014 which could result in a personal tax benefit. </p>",
+      "url": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T21:52:43+00:00",
       "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
+      "title": "MetaMask Launches Self-Custodial AI Wallet for Autonomous Crypto Trading",
+      "summary": "The new Agent Wallet lets AI agents execute on-chain trades within user-defined limits as MetaMask expands its push into AI-powered crypto trading.",
+      "url": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading",
+      "published": "2026-08-06T16:26:56+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "Putin Signs Russia's First Crypto Law: Trading Is Legal, Payments Stay Banned",
+      "summary": "The new law creates a licensed, central bank-supervised market for trading digital assets, yet crypto remains barred from everyday payments.",
+      "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
+      "published": "2026-08-06T18:38:21+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase\u2019s Base app will become \u2018less Base-centric\u2019 under Cobie, Jesse Pollak says",
+      "summary": "<p>Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe \"validation.\"</p>",
+      "url": "https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T19:05:56+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
+      "published": "2026-08-06T15:07:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -632,10 +629,43 @@
     },
     {
       "source": "Decrypt",
-      "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
-      "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
-      "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
-      "published": "2026-08-05T19:42:48+00:00",
+      "title": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
+      "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
+      "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
+      "published": "2026-08-06T21:36:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+      "summary": "<p>Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.</p>",
+      "url": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T21:29:13+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
+      "summary": "<p>Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.</p>",
+      "url": "https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T18:03:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares",
+      "summary": "<p>Deposits of tokenized RWAs into lending platforms and DEXs more than tripled from Q2 2025 to Q2 2026, from $2.3 billion to $7.4 billion.</p>",
+      "url": "https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-06T17:22:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
