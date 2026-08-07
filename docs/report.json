@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-07T13:19:51.385073+00:00",
+  "generated_at": "2026-08-07T19:06:45.742027+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.6597,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+          "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
+          "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+          "published": "2026-08-07T17:36:41+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6597,
+          "label": "BULLISH",
+          "confidence": 0.6597
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 1,
       "avg_compound": 0.4767,
@@ -26,79 +50,38 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": -0.2777,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4588,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP, Bitcoin Whales Are Accumulating\u2014Is the Bear Market Nearly Over?",
-          "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
-          "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
-          "published": "2026-08-06T18:13:40+00:00",
+          "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+          "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+          "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+          "published": "2026-08-07T16:36:59+00:00",
           "coins": [
-            "XRP",
-            "BTC"
+            "BNB"
           ],
-          "compound": -0.8074,
+          "compound": -0.4588,
           "label": "BEARISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
-          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
-          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-06T16:17:58+00:00",
-          "coins": [
-            "SOL",
-            "XRP"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP leads majors losses as Clarity Act vote slips to September",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
-          "published": "2026-08-07T04:17:01+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.4588
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0957,
+      "article_count": 22,
+      "avg_compound": -0.0612,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 10,
-      "neutral": 5,
+      "bullish": 8,
+      "bearish": 11,
+      "neutral": 3,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn2-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit\" rel=\"nofollow\">Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit</a></p>\n<p>Triggered by the Coldcard RNG vulnerability that drained over $100 million, the Bitcoin Red Team led by Calle and Rob Hamilton has already filed 4,962 findings across 390 open-source projects using frontier AI models.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit\" rel=\"nofollow\">Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/bitcoin-red-team-finds-85-critical-flaws-across-390-open-source-repos-after-coldcard-exploit",
-          "published": "2026-08-05T20:33:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9451,
-          "label": "BEARISH",
-          "confidence": 0.9451
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out",
@@ -113,67 +96,30 @@
           "confidence": 0.9194
         },
         {
-          "source": "Decrypt",
-          "title": "XRP, Bitcoin Whales Are Accumulating\u2014Is the Bear Market Nearly Over?",
-          "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
-          "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
-          "published": "2026-08-06T18:13:40+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin\u2019s BIP110 Moment: Three Possible Scenarios",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP110-Aaron-Hero-1.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios\" rel=\"nofollow\">Bitcoin&#8217;s BIP110 Moment: Three Possible Scenarios</a></p>\n<p>Will BIP110 fail, activate, or split Bitcoin? A look at the three most likely outcomes.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios\" rel=\"nofollow\">Bitcoin&#8217;s BIP110 Moment: Three Possible Scenarios</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/aaron-van-wirdum\" rel=\"nofollow\">Aaron van Wirdum</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/bitcoins-bip110-moment-three-possible-scenarios",
+          "published": "2026-08-07T10:01:26+00:00",
           "coins": [
-            "XRP",
             "BTC"
           ],
-          "compound": -0.8074,
+          "compound": -0.7506,
           "label": "BEARISH",
-          "confidence": 0.8074
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "confidence": 0.7506
+        },
         {
-          "source": "TheBlock",
-          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
-          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
-          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-06T16:17:58+00:00",
+          "source": "CoinDesk",
+          "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
+          "published": "2026-08-07T11:45:49+00:00",
           "coins": [
-            "SOL",
-            "XRP"
+            "BTC"
           ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-          "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-          "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-          "published": "2026-08-06T13:34:07+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.7317,
+          "label": "BEARISH",
+          "confidence": 0.7317
         }
       ],
       "no_news": false
@@ -189,16 +135,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -288,6 +224,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -299,6 +245,16 @@
       "no_news": true
     },
     "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -333,20 +289,31 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Power struggle erupts at Ondo Finance after founder\u2019s death",
+      "title": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/06/power-struggle-erupts-at-ondo-finance-after-founder-s-death",
-      "published": "2026-08-06T21:59:33+00:00",
+      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
+      "published": "2026-08-07T14:30:25+00:00",
       "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
-      "confidence": 0.7351
+      "compound": 0.7739,
+      "label": "BULLISH",
+      "confidence": 0.7739
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares",
+      "summary": "Gold, Treasuries and the S&#038;P 500 led the growth, in a year when spot volumes on decentralized exchanges fell by roughly 70%.",
+      "url": "https://decrypt.co/375099/tokenized-asset-deposits-tripled-to-7-4b-as-defi-shrank-coinshares",
+      "published": "2026-08-07T13:26:19+00:00",
+      "coins": [],
+      "compound": 0.7184,
+      "label": "BULLISH",
+      "confidence": 0.7184
     },
     {
       "source": "TheBlock",
       "title": "\u2018Applesauce\u2019: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts",
       "summary": "<p>\"Coinbase's averments are, in a word, applesauce,\" U.S. District Judge Shalina Kumar wrote in Thursday's ruling.</p>",
-      "url": "https://www.theblock.co/post/411128/michigan-judge-denies-coinbase-bid-prediction-markets?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/regulation/2026-08-07-michigan-judge-denies-coinbase-bid-prediction-markets-411128?utm_source=rss&utm_medium=rss",
       "published": "2026-08-07T09:06:56+00:00",
       "coins": [],
       "compound": -0.6908,
@@ -354,21 +321,10 @@
       "confidence": 0.6908
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Reveals How AI Agents Secretly Coordinated Before Hugging Face Hack",
-      "summary": "The presentation at the annual Black Hat conference sheds new light on how OpenAI's models collaborated to launch the Hugging Face breach.",
-      "url": "https://decrypt.co/375058/openai-ai-agents-secretly-coordinated-hugging-face-hack",
-      "published": "2026-08-06T18:26:29+00:00",
-      "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
-    },
-    {
       "source": "TheBlock",
       "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
       "summary": "<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.</p>",
-      "url": "https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss",
       "published": "2026-08-07T11:51:21+00:00",
       "coins": [],
       "compound": 0.6597,
@@ -376,26 +332,26 @@
       "confidence": 0.6597
     },
     {
+      "source": "CoinDesk",
+      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
+      "published": "2026-08-07T16:32:41+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
+    },
+    {
       "source": "TheBlock",
       "title": "Late Ondo founder\u2019s mother seeks control of company and removal of De Bode as CEO",
       "summary": "<p>After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take over as CEO.</p>",
-      "url": "https://www.theblock.co/post/411006/late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/regulation/2026-08-06-late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo-411006?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T19:45:06+00:00",
       "coins": [],
       "compound": -0.5994,
       "label": "BEARISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "Decrypt",
-      "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
-      "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
-      "url": "https://decrypt.co/375048/cathie-wood-ark-invest-spacex-circle-top-holdings",
-      "published": "2026-08-06T17:20:54+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -420,17 +376,6 @@
       "confidence": 0.5267
     },
     {
-      "source": "CoinDesk",
-      "title": "Senate won't vote on crypto Clarity Act before its summer break",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
-      "published": "2026-08-07T02:14:43+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
       "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
       "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
@@ -445,7 +390,7 @@
       "source": "TheBlock",
       "title": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
       "summary": "<p>Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.</p>",
-      "url": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/business/2026-08-07-cathie-wood-ark-invest-buys-21-million-block-411075?utm_source=rss&utm_medium=rss",
       "published": "2026-08-07T04:03:44+00:00",
       "coins": [],
       "compound": -0.3674,
@@ -454,14 +399,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Block\u2019s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
-      "summary": "<p>Analysts remain bullish on Block following Q2 earnings beat, though Mizuho questioned why spending is rising despite a 40% workforce cut.</p>",
-      "url": "https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T16:12:35+00:00",
+      "title": "CFTC cautions prediction markets over using American-style \u2018moneyline\u2019 betting odds: Bloomberg",
+      "summary": "<p>Some prediction market platforms received a warning from the CFTC to refrain using American-style gambling odds, according to Bloomberg. </p>",
+      "url": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T18:39:26+00:00",
       "coins": [],
-      "compound": 0.3213,
-      "label": "BULLISH",
-      "confidence": 0.3213
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -475,21 +420,21 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "DuckDuckGo\u2019s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
-      "summary": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
-      "url": "https://decrypt.co/375037/duckduckgos-meta-trolling-normal-fing-sunglasses-sell-out-in-under-a-week",
-      "published": "2026-08-06T16:19:39+00:00",
+      "source": "CoinDesk",
+      "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/07/31/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business",
+      "published": "2026-08-07T16:53:56+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
       "title": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
       "summary": "<p>President Trump is reviewing ethics language in a bid to pass cryptocurrency legislation \u2014 which could result in a personal tax benefit. </p>",
-      "url": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/regulation/2026-08-06-crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg-411065?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T21:52:43+00:00",
       "coins": [],
       "compound": 0.2023,
@@ -520,17 +465,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "MetaMask Launches Self-Custodial AI Wallet for Autonomous Crypto Trading",
-      "summary": "The new Agent Wallet lets AI agents execute on-chain trades within user-defined limits as MetaMask expands its push into AI-powered crypto trading.",
-      "url": "https://decrypt.co/375044/metamask-self-custodial-ai-wallet-autonomous-crypto-trading",
-      "published": "2026-08-06T16:26:56+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "Decrypt",
       "title": "Putin Signs Russia's First Crypto Law: Trading Is Legal, Payments Stay Banned",
       "summary": "The new law creates a licensed, central bank-supervised market for trading digital assets, yet crypto remains barred from everyday payments.",
       "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
@@ -539,6 +473,17 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How a five-second trick let traders drain millions from Polymarket",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/07/how-a-five-second-trick-let-traders-drain-millions-from-polymarket",
+      "published": "2026-08-07T15:09:07+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
     },
     {
       "source": "CoinDesk",
@@ -555,7 +500,7 @@
       "source": "TheBlock",
       "title": "Senate delays Clarity Act vote until after August recess, Thune confirms",
       "summary": "<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>",
-      "url": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/regulation/2026-08-06-senate-delays-clarity-act-vote-411083?utm_source=rss&utm_medium=rss",
       "published": "2026-08-07T02:55:45+00:00",
       "coins": [],
       "compound": -0.0516,
@@ -566,7 +511,7 @@
       "source": "TheBlock",
       "title": "Coinbase\u2019s Base app will become \u2018less Base-centric\u2019 under Cobie, Jesse Pollak says",
       "summary": "<p>Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe \"validation.\"</p>",
-      "url": "https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-06-jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform-411023?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T19:05:56+00:00",
       "coins": [],
       "compound": 0.0516,
@@ -577,7 +522,7 @@
       "source": "TheBlock",
       "title": "Sui to add post-quantum signature schemes for quantum-safe accounts",
       "summary": "<p>Sui said users can adopt quantum-safe keys without creating a new recovery phrase or changing wallet addresses.</p>",
-      "url": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/web3/2026-08-06-sui-post-quantum-signature-scheme-410968?utm_source=rss&utm_medium=rss",
       "published": "2026-08-07T02:09:29+00:00",
       "coins": [],
       "compound": -0.0485,
@@ -586,10 +531,43 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
+      "published": "2026-08-07T18:42:44+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
+      "published": "2026-08-07T14:04:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
       "published": "2026-08-07T12:31:51+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's First Device Is a $300-Plus Doughnut-Shaped Speaker: Report",
+      "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
+      "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
+      "published": "2026-08-07T16:03:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -610,7 +588,7 @@
       "source": "TheBlock",
       "title": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
       "summary": "<p>Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.</p>",
-      "url": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/regulation/2026-08-06-wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs-411060?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T21:29:13+00:00",
       "coins": [],
       "compound": 0.0,
@@ -621,30 +599,8 @@
       "source": "TheBlock",
       "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
       "summary": "<p>Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.</p>",
-      "url": "https://www.theblock.co/post/411022/depin-project-vangrid-funding-token-round-spatial-data-physical-ai?utm_source=rss&utm_medium=rss",
+      "url": "https://www.theblock.co/news/deals/2026-08-06-depin-project-vangrid-funding-token-round-spatial-data-physical-ai-411022?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T18:03:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Tokenized RWAs triple deposits to $7.4 billion as broader DeFi contracts 15%: CoinShares",
-      "summary": "<p>Deposits of tokenized RWAs into lending platforms and DEXs more than tripled from Q2 2025 to Q2 2026, from $2.3 billion to $7.4 billion.</p>",
-      "url": "https://www.theblock.co/post/411015/tokenized-rwas-triple-deposits-to-7-4-billion-as-broader-defi-contracts-15-coinshares?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T17:22:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Bernstein says Circle\u2019s Q2 counters bearish concerns over competition, reserve income",
-      "summary": "<p>Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.</p>",
-      "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T12:10:44+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
