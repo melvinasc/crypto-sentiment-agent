@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T07:35:21.045346+00:00",
+  "generated_at": "2026-08-07T13:19:51.385073+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
       "article_count": 1,
-      "avg_compound": 0.7003,
+      "avg_compound": 0.4767,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
@@ -12,41 +12,16 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+          "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-          "published": "2026-08-06T10:43:07+00:00",
+          "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
+          "published": "2026-08-07T08:01:28+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": 0.7003,
+          "compound": 0.4767,
           "label": "BULLISH",
-          "confidence": 0.7003
-        }
-      ],
-      "no_news": false
-    },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.6486,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
-          "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
-          "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
-          "published": "2026-08-06T12:28:46+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.6486,
-          "label": "BULLISH",
-          "confidence": 0.6486
+          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -103,62 +78,13 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
-          "published": "2026-08-06T16:10:04+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
-          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
-          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-06T16:17:58+00:00",
-          "coins": [
-            "SOL",
-            "XRP"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0206,
-      "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 6,
-      "neutral": 6,
+      "article_count": 21,
+      "avg_compound": -0.0957,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 10,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -187,17 +113,43 @@
           "confidence": 0.9194
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Russia-Passes-Law-to-Regulate-Crypto-Exchanges-Keeps-Payment-Ban-in-Place.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place\" rel=\"nofollow\">Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place</a></p>\n<p>New crypto regulations have been signed into law. But citizens in the country won't be able to buy coffee with Bitcoin anytime soon. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place\" rel=\"nofollow\">Russia Passes Law to Regulate Crypto Exchanges, Keeps Payment Ban in Place</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/russia-keeps-payment-ban-in-place",
-          "published": "2026-08-05T17:39:39+00:00",
+          "source": "Decrypt",
+          "title": "XRP, Bitcoin Whales Are Accumulating\u2014Is the Bear Market Nearly Over?",
+          "summary": "On-chain data shows big holders quietly buying XRP near $1, yet the daily chart is still trapped below a death cross.",
+          "url": "https://decrypt.co/375051/xrp-bitcoin-whales-accumulating-bear-market",
+          "published": "2026-08-06T18:13:40+00:00",
           "coins": [
+            "XRP",
             "BTC"
           ],
-          "compound": -0.8873,
+          "compound": -0.8074,
           "label": "BEARISH",
-          "confidence": 0.8873
+          "confidence": 0.8074
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
+          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
+          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-06T16:17:58+00:00",
+          "coins": [
+            "SOL",
+            "XRP"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -345,20 +297,29 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as \u2018wrench attack\u2019 hotspot: Chainalysis",
-      "summary": "<p>Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.</p>",
-      "url": "https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T12:00:00+00:00",
-      "coins": [],
-      "compound": -0.9595,
-      "label": "BEARISH",
-      "confidence": 0.9595
-    },
     {
       "source": "Decrypt",
       "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
@@ -382,37 +343,15 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Wrench Attacks on Pace for Record Year as $30M Stolen in 2026: Chainalysis",
-      "summary": "The blockchain analytics firm says home invasions are becoming more common, France has emerged as the leading hotspot, and some attackers are using increasingly sophisticated laundering techniques.",
-      "url": "https://decrypt.co/375014/crypto-wrench-attacks-30m-stolen-2026-chainalysis",
-      "published": "2026-08-06T12:01:04+00:00",
+      "source": "TheBlock",
+      "title": "\u2018Applesauce\u2019: Michigan judge denies Coinbase bid to block state enforcement of sports event contracts",
+      "summary": "<p>\"Coinbase's averments are, in a word, applesauce,\" U.S. District Judge Shalina Kumar wrote in Thursday's ruling.</p>",
+      "url": "https://www.theblock.co/post/411128/michigan-judge-denies-coinbase-bid-prediction-markets?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T09:06:56+00:00",
       "coins": [],
-      "compound": -0.7351,
+      "compound": -0.6908,
       "label": "BEARISH",
-      "confidence": 0.7351
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Free Markets and Innovation, Sort Of",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/06/free-markets-and-innovation-sort-of",
-      "published": "2026-08-06T11:30:00+00:00",
-      "coins": [],
-      "compound": 0.7096,
-      "label": "BULLISH",
-      "confidence": 0.7096
-    },
-    {
-      "source": "Decrypt",
-      "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
-      "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
-      "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
-      "published": "2026-08-06T12:46:19+00:00",
-      "coins": [],
-      "compound": -0.7003,
-      "label": "BEARISH",
-      "confidence": 0.7003
+      "confidence": 0.6908
     },
     {
       "source": "Decrypt",
@@ -424,6 +363,17 @@
       "compound": 0.6808,
       "label": "BULLISH",
       "confidence": 0.6808
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
+      "summary": "<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.</p>",
+      "url": "https://www.theblock.co/post/411136/bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T11:51:21+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
     },
     {
       "source": "TheBlock",
@@ -481,15 +431,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Bernstein reaffirms TeraWulf Outperform rating as HPC revenue hits 71% of Q2 total",
-      "summary": "<p>Bernstein keeps TeraWulf at Outperform after Q2 HPC revenue hit $32M, 71% of total, with Muskie Campus the next growth site.</p>",
-      "url": "https://www.theblock.co/post/410975/bernstein-reaffirms-terawulf-outperform-rating-as-hpc-revenue-hits-71-of-q2-total?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T11:15:46+00:00",
+      "source": "Decrypt",
+      "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
+      "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
+      "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
+      "published": "2026-08-07T09:26:02+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -514,6 +464,17 @@
       "confidence": 0.3213
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
+      "published": "2026-08-07T08:46:17+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
       "source": "Decrypt",
       "title": "DuckDuckGo\u2019s Meta-Trolling 'Normal F***ing Sunglasses' Sell Out in Under a Week",
       "summary": "The $35 frames have polarized lenses, UV protection and no camera, microphone, battery or electronics of any kind.",
@@ -525,28 +486,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "JPMorgan says Hyperliquid ETF inflows have stalled as competition mounts",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/06/jpmorgan-says-hyperliquid-etf-inflows-have-stalled-as-competition-mounts",
-      "published": "2026-08-06T12:46:42+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NFT startup founder charged with misusing funds from $10 million fundraising",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/06/nft-startup-founder-charged-with-misusing-funds-from-usd10-million-fundraising",
-      "published": "2026-08-06T09:19:03+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "TheBlock",
       "title": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
       "summary": "<p>President Trump is reviewing ethics language in a bid to pass cryptocurrency legislation \u2014 which could result in a personal tax benefit. </p>",
@@ -556,6 +495,28 @@
       "compound": 0.2023,
       "label": "BULLISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
+      "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
+      "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
+      "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
+      "published": "2026-08-07T10:37:41+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
+      "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
+      "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
+      "published": "2026-08-07T12:37:14+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -578,6 +539,17 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "After a Clarity Act funeral, the crypto world would keep turning",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning",
+      "published": "2026-08-07T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
     },
     {
       "source": "TheBlock",
@@ -614,21 +586,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto for Advisors: Europe's crypto rules, U.S. Preview",
+      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
       "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/06/crypto-for-advisors-europe-s-crypto-rules-u-s-preview",
-      "published": "2026-08-06T15:07:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPYC raises $38 million Series B led by major Japanese logistics firm AZ-COM Maruwa",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/06/jpyc-raises-usd38-million-series-b-led-by-major-japanese-logistics-firm-az-com-maruwa",
-      "published": "2026-08-06T10:53:09+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
+      "published": "2026-08-07T12:31:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
