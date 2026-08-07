@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-08-07T00:09:33.424280+00:00",
+  "generated_at": "2026-08-07T07:35:21.045346+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.7003,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
+          "published": "2026-08-06T10:43:07+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.7003,
+          "label": "BULLISH",
+          "confidence": 0.7003
+        }
+      ],
+      "no_news": false
+    },
     "UNI": {
       "article_count": 1,
       "avg_compound": 0.6486,
@@ -22,45 +47,6 @@
           "compound": 0.6486,
           "label": "BULLISH",
           "confidence": 0.6486
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.3502,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether benefit as traders seek safety of largest tokens",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/bitcoin-ether-benefit-as-traders-seek-safety-of-largest-tokens",
-          "published": "2026-08-06T10:43:07+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.7003,
-          "label": "BULLISH",
-          "confidence": 0.7003
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-          "published": "2026-08-06T04:46:17+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -103,13 +89,12 @@
         },
         {
           "source": "CoinDesk",
-          "title": "XRP whales keep buying the dip, but ether shows deeper capitulation",
+          "title": "XRP leads majors losses as Clarity Act vote slips to September",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/06/xrp-whales-keep-buying-the-dip-but-ether-shows-deeper-capitulation",
-          "published": "2026-08-06T04:46:17+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+          "published": "2026-08-07T04:17:01+00:00",
           "coins": [
-            "XRP",
-            "ETH"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -142,13 +127,38 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0348,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.0258,
       "overall": "NEUTRAL",
-      "bullish": 6,
-      "bearish": 7,
-      "neutral": 7,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
+          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
+          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-06T16:17:58+00:00",
+          "coins": [
+            "SOL",
+            "XRP"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0206,
+      "overall": "NEUTRAL",
+      "bullish": 7,
+      "bearish": 6,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -188,31 +198,6 @@
           "compound": -0.8873,
           "label": "BEARISH",
           "confidence": 0.8873
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says Hyperliquid faces growing competition while HYPE ETF inflows stall",
-          "summary": "<p>\"Whether Hyperliquid eventually surpasses in market cap other tokens such as Solana and XRP remains to be seen,\" analysts said.</p>",
-          "url": "https://www.theblock.co/post/411001/jpmorgan-hyperliquid-competition-hype-etf-inflows-stall?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-06T16:17:58+00:00",
-          "coins": [
-            "SOL",
-            "XRP"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -452,17 +437,6 @@
       "confidence": 0.5994
     },
     {
-      "source": "TheBlock",
-      "title": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT",
-      "summary": "<p>Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients.\u00a0</p>",
-      "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T09:08:47+00:00",
-      "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
-    },
-    {
       "source": "Decrypt",
       "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
       "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
@@ -496,6 +470,17 @@
       "confidence": 0.5267
     },
     {
+      "source": "CoinDesk",
+      "title": "Senate won't vote on crypto Clarity Act before its summer break",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break",
+      "published": "2026-08-07T02:14:43+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "TheBlock",
       "title": "Bernstein reaffirms TeraWulf Outperform rating as HPC revenue hits 71% of Q2 total",
       "summary": "<p>Bernstein keeps TeraWulf at Outperform after Q2 HPC revenue hit $32M, 71% of total, with Muskie Campus the next growth site.</p>",
@@ -508,6 +493,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
+      "summary": "<p>Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.</p>",
+      "url": "https://www.theblock.co/post/411075/cathie-wood-ark-invest-buys-21-million-block?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T04:03:44+00:00",
+      "coins": [],
+      "compound": -0.3674,
+      "label": "BEARISH",
+      "confidence": 0.3674
+    },
+    {
+      "source": "TheBlock",
       "title": "Block\u2019s spending rise despite 40% workforce cut leaves analysts weighing growth prospects",
       "summary": "<p>Analysts remain bullish on Block following Q2 earnings beat, though Mizuho questioned why spending is rising despite a 40% workforce cut.</p>",
       "url": "https://www.theblock.co/post/410997/blocks-spending-rise-despite-workforce-cut-leaves-analysts-weighing-growth-prospects?utm_source=rss&utm_medium=rss",
@@ -516,17 +512,6 @@
       "compound": 0.3213,
       "label": "BULLISH",
       "confidence": 0.3213
-    },
-    {
-      "source": "TheBlock",
-      "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
-      "summary": "<p>The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.</p>",
-      "url": "https://www.theblock.co/post/410959/jpyc-stablecoin-raises-38-million?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T06:54:15+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -596,6 +581,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Senate delays Clarity Act vote until after August recess, Thune confirms",
+      "summary": "<p>Senate Majority Leader John Thune confirmed with The Block, saying: 'We're getting that queued up first thing when we come back.'</p>",
+      "url": "https://www.theblock.co/post/411083/senate-delays-clarity-act-vote?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T02:55:45+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "TheBlock",
       "title": "Coinbase\u2019s Base app will become \u2018less Base-centric\u2019 under Cobie, Jesse Pollak says",
       "summary": "<p>Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe \"validation.\"</p>",
       "url": "https://www.theblock.co/post/411023/jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform?utm_source=rss&utm_medium=rss",
@@ -604,6 +600,17 @@
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "TheBlock",
+      "title": "Sui to add post-quantum signature schemes for quantum-safe accounts",
+      "summary": "<p>Sui said users can adopt quantum-safe keys without creating a new recovery phrase or changing wallet addresses.</p>",
+      "url": "https://www.theblock.co/post/410968/sui-post-quantum-signature-scheme?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T02:09:29+00:00",
+      "coins": [],
+      "compound": -0.0485,
+      "label": "NEUTRAL",
+      "confidence": 0.0485
     },
     {
       "source": "CoinDesk",
@@ -677,17 +684,6 @@
       "summary": "<p>Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.</p>",
       "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T12:10:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
-      "summary": "<p>Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.</p>",
-      "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T08:00:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
