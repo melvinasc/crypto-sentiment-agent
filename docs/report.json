@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:03:46.545473+00:00",
+  "generated_at": "2026-08-08T18:49:20.268092+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -64,13 +64,27 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.25,
-      "overall": "BEARISH",
-      "bullish": 0,
+      "article_count": 2,
+      "avg_compound": 0.2161,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
+          "summary": "<p>Bloomberg analyst Eric Balchunas tied the run to the Coldcard wallet exploit, noting several Bitcoin funds have drawn inflows daily since the hack.\u00a0</p>",
+          "url": "https://www.theblock.co/news/markets/2026-08-08-bitcoin-ether-etfs-draw-1-1-billion-in-best-inflow-week-since-april-despite-low-volume-411204?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-08T14:52:11+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.6822,
+          "label": "BULLISH",
+          "confidence": 0.6822
+        },
         {
           "source": "TheBlock",
           "title": "SharpLink CEO warns EIP-8363 could kill ETH\u2019s biggest advantage over Bitcoin",
@@ -89,11 +103,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0521,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 12,
+      "article_count": 25,
+      "avg_compound": -0.0247,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 13,
       "neutral": 3,
       "top_articles": [
         {
@@ -291,15 +305,15 @@
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/07/a-part-of-ftx-survived-and-it-s-the-case-for-the-clarity-act",
-      "published": "2026-08-07T14:30:25+00:00",
+      "source": "Decrypt",
+      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
+      "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
+      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
+      "published": "2026-08-08T14:01:05+00:00",
       "coins": [],
-      "compound": 0.7739,
+      "compound": 0.7717,
       "label": "BULLISH",
-      "confidence": 0.7739
+      "confidence": 0.7717
     },
     {
       "source": "Decrypt",
@@ -325,6 +339,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+      "summary": "<p>The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. </p>",
+      "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-08T17:27:45+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
+    },
+    {
+      "source": "TheBlock",
       "title": "Bernstein favors CleanSpark on AI execution as MARA awaits first commercial contract",
       "summary": "<p>Bernstein rates CleanSpark Outperform at $24 on AI lease progress, while keeping MARA at $17 as it awaits its first commercial AI contract.</p>",
       "url": "https://www.theblock.co/news/business/2026-08-07-bernstein-favors-cleanspark-on-ai-execution-as-mara-awaits-first-commercial-contract-411136?utm_source=rss&utm_medium=rss",
@@ -333,6 +358,17 @@
       "compound": 0.6597,
       "label": "BULLISH",
       "confidence": 0.6597
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+      "summary": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
+      "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+      "published": "2026-08-08T16:33:02+00:00",
+      "coins": [],
+      "compound": 0.6486,
+      "label": "BULLISH",
+      "confidence": 0.6486
     },
     {
       "source": "CoinDesk",
@@ -366,17 +402,6 @@
       "compound": 0.4404,
       "label": "BULLISH",
       "confidence": 0.4404
-    },
-    {
-      "source": "Decrypt",
-      "title": "Senate Punts Clarity Act Vote to September as Democrats Hold Out",
-      "summary": "Senate Majority Leader Thune says the bill will be queued up when lawmakers return, leaving weeks to find 60 votes before midterms take over.",
-      "url": "https://decrypt.co/375082/senate-punts-clarity-act-vote-to-september-as-democrats-hold-out",
-      "published": "2026-08-07T09:26:02+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -421,6 +446,17 @@
       "compound": -0.34,
       "label": "BEARISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "published": "2026-08-08T15:25:38+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -490,17 +526,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "MyTrade Founder Fined $10K Over Bots That Wash Traded 60 Cryptocurrencies",
-      "summary": "Liu Zhou told undercover agents the objective was to make other buyers lose money, according to the Justice Department.",
-      "url": "https://decrypt.co/375085/mytrade-founder-fined-10k-over-bots-that-wash-traded-60-cryptocurrencies",
-      "published": "2026-08-07T10:37:41+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
       "title": "China\u2019s Kimi K3 Broke Out of Its Sandbox to Look Up Test Answers",
       "summary": "Unlike the recent breakouts at OpenAI and Anthropic, this involved a model anyone can download, running its default safeguards.",
       "url": "https://decrypt.co/375096/chinas-kimi-k3-broke-out-of-its-sandbox-to-look-up-test-answers",
@@ -545,32 +570,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "published": "2026-08-08T17:48:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S. widens Iran crypto crackdown with sanctions on two exchanges",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges",
       "published": "2026-08-07T18:42:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia cracks down on unlicensed crypto exchanges it claims are linked to Ukraine",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/07/russia-cracks-down-on-unlicensed-crypto-exchanges-it-claims-are-linked-to-ukraine",
-      "published": "2026-08-07T14:04:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000",
-      "published": "2026-08-07T12:31:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -582,28 +596,6 @@
       "summary": "Designed with Jony Ive's LoveFrom studio, the screenless gadget is slated for 2027 and will use cameras, lights and moving parts.",
       "url": "https://decrypt.co/375117/openais-first-device-is-a-300-plus-doughnut-shaped-speaker-report",
       "published": "2026-08-07T16:03:06+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Bought a Billion Airline Records to Track Travelers\u2014Likely Without a Warrant",
-      "summary": "The financial regulator subscribed to a global flight database covering more than a billion tickets to monitor activity.",
-      "url": "https://decrypt.co/375078/sec-billion-airline-records-track-travelers",
-      "published": "2026-08-06T21:36:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
-      "summary": "<p>Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.</p>",
-      "url": "https://www.theblock.co/news/regulation/2026-08-06-wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs-411060?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T21:29:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
