@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-08-08T02:07:15.123699+00:00",
+  "generated_at": "2026-08-08T07:04:42.262771+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.6597,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-          "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-          "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-          "published": "2026-08-07T17:36:41+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 1,
       "avg_compound": -0.4588,
@@ -46,6 +22,43 @@
           "compound": -0.4588,
           "label": "BEARISH",
           "confidence": 0.4588
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.4188,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
+          "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
+          "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
+          "published": "2026-08-07T17:36:41+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6597,
+          "label": "BULLISH",
+          "confidence": 0.6597
+        },
+        {
+          "source": "CoinDesk",
+          "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+          "published": "2026-08-08T03:30:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -76,12 +89,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0847,
+      "article_count": 24,
+      "avg_compound": -0.0953,
       "overall": "BEARISH",
       "bullish": 8,
       "bearish": 13,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
