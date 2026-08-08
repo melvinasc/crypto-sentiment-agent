@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:06:45.742027+00:00",
+  "generated_at": "2026-08-08T02:07:15.123699+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -22,30 +22,6 @@
           "compound": 0.6597,
           "label": "BULLISH",
           "confidence": 0.6597
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-          "published": "2026-08-07T08:01:28+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -74,13 +50,38 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": -0.25,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "SharpLink CEO warns EIP-8363 could kill ETH\u2019s biggest advantage over Bitcoin",
+          "summary": "<p>The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.</p>",
+          "url": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-07T19:37:14+00:00",
+          "coins": [
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0612,
+      "article_count": 25,
+      "avg_compound": -0.0847,
       "overall": "BEARISH",
       "bullish": 8,
-      "bearish": 11,
-      "neutral": 3,
+      "bearish": 13,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -109,17 +110,17 @@
           "confidence": 0.7506
         },
         {
-          "source": "CoinDesk",
-          "title": "Why Bitcoin's BIP-110 refuses to die despite near-zero miner support",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/06/why-bitcoin-s-bip-110-refuses-to-die-despite-near-zero-miner-support",
-          "published": "2026-08-07T11:45:49+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senators-Cynthia-Lummis-and-Angela-Alsobrooks-Say-Bipartisan-Work-on-Clarity-Act-Continues-Despite-Delays.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act\" rel=\"nofollow\">Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays</a></p>\n<p>The long-awaited crypto Clarity Act bill has been stalled. Still, lawmakers from both parties say the fight isn't over. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act\" rel=\"nofollow\">Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
+          "published": "2026-08-07T20:42:33+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.7317,
-          "label": "BEARISH",
-          "confidence": 0.7317
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
         }
       ],
       "no_news": false
@@ -277,17 +278,6 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Senators Push CFTC to Ban Wildfire Bets on Prediction Markets",
-      "summary": "Democratic lawmakers say wildfire event contracts create risks of arson, insider trading, and disaster profiteering as they urge federal regulators to step in.",
-      "url": "https://decrypt.co/375066/senators-push-cftc-ban-wildfire-bets-prediction-markets",
-      "published": "2026-08-06T19:51:09+00:00",
-      "coins": [],
-      "compound": -0.8519,
-      "label": "BEARISH",
-      "confidence": 0.8519
-    },
-    {
       "source": "CoinDesk",
       "title": "A part of FTX survived, and it\u2019s the case for the CLARITY Act",
       "summary": "",
@@ -343,37 +333,15 @@
       "confidence": 0.6124
     },
     {
-      "source": "TheBlock",
-      "title": "Late Ondo founder\u2019s mother seeks control of company and removal of De Bode as CEO",
-      "summary": "<p>After Nathan Allman's death was announced in May, Ondo Finance said that Ian De Bode would take over as CEO.</p>",
-      "url": "https://www.theblock.co/news/regulation/2026-08-06-late-ondo-founders-mother-seeks-control-of-company-and-removal-of-de-bode-as-ceo-411006?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T19:45:06+00:00",
-      "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
-    },
-    {
       "source": "Decrypt",
-      "title": "Meta Says Its AI Model Escaped and Hacked a Third-Party Company Too",
-      "summary": "The company says a configuration error by an outside testing partner gave one of its Muse Spark models internet access during a cybersecurity evaluation.",
-      "url": "https://decrypt.co/375070/meta-says-ai-model-escaped-hack-third-party",
-      "published": "2026-08-06T20:31:03+00:00",
+      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+      "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+      "published": "2026-08-07T21:05:59+00:00",
       "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tokyo Tells Trump to Stop Meme-ing Mario",
-      "summary": "Tokyo has asked Washington to stop meme-posting Mario, Pok\u00e9mon, and Naruto without permission in a clash between meme-heavy statecraft and strict IP norms.",
-      "url": "https://decrypt.co/375069/tokyo-trump-mario-naruto-pokemon-memes",
-      "published": "2026-08-06T21:01:03+00:00",
-      "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -385,6 +353,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+      "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
+      "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
+      "published": "2026-08-07T20:28:33+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -409,15 +388,15 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto market maker Wintermute lands SEC approval to trade equities and ETF blocks",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/07/wintermute-gains-u-s-broker-dealer-status-in-wall-street-push",
-      "published": "2026-08-07T08:46:17+00:00",
+      "source": "Decrypt",
+      "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
+      "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
+      "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
+      "published": "2026-08-07T19:18:41+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "CoinDesk",
@@ -429,6 +408,39 @@
       "compound": -0.2732,
       "label": "BEARISH",
       "confidence": 0.2732
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "published": "2026-08-07T21:13:21+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
+      "summary": "<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>",
+      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T21:01:36+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "US sanctions two more Iranian crypto exchanges under \u2018Economic Fury\u2019 campaign",
+      "summary": "<p>The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.</p>",
+      "url": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-07T19:49:33+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -464,17 +476,6 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "Putin Signs Russia's First Crypto Law: Trading Is Legal, Payments Stay Banned",
-      "summary": "The new law creates a licensed, central bank-supervised market for trading digital assets, yet crypto remains barred from everyday payments.",
-      "url": "https://decrypt.co/375062/putin-signs-russia-first-crypto-trading-payments",
-      "published": "2026-08-06T18:38:21+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "CoinDesk",
       "title": "How a five-second trick let traders drain millions from Polymarket",
       "summary": "",
@@ -505,17 +506,6 @@
       "coins": [],
       "compound": -0.0516,
       "label": "BEARISH",
-      "confidence": 0.0516
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase\u2019s Base app will become \u2018less Base-centric\u2019 under Cobie, Jesse Pollak says",
-      "summary": "<p>Base is seeing growing demand across tokenization and payments, and Pollack called blockchain launches from Robinhood and Stripe \"validation.\"</p>",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-06-jesse-pollak-base-app-become-less-base-centric-cobie-builds-trading-platform-411023?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T19:05:56+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
       "confidence": 0.0516
     },
     {
@@ -590,17 +580,6 @@
       "summary": "<p>Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.</p>",
       "url": "https://www.theblock.co/news/regulation/2026-08-06-wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs-411060?utm_source=rss&utm_medium=rss",
       "published": "2026-08-06T21:29:13+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
-      "summary": "<p>Vangrid contributors are currently paid bounties, Brighton said, noting that a token is planned for later this year.</p>",
-      "url": "https://www.theblock.co/news/deals/2026-08-06-depin-project-vangrid-funding-token-round-spatial-data-physical-ai-411022?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-06T18:03:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
