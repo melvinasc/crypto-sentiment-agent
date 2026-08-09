@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:07:22.061868+00:00",
+  "generated_at": "2026-08-09T13:06:17.860568+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -59,6 +59,30 @@
           "compound": 0.1779,
           "label": "BULLISH",
           "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": -0.3182,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+          "published": "2026-08-09T13:00:00+00:00",
+          "coins": [
+            "DOT"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
@@ -183,16 +207,6 @@
       "no_news": true
     },
     "DOGE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -369,17 +383,6 @@
       "compound": 0.6486,
       "label": "BULLISH",
       "confidence": 0.6486
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bybit sues North Korea and Lazarus Group over $1.5 billion hack, secures asset freeze",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/07/bybit-sues-north-korea-and-lazarus-group-over-usd1-5-billion-hack-secures-asset-freeze",
-      "published": "2026-08-07T16:32:41+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
     },
     {
       "source": "CoinDesk",
