@@ -1,34 +1,10 @@
 {
-  "generated_at": "2026-08-10T02:23:59.965155+00:00",
+  "generated_at": "2026-08-10T07:55:59.522938+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.4588,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-          "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
-          "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
-          "published": "2026-08-07T16:36:59+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.4588,
-          "label": "BEARISH",
-          "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
       "article_count": 2,
-      "avg_compound": 0.4188,
+      "avg_compound": 0.5682,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
@@ -49,16 +25,40 @@
         },
         {
           "source": "CoinDesk",
-          "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+          "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-          "published": "2026-08-08T03:30:00+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
+          "published": "2026-08-10T04:26:01+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.1779,
+          "compound": 0.4767,
           "label": "BULLISH",
-          "confidence": 0.1779
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4588,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
+          "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
+          "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
+          "published": "2026-08-07T16:36:59+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4588,
+          "label": "BEARISH",
+          "confidence": 0.4588
         }
       ],
       "no_news": false
@@ -127,11 +127,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.0766,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 15,
+      "article_count": 28,
+      "avg_compound": -0.0215,
+      "overall": "NEUTRAL",
+      "bullish": 10,
+      "bearish": 14,
       "neutral": 4,
       "top_articles": [
         {
@@ -407,17 +407,6 @@
       "confidence": 0.5859
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
-      "published": "2026-08-08T09:07:24+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
       "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
@@ -438,28 +427,6 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cathie Wood\u2019s Ark Invest buys $21 million in Block as stock drops 6%",
-      "summary": "<p>Block's stock fell 6.15% on Thursday as the company posted rising operating expenses in Q2, despite cutting 40% of its workforce in February.</p>",
-      "url": "https://www.theblock.co/news/business/2026-08-07-cathie-wood-ark-invest-buys-21-million-block-411075?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-07T04:03:44+00:00",
-      "coins": [],
-      "compound": -0.3674,
-      "label": "BEARISH",
-      "confidence": 0.3674
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
-      "published": "2026-08-08T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -495,15 +462,15 @@
       "confidence": 0.3182
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "published": "2026-08-07T21:13:21+00:00",
+      "source": "TheBlock",
+      "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
+      "summary": "<p>The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.</p>",
+      "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-10T07:00:00+00:00",
       "coins": [],
-      "compound": 0.2023,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.2023
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -559,6 +526,28 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
+      "published": "2026-08-10T07:52:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
+      "published": "2026-08-10T07:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
