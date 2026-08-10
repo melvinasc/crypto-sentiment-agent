@@ -1,47 +1,10 @@
 {
-  "generated_at": "2026-08-10T13:25:34.382885+00:00",
+  "generated_at": "2026-08-10T19:06:27.675290+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.5682,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP at a Crossroads as Senate Punts on Clarity Act",
-          "summary": "XRP is taking the Clarity Act news harder than the rest of the crypto market. Here's why.",
-          "url": "https://decrypt.co/375136/xrp-price-crossroads-senate-punts-clarity-act",
-          "published": "2026-08-07T17:36:41+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP is getting left behind in the crypto bounce even as ETFs keep attracting investor money",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/10/xrp-is-getting-left-behind-in-the-crypto-bounce-even-as-etfs-keep-attracting-investor-money",
-          "published": "2026-08-10T04:26:01+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
       "article_count": 1,
-      "avg_compound": -0.4588,
+      "avg_compound": -0.6705,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
@@ -49,16 +12,41 @@
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
-          "summary": "Microsoft said compromised websites are retrieving malicious instructions from the blockchain before tricking visitors into running them on Windows devices.",
-          "url": "https://decrypt.co/375133/hackers-use-bnb-chain-spread-malware-fake-captchas",
-          "published": "2026-08-07T16:36:59+00:00",
+          "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
+          "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
+          "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
+          "published": "2026-08-10T16:11:20+00:00",
           "coins": [
-            "BNB"
+            "XRP"
           ],
-          "compound": -0.4588,
+          "compound": -0.6705,
           "label": "BEARISH",
-          "confidence": 0.4588
+          "confidence": 0.6705
+        }
+      ],
+      "no_news": false
+    },
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": -0.5719,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+          "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
+          "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
+          "published": "2026-08-10T15:56:30+00:00",
+          "coins": [
+            "TRX",
+            "ETH"
+          ],
+          "compound": -0.5719,
+          "label": "BEARISH",
+          "confidence": 0.5719
         }
       ],
       "no_news": false
@@ -127,12 +115,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.1441,
+      "article_count": 7,
+      "avg_compound": 0.1554,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 4,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -149,56 +137,68 @@
           "confidence": 0.6822
         },
         {
-          "source": "TheBlock",
-          "title": "SharpLink CEO warns EIP-8363 could kill ETH\u2019s biggest advantage over Bitcoin",
-          "summary": "<p>The \"Tapered Issuance Burn\" proposal would phase in a rising burn of consensus rewards to limit the amount of ETH staked.</p>",
-          "url": "https://www.theblock.co/news/defi/2026-08-07-sharplink-ceo-warns-eip-8363-could-kill-eths-biggest-advantage-over-bitcoin-411186?utm_source=rss&utm_medium=rss",
-          "published": "2026-08-07T19:37:14+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
-        },
-        {
           "source": "Decrypt",
-          "title": "Morning Minute: Bitcoin ETFs See Biggest Inflows Since May",
-          "summary": "And the ETH inflows were even bigger, when factoring in market cap.",
-          "url": "https://decrypt.co/375194/morning-minute-bitcoin-etfs-see-biggest-inflows-since-may",
-          "published": "2026-08-10T12:32:19+00:00",
+          "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
+          "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
+          "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
+          "published": "2026-08-10T15:56:30+00:00",
           "coins": [
-            "BTC",
+            "TRX",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.5719,
+          "label": "BEARISH",
+          "confidence": 0.5719
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitmine adds 7,391 ether in a week, bringing total Ethereum holdings to 5.81 million ETH",
+          "summary": "<p>Bitmine bought 7,391 ether last week, lifting its total Ethereum treasury to 5.81 million ETH, worth roughly $11 billion.</p>",
+          "url": "https://www.theblock.co/news/business/2026-08-10-bitmine-adds-7391-eth-411265?utm_source=rss&utm_medium=rss",
+          "published": "2026-08-10T13:53:42+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4549,
+          "label": "BULLISH",
+          "confidence": 0.4549
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 30,
-      "avg_compound": 0.0129,
+      "article_count": 28,
+      "avg_compound": 0.0292,
       "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 13,
-      "neutral": 5,
+      "bullish": 13,
+      "bearish": 11,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senate-Whip-Barrasso-Becomes-Latest-Lawmaker-to-Support-Crypto-Clarity-Act-But-Time-May-Be-Running-Out.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/barrasso-supports-clarity-act\" rel=\"nofollow\">Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out\u00a0</a></p>\n<p>While Republicans are urging lawmakers to get the bill over the line, there isn't much time left before the Senate goes to recess. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/barrasso-supports-clarity-act\" rel=\"nofollow\">Senate Whip Barrasso Becomes Latest Lawmaker to Support Crypto Clarity Act, But Time May Be Running Out\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/barrasso-supports-clarity-act",
-          "published": "2026-08-06T19:43:15+00:00",
+          "title": "BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP-110-Fork-Stalls-at-Two-Blocks-as-Miners-Refuse-to-Follow.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow\" rel=\"nofollow\">BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow</a></p>\n<p>A controversial proposal \u2014 supported by the Knots community \u2014 aimed at clearing up spam on the Bitcoin network, attempted to fork on Saturday. It failed spectacularly, picking up only a fraction of the mining power of the main Bitcoin network.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow\" rel=\"nofollow\">BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow",
+          "published": "2026-08-10T15:12:36+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9194,
+          "compound": -0.9477,
+          "label": "BEARISH",
+          "confidence": 0.9477
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/TD-Cowen-Says-Clarity-Not-Likely-to-Pass.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a></p>\n<p>The long-awaited crypto market structure bill isn't dead \u2014 but chances it passes are slim, the bank said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing",
+          "published": "2026-08-10T17:28:33+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9046,
           "label": "BULLISH",
-          "confidence": 0.9194
+          "confidence": 0.9046
         },
         {
           "source": "Bitcoin Magazine",
@@ -212,24 +212,98 @@
           "compound": -0.7506,
           "label": "BEARISH",
           "confidence": 0.7506
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Senators-Cynthia-Lummis-and-Angela-Alsobrooks-Say-Bipartisan-Work-on-Clarity-Act-Continues-Despite-Delays.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act\" rel=\"nofollow\">Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays</a></p>\n<p>The long-awaited crypto Clarity Act bill has been stalled. Still, lawmakers from both parties say the fight isn't over. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act\" rel=\"nofollow\">Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/lummis-alsobrooks-work-on-clarity-act",
-          "published": "2026-08-07T20:42:33+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.7351,
-          "label": "BULLISH",
-          "confidence": 0.7351
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+          "published": "2026-08-10T15:02:14+00:00",
+          "coins": [
+            "ADA",
+            "DOT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Grayscale quietly drops Cardano, Polkadot and Hedera ETF plans",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/10/grayscale-quietly-drops-cardano-polkadot-and-hedera-etf-plans",
+          "published": "2026-08-10T15:02:14+00:00",
+          "coins": [
+            "ADA",
+            "DOT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana lending giant Jupiter now lets the same dollar earn twice",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice",
+          "published": "2026-08-10T14:30:00+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana gets its first Strategy STRC product through Solstice Finance",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/10/solstice-rolls-out-strategy-s-strc-preferred-stock-income-to-solana",
+          "published": "2026-08-10T13:26:36+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -239,7 +313,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "AVAX": {
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -260,16 +334,6 @@
       "no_news": true
     },
     "DOGE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -319,26 +383,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -362,17 +406,6 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-      "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-      "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
-      "published": "2026-08-08T14:01:05+00:00",
-      "coins": [],
-      "compound": 0.7717,
-      "label": "BULLISH",
-      "confidence": 0.7717
-    },
-    {
       "source": "TheBlock",
       "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
       "summary": "<p>The businessman, Guren \"Bobby\" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.</p>",
@@ -382,6 +415,17 @@
       "compound": 0.7712,
       "label": "BULLISH",
       "confidence": 0.7712
+    },
+    {
+      "source": "Decrypt",
+      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
+      "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
+      "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
+      "published": "2026-08-10T16:25:28+00:00",
+      "coins": [],
+      "compound": -0.6808,
+      "label": "BEARISH",
+      "confidence": 0.6808
     },
     {
       "source": "CoinDesk",
@@ -407,17 +451,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
-      "summary": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
-      "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
-      "published": "2026-08-08T16:33:02+00:00",
-      "coins": [],
-      "compound": 0.6486,
-      "label": "BULLISH",
-      "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
       "title": "Bybit Sues North Korea Over $1.5B Hack, Wins Order Freezing Assets",
       "summary": "The exchange says it has recovered $48.4 million and frozen $30.5 million more, a fraction of what the Lazarus Group took in February 2025.",
       "url": "https://decrypt.co/375180/bybit-sues-north-korea-over-1-5b-hack-wins-order-freezing-assets",
@@ -426,6 +459,17 @@
       "compound": 0.6124,
       "label": "BULLISH",
       "confidence": 0.6124
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
+      "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
+      "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
+      "published": "2026-08-10T15:03:07+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -439,48 +483,26 @@
       "confidence": 0.5859
     },
     {
-      "source": "Decrypt",
-      "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
-      "summary": "Truth Social's parent company is unwinding two major Crypto.com deals as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
-      "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
-      "published": "2026-08-07T21:05:59+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "Decrypt",
-      "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
-      "summary": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
-      "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
-      "published": "2026-08-07T20:28:33+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
       "source": "TheBlock",
-      "title": "CFTC cautions prediction markets over using American-style \u2018moneyline\u2019 betting odds: Bloomberg",
-      "summary": "<p>Some prediction market platforms received a warning from the CFTC to refrain using American-style gambling odds, according to Bloomberg. </p>",
-      "url": "https://www.theblock.co/news/regulation/2026-08-07-cftc-cautions-prediction-markets-american-style-moneyline-betting-odds-bloomberg-411178?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-07T18:39:26+00:00",
+      "title": "Crypto lost $110 million to hacks in July amid rising bug bounty activity: Immunefi",
+      "summary": "<p>Crypto lost roughly $110 million to hacks in July as Immunefi said its audit competitions outperformed tier-1 audits.</p>",
+      "url": "https://www.theblock.co/news/defi/2026-08-10-crypto-hacks-july-immunefi-411246?utm_source=rss&utm_medium=rss",
+      "published": "2026-08-10T14:00:00+00:00",
       "coins": [],
-      "compound": -0.34,
+      "compound": -0.5574,
       "label": "BEARISH",
-      "confidence": 0.34
+      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
-      "title": "Flock Wanted to Turn 350,000 Uber Drivers Into a Nationwide Plate-Scanning Fleet",
-      "summary": "A leaked Flock presentation shows the surveillance firm pitching a plan to pull license-plate data from rideshare and delivery drivers.",
-      "url": "https://decrypt.co/375149/flock-cameras-uber-drivers-nationwide-plate-scanning-fleet",
-      "published": "2026-08-07T19:18:41+00:00",
+      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
+      "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
+      "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
+      "published": "2026-08-10T18:31:06+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
     },
     {
       "source": "TheBlock",
@@ -494,22 +516,11 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-      "summary": "<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>",
-      "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-07T21:01:36+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "TheBlock",
-      "title": "US sanctions two more Iranian crypto exchanges under \u2018Economic Fury\u2019 campaign",
-      "summary": "<p>The U.S. Treasury Department traced more than $3 million in transfers between Shelbit and IRGC-linked wallets.</p>",
-      "url": "https://www.theblock.co/news/regulation/2026-08-07-us-sanctions-two-more-iranian-crypto-exchanges-under-economic-fury-campaign-411184?utm_source=rss&utm_medium=rss",
-      "published": "2026-08-07T19:49:33+00:00",
+      "source": "CoinDesk",
+      "title": "UK\u2019s FCA to regulate tokenized gold to preserve London\u2019s place as the top hub for bullion",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
+      "published": "2026-08-10T11:38:33+00:00",
       "coins": [],
       "compound": 0.2023,
       "label": "BULLISH",
@@ -539,28 +550,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
-      "published": "2026-08-09T18:30:00+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why the UK financial watchdog is drafting new rules for tokenized gold",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/10/why-the-uk-financial-watchdog-is-drafting-new-rules-for-tokenized-gold",
-      "published": "2026-08-10T11:38:33+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
       "title": "Inside stablecoin firm BVNK\u2019s journey to a $1.8B acquisition by Mastercard",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
@@ -576,6 +565,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
       "published": "2026-08-10T07:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
+      "summary": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
+      "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
+      "published": "2026-08-10T17:51:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
