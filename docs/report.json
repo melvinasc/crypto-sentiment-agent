@@ -1,52 +1,97 @@
 {
-  "generated_at": "2026-08-11T13:21:48.448764+00:00",
+  "generated_at": "2026-08-11T19:12:23.003563+00:00",
   "total_articles": 55,
   "coins": {
-    "TRX": {
+    "USDT": {
       "article_count": 1,
-      "avg_compound": -0.5719,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "avg_compound": 0.4767,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-          "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-          "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-          "published": "2026-08-10T15:56:30+00:00",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
           "coins": [
-            "TRX",
+            "BTC",
+            "ETH",
+            "USDT",
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.4083,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "USDT",
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "Decrypt",
+          "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+          "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
+          "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+          "published": "2026-08-10T21:48:22+00:00",
+          "coins": [
             "ETH"
           ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "XRP": {
       "article_count": 2,
-      "avg_compound": -0.2341,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
+      "avg_compound": 0.3395,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-          "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-          "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-          "published": "2026-08-10T16:11:20+00:00",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
           "coins": [
+            "BTC",
+            "ETH",
+            "USDT",
             "XRP"
           ],
-          "compound": -0.6705,
-          "label": "BEARISH",
-          "confidence": 0.6705
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         },
         {
           "source": "CoinDesk",
@@ -89,64 +134,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.0773,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-          "summary": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-          "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-          "published": "2026-08-10T15:56:30+00:00",
-          "coins": [
-            "TRX",
-            "ETH"
-          ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
-        },
-        {
-          "source": "Decrypt",
-          "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-          "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
-          "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-          "published": "2026-08-10T21:48:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "TheBlock",
-          "title": "Vitalik Buterin puts privacy and quantum resistance front and center in Ethereum\u2019s latest roadmap",
-          "summary": "Buterin previously said the upgrades included in Lean Ethereum will form the protocol's \u201cthird major iteration.\u201d",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-10-vitalik-buterin-privacy-quantum-resistance-front-and-center-ethereum-latest-roadmap-411298",
-          "published": "2026-08-10T16:24:44+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0123,
+      "article_count": 28,
+      "avg_compound": -0.0051,
       "overall": "NEUTRAL",
-      "bullish": 13,
-      "bearish": 10,
-      "neutral": 4,
+      "bullish": 11,
+      "bearish": 9,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -163,6 +157,19 @@
         },
         {
           "source": "Bitcoin Magazine",
+          "title": "Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2024/11/luke-dashjruasf.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor\" rel=\"nofollow\">Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure\u00a0</a></p>\n<p>Bitcoin developer Luke Dashjr, who backed the failed Bitcoin Improvement Proposal (BIP)-110, has been removed from his position as an editor of such proposals for the development of the Bitcoin network.&#160; The decision, voted on by other Bitcoin developers, was posted on the BIP Github Sunday. The BIP Github page, separate from Bitcoin Core&#8217;s repository, [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor\" rel=\"nofollow\">Luke Dashjr Removed as Bitcoin BIP Editor Following (BIP)-110 Fork Failure\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor",
+          "published": "2026-08-11T14:57:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9186,
+          "label": "BEARISH",
+          "confidence": 0.9186
+        },
+        {
+          "source": "Bitcoin Magazine",
           "title": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/TD-Cowen-Says-Clarity-Not-Likely-to-Pass.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a></p>\n<p>The long-awaited crypto market structure bill isn't dead \u2014 but chances it passes are slim, the bank said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing",
@@ -173,19 +180,6 @@
           "compound": 0.9046,
           "label": "BULLISH",
           "confidence": 0.9046
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BTCPay-Server-Says-AI-Is-Tilting-the-Field-Toward-Attackers-as-It-Responds-to-Wallet-Theft.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty\" rel=\"nofollow\">BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit</a></p>\n<p>The open-source payment processor is funding a recovery bounty worth 10% of any funds returned, capped at 3 Bitcoins, and says it will prioritize security patches over new features indefinitely.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty\" rel=\"nofollow\">BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
-          "published": "2026-08-10T20:26:55+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8625,
-          "label": "BEARISH",
-          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -300,6 +294,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "TRX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -311,16 +315,6 @@
       "no_news": true
     },
     "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -345,25 +339,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
-      "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
-      "url": "https://decrypt.co/375226/web3-is-building-financial-freedom-only-for-people-who-can-afford-mistakes",
-      "published": "2026-08-10T16:25:28+00:00",
+      "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
+      "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block\u2014here's what a forced rollback would undo.",
+      "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
+      "published": "2026-08-11T17:02:36+00:00",
       "coins": [],
-      "compound": -0.6808,
+      "compound": -0.8957,
       "label": "BEARISH",
-      "confidence": 0.6808
+      "confidence": 0.8957
     },
     {
-      "source": "CoinDesk",
-      "title": "Ravencoin could roll back four days of transactions after critical block flaw",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw",
-      "published": "2026-08-11T11:24:56+00:00",
+      "source": "TheBlock",
+      "title": "eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth",
+      "summary": "Net contribution rose 9% year-over-year to $229 million, driven mainly by stronger equities trading, according to a statement.",
+      "url": "https://www.theblock.co/news/business/2026-08-11-etoro-to-buy-tradezero-for-231-million-equities-drive-q2-growth-411417",
+      "published": "2026-08-11T14:19:52+00:00",
       "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
+      "compound": 0.7184,
+      "label": "BULLISH",
+      "confidence": 0.7184
     },
     {
       "source": "TheBlock",
@@ -378,24 +372,13 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Says Its Next AI Model Astra May Be Too Dangerous, Pauses Development",
-      "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
-      "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
-      "published": "2026-08-10T15:03:07+00:00",
+      "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
+      "summary": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
+      "url": "https://decrypt.co/375315/openais-only-dedicated-ethicist-has-left-with-no-replacement-ft",
+      "published": "2026-08-11T15:05:35+00:00",
       "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
-      "published": "2026-08-11T09:37:36+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
+      "compound": 0.5574,
+      "label": "BULLISH",
       "confidence": 0.5574
     },
     {
@@ -410,15 +393,26 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "Wall Street Is Starting to Treat Data Center Backlash as a Credit Risk",
-      "summary": "Banks financing the AI infrastructure boom are now weighing local public opposition alongside permits and costs.",
-      "url": "https://decrypt.co/375237/wall-street-data-centers-backlash-credit-risk",
-      "published": "2026-08-10T18:31:06+00:00",
+      "source": "TheBlock",
+      "title": "What\u2019s next for the Clarity Act as September brings a tough road ahead",
+      "summary": "The outlook for crypto legislation is growing increasingly bleak, following Sen. John Thune's move to punt the initial vote to next month.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-11-whats-next-for-clarity-act-september-brings-tough-road-ahead-411465",
+      "published": "2026-08-11T18:35:00+00:00",
       "coins": [],
-      "compound": 0.4939,
+      "compound": 0.4404,
       "label": "BULLISH",
-      "confidence": 0.4939
+      "confidence": 0.4404
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC could propose \u2018pivotal\u2019 crypto rules that may start with token safe harbor, TD Cowen says",
+      "summary": "The SEC\u2019s crypto regulation meeting on Friday could mark the start of a \u201cpivotal\u201d rulemaking process, according to TD Cowen.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-11-sec-crypto-rules-token-safe-harbor-td-cowen-411455",
+      "published": "2026-08-11T17:14:08+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -443,37 +437,26 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "Broadridge\u2019s Distributed Ledger Repo platform processes $8 trillion in July volume",
-      "summary": "Broadridge also offers services enabling onchain proxy voting and governance and managing digital asset infrastructure.",
-      "url": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365",
-      "published": "2026-08-11T06:31:22+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "CoinDesk",
-      "title": "UK lawmakers question lenders over lack of banking for the country\u2019s crypto firms",
+      "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/11/uk-lawmakers-question-lenders-over-lack-of-banking-for-the-country-s-crypto-firms",
-      "published": "2026-08-11T10:06:39+00:00",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
+      "published": "2026-08-11T14:40:15+00:00",
       "coins": [],
-      "compound": -0.3182,
+      "compound": -0.2263,
       "label": "BEARISH",
-      "confidence": 0.3182
+      "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
-      "summary": "The deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.",
-      "url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358",
-      "published": "2026-08-11T02:22:30+00:00",
+      "source": "Decrypt",
+      "title": "Trump Media\u2019s Crypto Bet Fuels Massive $238M Quarterly Loss",
+      "summary": "Falling digital asset values battered the Truth Social parent\u2019s balance sheet, contributing to about $361 million in crypto-related losses during the first half of 2026.",
+      "url": "https://decrypt.co/375359/trump-media-crypto-bet-238m-quarterly-loss",
+      "published": "2026-08-11T18:25:14+00:00",
       "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
@@ -485,6 +468,39 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
+      "published": "2026-08-11T17:12:11+00:00",
+      "coins": [],
+      "compound": 0.2247,
+      "label": "BULLISH",
+      "confidence": 0.2247
+    },
+    {
+      "source": "Decrypt",
+      "title": "eToro Agrees to Acquire TradeZero in $231M US Expansion, Stock Tanks 10%",
+      "summary": "The crypto-friendly trading platform is betting on US equities as regulators keep squeezing its token menu.",
+      "url": "https://decrypt.co/375324/etoro-acquire-tradezero-us-expansion-stock-tanks",
+      "published": "2026-08-11T16:45:30+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agent Hacks a Gym\u2014And the Tech World Wonders What's Next",
+      "summary": "The newly reported incident is raising fresh concerns about autonomous AI after models from OpenAI, Anthropic, and Meta exploited websites and online services.",
+      "url": "https://decrypt.co/375358/ai-agent-hacks-gym-membership-tech-world-reacts",
+      "published": "2026-08-11T18:56:03+00:00",
+      "coins": [],
+      "compound": -0.1779,
+      "label": "BEARISH",
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -510,6 +526,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Brazil's largest lender Ita\u00fa is stepping deeper into the tokenization",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
+      "published": "2026-08-11T19:06:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
+      "published": "2026-08-11T14:39:12+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Pok\u00e9mon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
@@ -531,22 +569,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Nvidia\u2019s $500 billion AI infrastructure push leaves crypto compute further behind",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/11/nvidia-wants-to-turn-its-ai-chips-into-an-investable-asset-class",
-      "published": "2026-08-11T10:10:36+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Brazil's $319B Crypto Market Faces October Licensing Deadline: CertiK",
-      "summary": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
-      "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
-      "published": "2026-08-10T17:51:04+00:00",
+      "source": "TheBlock",
+      "title": "ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote",
+      "summary": "ENS tokenholders voted to transform the ENS Foundation into a fully operational organization with a five-member board and financial power.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464",
+      "published": "2026-08-11T18:49:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -569,17 +596,6 @@
       "summary": "FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.",
       "url": "https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370",
       "published": "2026-08-11T07:06:33+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Zama brings its blockchain-privacy token to Revolut\u2019s 70 million users",
-      "summary": "Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protocol to the fintech's 70 million-plus customers.",
-      "url": "https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290",
-      "published": "2026-08-11T07:05:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
