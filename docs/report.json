@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-08-11T02:16:28.292852+00:00",
+  "generated_at": "2026-08-11T07:19:13.378290+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.6705,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
-          "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
-          "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
-          "published": "2026-08-10T16:11:20+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.6705,
-          "label": "BEARISH",
-          "confidence": 0.6705
-        }
-      ],
-      "no_news": false
-    },
     "TRX": {
       "article_count": 1,
       "avg_compound": -0.5719,
@@ -51,12 +27,51 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.5362,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Price Weakens as Crypto Market Awaits Clarity",
+          "summary": "XRP is trading just above $1.00, still pinned under a death cross, as the legislative tailwind that lifted it in July loses steam.",
+          "url": "https://decrypt.co/375214/xrp-price-weakens-crypto-market-awaits-clarity",
+          "published": "2026-08-10T16:11:20+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.6705,
+          "label": "BEARISH",
+          "confidence": 0.6705
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+          "published": "2026-08-11T04:50:23+00:00",
+          "coins": [
+            "XRP",
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 7,
-      "avg_compound": 0.1065,
-      "overall": "BULLISH",
+      "article_count": 8,
+      "avg_compound": 0.0429,
+      "overall": "NEUTRAL",
       "bullish": 4,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 2,
       "top_articles": [
         {
@@ -87,28 +102,30 @@
           "confidence": 0.4549
         },
         {
-          "source": "Decrypt",
-          "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-          "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
-          "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-          "published": "2026-08-10T21:48:22+00:00",
+          "source": "CoinDesk",
+          "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+          "published": "2026-08-11T04:50:23+00:00",
           "coins": [
-            "ETH"
+            "XRP",
+            "ETH",
+            "BTC"
           ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 30,
-      "avg_compound": 0.0395,
+      "article_count": 29,
+      "avg_compound": 0.039,
       "overall": "NEUTRAL",
       "bullish": 15,
-      "bearish": 9,
-      "neutral": 6,
+      "bearish": 10,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -376,17 +393,6 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
-      "summary": "The businessman, Guren \"Bobby\" Zhou, has not been charged, though British officials told the Times that the investigation remained active as of late July.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-09-world-liberty-received-100-million-from-businessman-investigated-for-money-laundering-nyt-411221",
-      "published": "2026-08-09T18:51:32+00:00",
-      "coins": [],
-      "compound": 0.7712,
-      "label": "BULLISH",
-      "confidence": 0.7712
-    },
-    {
       "source": "Decrypt",
       "title": "Web3 Is Building Financial Freedom Only for People Who Can Afford Mistakes",
       "summary": "When the same mistake recurs across many users, it stops being client error and becomes product data, argues ChangeNOW's Pauline Shangett.",
@@ -396,6 +402,17 @@
       "compound": -0.6808,
       "label": "BEARISH",
       "confidence": 0.6808
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+      "published": "2026-08-11T04:07:48+00:00",
+      "coins": [],
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
     },
     {
       "source": "CoinDesk",
@@ -414,17 +431,6 @@
       "summary": "OpenAI says its next major model may be dangerous enough to write its own cyberweapons, and it's pulling back until the safeguards catch up.",
       "url": "https://decrypt.co/375210/openai-pause-astra-ai-model-critical-cyber-capabilities",
       "published": "2026-08-10T15:03:07+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "TheBlock",
-      "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
-      "summary": "The new rule will take effect on Jan. 1, 2027, and will cover cryptocurrencies including fiat-backed stablecoins.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219",
-      "published": "2026-08-09T17:03:38+00:00",
       "coins": [],
       "compound": -0.5859,
       "label": "BEARISH",
@@ -465,14 +471,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "Robinhood brings crypto trading to main UK app through Bitstamp",
-      "summary": "The launch adds crypto alongside stocks, ISAs, options, and futures in the UK as Robinhood continues to expand its broader crypto ecosystem.",
-      "url": "https://www.theblock.co/news/business/2026-08-10-robinhood-uk-crypto-trading-bitstamp-411140",
-      "published": "2026-08-10T07:00:00+00:00",
+      "title": "Broadridge\u2019s Distributed Ledger Repo platform processes $8 trillion in July volume",
+      "summary": "Broadridge also offers services enabling onchain proxy voting and governance and managing digital asset infrastructure.",
+      "url": "https://www.theblock.co/news/business/2026-08-11-broadridge-8-trillion-july-411365",
+      "published": "2026-08-11T06:31:22+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.3612
+    },
+    {
+      "source": "TheBlock",
+      "title": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
+      "summary": "The deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.",
+      "url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358",
+      "published": "2026-08-11T02:22:30+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -498,17 +515,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. CPI inflation, Securitize, Gemini among earnings reports: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/10/u-s-cpi-inflation-securitize-gemini-among-earnings-reports-crypto-week-ahead",
-      "published": "2026-08-10T08:57:04+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "CoinDesk",
       "title": "Bitwise's Rasmussen: Circle is mispriced as stablecoins head toward trillions",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-news/2026/08/10/bitwise-s-rasmussen-circle-is-mispriced-as-stablecoins-head-toward-trillions",
@@ -524,6 +530,28 @@
       "summary": "A new report maps Brazil's push to bring its vast crypto market under formal supervision by October 30.",
       "url": "https://decrypt.co/375249/brazils-319b-crypto-market-faces-october-licensing-deadline-certik",
       "published": "2026-08-10T17:51:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets",
+      "summary": "FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.",
+      "url": "https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370",
+      "published": "2026-08-11T07:06:33+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Zama brings its blockchain-privacy token to Revolut\u2019s 70 million users",
+      "summary": "Zama listed its ZAMA token on Revolut across the EEA, opening the privacy protocol to the fintech's 70 million-plus customers.",
+      "url": "https://www.theblock.co/news/markets/2026-08-11-zama-brings-blockchain-privacy-token-to-revoluts-70-million-users-411290",
+      "published": "2026-08-11T07:05:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
