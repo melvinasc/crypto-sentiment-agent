@@ -1,39 +1,12 @@
 {
-  "generated_at": "2026-08-12T07:42:59.907084+00:00",
+  "generated_at": "2026-08-12T13:26:30.494560+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
-          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
-          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-          "published": "2026-08-11T17:26:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "USDT",
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.3717,
+      "article_count": 1,
+      "avg_compound": -0.8462,
       "overall": "BEARISH",
-      "bullish": 1,
+      "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
@@ -49,24 +22,11 @@
           "compound": -0.8462,
           "label": "BEARISH",
           "confidence": 0.8462
-        },
-        {
-          "source": "CoinDesk",
-          "title": "MoneyGram expands on Solana with global crypto-to-cash service",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-          "published": "2026-08-11T12:02:22+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
-    "ETH": {
+    "XRP": {
       "article_count": 2,
       "avg_compound": 0.2384,
       "overall": "BULLISH",
@@ -92,13 +52,12 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+          "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-          "published": "2026-08-12T05:26:55+00:00",
+          "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
+          "published": "2026-08-12T11:15:00+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -107,27 +66,14 @@
       ],
       "no_news": false
     },
-    "XRP": {
+    "USDT": {
       "article_count": 2,
-      "avg_compound": -0.102,
-      "overall": "BEARISH",
+      "avg_compound": 0.0475,
+      "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
-          "published": "2026-08-12T04:33:25+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        },
         {
           "source": "Decrypt",
           "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
@@ -143,17 +89,32 @@
           "compound": 0.4767,
           "label": "BULLISH",
           "confidence": 0.4767
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+          "published": "2026-08-12T11:19:32+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "USDT"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.024,
+      "article_count": 23,
+      "avg_compound": -0.0463,
       "overall": "NEUTRAL",
-      "bullish": 10,
+      "bullish": 9,
       "bearish": 9,
-      "neutral": 6,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -197,50 +158,53 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.0237,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-          "published": "2026-08-12T04:53:46+00:00",
+          "source": "Decrypt",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
           "coins": [
-            "DOGE",
-            "BNB",
-            "BTC"
+            "BTC",
+            "ETH",
+            "USDT",
+            "XRP"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
         {
           "source": "CoinDesk",
-          "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+          "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-          "published": "2026-08-12T04:53:46+00:00",
+          "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
+          "published": "2026-08-12T11:19:32+00:00",
           "coins": [
-            "DOGE",
-            "BNB",
-            "BTC"
+            "BTC",
+            "ETH",
+            "USDT"
+          ],
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Fidelity moves to add staking, quarterly payouts to near $900 million ether ETF",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/12/fidelity-moves-to-add-staking-quarterly-payouts-to-near-usd900-million-ether-etf",
+          "published": "2026-08-12T09:30:20+00:00",
+          "coins": [
+            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -269,7 +233,27 @@
       "top_articles": [],
       "no_news": true
     },
+    "BNB": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -373,17 +357,6 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "North Korea Now Leans on Crime Networks to Launder Stolen Crypto: RUSI",
-      "summary": "Once its proceeds mix with scam money, exchanges struggle to separate proliferation finance from ordinary laundering, the paper warns.",
-      "url": "https://decrypt.co/375305/north-korea-now-leans-on-crime-networks-to-launder-stolen-crypto-rusi",
-      "published": "2026-08-11T12:02:42+00:00",
-      "coins": [],
-      "compound": -0.9201,
-      "label": "BEARISH",
-      "confidence": 0.9201
-    },
-    {
-      "source": "Decrypt",
       "title": "Ravencoin Crashes 20% as Critical Exploit Threatens to Rollback Network",
       "summary": "Two mining pools controlling most of Ravencoin's hash power are already rebuilding the chain from before Friday's first bad block\u2014here's what a forced rollback would undo.",
       "url": "https://decrypt.co/375330/ravencoin-crashes-critical-exploit-threatens-rollback",
@@ -392,6 +365,17 @@
       "compound": -0.8957,
       "label": "BEARISH",
       "confidence": 0.8957
+    },
+    {
+      "source": "Decrypt",
+      "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
+      "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+      "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
+      "published": "2026-08-12T10:38:06+00:00",
+      "coins": [],
+      "compound": -0.7783,
+      "label": "BEARISH",
+      "confidence": 0.7783
     },
     {
       "source": "TheBlock",
@@ -406,17 +390,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth",
-      "summary": "Net contribution rose 9% year-over-year to $229 million, driven mainly by stronger equities trading, according to a statement.",
-      "url": "https://www.theblock.co/news/business/2026-08-11-etoro-to-buy-tradezero-for-231-million-equities-drive-q2-growth-411417",
-      "published": "2026-08-11T14:19:52+00:00",
-      "coins": [],
-      "compound": 0.7184,
-      "label": "BULLISH",
-      "confidence": 0.7184
-    },
-    {
-      "source": "TheBlock",
       "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
       "summary": "The CFTC flexed its emergency authority and ordered Kalshi to keep operating after the platform was sued last month in New York.",
       "url": "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
@@ -425,6 +398,28 @@
       "compound": -0.6705,
       "label": "BEARISH",
       "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
+      "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
+      "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
+      "published": "2026-08-12T09:22:12+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "TheBlock",
+      "title": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
+      "summary": "Australia's ASIC took down Yepbit websites and denied the platform's false claims that the regulator had frozen investor funds.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538",
+      "published": "2026-08-12T08:26:21+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -438,6 +433,17 @@
       "confidence": 0.5574
     },
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+      "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
+      "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+      "published": "2026-08-12T12:12:40+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
       "source": "CoinDesk",
       "title": "Harmony\u2019s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
       "summary": "",
@@ -446,6 +452,17 @@
       "coins": [],
       "compound": -0.4767,
       "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
+      "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
+      "summary": "Standard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.",
+      "url": "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
+      "published": "2026-08-12T12:16:29+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
       "confidence": 0.4767
     },
     {
@@ -515,22 +532,22 @@
       "confidence": 0.34
     },
     {
-      "source": "CoinDesk",
-      "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
-      "published": "2026-08-11T21:28:59+00:00",
+      "source": "Decrypt",
+      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
+      "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
+      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+      "published": "2026-08-12T12:06:36+00:00",
       "coins": [],
-      "compound": -0.2263,
+      "compound": -0.25,
       "label": "BEARISH",
-      "confidence": 0.2263
+      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
-      "title": "If crypto goes back to the congressional drawing board, 3 Democrat women loom large",
+      "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large",
-      "published": "2026-08-11T14:40:15+00:00",
+      "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
+      "published": "2026-08-12T11:44:10+00:00",
       "coins": [],
       "compound": -0.2263,
       "label": "BEARISH",
@@ -548,26 +565,15 @@
       "confidence": 0.2263
     },
     {
-      "source": "Decrypt",
-      "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
-      "summary": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
-      "url": "https://decrypt.co/375301/coinbase-opens-uk-derivatives-trading-with-up-to-50x-leverage",
-      "published": "2026-08-11T09:58:44+00:00",
+      "source": "TheBlock",
+      "title": "FlightAware drops lawsuit against Kalshi one day after filing",
+      "summary": "The flight tracker previously claimed that Kalshi improperly used its data and trademark to run prediction markets on flight cancellations.",
+      "url": "https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534",
+      "published": "2026-08-12T07:50:34+00:00",
       "coins": [],
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EToro reports second quarter crypto loss even as total profit beats estimates",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025",
-      "published": "2026-08-11T17:12:11+00:00",
-      "coins": [],
-      "compound": 0.2247,
-      "label": "BULLISH",
-      "confidence": 0.2247
     },
     {
       "source": "Decrypt",
@@ -604,10 +610,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
+      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/11/australian-watchdog-suspends-cryptolink-forcing-96-atms-offline",
-      "published": "2026-08-11T11:45:47+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
+      "published": "2026-08-12T09:41:52+00:00",
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
@@ -615,43 +621,43 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
+      "published": "2026-08-12T13:13:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "America doesn\u2019t need a second-class payments system",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
+      "published": "2026-08-12T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
+      "published": "2026-08-12T10:17:05+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
       "published": "2026-08-12T06:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazil's largest lender Ita\u00fa is stepping deeper into the tokenization",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/brazil-s-largest-lender-itau-is-stepping-deeper-into-the-tokenization",
-      "published": "2026-08-11T19:06:23+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto-friendly bank Erebor in talks to raise $1.5 billion at $9.5 billion valuation: FT",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/crypto-friendly-bank-erebor-in-talks-to-raise-usd1-5-billion-at-usd9-5-billion-valuation-ft",
-      "published": "2026-08-11T14:39:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Pok\u00e9mon cards are becoming multibillion dollar market. Crypto wants to fix how they trade",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade",
-      "published": "2026-08-11T13:06:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
