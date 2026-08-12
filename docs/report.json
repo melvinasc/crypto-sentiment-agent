@@ -1,7 +1,34 @@
 {
-  "generated_at": "2026-08-11T19:12:23.003563+00:00",
+  "generated_at": "2026-08-12T02:32:04.754013+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.4767,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "USDT",
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 1,
       "avg_compound": 0.4767,
@@ -29,42 +56,39 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "SOL": {
       "article_count": 2,
-      "avg_compound": 0.4083,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
+      "avg_compound": -0.3717,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
-          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
-          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-          "published": "2026-08-11T17:26:54+00:00",
+          "title": "The Bull and Bear Case for Solana\u2019s Next Price Move",
+          "summary": "Solana is holding its 50-day average after a pullback from August's $90 spike, but the death cross above it keeps pressure pointed down.",
+          "url": "https://decrypt.co/375364/solana-price-death-cross-bull-bear-case-next-move",
+          "published": "2026-08-11T20:46:04+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "USDT",
-            "XRP"
+            "SOL"
           ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
+          "compound": -0.8462,
+          "label": "BEARISH",
+          "confidence": 0.8462
         },
         {
-          "source": "Decrypt",
-          "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
-          "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
-          "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
-          "published": "2026-08-10T21:48:22+00:00",
+          "source": "CoinDesk",
+          "title": "MoneyGram expands on Solana with global crypto-to-cash service",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
+          "published": "2026-08-11T12:02:22+00:00",
           "coins": [
-            "ETH"
+            "SOL"
           ],
-          "compound": 0.34,
+          "compound": 0.1027,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -110,50 +134,26 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.1027,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "MoneyGram expands on Solana with global crypto-to-cash service",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service",
-          "published": "2026-08-11T12:02:22+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 28,
-      "avg_compound": -0.0051,
+      "avg_compound": -0.0148,
       "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 9,
-      "neutral": 8,
+      "bullish": 12,
+      "bearish": 11,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BIP-110-Fork-Stalls-at-Two-Blocks-as-Miners-Refuse-to-Follow.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow\" rel=\"nofollow\">BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow</a></p>\n<p>A controversial proposal \u2014 supported by the Knots community \u2014 aimed at clearing up spam on the Bitcoin network, attempted to fork on Saturday. It failed spectacularly, picking up only a fraction of the mining power of the main Bitcoin network.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow\" rel=\"nofollow\">BIP-110 Fork Stalls at Two Blocks as Bitcoin Miners Refuse to Follow</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bip110-stalls-bitcoin-miners-do-not-follow",
-          "published": "2026-08-10T15:12:36+00:00",
+          "title": "CFTC Charges Goliath Ventures With $400M Bitcoin Fraud",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/CFTC-Cracks-Open-U.S.-Market-for-Bitcoin-and-Crypto-Perpetual-Futures.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud\" rel=\"nofollow\">CFTC Charges Goliath Ventures With $400M Bitcoin Fraud\u00a0</a></p>\n<p>Regulator says roughly 1,600 customers lost money in Bitcoin and crypto operation whose CEO has already pleaded guilty</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud\" rel=\"nofollow\">CFTC Charges Goliath Ventures With $400M Bitcoin Fraud\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud",
+          "published": "2026-08-11T20:14:24+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9477,
+          "compound": -0.9678,
           "label": "BEARISH",
-          "confidence": 0.9477
+          "confidence": 0.9678
         },
         {
           "source": "Bitcoin Magazine",
@@ -170,16 +170,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/TD-Cowen-Says-Clarity-Not-Likely-to-Pass.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a></p>\n<p>The long-awaited crypto market structure bill isn't dead \u2014 but chances it passes are slim, the bank said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing\" rel=\"nofollow\">TD Cowen Gives Crypto Clarity Act a 25% Chance of Passing This Fall</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/td-cowen-gives-clarity-act-25-of-passing",
-          "published": "2026-08-10T17:28:33+00:00",
+          "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BTCPay-Server-Says-AI-Is-Tilting-the-Field-Toward-Attackers-as-It-Responds-to-Wallet-Theft.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty\" rel=\"nofollow\">BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit</a></p>\n<p>The open-source payment processor is funding a recovery bounty worth 10% of any funds returned, capped at 3 Bitcoins, and says it will prioritize security patches over new features indefinitely.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty\" rel=\"nofollow\">BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/btcpay-server-offers-bitcoin-bounty",
+          "published": "2026-08-10T20:26:55+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9046,
-          "label": "BULLISH",
-          "confidence": 0.9046
+          "compound": -0.8625,
+          "label": "BEARISH",
+          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -350,6 +350,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
+      "summary": "There is a clear divergence for Robinhood Chain in the number of transactions and TVL growing against a stagnating user base.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-11-robinhood-chain-hits-11-6-million-daily-transactions-as-usde-fuels-tvl-growth-411310",
+      "published": "2026-08-11T22:26:02+00:00",
+      "coins": [],
+      "compound": 0.7351,
+      "label": "BULLISH",
+      "confidence": 0.7351
+    },
+    {
+      "source": "TheBlock",
       "title": "eToro agrees to buy TradeZero for up to $231 million as equities drive Q2 growth",
       "summary": "Net contribution rose 9% year-over-year to $229 million, driven mainly by stronger equities trading, according to a statement.",
       "url": "https://www.theblock.co/news/business/2026-08-11-etoro-to-buy-tradezero-for-231-million-equities-drive-q2-growth-411417",
@@ -358,6 +369,17 @@
       "compound": 0.7184,
       "label": "BULLISH",
       "confidence": 0.7184
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
+      "summary": "The CFTC flexed its emergency authority and ordered Kalshi to keep operating after the platform was sued last month in New York.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-11-cftc-flexes-emergency-authority-kalshi-operating-amid-new-york-lawsuit-411507",
+      "published": "2026-08-11T22:00:30+00:00",
+      "coins": [],
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
     },
     {
       "source": "TheBlock",
@@ -383,14 +405,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-      "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
-      "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
-      "published": "2026-08-10T19:56:50+00:00",
+      "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
+      "summary": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
+      "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
+      "published": "2026-08-11T20:10:00+00:00",
       "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "TheBlock",
@@ -415,6 +437,17 @@
       "confidence": 0.4404
     },
     {
+      "source": "Decrypt",
+      "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
+      "summary": "The former operating chief is starting a new venture following several departures across the ChatGPT developer\u2019s leadership and safety teams.",
+      "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
+      "published": "2026-08-11T22:04:06+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
       "source": "CoinDesk",
       "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
       "summary": "",
@@ -426,15 +459,15 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "\u2018One of the single biggest barriers to growth\u2019: UK lawmakers press banks over crypto access ahead of new FCA regime",
-      "summary": "UK lawmakers have asked banks to explain how the new FCA crypto regime may change their policies toward digital asset firms.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-11-uk-crypto-banking-access-411389",
-      "published": "2026-08-11T11:04:38+00:00",
+      "source": "CoinDesk",
+      "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/11/cftc-orders-kalshi-to-continue-offering-prediction-markets-in-new-york-after-state-lawsuit",
+      "published": "2026-08-11T21:28:59+00:00",
       "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -503,6 +536,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "TheBlock",
+      "title": "Florida man charged by CFTC over $397 million crypto Ponzi scheme",
+      "summary": "A Florida man is facing fresh charges from the CFTC after the agency says he misappropriated $48 million dollars of customers' money.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-11-florida-man-charged-by-cftc-over-397-million-crypto-ponzi-scheme-411491",
+      "published": "2026-08-11T20:14:55+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
       "source": "CoinDesk",
       "title": "Australian watchdog suspends Cryptolink, forcing 96 ATMs offline",
       "summary": "",
@@ -512,17 +556,6 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK Lawmakers Write to Bank CEOs Over Crypto Account Refusals",
-      "summary": "The APPG has asked banks to explain their crypto policies, warning that access could be one of the single biggest barriers to growth.",
-      "url": "https://decrypt.co/375294/uk-lawmakers-write-to-bank-ceos-over-crypto-account-refusals",
-      "published": "2026-08-11T08:41:17+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
     },
     {
       "source": "CoinDesk",
@@ -558,44 +591,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "FlightAware sues Kalshi over bets on flight cancellations",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/11/kalshi-faces-new-lawsuit-flightaware-accuses-it-of-using-its-data-for-flight-cancellation-betting",
-      "published": "2026-08-11T10:34:17+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "ENS Foundation takes administrative control of $65 million Endowment following tokenholder vote",
       "summary": "ENS tokenholders voted to transform the ENS Foundation into a fully operational organization with a five-member board and financial power.",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-11-ens-foundation-administrative-control-65-million-endowment-tokenholder-vote-411464",
       "published": "2026-08-11T18:49:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase rolls out derivatives for UK professional investors",
-      "summary": "Coinbase launches perpetuals, futures and options to UK professional clients after obtaining its MiFID license.",
-      "url": "https://www.theblock.co/news/business/2026-08-11-coinbase-expands-uk-derivatives-411380",
-      "published": "2026-08-11T08:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "FlightAware sues Kalshi over alleged unauthorized data use for flight cancellation markets",
-      "summary": "FlightAware is also seeking a temporary restraining order to bar Kalshi from activities involving the flight-tracking site.",
-      "url": "https://www.theblock.co/news/business/2026-08-11-flightaware-sues-kalshi-411370",
-      "published": "2026-08-11T07:06:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
