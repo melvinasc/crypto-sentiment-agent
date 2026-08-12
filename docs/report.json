@@ -1,34 +1,7 @@
 {
-  "generated_at": "2026-08-12T02:32:04.754013+00:00",
+  "generated_at": "2026-08-12T07:42:59.907084+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
-          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
-          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
-          "published": "2026-08-11T17:26:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "USDT",
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
       "article_count": 1,
       "avg_compound": 0.4767,
@@ -93,13 +66,13 @@
       ],
       "no_news": false
     },
-    "XRP": {
+    "ETH": {
       "article_count": 2,
-      "avg_compound": 0.3395,
+      "avg_compound": 0.2384,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -119,28 +92,68 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Bitcoin stuck below $65,000 as Hormuz hopes evaporate, XRP close to dropping below $1",
+          "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/11/bitcoin-stuck-below-usd65-000-as-the-strait-of-hormuz-stalemate-and-strategy-s-selling-squeeze-the-market",
-          "published": "2026-08-11T10:48:08+00:00",
+          "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+          "published": "2026-08-12T05:26:55+00:00",
           "coins": [
             "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.102,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP bridge drained for $200,000 after software mistook fake deposits for real ones",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/12/xrp-bridge-drained-for-usd200-000-after-software-mistook-fake-deposits-for-real-ones",
+          "published": "2026-08-12T04:33:25+00:00",
+          "coins": [
             "XRP"
           ],
-          "compound": 0.2023,
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
+        },
+        {
+          "source": "Decrypt",
+          "title": "Russia Approves Trading of Bitcoin, Ethereum and USDT\u2014But No XRP",
+          "summary": "Bitcoin, Ethereum and Tether clear the central bank's liquidity bar\u2014everything else, including XRP, stays off-limits for retail.",
+          "url": "https://decrypt.co/375345/russia-approves-trading-bitcoin-ethereum-usdt-no-xrp",
+          "published": "2026-08-11T17:26:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "USDT",
+            "XRP"
+          ],
+          "compound": 0.4767,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.4767
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.0148,
+      "article_count": 25,
+      "avg_compound": -0.024,
       "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 11,
-      "neutral": 5,
+      "bullish": 10,
+      "bearish": 9,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -184,6 +197,58 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+          "published": "2026-08-12T04:53:46+00:00",
+          "coins": [
+            "DOGE",
+            "BNB",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+          "published": "2026-08-12T04:53:46+00:00",
+          "coins": [
+            "DOGE",
+            "BNB",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -204,27 +269,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "BNB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -382,17 +427,6 @@
       "confidence": 0.6705
     },
     {
-      "source": "TheBlock",
-      "title": "Grvt eyes $100 million USDY position in Ondo Finance tie-up",
-      "summary": "USDY is a tokenized secured note backed primarily by short-term U.S. Treasurys, Treasury-based ETF shares, and bank deposits.",
-      "url": "https://www.theblock.co/news/defi/2026-08-11-grvt-100-million-usdy-position-ondo-finance-411393",
-      "published": "2026-08-11T13:05:02+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI's Only Dedicated Ethicist Has Left With No Replacement: FT",
       "summary": "Chlo\u00e9 Bakalar joined from Meta last August and departed in July without any announcement, one of several safety exits in recent weeks.",
@@ -402,6 +436,17 @@
       "compound": 0.5574,
       "label": "BULLISH",
       "confidence": 0.5574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Harmony\u2019s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "published": "2026-08-12T05:18:40+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
     },
     {
       "source": "Decrypt",
@@ -448,15 +493,26 @@
       "confidence": 0.4215
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase picks Abu Dhabi for its global tokenized asset push",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/11/coinbase-picks-abu-dhabi-for-its-global-tokenized-asset-push",
-      "published": "2026-08-11T11:23:25+00:00",
+      "source": "TheBlock",
+      "title": "Bitwise cuts 14% of staff as crypto layoffs mount during market downturn",
+      "summary": "Bitwise CEO Hunter Horsley told The Block that the crypto asset manager trimmed its global team to around 155 last week.",
+      "url": "https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522",
+      "published": "2026-08-12T05:52:59+00:00",
       "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
+      "summary": "X user Juiceberg reported earlier that an attacker had minted four billion ONE tokens without authorization.",
+      "url": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
+      "published": "2026-08-12T06:24:39+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -556,6 +612,17 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+      "published": "2026-08-12T06:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
