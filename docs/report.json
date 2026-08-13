@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:11:57.190250+00:00",
+  "generated_at": "2026-08-13T02:34:00.810181+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -66,10 +66,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.2838,
+      "article_count": 5,
+      "avg_compound": 0.3756,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -88,6 +88,19 @@
         },
         {
           "source": "TheBlock",
+          "title": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
+          "summary": "Researchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
+          "published": "2026-08-12T19:16:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.743,
+          "label": "BULLISH",
+          "confidence": 0.743
+        },
+        {
+          "source": "TheBlock",
           "title": "Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition",
           "summary": "Neos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.",
           "url": "https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618",
@@ -99,31 +112,68 @@
           "compound": 0.7096,
           "label": "BULLISH",
           "confidence": 0.7096
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": -0.0249,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+          "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
+          "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+          "published": "2026-08-12T14:13:07+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.4767,
+          "label": "BEARISH",
+          "confidence": 0.4767
         },
         {
           "source": "CoinDesk",
-          "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
+          "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
           "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-          "published": "2026-08-12T11:19:32+00:00",
+          "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
+          "published": "2026-08-12T13:39:31+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "Decrypt",
+          "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+          "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
+          "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+          "published": "2026-08-12T15:54:16+00:00",
           "coins": [
             "BTC",
             "ETH",
-            "USDT"
+            "SOL"
           ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": 0.0489,
+      "article_count": 21,
+      "avg_compound": 0.0218,
       "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 7,
+      "bullish": 9,
+      "bearish": 6,
       "neutral": 6,
       "top_articles": [
         {
@@ -153,67 +203,17 @@
           "confidence": 0.9001
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bank of Russia Approves Bitcoin Trading For Retail Investors",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bank-of-Russia-Approves-Bitcoin-Trading-For-Retail-Investors.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading\" rel=\"nofollow\">Bank of Russia Approves Bitcoin Trading For Retail Investors\u00a0</a></p>\n<p>Russia is moving ahead with regulating the Bitcoin and wider digital asset space. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading\" rel=\"nofollow\">Bank of Russia Approves Bitcoin Trading For Retail Investors\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/russia-bank-approves-bitcoin-trading",
-          "published": "2026-08-11T16:26:54+00:00",
+          "source": "TheBlock",
+          "title": "BIP-110 failure shows Bitcoin would be \u2018almost impossible to reproduce,\u2019 Plan B Network director says",
+          "summary": "Plan B Network director Giacomo Zucco says BIP-110\u2019s failure exposed the challenges of recreating Bitcoin\u2019s early development.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596",
+          "published": "2026-08-12T15:51:35+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7717,
-          "label": "BULLISH",
-          "confidence": 0.7717
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 4,
-      "avg_compound": -0.0187,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-          "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-          "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-          "published": "2026-08-12T14:13:07+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4767,
+          "compound": -0.765,
           "label": "BEARISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-          "published": "2026-08-12T13:39:31+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Kalshi taps Solana platform for Wall Street-style high-speed data feed",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-          "published": "2026-08-12T16:14:49+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.765
         }
       ],
       "no_news": false
@@ -362,6 +362,17 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
+      "summary": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
+      "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
+      "published": "2026-08-12T21:19:33+00:00",
+      "coins": [],
+      "compound": 0.802,
+      "label": "BULLISH",
+      "confidence": 0.802
+    },
+    {
+      "source": "TheBlock",
       "title": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
       "summary": "Polymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.",
       "url": "https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631",
@@ -370,17 +381,6 @@
       "compound": 0.7845,
       "label": "BULLISH",
       "confidence": 0.7845
-    },
-    {
-      "source": "Decrypt",
-      "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-      "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
-      "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-      "published": "2026-08-12T10:38:06+00:00",
-      "coins": [],
-      "compound": -0.7783,
-      "label": "BEARISH",
-      "confidence": 0.7783
     },
     {
       "source": "TheBlock",
@@ -395,14 +395,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-      "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
-      "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-      "published": "2026-08-12T09:22:12+00:00",
+      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+      "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key\u2014and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+      "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+      "published": "2026-08-12T20:31:04+00:00",
       "coins": [],
-      "compound": -0.6369,
+      "compound": -0.7063,
       "label": "BEARISH",
-      "confidence": 0.6369
+      "confidence": 0.7063
     },
     {
       "source": "TheBlock",
@@ -427,6 +427,17 @@
       "confidence": 0.6124
     },
     {
+      "source": "CoinDesk",
+      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
+      "published": "2026-08-12T22:11:09+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
       "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
@@ -449,36 +460,25 @@
       "confidence": 0.4767
     },
     {
-      "source": "Decrypt",
-      "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-      "summary": "The former operating chief is starting a new venture following several departures across the ChatGPT developer\u2019s leadership and safety teams.",
-      "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-      "published": "2026-08-11T22:04:06+00:00",
+      "source": "CoinDesk",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "published": "2026-08-12T23:16:53+00:00",
       "coins": [],
-      "compound": 0.4215,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4215
+      "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Bitwise cuts 14% of staff as crypto layoffs mount during market downturn",
-      "summary": "Bitwise CEO Hunter Horsley told The Block that the crypto asset manager trimmed its global team to around 155 last week.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-bitwise-layoffs-411522",
-      "published": "2026-08-12T05:52:59+00:00",
+      "source": "Decrypt",
+      "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
+      "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
+      "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+      "published": "2026-08-12T19:31:04+00:00",
       "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "Harmony confirms exploit involving unauthorized minting of 4 billion ONE tokens",
-      "summary": "X user Juiceberg reported earlier that an attacker had minted four billion ONE tokens without authorization.",
-      "url": "https://www.theblock.co/news/defi/2026-08-12-harmony-confirms-exploit-one-token-411527",
-      "published": "2026-08-12T06:24:39+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
+      "compound": 0.34,
+      "label": "BULLISH",
       "confidence": 0.34
     },
     {
@@ -504,17 +504,6 @@
       "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "FlightAware drops lawsuit against Kalshi one day after filing",
-      "summary": "The flight tracker previously claimed that Kalshi improperly used its data and trademark to run prediction markets on flight cancellations.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534",
-      "published": "2026-08-12T07:50:34+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
       "source": "Decrypt",
       "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
       "summary": "The flaws could let someone in a meeting take control of another participant\u2019s device without the victim clicking anything.",
@@ -526,15 +515,26 @@
       "confidence": 0.223
     },
     {
-      "source": "CoinDesk",
-      "title": "CoreWeave surges 16% on $2.58 billion revenue quarter as AI infrastructure demand eclipses crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/12/coreweave-surges-16-on-usd2-58-billion-revenue-quarter-as-ai-infrastructure-demand-eclipses-crypto",
-      "published": "2026-08-12T09:41:52+00:00",
+      "source": "Decrypt",
+      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
+      "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
+      "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
+      "published": "2026-08-12T21:31:15+00:00",
       "coins": [],
-      "compound": -0.128,
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
+      "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic\u2019s flagship. DeepSeek\u2019s own numbers for the finished model tell a very different story.",
+      "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
+      "published": "2026-08-12T20:01:05+00:00",
+      "coins": [],
+      "compound": -0.1531,
       "label": "BEARISH",
-      "confidence": 0.128
+      "confidence": 0.1531
     },
     {
       "source": "TheBlock",
@@ -571,10 +571,43 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
+      "published": "2026-08-12T22:26:24+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+      "summary": "Franklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.",
+      "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+      "published": "2026-08-12T21:04:46+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
       "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
       "published": "2026-08-12T16:34:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
+      "published": "2026-08-12T16:14:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -608,17 +641,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
       "published": "2026-08-12T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bank of England to test stablecoin, digital currency use in cross-border finance",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/12/bank-of-england-to-test-stablecoin-digital-currency-use-in-cross-border-finance",
-      "published": "2026-08-12T10:17:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
