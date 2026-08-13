@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-08-13T07:44:43.385853+00:00",
+  "generated_at": "2026-08-13T13:34:21.296104+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.802,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-          "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge\u2019s reserves.",
-          "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-          "published": "2026-08-12T16:00:52+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
       "article_count": 4,
       "avg_compound": 0.565,
@@ -77,50 +53,35 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.2862,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.401,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
-          "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
-          "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
-          "published": "2026-08-12T14:13:07+00:00",
+          "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+          "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge\u2019s reserves.",
+          "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+          "published": "2026-08-12T16:00:52+00:00",
           "coins": [
-            "SOL"
+            "XRP"
           ],
-          "compound": -0.4767,
+          "compound": -0.802,
           "label": "BEARISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
-          "published": "2026-08-12T13:39:31+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
+          "confidence": 0.802
         },
         {
           "source": "Decrypt",
-          "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
-          "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
-          "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
-          "published": "2026-08-12T15:54:16+00:00",
+          "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
+          "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+          "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+          "published": "2026-08-13T13:01:05+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -130,12 +91,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.01,
+      "article_count": 23,
+      "avg_compound": -0.0228,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 7,
-      "neutral": 6,
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -195,6 +156,32 @@
           "published": "2026-08-13T04:06:16+00:00",
           "coins": [
             "DOGE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
+          "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
+          "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
+          "published": "2026-08-12T15:54:16+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -390,6 +377,17 @@
       "confidence": 0.7783
     },
     {
+      "source": "Decrypt",
+      "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
+      "summary": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
+      "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
+      "published": "2026-08-13T10:16:50+00:00",
+      "coins": [],
+      "compound": -0.765,
+      "label": "BEARISH",
+      "confidence": 0.765
+    },
+    {
       "source": "TheBlock",
       "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
       "summary": "The firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.",
@@ -413,14 +411,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "New York City Council opens probe into prediction market platforms",
-      "summary": "The NYC Council has opened a probe into prediction market platforms over alleged\u00a0\"false, deceptive, or abusive marketing tactics.\"",
-      "url": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604",
-      "published": "2026-08-12T15:18:01+00:00",
+      "title": "South Korea sentences Delio CEO to 15 years in prison for $50 million crypto fraud: report",
+      "summary": "The sentence is shorter than the 20-year term that prosecutors sought, as the judge acquitted Jeong of a primary charge.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-south-korea-sentences-delio-ceo-411688",
+      "published": "2026-08-13T09:16:41+00:00",
       "coins": [],
-      "compound": -0.6369,
+      "compound": -0.6808,
       "label": "BEARISH",
-      "confidence": 0.6369
+      "confidence": 0.6808
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trezor Customer Data Exposed in Shipping Partner Breach",
+      "summary": "The hardware wallet manufacturer says its devices and backups are untouched, but the leak hands attackers valuable customer data.",
+      "url": "https://decrypt.co/375556/trezor-customer-data-exposed-in-shipping-partner-breach",
+      "published": "2026-08-13T13:10:43+00:00",
+      "coins": [],
+      "compound": -0.631,
+      "label": "BEARISH",
+      "confidence": 0.631
     },
     {
       "source": "TheBlock",
@@ -445,17 +454,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-      "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
-      "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-      "published": "2026-08-12T12:12:40+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
       "source": "CoinDesk",
       "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
       "summary": "",
@@ -465,6 +463,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
+      "published": "2026-08-13T12:09:58+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -479,17 +488,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
-      "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
-      "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
-      "published": "2026-08-12T12:06:36+00:00",
-      "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "Decrypt",
       "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
       "summary": "The flaws could let someone in a meeting take control of another participant\u2019s device without the victim clicking anything.",
       "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
@@ -501,10 +499,32 @@
     },
     {
       "source": "Decrypt",
+      "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
+      "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
+      "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
+      "published": "2026-08-13T11:42:27+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
       "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
       "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
       "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
       "published": "2026-08-12T21:31:15+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitwise CIO sees market repricing as crypto embraces \u2018revenue fever\u2019",
+      "summary": "Bitwise CIO sees crypto valuations doubling as decentralized finance apps and protocols adopt revenue-driven token buybacks.",
+      "url": "https://www.theblock.co/news/defi/2026-08-13-bitwise-cio-sees-market-repricing-as-crypto-embraces-revenue-fever-411682",
+      "published": "2026-08-13T08:34:11+00:00",
       "coins": [],
       "compound": 0.1779,
       "label": "BULLISH",
@@ -533,14 +553,14 @@
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "published": "2026-08-12T14:51:12+00:00",
+      "source": "TheBlock",
+      "title": "Peter Thiel-backed Bullish posts $280 million Q2 net loss as digital asset sales fall 44%",
+      "summary": "Peter Thiel-backed crypto exchange Bullish reported a $280 million Q2 net loss as digital asset sales fell 44% and adjusted revenue rose 62%.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-peter-thiel-backed-bullish-posts-280-million-q2-net-loss-as-digital-asset-sales-fall-44-411695",
+      "published": "2026-08-13T13:10:53+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
+      "compound": 0.1027,
+      "label": "BULLISH",
       "confidence": 0.1027
     },
     {
@@ -578,10 +598,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+      "title": "Figure revenue doubles as blockchain loan marketplace volumes surge",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
-      "published": "2026-08-12T16:34:24+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/13/figure-revenue-doubles-as-blockchain-loan-marketplace-volumes-surge",
+      "published": "2026-08-13T13:29:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -589,43 +609,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi taps DoubleZero for Wall Street-style high-speed data feed",
+      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed",
-      "published": "2026-08-12T16:14:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-      "published": "2026-08-12T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered-led Anchorpoint launches Hong Kong dollar stablecoin",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/12/standard-chartered-led-anchorpoint-launches-hong-kong-dollar-stablecoin",
-      "published": "2026-08-12T13:13:49+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "America doesn\u2019t need a second-class payments system",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/12/america-doesn-t-need-a-second-class-payments-system",
-      "published": "2026-08-12T13:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+      "published": "2026-08-13T10:15:32+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -633,21 +620,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-      "summary": "The service gives trading firms access to Kalshi\u2019s sports and crypto order books over DoubleZero\u2019s fiber network.",
-      "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-      "published": "2026-08-12T14:00:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi first prediction market to stream full order books via DoubleZero",
-      "summary": "The move gives institutional traders direct access to Level 1 and Level 2 data without having to reconstruct the book from APIs.",
-      "url": "https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589",
-      "published": "2026-08-12T14:00:00+00:00",
+      "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
+      "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
+      "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
+      "published": "2026-08-13T11:53:17+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
