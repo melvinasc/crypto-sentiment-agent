@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-13T02:34:00.810181+00:00",
+  "generated_at": "2026-08-13T07:44:43.385853+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.401,
+      "article_count": 1,
+      "avg_compound": -0.802,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -22,55 +22,16 @@
           "compound": -0.802,
           "label": "BEARISH",
           "confidence": 0.802
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP trading could get spicy after CPI report as futures bets hit highest since October",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/08/12/xrp-trading-could-get-spicy-after-cpi-report-as-futures-bets-hit-highest-since-october",
-          "published": "2026-08-12T11:15:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.3818,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Russia moves to restrict retail crypto trading to bitcoin, ether and USDT",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/08/12/russia-moves-to-restrict-retail-crypto-trading-to-bitcoin-ether-and-usdt",
-          "published": "2026-08-12T11:19:32+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "USDT"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.3756,
+      "article_count": 4,
+      "avg_compound": 0.565,
       "overall": "BULLISH",
       "bullish": 3,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
@@ -118,10 +79,10 @@
     },
     "SOL": {
       "article_count": 3,
-      "avg_compound": -0.0249,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
+      "avg_compound": -0.2862,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
         {
@@ -139,16 +100,16 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Smart contract blockchain Solana nearly froze Wednesday, Marinade Finance says",
+          "title": "Solana neared a freeze threshold Wednesday, Marinade Finance says. The Foundation says it held up under stress.",
           "summary": "",
           "url": "https://www.coindesk.com/tech/2026/08/12/smart-contract-blockchain-solana-nearly-froze-wednesday-marinade-finance-says",
           "published": "2026-08-12T13:39:31+00:00",
           "coins": [
             "SOL"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
         },
         {
           "source": "Decrypt",
@@ -170,10 +131,10 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": 0.0218,
+      "avg_compound": -0.01,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 6,
+      "bullish": 8,
+      "bearish": 7,
       "neutral": 6,
       "top_articles": [
         {
@@ -218,6 +179,30 @@
       ],
       "no_news": false
     },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+          "published": "2026-08-13T04:06:16+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -249,16 +234,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -357,6 +332,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -370,6 +355,17 @@
       "compound": 0.802,
       "label": "BULLISH",
       "confidence": 0.802
+    },
+    {
+      "source": "TheBlock",
+      "title": "Blockchain Association backs Custodia\u2019s Supreme Court bid over Fed master account access",
+      "summary": "The industry group said the case is about ensuring 'lawful digital asset businesses can compete on equal footing.'",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
+      "published": "2026-08-13T06:07:59+00:00",
+      "coins": [],
+      "compound": 0.7906,
+      "label": "BULLISH",
+      "confidence": 0.7906
     },
     {
       "source": "TheBlock",
@@ -392,6 +388,17 @@
       "compound": -0.7783,
       "label": "BEARISH",
       "confidence": 0.7783
+    },
+    {
+      "source": "TheBlock",
+      "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
+      "summary": "The firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.",
+      "url": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664",
+      "published": "2026-08-13T03:07:09+00:00",
+      "coins": [],
+      "compound": -0.7096,
+      "label": "BEARISH",
+      "confidence": 0.7096
     },
     {
       "source": "Decrypt",
@@ -417,13 +424,13 @@
     },
     {
       "source": "TheBlock",
-      "title": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
-      "summary": "Australia's ASIC took down Yepbit websites and denied the platform's false claims that the regulator had frozen investor funds.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538",
-      "published": "2026-08-12T08:26:21+00:00",
+      "title": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report",
+      "summary": "Mirae Asset completed the acquisition of Korbit in July, acquiring 97.15% of the company for roughly $91.5 million.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677",
+      "published": "2026-08-13T07:29:13+00:00",
       "coins": [],
-      "compound": -0.6124,
-      "label": "BEARISH",
+      "compound": 0.6124,
+      "label": "BULLISH",
       "confidence": 0.6124
     },
     {
@@ -447,17 +454,6 @@
       "compound": -0.4939,
       "label": "BEARISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
-      "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
-      "summary": "Standard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
-      "published": "2026-08-12T12:16:29+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
@@ -491,17 +487,6 @@
       "compound": -0.25,
       "label": "BEARISH",
       "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "FlightAware drops Kalshi lawsuit over a market niche that data shows it never took off",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/12/flightaware-drops-kalshi-lawsuit-over-a-market-niche-that-data-shows-it-never-took-off",
-      "published": "2026-08-12T11:44:10+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
