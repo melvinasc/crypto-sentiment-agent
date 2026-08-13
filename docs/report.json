@@ -1,87 +1,110 @@
 {
-  "generated_at": "2026-08-13T13:34:21.296104+00:00",
+  "generated_at": "2026-08-13T19:12:06.269326+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.565,
+      "article_count": 2,
+      "avg_compound": 0.419,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
+          "source": "TheBlock",
+          "title": "Ether.fi adds tokenized stocks, metals and Aave-powered portfolio loans in latest \u2018neobank\u2019 expansion",
+          "summary": "Etherfi noted its updated app is \u201cless crypto-forward,\u201d and aimed at attracting \u201ca much broader audience.\u201d",
+          "url": "https://www.theblock.co/news/defi/2026-08-13-ether-fi-adds-tokenized-stocks-metals-and-aave-powered-portfolio-loans-in-latest-neobank-expansion-411704",
+          "published": "2026-08-13T14:13:07+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
           "source": "Decrypt",
-          "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
-          "summary": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
-          "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
-          "published": "2026-08-12T17:13:43+00:00",
+          "title": "Ethereum DeFi Platform Ether.fi Adds Tokenized Stocks and Portfolio-Backed Loans",
+          "summary": "The Ethereum staking platform is adding asset trading, fiat accounts, and borrowing through Aave as it pushes into crypto banking.",
+          "url": "https://decrypt.co/375529/ethereum-defi-etherfi-tokenized-stocks",
+          "published": "2026-08-13T14:01:03+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.8074,
+          "compound": 0.3612,
           "label": "BULLISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
-          "summary": "Researchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
-          "published": "2026-08-12T19:16:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.743,
-          "label": "BULLISH",
-          "confidence": 0.743
-        },
-        {
-          "source": "TheBlock",
-          "title": "Goldman Sachs to gain bitcoin and ETH income ETFs in up to $2.25 billion Neos acquisition",
-          "summary": "Neos Investments offers the Bitcoin High Income ETF, Boosted Bitcoin High Income ETF and Ethereum High Income ETF.",
-          "url": "https://www.theblock.co/news/business/2026-08-12-goldman-sachs-bitcoin-ether-income-etfs-neos-deal-411618",
-          "published": "2026-08-12T17:01:47+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.7096,
-          "label": "BULLISH",
-          "confidence": 0.7096
+          "confidence": 0.3612
         }
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.401,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.3506,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
-          "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge\u2019s reserves.",
-          "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
-          "published": "2026-08-12T16:00:52+00:00",
+          "title": "Google and OpenAI Debut Super Fast AI Models\u2014Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
+          "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
+          "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
+          "published": "2026-08-13T19:11:03+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
-        },
+          "compound": 0.3506,
+          "label": "BULLISH",
+          "confidence": 0.3506
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": 0.1405,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
-          "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
-          "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
-          "published": "2026-08-13T13:01:05+00:00",
+          "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
+          "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
+          "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
+          "published": "2026-08-13T18:39:11+00:00",
           "coins": [
-            "XRP"
+            "USDT"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+          "published": "2026-08-13T18:26:21+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tether says KPMG issued \u2018clean\u2019 opinion in first full audit of USDT issuer\u2019s financials",
+          "summary": "KPMG U.S. issued an \"unqualified audit opinion\" on Tether International\u2019s full 2025 financial statements, Tether said Thursday.",
+          "url": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760",
+          "published": "2026-08-13T19:04:50+00:00",
+          "coins": [
+            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -91,26 +114,13 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0228,
-      "overall": "NEUTRAL",
+      "article_count": 18,
+      "avg_compound": 0.0903,
+      "overall": "BULLISH",
       "bullish": 9,
-      "bearish": 9,
-      "neutral": 5,
+      "bearish": 7,
+      "neutral": 2,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "CFTC Charges Goliath Ventures With $400M Bitcoin Fraud",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/CFTC-Cracks-Open-U.S.-Market-for-Bitcoin-and-Crypto-Perpetual-Futures.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud\" rel=\"nofollow\">CFTC Charges Goliath Ventures With $400M Bitcoin Fraud\u00a0</a></p>\n<p>Regulator says roughly 1,600 customers lost money in Bitcoin and crypto operation whose CEO has already pleaded guilty</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud\" rel=\"nofollow\">CFTC Charges Goliath Ventures With $400M Bitcoin Fraud\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/cftc-charges-goliath-in-bitcoin-fraud",
-          "published": "2026-08-11T20:14:24+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9678,
-          "label": "BEARISH",
-          "confidence": 0.9678
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Yawns As Fed\u2019s Favorite Inflation Gauge Eases",
@@ -125,46 +135,35 @@
           "confidence": 0.9001
         },
         {
-          "source": "TheBlock",
-          "title": "BIP-110 failure shows Bitcoin would be \u2018almost impossible to reproduce,\u2019 Plan B Network director says",
-          "summary": "Plan B Network director Giacomo Zucco says BIP-110\u2019s failure exposed the challenges of recreating Bitcoin\u2019s early development.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596",
-          "published": "2026-08-12T15:51:35+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns\" rel=\"nofollow\">Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns</a></p>\n<p>Bitcoin company leaders and open-source developers report Chinese AI models delivering superior results on defensive cybersecurity work that restricted American frontier systems refuse, forcing reliance on them to secure critical infrastructure.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns\" rel=\"nofollow\">Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns",
+          "published": "2026-08-13T16:18:45+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.765,
+          "compound": -0.8807,
           "label": "BEARISH",
-          "confidence": 0.765
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "confidence": 0.8807
+        },
         {
-          "source": "CoinDesk",
-          "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
-          "published": "2026-08-13T04:06:16+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
+          "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
+          "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
+          "published": "2026-08-13T17:11:04+00:00",
           "coins": [
-            "DOGE"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.8074,
+          "label": "BULLISH",
+          "confidence": 0.8074
         }
       ],
       "no_news": false
     },
-    "SOL": {
+    "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -174,14 +173,12 @@
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Crypto-Backed Loans, Explained: How to Unlock Cash Without Selling Your Bitcoin",
-          "summary": "A fixed-rate crypto-backed loan lets you borrow against BTC, ETH, or SOL while keeping your coins. Here's how they work.",
-          "url": "https://decrypt.co/375428/crypto-backed-loans-explained-how-to-unlock-cash-without-selling-your-bitcoin",
-          "published": "2026-08-12T15:54:16+00:00",
+          "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
+          "summary": "The Derive integration gives XRP holders a way to hedge or speculate without depositing their tokens with a centralized exchange.",
+          "url": "https://decrypt.co/375526/xrp-holders-trade-options-flare-fxrp-collateral",
+          "published": "2026-08-13T13:01:05+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -221,6 +218,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -319,19 +326,20 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Citigroup CEO Fraser on Clarity Act: \u2018We would like to see a good bill go through,\u2019 as stablecoin reward issues simmer",
+      "summary": "Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751",
+      "published": "2026-08-13T17:48:10+00:00",
+      "coins": [],
+      "compound": 0.8934,
+      "label": "BULLISH",
+      "confidence": 0.8934
+    },
     {
       "source": "TheBlock",
       "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
@@ -342,6 +350,17 @@
       "compound": 0.802,
       "label": "BULLISH",
       "confidence": 0.802
+    },
+    {
+      "source": "Decrypt",
+      "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
+      "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
+      "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
+      "published": "2026-08-13T18:26:04+00:00",
+      "coins": [],
+      "compound": -0.7906,
+      "label": "BEARISH",
+      "confidence": 0.7906
     },
     {
       "source": "TheBlock",
@@ -355,26 +374,15 @@
       "confidence": 0.7906
     },
     {
-      "source": "TheBlock",
-      "title": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
-      "summary": "Polymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631",
-      "published": "2026-08-12T17:56:15+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/13/crypto-platform-operator-gets-15-year-prison-sentence-in-south-korea-due-to-usd50-million-scam",
+      "published": "2026-08-13T13:37:56+00:00",
       "coins": [],
-      "compound": 0.7845,
-      "label": "BULLISH",
-      "confidence": 0.7845
-    },
-    {
-      "source": "TheBlock",
-      "title": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report",
-      "summary": "A French couple in the Somme who bought a former crypto millionaires\u2019 house have been targeted in three separate home invasions.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-12-attackers-keep-hitting-wrong-house-rural-france-after-crypto-millionaire-moved-report-411605",
-      "published": "2026-08-12T15:30:05+00:00",
-      "coins": [],
-      "compound": -0.7783,
+      "compound": -0.7717,
       "label": "BEARISH",
-      "confidence": 0.7783
+      "confidence": 0.7717
     },
     {
       "source": "Decrypt",
@@ -389,6 +397,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
+      "summary": "Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
+      "published": "2026-08-13T18:51:45+00:00",
+      "coins": [],
+      "compound": -0.7351,
+      "label": "BEARISH",
+      "confidence": 0.7351
+    },
+    {
+      "source": "TheBlock",
       "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
       "summary": "The firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.",
       "url": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664",
@@ -400,14 +419,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
-      "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key\u2014and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
-      "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
-      "published": "2026-08-12T20:31:04+00:00",
+      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
+      "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia\u2019s case, saying that broad Fed power over \u201cmaster accounts\u201d could be used to push crypto firms out of the banking system.",
+      "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
+      "published": "2026-08-13T17:47:12+00:00",
       "coins": [],
-      "compound": -0.7063,
-      "label": "BEARISH",
-      "confidence": 0.7063
+      "compound": 0.6908,
+      "label": "BULLISH",
+      "confidence": 0.6908
     },
     {
       "source": "TheBlock",
@@ -433,6 +452,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion",
+      "summary": "The company said its net income increased 192% to $87 million from $30 million during the same period a year ago.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736",
+      "published": "2026-08-13T15:54:52+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
       "title": "Mirae Asset to inject additional $35 million into Korbit crypto exchange following July acquisition: report",
       "summary": "Mirae Asset completed the acquisition of Korbit in July, acquiring 97.15% of the company for roughly $91.5 million.",
       "url": "https://www.theblock.co/news/business/2026-08-13-mirae-asset-35-million-korbit-411677",
@@ -444,58 +474,69 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Morgan Stanley's infrastructure partner Zerohash rebuffed in pitch to be U.S. trust bank",
+      "title": "B2C2 taps Schroders veteran to chase Asia\u2019s growing crypto wealth",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/12/morgan-stanley-s-infrastructure-partner-zerohash-rebuffed-in-pitch-to-be-u-s-trust-bank",
-      "published": "2026-08-12T22:11:09+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
+      "published": "2026-08-13T14:43:38+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": 0.5994,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.5994
     },
     {
       "source": "CoinDesk",
-      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
-      "published": "2026-08-12T23:16:53+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bullish Q2 adjusted earnings in line as rise in subscription revenue offsets digital asset slowdown",
+      "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
       "published": "2026-08-13T12:09:58+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
-      "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
-      "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
-      "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
-      "published": "2026-08-12T19:31:04+00:00",
+      "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
+      "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
+      "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
+      "published": "2026-08-13T16:05:39+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-      "summary": "The flaws could let someone in a meeting take control of another participant\u2019s device without the victim clicking anything.",
-      "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-      "published": "2026-08-12T17:46:04+00:00",
-      "coins": [],
-      "compound": -0.223,
+      "compound": -0.5574,
       "label": "BEARISH",
-      "confidence": 0.223
+      "confidence": 0.5574
+    },
+    {
+      "source": "Decrypt",
+      "title": "FCA, HTX in Settlement Talks Over Illegal UK Crypto Promotions: Report",
+      "summary": "An FCA employee bought crypto from a UK IP address using a driving license as ID, according to the regulator's claim.",
+      "url": "https://decrypt.co/375551/fca-htx-in-settlement-talks-over-illegal-uk-crypto-promotions-report",
+      "published": "2026-08-13T14:31:56+00:00",
+      "coins": [],
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
+      "published": "2026-08-13T17:10:57+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
+      "source": "TheBlock",
+      "title": "Trezor shipping provider breach exposes personal data of nearly 14,000 customers",
+      "summary": "Trezor said a ShipMonk breach exposed the personal data of nearly 14,000 hardware wallet customers, including some shipping addresses.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702",
+      "published": "2026-08-13T14:23:10+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -531,26 +572,15 @@
       "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
-      "summary": "The April preview got benchmarked to death and landed 18 points behind Anthropic\u2019s flagship. DeepSeek\u2019s own numbers for the finished model tell a very different story.",
-      "url": "https://decrypt.co/375507/china-deepseek-upgrades-v4-pro-claude-fable",
-      "published": "2026-08-12T20:01:05+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
       "source": "TheBlock",
-      "title": "SKALE launches Agent Pit to let builders train AI agents before taking them live on Polymarket",
-      "summary": "SKALE Labs launched Agent Pit, a Polymarket-inspired, paper-trading prediction market sandbox on its zero-gas blockchain.",
-      "url": "https://www.theblock.co/news/defi/2026-08-12-skales-agent-pit-lets-builders-train-ai-agents-before-taking-them-live-on-polymarket-411580",
-      "published": "2026-08-12T16:00:00+00:00",
+      "title": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
+      "summary": "In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755",
+      "published": "2026-08-13T18:45:33+00:00",
       "coins": [],
-      "compound": 0.128,
+      "compound": 0.1027,
       "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -564,37 +594,37 @@
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets",
-      "summary": "A new lawsuit alleges Trump\u2019s paid Truth Social feed unconstitutionally restricts access to official posts.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628",
-      "published": "2026-08-12T18:35:32+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The crypto advice gap",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
+      "published": "2026-08-13T15:00:00+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
-      "title": "Securitize falls 20% after earnings miss as tokenization revenue falls short",
+      "title": "Kalshi in talks with Sequoia, Wellington for $750 million fund raise at $40 billion valuation",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/12/securitize-falls-20-after-earnings-miss-as-tokenization-revenue-falls-short",
-      "published": "2026-08-12T22:26:24+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/13/kalshi-in-talks-with-sequoia-wellington-for-usd750-million-fund-raise-at-usd40-billion-valuation",
+      "published": "2026-08-13T14:16:06+00:00",
       "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
-      "source": "TheBlock",
-      "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
-      "summary": "Franklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.",
-      "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
-      "published": "2026-08-12T21:04:46+00:00",
+      "source": "CoinDesk",
+      "title": "Swissquote cuts full-year guidance as 1H crypto income plunges, shares slide",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/13/swissquote-cuts-full-year-guidance-as-1h-crypto-income-plunges-shares-slide",
+      "published": "2026-08-13T13:41:32+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
