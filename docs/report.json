@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:12:06.269326+00:00",
+  "generated_at": "2026-08-14T02:32:40.673631+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -40,12 +40,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.3506,
+      "article_count": 2,
+      "avg_compound": 0.1753,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -59,18 +59,45 @@
           "compound": 0.3506,
           "label": "BULLISH",
           "confidence": 0.3506
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+          "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
+          "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+          "published": "2026-08-13T21:16:05+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": 0.1405,
-      "overall": "BULLISH",
+      "article_count": 4,
+      "avg_compound": -0.0841,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tether Finally Completes Independent Audit of Reserves With KPMG",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a></p>\n<p>The stablecoin giant for years struggled to get a Big Four accounting firm to audit its reserves. No more. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg",
+          "published": "2026-08-13T20:01:40+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
+        },
         {
           "source": "Decrypt",
           "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
@@ -96,44 +123,18 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Tether says KPMG issued \u2018clean\u2019 opinion in first full audit of USDT issuer\u2019s financials",
-          "summary": "KPMG U.S. issued an \"unqualified audit opinion\" on Tether International\u2019s full 2025 financial statements, Tether said Thursday.",
-          "url": "https://www.theblock.co/news/business/2026-08-13-tether-kpmg-first-full-audit-usdt-clean-opinion-411760",
-          "published": "2026-08-13T19:04:50+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.0903,
-      "overall": "BULLISH",
-      "bullish": 9,
-      "bearish": 7,
+      "article_count": 17,
+      "avg_compound": -0.0687,
+      "overall": "BEARISH",
+      "bullish": 5,
+      "bearish": 10,
       "neutral": 2,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Yawns As Fed\u2019s Favorite Inflation Gauge Eases",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Yawns-As-Feds-Favorite-Inflation-Gauge-Eases-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases\" rel=\"nofollow\">Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0</a></p>\n<p>Bitcoin's price was largely flat on news that US inflation was subdued in July.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases\" rel=\"nofollow\">Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
-          "published": "2026-08-12T15:20:07+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9001,
-          "label": "BULLISH",
-          "confidence": 0.9001
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns",
@@ -159,6 +160,19 @@
           "compound": 0.8074,
           "label": "BULLISH",
           "confidence": 0.8074
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refinancing-and-Buyback-Authorization.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results\" rel=\"nofollow\">Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss</a></p>\n<p>The company's first quarterly results are a turning point in the Bitcoin-native company. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results\" rel=\"nofollow\">Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results",
+          "published": "2026-08-13T14:57:04+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
         }
       ],
       "no_news": false
@@ -341,17 +355,6 @@
       "confidence": 0.8934
     },
     {
-      "source": "TheBlock",
-      "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
-      "summary": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
-      "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
-      "published": "2026-08-12T21:19:33+00:00",
-      "coins": [],
-      "compound": 0.802,
-      "label": "BULLISH",
-      "confidence": 0.802
-    },
-    {
       "source": "Decrypt",
       "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
       "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
@@ -383,17 +386,6 @@
       "compound": -0.7717,
       "label": "BEARISH",
       "confidence": 0.7717
-    },
-    {
-      "source": "Decrypt",
-      "title": "CEO of Crypto Lender Delio Gets 15 Years Over $49M Fraud",
-      "summary": "A botched search of the platform's server host cost prosecutors the bulk of their case, cutting it from 2,800 alleged victims to about 1,100.",
-      "url": "https://decrypt.co/375531/ceo-of-crypto-lender-delio-gets-15-years-over-49m-fraud",
-      "published": "2026-08-13T10:16:50+00:00",
-      "coins": [],
-      "compound": -0.765,
-      "label": "BEARISH",
-      "confidence": 0.765
     },
     {
       "source": "TheBlock",
@@ -484,6 +476,17 @@
       "confidence": 0.5994
     },
     {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
+      "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
+      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
+      "published": "2026-08-13T21:45:04+00:00",
+      "coins": [],
+      "compound": -0.5994,
+      "label": "BEARISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "CoinDesk",
       "title": "Bullish shares surge 14% as subscription revenue offsets digital asset slowdown",
       "summary": "",
@@ -528,6 +531,17 @@
       "confidence": 0.5423
     },
     {
+      "source": "CoinDesk",
+      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
+      "published": "2026-08-13T22:18:07+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
       "source": "TheBlock",
       "title": "Trezor shipping provider breach exposes personal data of nearly 14,000 customers",
       "summary": "Trezor said a ShipMonk breach exposed the personal data of nearly 14,000 hardware wallet customers, including some shipping addresses.",
@@ -537,28 +551,6 @@
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
-      "title": "Twitch Turns On Amazon AI Training by Default: 'Nobody Would Opt In'",
-      "summary": "Twitch's chief product officer says he does not know whether content had already been used for training before the setting appeared.",
-      "url": "https://decrypt.co/375535/twitch-turns-on-amazon-ai-training-by-default-nobody-would-opt-in",
-      "published": "2026-08-13T11:42:27+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
-      "summary": "A Kansas City security researcher ran 31 million tests to teach a model how to paint camouflage for the algorithm age.",
-      "url": "https://decrypt.co/375479/ai-generated-pattern-hides-you-surveillance-cameras-flock",
-      "published": "2026-08-12T21:31:15+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -592,6 +584,28 @@
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
+      "published": "2026-08-13T23:09:14+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "Gemini shares slide after $108 million loss as Winklevoss says \u2018we still have work to do\u2019",
+      "summary": "Gemini\u2019s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.",
+      "url": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775",
+      "published": "2026-08-13T21:15:23+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -650,10 +664,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: The SEC Plans Rules for Tokenized Stocks",
-      "summary": "The new framework could be announced as soon as Friday, in what could be the biggest development for crypto this year.",
-      "url": "https://decrypt.co/375547/morning-minute-the-sec-plans-rules-for-tokenized-stocks",
-      "published": "2026-08-13T11:53:17+00:00",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
+      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "published": "2026-08-13T20:30:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
