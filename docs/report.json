@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-14T13:22:42.629593+00:00",
+  "generated_at": "2026-08-14T19:03:50.887547+00:00",
   "total_articles": 55,
   "coins": {
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.7351,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
+          "summary": "Binance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.",
+          "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
+          "published": "2026-08-14T15:43:26+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.5446,
+      "article_count": 4,
+      "avg_compound": 0.444,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 4,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -26,25 +50,39 @@
         },
         {
           "source": "TheBlock",
-          "title": "Ether.fi adds tokenized stocks, metals and Aave-powered portfolio loans in latest \u2018neobank\u2019 expansion",
-          "summary": "Etherfi noted its updated app is \u201cless crypto-forward,\u201d and aimed at attracting \u201ca much broader audience.\u201d",
-          "url": "https://www.theblock.co/news/defi/2026-08-13-ether-fi-adds-tokenized-stocks-metals-and-aave-powered-portfolio-loans-in-latest-neobank-expansion-411704",
-          "published": "2026-08-13T14:13:07+00:00",
+          "title": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
+          "summary": "LeverageShares debuted the world\u2019s first 3x bitcoin and ether ETFs in Europe.\u00a0These would be the first in the U.S., if approved.",
+          "url": "https://www.theblock.co/news/regulation/2026-08-14-cboe-seeks-sec-nod-for-first-us-3x-bitcoin-and-ether-etfs-411879",
+          "published": "2026-08-14T19:01:18+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "Decrypt",
+          "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+          "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+          "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+          "published": "2026-08-14T19:01:05+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.4767,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.4767
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 5,
-      "avg_compound": -0.1554,
+      "article_count": 4,
+      "avg_compound": -0.2996,
       "overall": "BEARISH",
-      "bullish": 1,
+      "bullish": 0,
       "bearish": 2,
       "neutral": 2,
       "top_articles": [
@@ -76,26 +114,26 @@
           "confidence": 0.4404
         },
         {
-          "source": "Decrypt",
-          "title": "Tether Claims 'Largest Inaugural Financial Audit' as KPMG Signs Off on 2025 Statements",
-          "summary": "Tether said KPMG gave its 2025 financial statements a clean opinion, a milestone for the company after years of questions about the reserves backing USDT.",
-          "url": "https://decrypt.co/375577/tether-inaugural-financial-audit-kpmg",
-          "published": "2026-08-13T18:39:11+00:00",
+          "source": "CoinDesk",
+          "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
+          "published": "2026-08-13T18:26:21+00:00",
           "coins": [
             "USDT"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0992,
+      "article_count": 4,
+      "avg_compound": 0.1594,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -114,6 +152,21 @@
         },
         {
           "source": "TheBlock",
+          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+          "published": "2026-08-14T17:09:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "TheBlock",
           "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
           "summary": "Shares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.",
           "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
@@ -124,31 +177,31 @@
           "compound": -0.0531,
           "label": "BEARISH",
           "confidence": 0.0531
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-          "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
-          "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-          "published": "2026-08-13T21:16:05+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0563,
+      "article_count": 24,
+      "avg_compound": -0.0569,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 12,
+      "bullish": 8,
+      "bearish": 13,
       "neutral": 3,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "What the CLARITY Act Actually Does for Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-the-CLARITY-Act-Actually-Does-for-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin\" rel=\"nofollow\">What the CLARITY Act Actually Does for Bitcoin</a></p>\n<p>Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin\" rel=\"nofollow\">What the CLARITY Act Actually Does for Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/isaiahaustin\" rel=\"nofollow\">Isaiah Austin</a>.</p>",
+          "url": "https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin",
+          "published": "2026-08-14T14:09:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8964,
+          "label": "BULLISH",
+          "confidence": 0.8964
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns",
@@ -161,19 +214,6 @@
           "compound": -0.8807,
           "label": "BEARISH",
           "confidence": 0.8807
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Companies Want Help From AI Labs to Guard Against Hackers",
-          "summary": "More than 40 bitcoin and crypto firms asked the biggest AI labs this week to let independent security researchers use their strongest models before public release.",
-          "url": "https://decrypt.co/375564/bitcoin-firms-want-ai-hacking-tools",
-          "published": "2026-08-13T17:11:04+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8074,
-          "label": "BULLISH",
-          "confidence": 0.8074
         },
         {
           "source": "Bitcoin Magazine",
@@ -227,16 +267,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -382,14 +412,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "White House Lets Private Firms Hack Cybercriminals\u2014At Their Own Legal Risk",
-      "summary": "President Donald Trump signed a memorandum Tuesday that lets vetted U.S. companies carry out offensive cyber operations against foreign criminal networks. Here's what the program actually authorizes.",
-      "url": "https://decrypt.co/375568/white-house-private-firms-hack-cybercriminals",
-      "published": "2026-08-13T18:26:04+00:00",
+      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
+      "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
+      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
+      "published": "2026-08-14T14:55:29+00:00",
       "coins": [],
-      "compound": -0.7906,
+      "compound": -0.7783,
       "label": "BEARISH",
-      "confidence": 0.7906
+      "confidence": 0.7783
     },
     {
       "source": "TheBlock",
@@ -403,15 +433,15 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Group Warns Fed Could Use Banking Access to Squeeze Digital Asset Firms",
-      "summary": "The Blockchain Association is urging the Supreme Court to take up Custodia\u2019s case, saying that broad Fed power over \u201cmaster accounts\u201d could be used to push crypto firms out of the banking system.",
-      "url": "https://decrypt.co/375567/crypto-group-fed-banking-access-squeeze-firms",
-      "published": "2026-08-13T17:47:12+00:00",
+      "source": "TheBlock",
+      "title": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
+      "summary": "StablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA\u2019s total supply.",
+      "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
+      "published": "2026-08-14T15:17:03+00:00",
       "coins": [],
-      "compound": 0.6908,
+      "compound": 0.7184,
       "label": "BULLISH",
-      "confidence": 0.6908
+      "confidence": 0.7184
     },
     {
       "source": "Decrypt",
@@ -425,28 +455,6 @@
       "confidence": 0.6124
     },
     {
-      "source": "TheBlock",
-      "title": "Onchain lender Figure nearly triples quarterly profits as loan marketplace volume surges to $4.3 billion",
-      "summary": "The company said its net income increased 192% to $87 million from $30 million during the same period a year ago.",
-      "url": "https://www.theblock.co/news/business/2026-08-13-onchain-lender-figure-nearly-triples-quarterly-profits-as-loan-marketplace-volume-surges-to-4-3-billion-411736",
-      "published": "2026-08-13T15:54:52+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "CoinDesk",
-      "title": "B2C2 taps Schroders veteran to chase Asia\u2019s growing crypto wealth",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/13/b2c2-taps-schroders-veteran-to-chase-asia-s-growing-crypto-wealth",
-      "published": "2026-08-13T14:43:38+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
       "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
@@ -456,28 +464,6 @@
       "compound": -0.5994,
       "label": "BEARISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hawaii To Ban Cash Deposits at Crypto ATMs From October",
-      "summary": "Lawmakers targeted the deposits that scammers rely on, with the machines still able to sell crypto for dollars or swap one coin for another.",
-      "url": "https://decrypt.co/375560/hawaii-to-ban-cash-deposits-at-crypto-atms-from-october",
-      "published": "2026-08-13T16:05:39+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trezor warns 14,000 customers after fulfilment partner suffers data breach",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/13/trezor-warns-14-000-users-after-fulfilment-partner-suffers-data-breach",
-      "published": "2026-08-13T17:10:57+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
     },
     {
       "source": "TheBlock",
@@ -503,6 +489,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Tokenization stocks slip as SEC delay puts 'speed bump' in crypto\u2019s Wall Street push",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/14/tokenization-stocks-slip-as-sec-delay-puts-speed-bump-in-crypto-s-wall-street-push",
+      "published": "2026-08-14T17:48:04+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
       "title": "Trump family's World Liberty Financial delay plans to sell Maldives resort token",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/14/trump-family-s-world-liberty-financial-delay-plans-to-sell-maldives-resort-token",
@@ -513,15 +510,26 @@
       "confidence": 0.2732
     },
     {
-      "source": "TheBlock",
-      "title": "Trezor shipping provider breach exposes personal data of nearly 14,000 customers",
-      "summary": "Trezor said a ShipMonk breach exposed the personal data of nearly 14,000 hardware wallet customers, including some shipping addresses.",
-      "url": "https://www.theblock.co/news/business/2026-08-13-trezor-shipping-provider-breach-exposes-personal-data-nearly-14000-customers-411702",
-      "published": "2026-08-13T14:23:10+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
+      "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
+      "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
+      "published": "2026-08-14T18:31:03+00:00",
       "coins": [],
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
+      "published": "2026-08-14T14:12:34+00:00",
+      "coins": [],
+      "compound": -0.1326,
+      "label": "BEARISH",
+      "confidence": 0.1326
     },
     {
       "source": "Decrypt",
@@ -569,6 +577,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Israel\u2019s largest bank to offer crypto trading with Galaxy",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
+      "published": "2026-08-14T13:51:37+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
@@ -584,17 +603,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
       "published": "2026-08-14T05:04:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The crypto advice gap",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
-      "published": "2026-08-13T15:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
