@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:32:40.673631+00:00",
+  "generated_at": "2026-08-14T07:42:44.228752+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -40,11 +40,11 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1753,
+      "article_count": 3,
+      "avg_compound": 0.0992,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -59,6 +59,19 @@
           "compound": 0.3506,
           "label": "BULLISH",
           "confidence": 0.3506
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
+          "summary": "Shares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.",
+          "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
+          "published": "2026-08-14T04:09:44+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.0531,
+          "label": "BEARISH",
+          "confidence": 0.0531
         },
         {
           "source": "Decrypt",
@@ -129,7 +142,7 @@
     },
     "BTC": {
       "article_count": 17,
-      "avg_compound": -0.0687,
+      "avg_compound": -0.0661,
       "overall": "BEARISH",
       "bullish": 5,
       "bearish": 10,
@@ -178,13 +191,27 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
+          "published": "2026-08-14T07:14:37+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "Decrypt",
           "title": "XRP Holders Can Now Trade Options Using Flare\u2019s FXRP as Collateral",
@@ -366,17 +393,6 @@
       "confidence": 0.7906
     },
     {
-      "source": "TheBlock",
-      "title": "Blockchain Association backs Custodia\u2019s Supreme Court bid over Fed master account access",
-      "summary": "The industry group said the case is about ensuring 'lawful digital asset businesses can compete on equal footing.'",
-      "url": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
-      "published": "2026-08-13T06:07:59+00:00",
-      "coins": [],
-      "compound": 0.7906,
-      "label": "BULLISH",
-      "confidence": 0.7906
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto platform operator gets 15-year prison sentence in South Korea due to $50 million scam",
       "summary": "",
@@ -397,17 +413,6 @@
       "compound": -0.7351,
       "label": "BEARISH",
       "confidence": 0.7351
-    },
-    {
-      "source": "TheBlock",
-      "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
-      "summary": "The firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.",
-      "url": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664",
-      "published": "2026-08-13T03:07:09+00:00",
-      "coins": [],
-      "compound": -0.7096,
-      "label": "BEARISH",
-      "confidence": 0.7096
     },
     {
       "source": "Decrypt",
@@ -609,6 +614,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
+      "published": "2026-08-14T05:04:52+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto for Advisors: The crypto advice gap",
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-for-advisors-the-crypto-advice-gap",
@@ -652,22 +668,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-      "published": "2026-08-13T10:15:32+00:00",
+      "source": "Decrypt",
+      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
+      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
+      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
+      "published": "2026-08-13T20:30:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
-      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-      "published": "2026-08-13T20:30:24+00:00",
+      "source": "TheBlock",
+      "title": "Washington court orders Kalshi to halt most prediction market offerings in state",
+      "summary": "The Washington court, however, allows Kalshi to continue offering commodities, climate, economics and finance-related markets in the state.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785",
+      "published": "2026-08-14T03:21:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
