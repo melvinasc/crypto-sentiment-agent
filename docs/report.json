@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:50:34.120834+00:00",
+  "generated_at": "2026-08-15T12:51:42.370644+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -78,11 +78,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.444,
+      "article_count": 5,
+      "avg_compound": 0.2709,
       "overall": "BULLISH",
       "bullish": 4,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
@@ -100,6 +100,19 @@
           "confidence": 0.6124
         },
         {
+          "source": "CoinDesk",
+          "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+          "published": "2026-08-15T12:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.4215,
+          "label": "BEARISH",
+          "confidence": 0.4215
+        },
+        {
           "source": "TheBlock",
           "title": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
           "summary": "LeverageShares debuted the world\u2019s first 3x bitcoin and ether ETFs in Europe.\u00a0These would be the first in the U.S., if approved.",
@@ -112,19 +125,6 @@
           "compound": 0.4215,
           "label": "BULLISH",
           "confidence": 0.4215
-        },
-        {
-          "source": "Decrypt",
-          "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
-          "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
-          "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
-          "published": "2026-08-14T19:01:05+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -497,17 +497,6 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-      "published": "2026-08-13T22:18:07+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
