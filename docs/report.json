@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:03:50.887547+00:00",
+  "generated_at": "2026-08-15T01:42:04.948002+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -22,6 +22,57 @@
           "compound": -0.7351,
           "label": "BEARISH",
           "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": -0.6386,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 3,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tether Finally Completes Independent Audit of Reserves With KPMG",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a></p>\n<p>The stablecoin giant for years struggled to get a Big Four accounting firm to audit its reserves. No more. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg",
+          "published": "2026-08-13T20:01:40+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "TheBlock",
+          "title": "\u2018Honestly, I don\u2019t care\u2019: Tether CEO dismisses critics following first KPMG audit",
+          "summary": "A source with direct knowledge told The Block that Tether does not publicly share its audited statements because it is a private company.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
+          "published": "2026-08-14T19:25:43+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.7174,
+          "label": "BEARISH",
+          "confidence": 0.7174
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Tether Finally Gets An Audit",
+          "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
+          "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
+          "published": "2026-08-14T11:45:39+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
         }
       ],
       "no_news": false
@@ -78,78 +129,14 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 4,
-      "avg_compound": -0.2996,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Tether Finally Completes Independent Audit of Reserves With KPMG",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Tether-Takes-Control-of-Twenty-One-Capital-After-Buying-Out-SoftBank.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a></p>\n<p>The stablecoin giant for years struggled to get a Big Four accounting firm to audit its reserves. No more. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg\" rel=\"nofollow\">Tether Finally Completes Independent Audit of Reserves With KPMG</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/tether-completes-audit-with-kpmg",
-          "published": "2026-08-13T20:01:40+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Tether Finally Gets An Audit",
-          "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
-          "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-          "published": "2026-08-14T11:45:39+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tether says it completed long-promised 'Big Four' audit of finances behind $180 billion USDT stablecoin",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/13/tether-says-it-completed-long-promised-big-four-audit-of-finances-behind-usd180-billion-usdt-stablecoin",
-          "published": "2026-08-13T18:26:21+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 4,
-      "avg_compound": 0.1594,
+      "article_count": 3,
+      "avg_compound": 0.0956,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Google and OpenAI Debut Super Fast AI Models\u2014Gemini 3.7 Flash Is Out, But GPT-5.6 Sol Ultrafast Is Invite-Only",
-          "summary": "Google's model is live and built for cheap agents; OpenAI's is quicker but locked behind a waitlist.",
-          "url": "https://decrypt.co/375580/google-openai-super-fast-ai-models-gemini-flash-gpt-ultrafast",
-          "published": "2026-08-13T19:11:03+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.3506,
-          "label": "BULLISH",
-          "confidence": 0.3506
-        },
         {
           "source": "TheBlock",
           "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
@@ -177,18 +164,44 @@
           "compound": -0.0531,
           "label": "BEARISH",
           "confidence": 0.0531
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+          "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
+          "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+          "published": "2026-08-13T21:16:05+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.0569,
+      "avg_compound": -0.0866,
       "overall": "BEARISH",
       "bullish": 8,
       "bearish": 13,
       "neutral": 3,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a></p>\n<p>Bitcoin is the most important asset in two of Abu Dhabi sovereign wealth funds, according to regulatory filings.&#160; Abu Dhabi&#8217;s Mubadala Investment Company disclosed Friday that it held a $490 million stake in BlackRock&#8217;s iShares Bitcoin Trust \u2014 the second-largest single holding across its entire 13F portfolio.\u00a0 And a Thursday filing from the Abu Dhabi [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
+          "published": "2026-08-14T21:17:12+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9522,
+          "label": "BULLISH",
+          "confidence": 0.9522
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "What the CLARITY Act Actually Does for Bitcoin",
@@ -204,29 +217,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns\" rel=\"nofollow\">Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns</a></p>\n<p>Bitcoin company leaders and open-source developers report Chinese AI models delivering superior results on defensive cybersecurity work that restricted American frontier systems refuse, forcing reliance on them to secure critical infrastructure.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns\" rel=\"nofollow\">Chinese AI Beats Restricted OpenAI and Anthropic Cybersecurity Models, Bitcoin Industry Warns</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/chinese-ai-beats-restricted-openai-and-anthropic-cybersecurity-models-bitcoin-industry-warns",
-          "published": "2026-08-13T16:18:45+00:00",
+          "title": "Citi CEO Wants \u2018Good\u2019 Crypto Clarity Act To Get Passed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed\" rel=\"nofollow\">Citi CEO Wants &#8216;Good&#8217; Crypto Clarity Act To Get Passed</a></p>\n<p>Citigroup CEO Jane Fraser has said that while some improvements need to be made to the crypto Clarity Act, the bank wants a &#8220;good bill to go through.&#8221; The banking executive said that the bank was a &#8220;leader in digital assets&#8221; so wanted &#8220;safe adoption&#8221; of the technology.&#160; Lawmakers were trying to get a vote [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed\" rel=\"nofollow\">Citi CEO Wants &#8216;Good&#8217; Crypto Clarity Act To Get Passed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
+          "published": "2026-08-14T20:03:41+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8807,
-          "label": "BEARISH",
-          "confidence": 0.8807
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Nakamoto-Inc.-NAKA-Strengthens-Balance-With-600-Bitcoin-Sale-Refinancing-and-Buyback-Authorization.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results\" rel=\"nofollow\">Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss</a></p>\n<p>The company's first quarterly results are a turning point in the Bitcoin-native company. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results\" rel=\"nofollow\">Nakamoto Posts First Positive Adjusted Operating Income, Despite $133M GAAP Net Loss</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/nakamoto-posts-quarterly-results",
-          "published": "2026-08-13T14:57:04+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.765,
+          "compound": 0.8481,
           "label": "BULLISH",
-          "confidence": 0.765
+          "confidence": 0.8481
         }
       ],
       "no_news": false
@@ -390,14 +390,25 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Citigroup CEO Fraser on Clarity Act: \u2018We would like to see a good bill go through,\u2019 as stablecoin reward issues simmer",
-      "summary": "Citigroup CEO Jane Fraser says she would like to see a crypto bill passed into law, even as she and others continue to fight for changes.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-13-citigroup-ceo-fraser-on-clarity-act-we-would-like-to-see-good-bill-go-stablecoin-reward-issues-simmer-411751",
-      "published": "2026-08-13T17:48:10+00:00",
+      "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+      "summary": "President Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+      "published": "2026-08-14T21:19:39+00:00",
       "coins": [],
-      "compound": 0.8934,
+      "compound": 0.9726,
       "label": "BULLISH",
-      "confidence": 0.8934
+      "confidence": 0.9726
+    },
+    {
+      "source": "TheBlock",
+      "title": "French tax breach exposes nearly 678,000 people as crypto wrench attacks pile up",
+      "summary": "Crypto wrench attacks in France are on pace to make 2026 the worst year ever for violent crimes targeting crypto holders in the country.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-14-french-tax-breach-exposes-nearly-678000-people-crypto-wrench-attacks-pile-up-411876",
+      "published": "2026-08-14T19:07:47+00:00",
+      "coins": [],
+      "compound": -0.936,
+      "label": "BEARISH",
+      "confidence": 0.936
     },
     {
       "source": "Decrypt",
@@ -411,6 +422,28 @@
       "confidence": 0.8602
     },
     {
+      "source": "TheBlock",
+      "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
+      "summary": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
+      "url": "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
+      "published": "2026-08-14T19:34:37+00:00",
+      "coins": [],
+      "compound": 0.8462,
+      "label": "BULLISH",
+      "confidence": 0.8462
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "published": "2026-08-14T21:05:23+00:00",
+      "coins": [],
+      "compound": 0.7964,
+      "label": "BULLISH",
+      "confidence": 0.7964
+    },
+    {
       "source": "Decrypt",
       "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
       "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
@@ -420,17 +453,6 @@
       "compound": -0.7783,
       "label": "BEARISH",
       "confidence": 0.7783
-    },
-    {
-      "source": "TheBlock",
-      "title": "Baltimore sues Kalshi and Polymarket, roping Coinbase, Robinhood and Webull into the fight",
-      "summary": "Mayor Brandon Scott and the Baltimore City Council sued Kalshi, Polymarket and major trading platforms over alleged illegal sports betting.",
-      "url": "https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
-      "published": "2026-08-13T18:51:45+00:00",
-      "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
-      "confidence": 0.7351
     },
     {
       "source": "TheBlock",
@@ -511,6 +533,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+      "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+      "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+      "published": "2026-08-14T20:01:13+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
       "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
       "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
       "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
@@ -543,17 +576,6 @@
       "confidence": 0.128
     },
     {
-      "source": "TheBlock",
-      "title": "Google ad phishing scam drains $550,000 from Hyperliquid user, security specialist says",
-      "summary": "In April, crypto security nonprofit Security Alliance (SEAL) said it had blocked 356 malicious Google ad URLs over a period of several weeks.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-13-google-ad-phishing-scam-drains-550000-from-hyperliquid-user-security-specialist-says-411755",
-      "published": "2026-08-13T18:45:33+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
       "summary": "",
@@ -574,6 +596,17 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
+      "published": "2026-08-14T23:41:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -603,17 +636,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
       "published": "2026-08-14T05:04:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Is Quietly Watermarking Every Claude AI Output. Builders Are Already Trying to Break It",
-      "summary": "Anthropic is weaving an invisible, machine-readable watermark into every word its newest Claude models write\u2014and it hasn't said how.",
-      "url": "https://decrypt.co/375594/anthropic-quietly-watermarking-ai-claude-output-builders-break",
-      "published": "2026-08-13T20:30:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
