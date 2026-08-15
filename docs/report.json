@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:51:42.370644+00:00",
+  "generated_at": "2026-08-15T18:39:43.846723+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -130,12 +130,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0956,
+      "article_count": 2,
+      "avg_compound": 0.1435,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -164,30 +164,17 @@
           "compound": -0.0531,
           "label": "BEARISH",
           "confidence": 0.0531
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-          "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
-          "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-          "published": "2026-08-13T21:16:05+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.0866,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 13,
-      "neutral": 3,
+      "avg_compound": -0.0433,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 11,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -227,31 +214,6 @@
           "compound": 0.8481,
           "label": "BULLISH",
           "confidence": 0.8481
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cluster of headwinds weigh on bitcoin. XRP teeters near $1",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/14/cluster-of-headwinds-weigh-on-bitcoin-xrp-teeters-near-usd1",
-          "published": "2026-08-14T07:14:37+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -385,6 +347,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -409,6 +381,17 @@
       "compound": -0.936,
       "label": "BEARISH",
       "confidence": 0.936
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+      "summary": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
+      "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
+      "published": "2026-08-15T13:01:04+00:00",
+      "coins": [],
+      "compound": 0.8779,
+      "label": "BULLISH",
+      "confidence": 0.8779
     },
     {
       "source": "Decrypt",
@@ -467,6 +450,28 @@
     },
     {
       "source": "Decrypt",
+      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+      "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+      "published": "2026-08-15T17:01:03+00:00",
+      "coins": [],
+      "compound": 0.7003,
+      "label": "BULLISH",
+      "confidence": 0.7003
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The $11.2 billion in 2026 funding that killed crypto\u2019s permissionless era",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+      "published": "2026-08-15T14:00:00+00:00",
+      "coins": [],
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
       "title": "Kalshi Ordered to Block Washington Bets Days After CFTC Backed It",
       "summary": "A King County judge gave the exchange until August 19 to stop offering sports, election and politics wagers in the state.",
       "url": "https://decrypt.co/375619/kalshi-ordered-to-block-washington-bets-days-after-cftc-backed-it",
@@ -477,15 +482,26 @@
       "confidence": 0.6124
     },
     {
-      "source": "Decrypt",
-      "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
-      "summary": "In a new red-team study, Claude models deployed self-replicating malware against each other\u2014and the transcripts explain why.",
-      "url": "https://decrypt.co/375596/anthropic-ai-agents-virtual-war-quotes-unhinged",
-      "published": "2026-08-13T21:45:04+00:00",
+      "source": "CoinDesk",
+      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
+      "published": "2026-08-15T13:00:00+00:00",
       "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
+      "summary": "The session is scheduled for 2:30 p.m. ET on Wednesday and is intended as a kickoff for the CFTC's first Innovation Advisory Committee meeting the next day.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
+      "published": "2026-08-15T15:20:19+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -566,25 +582,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns",
+      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns",
-      "published": "2026-08-13T23:09:14+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "published": "2026-08-15T16:00:00+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "TheBlock",
-      "title": "Gemini shares slide after $108 million loss as Winklevoss says \u2018we still have work to do\u2019",
-      "summary": "Gemini\u2019s prediction market volume nearly doubled as the exchange continued expanding beyond crypto trading.",
-      "url": "https://www.theblock.co/news/business/2026-08-13-gemini-shares-slide-108-million-loss-winklevoss-says-we-still-have-work-to-do-411775",
-      "published": "2026-08-13T21:15:23+00:00",
-      "coins": [],
-      "compound": -0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -609,22 +614,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "RedotPay said to put $1 billion U.S. IPO plan on hold: Bloomberg",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/14/redotpay-said-to-put-usd1-billion-u-s-ipo-plan-on-hold-bloomberg",
-      "published": "2026-08-14T10:35:40+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan shuttered its banking relationship with predictions platform Polymarket: FT",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/14/jpmorgan-shuttered-its-banking-relationship-with-predictions-platform-polymarket-ft",
-      "published": "2026-08-14T05:04:52+00:00",
+      "source": "Decrypt",
+      "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+      "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+      "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+      "published": "2026-08-15T15:01:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -636,17 +630,6 @@
       "summary": "An MSCI proposal could see Strategy and Metaplanet removed from its global indexes under a new non-operating company screen.",
       "url": "https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809",
       "published": "2026-08-14T10:57:33+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Washington court orders Kalshi to halt most prediction market offerings in state",
-      "summary": "The Washington court, however, allows Kalshi to continue offering commodities, climate, economics and finance-related markets in the state.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-13-washington-court-orders-kalshi-411785",
-      "published": "2026-08-14T03:21:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
