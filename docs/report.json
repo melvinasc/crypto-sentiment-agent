@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:39:43.846723+00:00",
+  "generated_at": "2026-08-16T01:49:12.309711+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -77,6 +77,32 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.34,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+          "published": "2026-08-14T17:09:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 5,
       "avg_compound": 0.2709,
@@ -125,45 +151,6 @@
           "compound": 0.4215,
           "label": "BULLISH",
           "confidence": 0.4215
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1435,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
-          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
-          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
-          "published": "2026-08-14T17:09:37+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitwise mulls tokenizing its Solana staking ETF via Superstate partnership",
-          "summary": "Shares held in tokenized form would carry the same rights as those in book-entry form, though not freely transferable outside the system.",
-          "url": "https://www.theblock.co/news/defi/2026-08-14-bitwise-tokenize-sol-staking-etf-411790",
-          "published": "2026-08-14T04:09:44+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.0531,
-          "label": "BEARISH",
-          "confidence": 0.0531
         }
       ],
       "no_news": false
@@ -480,6 +467,17 @@
       "compound": -0.6124,
       "label": "BEARISH",
       "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
+      "title": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
+      "summary": "Polymarket has moved its accounts to a lender the report could not identify but says it still maintains a \"close, active relationship\" with JPMorgan.",
+      "url": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
+      "published": "2026-08-15T21:51:41+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
     },
     {
       "source": "CoinDesk",
