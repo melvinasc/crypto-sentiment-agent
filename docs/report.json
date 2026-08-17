@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:38:46.005457+00:00",
+  "generated_at": "2026-08-17T01:46:52.491220+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -104,27 +104,13 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2709,
+      "article_count": 4,
+      "avg_compound": 0.1855,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 3,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Norway sovereign wealth fund sees indirect bitcoin exposure hit all-time high, with Strategy accounting for 86%: K33",
-          "summary": "Norges Bank Investment Management also disclosed a new $88 million stake in Ethereum treasury firm Bitmine.",
-          "url": "https://www.theblock.co/news/markets/2026-08-14-norway-sovereign-wealth-fund-indirect-bitcoin-exposure-all-time-high-strategy-k33-411815",
-          "published": "2026-08-14T12:25:38+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
         {
           "source": "CoinDesk",
           "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
@@ -151,15 +137,28 @@
           "compound": 0.4215,
           "label": "BULLISH",
           "confidence": 0.4215
+        },
+        {
+          "source": "Decrypt",
+          "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+          "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+          "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+          "published": "2026-08-14T19:01:05+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0093,
+      "article_count": 22,
+      "avg_compound": -0.0375,
       "overall": "NEUTRAL",
-      "bullish": 9,
+      "bullish": 8,
       "bearish": 10,
       "neutral": 4,
       "top_articles": [
@@ -639,6 +638,17 @@
       "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
       "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
       "published": "2026-08-15T15:01:05+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
+      "summary": "Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.",
+      "url": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
+      "published": "2026-08-16T21:40:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
