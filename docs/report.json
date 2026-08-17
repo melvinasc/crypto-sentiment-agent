@@ -1,37 +1,13 @@
 {
-  "generated_at": "2026-08-17T07:08:52.155190+00:00",
+  "generated_at": "2026-08-17T12:57:50.169944+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.7351,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-          "summary": "Binance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.",
-          "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
-          "published": "2026-08-14T15:43:26+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.7351,
-          "label": "BEARISH",
-          "confidence": 0.7351
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.6386,
+      "article_count": 2,
+      "avg_compound": -0.7377,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -60,30 +36,80 @@
           "compound": -0.7174,
           "label": "BEARISH",
           "confidence": 0.7174
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.5375,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
+          "summary": "Binance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.",
+          "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
+          "published": "2026-08-14T15:43:26+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
         },
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: Tether Finally Gets An Audit",
-          "summary": "It seems Tether passed, putting an end to the longest-running open criticism of the leading stablecoin company.",
-          "url": "https://decrypt.co/375625/morning-minute-tether-finally-gets-an-audit",
-          "published": "2026-08-14T11:45:39+00:00",
+          "source": "CoinDesk",
+          "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+          "published": "2026-08-17T09:16:14+00:00",
           "coins": [
-            "USDT"
+            "BNB"
           ],
-          "compound": -0.4404,
+          "compound": -0.34,
           "label": "BEARISH",
-          "confidence": 0.4404
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.34,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+          "published": "2026-08-14T17:09:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.3878,
+      "article_count": 4,
+      "avg_compound": 0.2908,
       "overall": "BULLISH",
       "bullish": 3,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -130,38 +156,12 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
-          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
-          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
-          "published": "2026-08-14T17:09:37+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0216,
+      "article_count": 27,
+      "avg_compound": -0.0463,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 11,
+      "bullish": 10,
+      "bearish": 13,
       "neutral": 4,
       "top_articles": [
         {
@@ -202,6 +202,30 @@
           "compound": 0.8481,
           "label": "BULLISH",
           "confidence": 0.8481
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+          "published": "2026-08-17T09:13:02+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -349,16 +373,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -396,17 +410,6 @@
       "confidence": 0.8779
     },
     {
-      "source": "Decrypt",
-      "title": "Ireland\u2019s New AML Strategy Brings \u2018Enhanced Checks\u2019 on Private Crypto Wallets",
-      "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
-      "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-      "published": "2026-08-14T12:38:39+00:00",
-      "coins": [],
-      "compound": 0.8602,
-      "label": "BULLISH",
-      "confidence": 0.8602
-    },
-    {
       "source": "TheBlock",
       "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
       "summary": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
@@ -419,25 +422,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
-      "summary": "Malware planted during a bogus coding assessment harvested a session token, bypassing multi-factor authentication to reach a code repository.",
-      "url": "https://decrypt.co/375653/fake-linkedin-crypto-job-scams-have-cost-11-8m-singapore",
-      "published": "2026-08-14T14:55:29+00:00",
+      "title": "Pirated Copies of 'The Odyssey' Are Hiding Crypto-Stealing Malware",
+      "summary": "Bitdefender says fake downloads of the newly released blockbuster are already spreading Lumma Stealer, malware that scrapes crypto wallets, passwords and browser sessions from infected machines.",
+      "url": "https://decrypt.co/375747/pirated-copies-odyssey-hiding-crypto-stealing-malware",
+      "published": "2026-08-17T12:31:04+00:00",
       "coins": [],
-      "compound": -0.7783,
+      "compound": -0.743,
       "label": "BEARISH",
-      "confidence": 0.7783
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
-      "summary": "StablecoinX shares surged after the Ethena treasury firm revealed it holds 20% of ENA\u2019s total supply.",
-      "url": "https://www.theblock.co/news/business/2026-08-14-ethena-treasury-company-stablecoinx-shares-jump-12-revealing-20-stake-ena-supply-411845",
-      "published": "2026-08-14T15:17:03+00:00",
-      "coins": [],
-      "compound": 0.7184,
-      "label": "BULLISH",
-      "confidence": 0.7184
+      "confidence": 0.743
     },
     {
       "source": "Decrypt",
@@ -462,15 +454,15 @@
       "confidence": 0.7003
     },
     {
-      "source": "CoinDesk",
-      "title": "The $11.2 billion in 2026 funding that killed crypto\u2019s permissionless era",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "published": "2026-08-15T14:00:00+00:00",
+      "source": "Decrypt",
+      "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
+      "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
+      "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
+      "published": "2026-08-17T10:13:41+00:00",
       "coins": [],
-      "compound": -0.6705,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.6705
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -506,17 +498,6 @@
       "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
-      "published": "2026-08-15T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "TheBlock",
       "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
       "summary": "The session is scheduled for 2:30 p.m. ET on Wednesday and is intended as a kickoff for the CFTC's first Innovation Advisory Committee meeting the next day.",
@@ -529,36 +510,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "title": "September Fed interest-rate increase is 'very unlikely,' Goldman Sachs says",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
-      "published": "2026-08-16T14:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says",
+      "published": "2026-08-17T08:16:11+00:00",
       "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "published": "2026-08-16T14:02:32+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
-      "published": "2026-08-16T13:00:00+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -595,32 +554,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Israel\u2019s largest crypto broker Bits of Gold hit by data breach affecting 200,000 customers",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/17/israel-s-largest-crypto-broker-bits-of-gold-hit-by-data-breach-affecting-200-000-customers",
+      "published": "2026-08-17T11:59:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitpanda fined 70,000 euros in Austria\u2019s first published MiCA enforcement case",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
+      "published": "2026-08-17T10:52:31+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "The SEC meeting that wasn't: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
       "published": "2026-08-16T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "published": "2026-08-16T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-      "published": "2026-08-15T16:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
