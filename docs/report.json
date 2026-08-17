@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:46:52.491220+00:00",
+  "generated_at": "2026-08-17T07:08:52.155190+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -77,53 +77,14 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.34,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.3878,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
-          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
-          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
-          "published": "2026-08-14T17:09:37+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1855,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
-          "published": "2026-08-15T12:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.4215,
-          "label": "BEARISH",
-          "confidence": 0.4215
-        },
         {
           "source": "TheBlock",
           "title": "Cboe seeks SEC nod for first US 3x bitcoin and ether ETFs",
@@ -150,16 +111,57 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+          "published": "2026-08-14T17:09:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.34,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
+          "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+          "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
+          "published": "2026-08-14T17:09:37+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0375,
+      "article_count": 24,
+      "avg_compound": -0.0216,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 10,
+      "bullish": 9,
+      "bearish": 11,
       "neutral": 4,
       "top_articles": [
         {
@@ -200,6 +202,30 @@
           "compound": 0.8481,
           "label": "BULLISH",
           "confidence": 0.8481
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
+          "published": "2026-08-17T04:43:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -333,16 +359,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -400,17 +416,6 @@
       "compound": 0.8462,
       "label": "BULLISH",
       "confidence": 0.8462
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
-      "published": "2026-08-14T21:05:23+00:00",
-      "coins": [],
-      "compound": 0.7964,
-      "label": "BULLISH",
-      "confidence": 0.7964
     },
     {
       "source": "Decrypt",
@@ -616,17 +621,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
       "published": "2026-08-15T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-      "published": "2026-08-14T23:41:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
