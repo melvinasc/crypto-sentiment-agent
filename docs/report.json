@@ -1,77 +1,51 @@
 {
-  "generated_at": "2026-08-17T18:50:23.984887+00:00",
+  "generated_at": "2026-08-18T01:41:48.924400+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
+    "XRP": {
       "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "avg_compound": 0.4767,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
-          "published": "2026-08-17T09:16:14+00:00",
+          "source": "Decrypt",
+          "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+          "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
+          "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+          "published": "2026-08-17T19:01:56+00:00",
           "coins": [
-            "BNB"
+            "XRP"
           ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         }
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.1118,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.4404,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 7,
-      "neutral": 4,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a></p>\n<p>Bitcoin is the most important asset in two of Abu Dhabi sovereign wealth funds, according to regulatory filings.&#160; Abu Dhabi&#8217;s Mubadala Investment Company disclosed Friday that it held a $490 million stake in BlackRock&#8217;s iShares Bitcoin Trust \u2014 the second-largest single holding across its entire 13F portfolio.\u00a0 And a Thursday filing from the Abu Dhabi [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
-          "published": "2026-08-14T21:17:12+00:00",
+          "source": "TheBlock",
+          "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
+          "summary": "Tokenized stock market share has grown to 15%, up 3x from the start of the year, with the total market cap around $2.8 billion.",
+          "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
+          "published": "2026-08-17T20:55:00+00:00",
           "coins": [
-            "BTC"
+            "BNB"
           ],
-          "compound": 0.9522,
+          "compound": 0.4404,
           "label": "BULLISH",
-          "confidence": 0.9522
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "What the CLARITY Act Actually Does for Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-the-CLARITY-Act-Actually-Does-for-Bitcoin.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin\" rel=\"nofollow\">What the CLARITY Act Actually Does for Bitcoin</a></p>\n<p>Behind the 256-Page Overhaul: Why the CLARITY Act is More Protection Than Price Catalyst for Bitcoin</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin\" rel=\"nofollow\">What the CLARITY Act Actually Does for Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/isaiahaustin\" rel=\"nofollow\">Isaiah Austin</a>.</p>",
-          "url": "https://bitcoinmagazine.com/takes/what-the-clarity-act-actually-does-for-bitcoin",
-          "published": "2026-08-14T14:09:26+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8964,
-          "label": "BULLISH",
-          "confidence": 0.8964
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a></p>\n<p>The U.S. Department of the Treasury is moving fast with crypto regulation, with the government body asking for public comment on the landmark GENIUS Act.&#160; In a Monday announcement, the Treasury said that it was welcoming input from stakeholders on a proposed rule that would provide clarity to industry regarding who needs a license to [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
-          "published": "2026-08-17T16:36:51+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.872,
-          "label": "BULLISH",
-          "confidence": 0.872
+          "confidence": 0.4404
         }
       ],
       "no_news": false
@@ -126,6 +100,56 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": 0.0401,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 7,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a></p>\n<p>Bitcoin is the most important asset in two of Abu Dhabi sovereign wealth funds, according to regulatory filings.&#160; Abu Dhabi&#8217;s Mubadala Investment Company disclosed Friday that it held a $490 million stake in BlackRock&#8217;s iShares Bitcoin Trust \u2014 the second-largest single holding across its entire 13F portfolio.\u00a0 And a Thursday filing from the Abu Dhabi [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
+          "published": "2026-08-14T21:17:12+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9522,
+          "label": "BULLISH",
+          "confidence": 0.9522
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a></p>\n<p>The U.S. Department of the Treasury is moving fast with crypto regulation, with the government body asking for public comment on the landmark GENIUS Act.&#160; In a Monday announcement, the Treasury said that it was welcoming input from stakeholders on a proposed rule that would provide clarity to industry regarding who needs a license to [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
+          "published": "2026-08-17T16:36:51+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.872,
+          "label": "BULLISH",
+          "confidence": 0.872
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Citi CEO Wants \u2018Good\u2019 Crypto Clarity Act To Get Passed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Banking-Lobby-CEO-Talks-Crypto-Clarity-Act-as-Senators-Race-To-Pass-Bill.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed\" rel=\"nofollow\">Citi CEO Wants &#8216;Good&#8217; Crypto Clarity Act To Get Passed</a></p>\n<p>Citigroup CEO Jane Fraser has said that while some improvements need to be made to the crypto Clarity Act, the bank wants a &#8220;good bill to go through.&#8221; The banking executive said that the bank was a &#8220;leader in digital assets&#8221; so wanted &#8220;safe adoption&#8221; of the technology.&#160; Lawmakers were trying to get a vote [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed\" rel=\"nofollow\">Citi CEO Wants &#8216;Good&#8217; Crypto Clarity Act To Get Passed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
+          "published": "2026-08-14T20:03:41+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8481,
+          "label": "BULLISH",
+          "confidence": 0.8481
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -142,30 +166,6 @@
           "published": "2026-08-17T18:29:56+00:00",
           "coins": [
             "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
-          "published": "2026-08-17T09:13:02+00:00",
-          "coins": [
-            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -294,7 +294,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -304,7 +304,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -317,26 +317,15 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
-      "summary": "President Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
-      "published": "2026-08-14T21:19:39+00:00",
+      "source": "Decrypt",
+      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
+      "summary": "Elon Musk\u2019s AI firm says the state\u2019s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
+      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
+      "published": "2026-08-17T22:16:03+00:00",
       "coins": [],
-      "compound": 0.9726,
-      "label": "BULLISH",
-      "confidence": 0.9726
-    },
-    {
-      "source": "TheBlock",
-      "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
-      "summary": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
-      "url": "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
-      "published": "2026-08-14T19:34:37+00:00",
-      "coins": [],
-      "compound": 0.8462,
-      "label": "BULLISH",
-      "confidence": 0.8462
+      "compound": -0.875,
+      "label": "BEARISH",
+      "confidence": 0.875
     },
     {
       "source": "TheBlock",
@@ -348,6 +337,17 @@
       "compound": -0.8402,
       "label": "BEARISH",
       "confidence": 0.8402
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
+      "summary": "Payward is joining Project Glasswing, Anthropic\u2019s program for giving vetted organizations access to its powerful cybersecurity AI.",
+      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
+      "published": "2026-08-17T22:35:46+00:00",
+      "coins": [],
+      "compound": 0.765,
+      "label": "BULLISH",
+      "confidence": 0.765
     },
     {
       "source": "Decrypt",
@@ -372,17 +372,6 @@
       "confidence": 0.7383
     },
     {
-      "source": "Decrypt",
-      "title": "Apple Turns to Alibaba to Help Build AI Model for China",
-      "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
-      "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
-      "published": "2026-08-15T17:01:03+00:00",
-      "coins": [],
-      "compound": 0.7003,
-      "label": "BULLISH",
-      "confidence": 0.7003
-    },
-    {
       "source": "TheBlock",
       "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
       "summary": "U.S. officials rated the severity of the vulnerability a critical 9.8/10 on the CVSS scale, and experts are warning users to update their devices.",
@@ -395,14 +384,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
-      "summary": "The trustee says Knaken bought the coins in its own name, leaving customers with a euro claim against a company that has collapsed.",
-      "url": "https://decrypt.co/375757/dutch-prosecutors-sell-2-5m-of-crypto-from-bankrupt-platform-knaken",
-      "published": "2026-08-17T10:13:41+00:00",
+      "title": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
+      "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
+      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
+      "published": "2026-08-17T19:59:18+00:00",
       "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
+      "compound": 0.6249,
+      "label": "BULLISH",
+      "confidence": 0.6249
     },
     {
       "source": "TheBlock",
@@ -414,28 +403,6 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
-      "summary": "Three weeks after a Flash release that couldn't produce a working file, Google's budget tier zero-shots a playable game. It still can't reason, and a free 27B model still writes better.",
-      "url": "https://decrypt.co/375730/gemini-3-7-flash-review-google-cheap-model",
-      "published": "2026-08-16T16:00:05+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "Decrypt",
-      "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
-      "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
-      "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
-      "published": "2026-08-16T14:01:03+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -460,15 +427,59 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
-      "summary": "The session is scheduled for 2:30 p.m. ET on Wednesday and is intended as a kickoff for the CFTC's first Innovation Advisory Committee meeting the next day.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-15-trump-cftc-chair-selig-expected-at-wednesday-white-house-meeting-with-crypto-and-prediction-market-executives-411919",
-      "published": "2026-08-15T15:20:19+00:00",
+      "source": "CoinDesk",
+      "title": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "published": "2026-08-17T22:12:00+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
+      "summary": "Stablecoin market cap on the chain has reached $640 million, the bulk of which has come from USDe.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
+      "published": "2026-08-17T22:26:02+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Saylor says share buyback isn\u2019t priority as Strategy builds $4.8 billion cash reserve",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
+      "published": "2026-08-17T18:53:47+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
+      "summary": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
+      "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
+      "published": "2026-08-17T21:16:17+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+      "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+      "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+      "published": "2026-08-17T20:31:04+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
