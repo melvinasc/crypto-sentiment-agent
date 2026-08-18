@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-08-18T12:59:08.321196+00:00",
+  "generated_at": "2026-08-18T18:48:55.458452+00:00",
   "total_articles": 55,
   "coins": {
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.4767,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
+          "published": "2026-08-18T13:00:00+00:00",
+          "coins": [
+            "BTC",
+            "USDC"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
     "BNB": {
       "article_count": 1,
       "avg_compound": 0.4404,
@@ -26,11 +51,63 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.2182,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.25,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+          "published": "2026-08-18T15:04:21+00:00",
+          "coins": [
+            "AVAX",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.25,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+          "published": "2026-08-18T15:04:21+00:00",
+          "coins": [
+            "AVAX",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.2384,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
@@ -46,19 +123,6 @@
           "compound": 0.4767,
           "label": "BULLISH",
           "confidence": 0.4767
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP sinks below $1 for first time since 2024 even as Korean bank adopts Ripple Payments",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-          "published": "2026-08-18T05:34:32+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
         },
         {
           "source": "TheBlock",
@@ -77,38 +141,27 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0675,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 3,
+      "article_count": 3,
+      "avg_compound": 0.0833,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-          "published": "2026-08-18T05:18:18+00:00",
+          "source": "TheBlock",
+          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+          "published": "2026-08-18T15:04:21+00:00",
           "coins": [
-            "ETH"
+            "AVAX",
+            "ETH",
+            "SOL"
           ],
-          "compound": -0.235,
-          "label": "BEARISH",
-          "confidence": 0.235
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-          "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
-          "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-          "published": "2026-08-17T18:19:46+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
         },
         {
           "source": "CoinDesk",
@@ -122,31 +175,31 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+          "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
+          "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
+          "published": "2026-08-18T12:37:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0133,
-      "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 8,
-      "neutral": 4,
+      "article_count": 26,
+      "avg_compound": -0.0509,
+      "overall": "BEARISH",
+      "bullish": 9,
+      "bearish": 11,
+      "neutral": 6,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/05/Abu-Dhabis-Mubadala-Raises-Bitcoin-ETF-Stake-16-to-566-Million-in-Q1-2026.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a></p>\n<p>Bitcoin is the most important asset in two of Abu Dhabi sovereign wealth funds, according to regulatory filings.&#160; Abu Dhabi&#8217;s Mubadala Investment Company disclosed Friday that it held a $490 million stake in BlackRock&#8217;s iShares Bitcoin Trust \u2014 the second-largest single holding across its entire 13F portfolio.\u00a0 And a Thursday filing from the Abu Dhabi [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions\" rel=\"nofollow\">Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/abu-dhabi-funds-keep-big-bitcoin-positions",
-          "published": "2026-08-14T21:17:12+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9522,
-          "label": "BULLISH",
-          "confidence": 0.9522
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong",
@@ -162,55 +215,34 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/US-Treasury-Asks-For-Public-Input-on-Landmark-Genius-Act-Crypto-Legislation.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a></p>\n<p>The U.S. Department of the Treasury is moving fast with crypto regulation, with the government body asking for public comment on the landmark GENIUS Act.&#160; In a Monday announcement, the Treasury said that it was welcoming input from stakeholders on a proposed rule that would provide clarity to industry regarding who needs a license to [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act\" rel=\"nofollow\">US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/us-treasury-asks-for-input-on-genius-act",
-          "published": "2026-08-17T16:36:51+00:00",
+          "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi\" rel=\"nofollow\">Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI</a></p>\n<p>Clay Garrett\u2019s investigation matched the 1,082.65 BTC sweeps to a major data provider\u2019s internal logs with \u201cextraordinary specificity.\u201d The coins remain unmoved.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi\" rel=\"nofollow\">Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
+          "published": "2026-08-18T16:02:05+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.872,
-          "label": "BULLISH",
-          "confidence": 0.872
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "compound": -0.9201,
+          "label": "BEARISH",
+          "confidence": 0.9201
+        },
         {
-          "source": "Decrypt",
-          "title": "Solana\u2019s Pump Token Leads Crypto Market Gainers as Chart Paints Golden Cross",
-          "summary": "The native token of Solana's Pump.fun is up 8%, and the pattern bulls have been waiting for is starting to form on the daily chart.",
-          "url": "https://decrypt.co/375788/solana-pump-price-crypto-market-golden-cross",
-          "published": "2026-08-17T18:29:56+00:00",
+          "source": "TheBlock",
+          "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
+          "summary": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
+          "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
+          "published": "2026-08-18T15:09:55+00:00",
           "coins": [
-            "SOL"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.886,
+          "label": "BULLISH",
+          "confidence": 0.886
         }
       ],
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -320,16 +352,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -366,17 +388,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
-      "summary": "Harmony considered alternatives, including a token burn &amp; blacklisting wallets, but concluded a rollback was \"fairest and most secure.\"",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-harmony-plans-pre-attack-rollback-after-exploiter-forged-3-trillion-one-tokens-411976",
-      "published": "2026-08-17T15:06:21+00:00",
-      "coins": [],
-      "compound": 0.7383,
-      "label": "BULLISH",
-      "confidence": 0.7383
-    },
-    {
-      "source": "TheBlock",
       "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
       "summary": "Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
       "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
@@ -396,6 +407,28 @@
       "compound": 0.6249,
       "label": "BULLISH",
       "confidence": 0.6249
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
+      "summary": "WorldClaw accepts World Liberty\u2019s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
+      "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
+      "published": "2026-08-18T18:36:04+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto\u2019s easy-money era is ending in a wave of failures",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
+      "published": "2026-08-18T13:22:40+00:00",
+      "coins": [],
+      "compound": -0.4588,
+      "label": "BEARISH",
+      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -431,17 +464,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward joins Anthropic\u2019s Project Glasswing for AI security push",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "published": "2026-08-17T22:12:00+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "TheBlock",
       "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
       "summary": "Stablecoin market cap on the chain has reached $640 million, the bulk of which has come from USDe.",
@@ -451,17 +473,6 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Saylor says share buyback isn\u2019t priority as Strategy builds $4.8 billion cash reserve",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/17/saylor-says-share-buyback-isn-t-a-priority-as-it-builds-its-usd4-8-billion-cash-reserve-though-a-possibility",
-      "published": "2026-08-17T18:53:47+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -484,17 +495,6 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitMart founder dismisses calls for audit as users report blocked funds, unpaid employees",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/17/bitmart-founder-dismisses-calls-for-audit-as-users-report-blocked-funds-unpaid-employees",
-      "published": "2026-08-17T16:40:08+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -520,28 +520,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
-      "summary": "Under the law, entities generally cannot issue payment stablecoins in the U.S. without obtaining an appropriate federal or state license.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-17-us-treasury-seeks-public-comment-genius-act-stablecoin-rules-411987",
-      "published": "2026-08-17T16:40:26+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-      "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
-      "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-      "published": "2026-08-17T13:31:04+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "TheBlock",
       "title": "Kraken brings US stock trading to European Economic Area customers",
       "summary": "Kraken has launched US stock trading for eligible customers across all European Economic Area member countries.",
       "url": "https://www.theblock.co/news/business/2026-08-18-kraken-us-stock-trading-europe-economic-area-412027",
@@ -563,15 +541,37 @@
       "confidence": 0.128
     },
     {
-      "source": "Decrypt",
-      "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
-      "summary": "The securities regulator cited an \"unforeseen scheduling issue,\" but sources point to a legal threat from Wall Street trade group SIFMA and an administration waiting to see whether the Clarity Act passes in September.",
-      "url": "https://decrypt.co/375779/wall-street-pushback-halts-sec-crypto-fundraising-framework",
-      "published": "2026-08-17T16:27:26+00:00",
+      "source": "CoinDesk",
+      "title": "Kraken adds U.S. stocks in Europe as TradFi-crypto divide blurs",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
+      "published": "2026-08-18T16:08:46+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
+      "published": "2026-08-18T15:07:52+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals",
+      "published": "2026-08-18T14:03:27+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -585,24 +585,13 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Compound bets $52 million, new leadership team in switch to institutional focus",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/17/compound-bets-usd52-million-new-leadership-team-in-switch-to-institutional-focus",
-      "published": "2026-08-17T15:32:30+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-      "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
-      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-      "published": "2026-08-17T15:54:29+00:00",
+      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
+      "summary": "The bankrupt airline\u2019s internal communications and business records could soon be used to improve Google\u2019s AI systems.",
+      "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
+      "published": "2026-08-18T17:19:44+00:00",
       "coins": [],
-      "compound": 0.0,
+      "compound": -0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
