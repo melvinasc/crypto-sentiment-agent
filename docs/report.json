@@ -1,31 +1,7 @@
 {
-  "generated_at": "2026-08-18T01:41:48.924400+00:00",
+  "generated_at": "2026-08-18T06:55:49.096997+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-          "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-          "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-          "published": "2026-08-17T19:01:56+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 1,
       "avg_compound": 0.4404,
@@ -50,48 +26,48 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.0558,
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.2182,
       "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 3,
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
-          "summary": "Bitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
-          "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
-          "published": "2026-08-17T13:53:11+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
           "source": "Decrypt",
-          "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
-          "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
-          "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
-          "published": "2026-08-17T18:19:46+00:00",
+          "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
+          "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
+          "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
+          "published": "2026-08-17T19:01:56+00:00",
           "coins": [
-            "ETH"
+            "XRP"
           ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         },
         {
           "source": "CoinDesk",
-          "title": "Tom Lee's Bitmine now owns 4.8% of Ethereum supply after latest ETH purchase",
+          "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/17/tom-lee-s-bitmine-now-owns-4-8-of-ethereum-supply-after-latest-eth-purchase",
-          "published": "2026-08-17T14:04:21+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+          "published": "2026-08-18T05:34:32+00:00",
           "coins": [
-            "ETH"
+            "XRP"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
+          "summary": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
+          "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
+          "published": "2026-08-18T06:17:53+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -101,11 +77,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0401,
+      "article_count": 18,
+      "avg_compound": 0.0453,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 7,
+      "bullish": 7,
+      "bearish": 6,
       "neutral": 5,
       "top_articles": [
         {
@@ -146,6 +122,56 @@
           "compound": 0.8481,
           "label": "BULLISH",
           "confidence": 0.8481
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.0073,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
+          "summary": "Bitmine added 9,926 ETH last week, taking holdings to 5.82 million tokens while buybacks reached 20.8 million shares since July.",
+          "url": "https://www.theblock.co/news/business/2026-08-17-bitmine-adds-9926-eth-taking-total-holdings-to-roughly-11-billion-411968",
+          "published": "2026-08-17T13:53:11+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+          "published": "2026-08-18T05:18:18+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.235,
+          "label": "BEARISH",
+          "confidence": 0.235
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Developers Target Privacy Changes in Next Major Upgrade",
+          "summary": "A proposed package would let privacy pools pay their own transaction fees without relying on intermediaries.",
+          "url": "https://decrypt.co/375787/ethereum-developers-privacy-hegota-upgrade",
+          "published": "2026-08-17T18:19:46+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -394,17 +420,6 @@
       "confidence": 0.6249
     },
     {
-      "source": "TheBlock",
-      "title": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
-      "summary": "Polymarket has moved its accounts to a lender the report could not identify but says it still maintains a \"close, active relationship\" with JPMorgan.",
-      "url": "https://www.theblock.co/news/business/2026-08-15-jpmorgan-cut-polymarkets-banking-ties-in-october-but-still-wants-a-role-in-a-potential-ipo-ft-411929",
-      "published": "2026-08-15T21:51:41+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
       "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
@@ -581,22 +596,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Bitpanda fined 70,000 euros in Austria\u2019s first published MiCA enforcement case",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/17/bitpanda-fined-eur70-000-in-austria-s-first-published-mica-enforcement-case",
-      "published": "2026-08-17T10:52:31+00:00",
+      "source": "Decrypt",
+      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+      "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
+      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+      "published": "2026-08-17T15:54:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
-      "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
-      "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
-      "published": "2026-08-17T15:54:29+00:00",
+      "source": "TheBlock",
+      "title": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
+      "summary": "Investor capital in South Korea largely shifted toward domestic equities, with the benchmark KOSPI more than doubling in H1 2026.",
+      "url": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034",
+      "published": "2026-08-18T05:30:25+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
