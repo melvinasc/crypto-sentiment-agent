@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-19T13:00:38.037064+00:00",
+  "generated_at": "2026-08-19T18:44:57.197652+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3787,
+      "article_count": 1,
+      "avg_compound": 0.7574,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -22,28 +22,65 @@
           "compound": 0.7574,
           "label": "BULLISH",
           "confidence": 0.7574
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.6249,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Ripple raises $275 million in senior notes for prime brokerage push",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
-          "published": "2026-08-19T09:55:50+00:00",
+          "source": "TheBlock",
+          "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+          "summary": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+          "published": "2026-08-19T16:01:13+00:00",
           "coins": [
-            "XRP"
+            "ETH",
+            "LINK"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.6249,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
+          "summary": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
+          "published": "2026-08-19T16:01:13+00:00",
+          "coins": [
+            "ETH",
+            "LINK"
+          ],
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.3306,
+      "article_count": 1,
+      "avg_compound": 0.4019,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -59,125 +96,18 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
-          "published": "2026-08-19T04:25:42+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "TheBlock",
-          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-          "published": "2026-08-18T15:04:21+00:00",
-          "coins": [
-            "AVAX",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.25,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-          "published": "2026-08-18T15:04:21+00:00",
-          "coins": [
-            "AVAX",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.125,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-          "published": "2026-08-18T15:04:21+00:00",
-          "coins": [
-            "AVAX",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
-          "summary": "Plus, Ethereum researchers are prioritizing privacy; Robinhood is rolling out agentic trading; and Ansem debuts his own launchpad.",
-          "url": "https://decrypt.co/375856/morning-minute-pump-prints-first-golden-cross-as-revenue-hits-seven-month-high",
-          "published": "2026-08-18T12:37:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0282,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 21,
+      "avg_compound": -0.1477,
+      "overall": "BEARISH",
+      "bullish": 6,
       "bearish": 10,
       "neutral": 5,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Evil-Biscuit-and-the-Schizocollage-Movement-Come-to-Hong-Kong.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/the-pack-is-the-painting-evil-biscuit-and-the-schizocollage-movement-come-to-hong-kong\" rel=\"nofollow\">The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong</a></p>\n<p>In 1956, at an exhibition hall in Tokyo, a Japanese artist named Sabur\u014d Murakami ran through a row of paper screens, leaving a torn, human-shaped hole in each one. The audience heard the rip in the moment but likely didn\u2019t understand it. Murakami belonged to Gutai, the radical postwar avant-garde collective whose members painted with [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/the-pack-is-the-painting-evil-biscuit-and-the-schizocollage-movement-come-to-hong-kong\" rel=\"nofollow\">The Pack Is the Painting: Evil Biscuit and the Schizocollage Movement Come to Hong Kong</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/dennis-koch\" rel=\"nofollow\">Dennis Koch</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/the-pack-is-the-painting-evil-biscuit-and-the-schizocollage-movement-come-to-hong-kong",
-          "published": "2026-08-18T12:45:19+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9319,
-          "label": "BEARISH",
-          "confidence": 0.9319
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
@@ -203,11 +133,34 @@
           "compound": -0.9118,
           "label": "BEARISH",
           "confidence": 0.9118
+        },
+        {
+          "source": "TheBlock",
+          "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
+          "summary": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
+          "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
+          "published": "2026-08-18T15:09:55+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.886,
+          "label": "BULLISH",
+          "confidence": 0.886
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -248,16 +201,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -350,15 +293,15 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
-      "summary": "Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
-      "url": "https://www.theblock.co/news/defi/2026-08-18-curve-founder-fatf-pressure-could-make-defi-safer-412059",
-      "published": "2026-08-18T10:34:53+00:00",
+      "source": "CoinDesk",
+      "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
+      "published": "2026-08-19T15:22:29+00:00",
       "coins": [],
-      "compound": 0.7096,
+      "compound": 0.7351,
       "label": "BULLISH",
-      "confidence": 0.7096
+      "confidence": 0.7351
     },
     {
       "source": "Decrypt",
@@ -372,11 +315,11 @@
       "confidence": 0.6326
     },
     {
-      "source": "Decrypt",
-      "title": "Trump Family Crypto Firm Tied to Chinese AI Models US Government Called a Security Risk",
-      "summary": "WorldClaw accepts World Liberty\u2019s USD1 stablecoin while offering AI models from Chinese companies facing U.S. national security restrictions.",
-      "url": "https://decrypt.co/375887/trump-crypto-firm-chinese-ai-government-called-security-risk",
-      "published": "2026-08-18T18:36:04+00:00",
+      "source": "CoinDesk",
+      "title": "Strengthen the Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act",
+      "published": "2026-08-19T13:00:00+00:00",
       "coins": [],
       "compound": 0.6124,
       "label": "BULLISH",
@@ -394,6 +337,17 @@
       "confidence": 0.5994
     },
     {
+      "source": "Decrypt",
+      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here\u2019s What It Means",
+      "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
+      "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
+      "published": "2026-08-19T16:54:46+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
+    },
+    {
       "source": "TheBlock",
       "title": "White House crypto adviser Patrick Witt says he is \u2018optimistic and bullish\u2019 on Clarity Act as stablecoin fight resurfaces",
       "summary": "The White House\u2019s top crypto adviser said he is feeling \"optimistic and bullish\" ahead of the first planned vote on sweeping crypto legislation.",
@@ -403,6 +357,28 @@
       "compound": 0.5719,
       "label": "BULLISH",
       "confidence": 0.5719
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
+      "summary": "Scott Shay said big banks could use blockchain payments to take market share from smaller rivals as N3XT expands globally.",
+      "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
+      "published": "2026-08-19T13:08:49+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
+      "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
+      "summary": "Injective says the registration gives it a regulated way to keep track of who owns tokenized securities and how those assets change hands.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
+      "published": "2026-08-19T16:24:24+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -428,13 +404,24 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training",
+      "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training",
-      "published": "2026-08-19T09:10:22+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
+      "published": "2026-08-19T14:57:35+00:00",
       "coins": [],
-      "compound": -0.4019,
+      "compound": -0.4215,
       "label": "BEARISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: SEC Brings Clarity to Crypto",
+      "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
+      "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+      "published": "2026-08-19T14:30:24+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
       "confidence": 0.4019
     },
     {
@@ -458,17 +445,6 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-      "published": "2026-08-18T23:11:12+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -515,26 +491,15 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "\u2018The Crypto Program\u2019 promoter deported from Fiji over alleged $165 million Ponzi scheme",
-      "summary": "Fiji deported Edward Zimbardi to the U.S. to face charges over an alleged $165 million crypto Ponzi scheme involving thousands of investors.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-the-crypto-program-promoter-deported-from-fiji-over-alleged-165-million-ponzi-scheme-412083",
-      "published": "2026-08-18T10:49:53+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "CoinDesk",
-      "title": "\u2018It has to pass\u2019: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "title": "AI could supercharge crypto but there\u2019s a catch, Fidelity Digital Assets says",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-      "published": "2026-08-19T01:35:36+00:00",
+      "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
+      "published": "2026-08-19T14:59:07+00:00",
       "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
+      "compound": 0.2617,
+      "label": "BULLISH",
+      "confidence": 0.2617
     },
     {
       "source": "Decrypt",
@@ -582,10 +547,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
-      "published": "2026-08-19T10:04:30+00:00",
+      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "published": "2026-08-19T18:10:10+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -593,10 +558,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robot maker Unitree\u2019s IPO surges 600% , outpacing crypto traders\u2019 premarket bets",
+      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift\u2019s 24/7 ledger",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
-      "published": "2026-08-19T05:45:27+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
+      "published": "2026-08-19T14:50:33+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
+      "published": "2026-08-19T14:41:55+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -604,12 +580,45 @@
     },
     {
       "source": "Decrypt",
-      "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
-      "summary": "The bankrupt airline\u2019s internal communications and business records could soon be used to improve Google\u2019s AI systems.",
-      "url": "https://decrypt.co/375883/google-spirit-airlines-data-train-ai",
-      "published": "2026-08-18T17:19:44+00:00",
+      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
+      "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
+      "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
+      "published": "2026-08-19T16:31:04+00:00",
       "coins": [],
-      "compound": -0.0,
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+      "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
+      "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
+      "published": "2026-08-19T16:00:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
+      "summary": "The OCC is stepping on the gas to finalize rules by November to implement a stablecoin law signed by President Trump.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
+      "published": "2026-08-19T17:03:52+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale\u2019s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
+      "summary": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
+      "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
+      "published": "2026-08-19T16:57:52+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
@@ -619,17 +628,6 @@
       "summary": "Kalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
       "url": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
       "published": "2026-08-19T03:22:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cypherpunk Technologies launches Zcash mining fleet with $33 million Winklevoss deal",
-      "summary": "Cypherpunk Mining is online as of today with roughly 4.2 GSol/s of Equihash hashrate deployed across the US.",
-      "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
-      "published": "2026-08-18T12:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
