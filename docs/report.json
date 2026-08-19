@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:48:55.458452+00:00",
+  "generated_at": "2026-08-19T01:44:01.052572+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -27,26 +27,78 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.4404,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3787,
       "overall": "BULLISH",
       "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple CLO says Sept. 15 will be a \u2018bellwether\u2019 for Clarity Act market structure bill",
+          "summary": "Stuart Alderoty calls Sept. 15 a key test for the Clarity Act and warns the U.S. could \"miss an incredible opportunity.\"",
+          "url": "https://www.theblock.co/news/regulation/2026-08-18-ripple-clo-september-15-bellwether-clarity-act-market-structure-bill-412142",
+          "published": "2026-08-18T19:49:12+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.7574,
+          "label": "BULLISH",
+          "confidence": 0.7574
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
+          "summary": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
+          "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
+          "published": "2026-08-18T06:17:53+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.3259,
+      "overall": "BULLISH",
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tokenized equities triple market share as Ondo, Binance and xStocks dominate",
-          "summary": "Tokenized stock market share has grown to 15%, up 3x from the start of the year, with the total market cap around $2.8 billion.",
-          "url": "https://www.theblock.co/news/defi/2026-08-17-tokenized-equities-triple-market-share-ondo-binance-xstocks-dominate-411996",
-          "published": "2026-08-17T20:55:00+00:00",
+          "title": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
+          "summary": "Miller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can\u2019t afford to keep waiting for Congress.\"",
+          "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+          "published": "2026-08-18T21:22:47+00:00",
           "coins": [
-            "BNB"
+            "SOL"
           ],
-          "compound": 0.4404,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.4404
+          "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+          "published": "2026-08-18T15:04:21+00:00",
+          "coins": [
+            "AVAX",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
         }
       ],
       "no_news": false
@@ -77,78 +129,15 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.25,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-          "published": "2026-08-18T15:04:21+00:00",
-          "coins": [
-            "AVAX",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
+    "ETH": {
       "article_count": 2,
-      "avg_compound": 0.2384,
+      "avg_compound": 0.125,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "XRP Price Holds to Near Two-Year Streak, But Charts Flash a Warning Sign",
-          "summary": "XRP is clinging to the dollar price line it's defended since Trump's 2024 win. But both the daily and weekly charts are now flashing red.",
-          "url": "https://decrypt.co/375794/xrp-price-two-year-streak-charts-flash-warning",
-          "published": "2026-08-17T19:01:56+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
-          "summary": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
-          "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
-          "published": "2026-08-18T06:17:53+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0833,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
           "source": "TheBlock",
           "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
           "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
@@ -162,19 +151,6 @@
           "compound": 0.25,
           "label": "BULLISH",
           "confidence": 0.25
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum\u2019s next upgrade breaks the '21,000 gas' rule wallets rely on",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
-          "published": "2026-08-18T12:17:05+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -193,12 +169,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0509,
-      "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 11,
-      "neutral": 6,
+      "article_count": 23,
+      "avg_compound": -0.0243,
+      "overall": "NEUTRAL",
+      "bullish": 10,
+      "bearish": 9,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -227,22 +203,32 @@
           "confidence": 0.9201
         },
         {
-          "source": "TheBlock",
-          "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
-          "summary": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
-          "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
-          "published": "2026-08-18T15:09:55+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "BitBox Warns Bitcoiners After Discovering \u2018Severe\u2019 Vulnerability In Firmware",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BitBox-Warns-Bitcoiners-After-Discovering-Severe-Vulnerability-In-Firmware.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability\" rel=\"nofollow\">BitBox Warns Bitcoiners After Discovering &#8216;Severe&#8217; Vulnerability In Firmware\u00a0</a></p>\n<p>Bitcoin wallet manufacturer BitBox has told users it was able to fix &#8220;severe vulnerabilities&#8221; with its hardware wallet&#8217;s firmware, and reassured users that no funds were taken. Yet it still urged users to upgrade carefully.&#160; Writing in a blog post Tuesday, the Swiss company said that one of the vulnerabilities would have allowed an attacker [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability\" rel=\"nofollow\">BitBox Warns Bitcoiners After Discovering &#8216;Severe&#8217; Vulnerability In Firmware\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability",
+          "published": "2026-08-18T21:06:52+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.886,
-          "label": "BULLISH",
-          "confidence": 0.886
+          "compound": -0.9118,
+          "label": "BEARISH",
+          "confidence": 0.9118
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -365,28 +351,6 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-      "summary": "Elon Musk\u2019s AI firm says the state\u2019s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-      "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-      "published": "2026-08-17T22:16:03+00:00",
-      "coins": [],
-      "compound": -0.875,
-      "label": "BEARISH",
-      "confidence": 0.875
-    },
-    {
-      "source": "Decrypt",
-      "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
-      "summary": "Payward is joining Project Glasswing, Anthropic\u2019s program for giving vetted organizations access to its powerful cybersecurity AI.",
-      "url": "https://decrypt.co/375836/kraken-payward-anthropic-project-glasswing-claude-mythos",
-      "published": "2026-08-17T22:35:46+00:00",
-      "coins": [],
-      "compound": 0.765,
-      "label": "BULLISH",
-      "confidence": 0.765
-    },
-    {
       "source": "TheBlock",
       "title": "Curve founder says FATF pressure could make DeFi safer and more decentralized",
       "summary": "Curve founder Michael Egorov said FATF pressure could push DeFi protocols toward greater decentralization and stronger security.",
@@ -399,14 +363,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI\u2019s Answer to Rogue Agents and Hacks Is More AI, Not Less",
-      "summary": "OpenAI President Greg Brockman's new essay cites his company's own hack of Hugging Face to push urgent AI-powered defense.",
-      "url": "https://decrypt.co/375816/openai-answer-rogue-agents-hacks-more-ai",
-      "published": "2026-08-17T19:59:18+00:00",
+      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
+      "summary": "X\u2019s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
+      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
+      "published": "2026-08-18T21:20:04+00:00",
       "coins": [],
-      "compound": 0.6249,
-      "label": "BULLISH",
-      "confidence": 0.6249
+      "compound": -0.6326,
+      "label": "BEARISH",
+      "confidence": 0.6326
     },
     {
       "source": "Decrypt",
@@ -418,6 +382,39 @@
       "compound": 0.6124,
       "label": "BULLISH",
       "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
+      "title": "White House crypto adviser Patrick Witt says he is \u2018optimistic and bullish\u2019 on Clarity Act as stablecoin fight resurfaces",
+      "summary": "The White House\u2019s top crypto adviser said he is feeling \"optimistic and bullish\" ahead of the first planned vote on sweeping crypto legislation.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160",
+      "published": "2026-08-18T20:25:35+00:00",
+      "coins": [],
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
+    },
+    {
+      "source": "Decrypt",
+      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
+      "summary": "Traders are betting OpenAI's next frontier model lands within weeks\u2014even after the company pumped the brakes.",
+      "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
+      "published": "2026-08-18T19:15:26+00:00",
+      "coins": [],
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation",
+      "summary": "On Tuesday, the SEC proposed a new rule that seeks to offer a pathway for investments involving digital assets.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
+      "published": "2026-08-18T19:23:53+00:00",
+      "coins": [],
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
     },
     {
       "source": "CoinDesk",
@@ -443,6 +440,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Mozilla Tests an AI 'Smart Window' in Firefox\u2014But Only If You Opt In",
+      "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
+      "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
+      "published": "2026-08-18T22:31:04+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
       "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
       "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
       "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
@@ -454,47 +462,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "South Korea joins more than 30 jurisdictions restricting Polymarket access",
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
-      "published": "2026-08-18T11:05:56+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "published": "2026-08-18T23:11:12+00:00",
       "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
+      "compound": 0.3818,
+      "label": "BULLISH",
       "confidence": 0.3818
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood Chain TVL surges 45% in August as tokenized RWAs lose ground",
-      "summary": "Stablecoin market cap on the chain has reached $640 million, the bulk of which has come from USDe.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-17-robinhood-chain-tvl-surges-45-august-tokenized-rwas-lose-ground-411998",
-      "published": "2026-08-17T22:26:02+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
-      "title": "Prediction Markets Give the Fed 74% Odds of Standing Pat in September",
-      "summary": "Traders across Polymarket, Kalshi, and Myriad are leaning the same way: no change at the September meeting.",
-      "url": "https://decrypt.co/375821/prediction-fed-rate-change-september",
-      "published": "2026-08-17T21:16:17+00:00",
+      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
+      "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
+      "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
+      "published": "2026-08-18T22:56:04+00:00",
       "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-      "summary": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-      "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
-      "published": "2026-08-17T20:31:04+00:00",
-      "coins": [],
-      "compound": 0.296,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. SEC proposes first major crypto rule in surprise announcement",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/18/r",
+      "published": "2026-08-18T19:09:33+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -508,6 +505,17 @@
       "confidence": 0.2732
     },
     {
+      "source": "CoinDesk",
+      "title": "\u2018It has to pass\u2019: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "published": "2026-08-19T01:35:36+00:00",
+      "coins": [],
+      "compound": -0.25,
+      "label": "BEARISH",
+      "confidence": 0.25
+    },
+    {
       "source": "TheBlock",
       "title": "Blockchain Association backs SEC\u2019s proposal to scrap outdated NMS rules, citing tokenization benefits",
       "summary": "The rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
@@ -517,6 +525,17 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "Decrypt",
+      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
+      "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
+      "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
+      "published": "2026-08-18T21:49:46+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -539,6 +558,39 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+      "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
+      "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
+      "published": "2026-08-18T20:00:25+00:00",
+      "coins": [],
+      "compound": 0.0547,
+      "label": "BULLISH",
+      "confidence": 0.0547
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
+      "published": "2026-08-18T21:25:42+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wyoming joins $15 billion LayerZero exodus with state stablecoin move",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/18/wyoming-joins-usd15-billion-layerzero-exodus-with-state-stablecoin-move",
+      "published": "2026-08-18T18:57:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -574,17 +626,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Visa looking for new stablecoin settlement partner after BVNK sale to Mastercard",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
-      "published": "2026-08-18T12:20:48+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Google Is Paying $10 Million to Use Spirit Airlines Data to Train Its AI Models",
       "summary": "The bankrupt airline\u2019s internal communications and business records could soon be used to improve Google\u2019s AI systems.",
@@ -601,17 +642,6 @@
       "summary": "Cypherpunk Mining is online as of today with roughly 4.2 GSol/s of Equihash hashrate deployed across the US.",
       "url": "https://www.theblock.co/news/business/2026-08-18-cypherpunk-technologies-launches-zcash-mining-fleet-412071",
       "published": "2026-08-18T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Upbit and Bithumb report 50% declines in H1 revenue, reflecting market contraction",
-      "summary": "Investor capital in South Korea largely shifted toward domestic equities, with the benchmark KOSPI more than doubling in H1 2026.",
-      "url": "https://www.theblock.co/news/markets/2026-08-18-upbit-bithumb-h1-decline-412034",
-      "published": "2026-08-18T05:30:25+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
