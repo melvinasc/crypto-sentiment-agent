@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-08-19T01:44:01.052572+00:00",
+  "generated_at": "2026-08-19T06:56:27.241941+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
+    "XRP": {
       "article_count": 1,
-      "avg_compound": 0.4767,
+      "avg_compound": 0.7574,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cash App's crypto support expands beyond bitcoin and USDC via MoonPay",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/18/cash-app-s-crypto-support-expands-beyond-bitcoin-and-usdc-via-moonpay",
-          "published": "2026-08-18T13:00:00+00:00",
-          "coins": [
-            "BTC",
-            "USDC"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3787,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -47,58 +22,6 @@
           "compound": 0.7574,
           "label": "BULLISH",
           "confidence": 0.7574
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple partners with South Korea\u2019s Jeonbuk Bank for cross-border payments",
-          "summary": "The Jeonbuk Bank collaboration marked Ripple's third Korean partnership this year, following those with Kyobo Life Insurance and Kbank.",
-          "url": "https://www.theblock.co/news/business/2026-08-18-ripple-south-korea-jeonbuk-bank-412049",
-          "published": "2026-08-18T06:17:53+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.3259,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
-          "summary": "Miller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can\u2019t afford to keep waiting for Congress.\"",
-          "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
-          "published": "2026-08-18T21:22:47+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "TheBlock",
-          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
-          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-          "published": "2026-08-18T15:04:21+00:00",
-          "coins": [
-            "AVAX",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
         }
       ],
       "no_news": false
@@ -129,13 +52,67 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.2173,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
+          "summary": "Miller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can\u2019t afford to keep waiting for Congress.\"",
+          "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
+          "published": "2026-08-18T21:22:47+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Securitize brings Neuberger\u2019s $230 billion fixed-income platform onchain with new tokenized fund",
+          "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
+          "url": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
+          "published": "2026-08-18T15:04:21+00:00",
+          "coins": [
+            "AVAX",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+          "published": "2026-08-19T04:25:42+00:00",
+          "coins": [
+            "SOL",
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.125,
+      "article_count": 3,
+      "avg_compound": 0.0833,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -151,6 +128,21 @@
           "compound": 0.25,
           "label": "BULLISH",
           "confidence": 0.25
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+          "published": "2026-08-19T04:25:42+00:00",
+          "coins": [
+            "SOL",
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -170,7 +162,7 @@
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.0243,
+      "avg_compound": -0.0276,
       "overall": "NEUTRAL",
       "bullish": 10,
       "bearish": 9,
@@ -338,6 +330,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -415,17 +417,6 @@
       "compound": 0.4939,
       "label": "BULLISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto\u2019s easy-money era is ending in a wave of failures",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/13/crypto-s-easy-money-era-is-ending-in-a-wave-of-failures",
-      "published": "2026-08-18T13:22:40+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -572,6 +563,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Robot maker Unitree\u2019s IPO surges 600%, outpacing crypto traders\u2019 premarket bets",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "published": "2026-08-19T05:45:27+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
@@ -633,6 +635,17 @@
       "published": "2026-08-18T17:19:44+00:00",
       "coins": [],
       "compound": -0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+      "summary": "Kalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
+      "url": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
+      "published": "2026-08-19T03:22:58+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
