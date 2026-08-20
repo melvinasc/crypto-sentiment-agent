@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:57:25.176333+00:00",
+  "generated_at": "2026-08-20T13:03:02.310301+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,37 +27,50 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3548,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
-          "summary": "Miller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can\u2019t afford to keep waiting for Congress.\"",
-          "url": "https://www.theblock.co/news/regulation/2026-08-18-solana-policy-institute-ceo-larity-act-august-recess-purgatory-gives-10-odds-midterms-412171",
-          "published": "2026-08-18T21:22:47+00:00",
+          "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
+          "summary": "The XRP-focused digital asset treasury firm plans to put its holdings to work as it also moves through the process of going public.",
+          "url": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
+          "published": "2026-08-20T11:34:05+00:00",
           "coins": [
-            "SOL"
+            "XRP"
           ],
-          "compound": 0.4019,
+          "compound": 0.7096,
           "label": "BULLISH",
-          "confidence": 0.4019
+          "confidence": 0.7096
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
+          "published": "2026-08-20T11:35:47+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2749,
+      "article_count": 4,
+      "avg_compound": 0.3437,
       "overall": "BULLISH",
       "bullish": 3,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -105,12 +118,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.1308,
+      "article_count": 25,
+      "avg_compound": -0.0597,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 10,
       "bearish": 10,
-      "neutral": 6,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -254,6 +267,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -293,29 +316,30 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "Coinbase, Circle and Bullish jump as Clarity Act proponents express optimism about bill",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
-      "published": "2026-08-19T15:22:29+00:00",
+      "source": "TheBlock",
+      "title": "GSR\u2019s Baehr says tokenized fixed income could play key role in institutional collateral",
+      "summary": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
+      "url": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
+      "published": "2026-08-20T10:08:12+00:00",
       "coins": [],
-      "compound": 0.7351,
+      "compound": 0.7964,
       "label": "BULLISH",
-      "confidence": 0.7351
+      "confidence": 0.7964
+    },
+    {
+      "source": "TheBlock",
+      "title": "Securitize\u2019s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics",
+      "summary": "Securitize says the SEC delayed its crypto trading exemption to avoid complicating Senate votes on the Clarity Act.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
+      "published": "2026-08-20T10:06:46+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -327,6 +351,17 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
+      "published": "2026-08-20T09:25:25+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -349,17 +384,6 @@
       "compound": 0.5859,
       "label": "BULLISH",
       "confidence": 0.5859
-    },
-    {
-      "source": "TheBlock",
-      "title": "White House crypto adviser Patrick Witt says he is \u2018optimistic and bullish\u2019 on Clarity Act as stablecoin fight resurfaces",
-      "summary": "The White House\u2019s top crypto adviser said he is feeling \"optimistic and bullish\" ahead of the first planned vote on sweeping crypto legislation.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-white-house-crypto-adviser-patrick-witt-optimistic-bullish-clarity-act-stablecoin-fight-412160",
-      "published": "2026-08-18T20:25:35+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -418,17 +442,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto Long & Short: Where DeFi yield really comes from (and why it broke this spring)",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/18/crypto-long-and-short-where-defi-yield-really-comes-from-and-why-it-broke-this-spring",
-      "published": "2026-08-19T14:57:35+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
       "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
@@ -450,17 +463,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it",
-      "summary": "Rain CEO Farooq Malik said more than 100,000 merchants accept stablecoins unknowingly, with transactions settling through Visa in three days.",
-      "url": "https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184",
-      "published": "2026-08-19T10:09:40+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
       "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
       "summary": "Edward Zimbardi allegedly lured thousands of investors into \"The Crypto Program\" with promises of 25% monthly returns before fleeing to Fiji.",
@@ -472,37 +474,26 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
-      "summary": "Gov. Josh Shapiro ordered new restrictions on large data centers aimed at shielding residents from higher electricity costs and giving communities more control over proposed projects.",
-      "url": "https://decrypt.co/375923/pennsylvania-ai-data-centers-backlash",
-      "published": "2026-08-18T22:56:04+00:00",
+      "source": "TheBlock",
+      "title": "OpenLedger\u2019s Ram Kumar sees agentic payments as crypto\u2019s first AI \u2018killer app\u2019",
+      "summary": "OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto use case as AI agents lack traditional banking access.",
+      "url": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
+      "published": "2026-08-20T11:34:23+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "Winklevoss-Backed Cypherpunk Launches 'World's Largest' Zcash Mining Fleet",
-      "summary": "The Nasdaq-listed privacy firm launched Cypherpunk Mining through a $33.33 million equity deal with Winklevoss Capital, adding roughly 18% of the Zcash network's hashrate to accelerate its treasury ambitions.",
-      "url": "https://decrypt.co/375926/winklevoss-cypherpunk-zcash-mining-fleet",
-      "published": "2026-08-19T09:31:03+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
+      "compound": -0.3182,
+      "label": "BEARISH",
       "confidence": 0.3182
     },
     {
-      "source": "CoinDesk",
-      "title": "AI could supercharge crypto but there\u2019s a catch, Fidelity Digital Assets says",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/19/ai-could-supercharge-crypto-but-there-s-a-catch-fidelity-digital-assets-says",
-      "published": "2026-08-19T14:59:07+00:00",
+      "source": "Decrypt",
+      "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
+      "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
+      "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
+      "published": "2026-08-20T09:31:03+00:00",
       "coins": [],
-      "compound": 0.2617,
-      "label": "BULLISH",
-      "confidence": 0.2617
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -528,6 +519,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Elon Musk's X is exploring stablecoins to pay influencers and content providers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers",
+      "published": "2026-08-20T09:40:25+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+      "summary": "",
+      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+      "published": "2026-08-20T12:00:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
@@ -538,33 +551,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
-      "published": "2026-08-19T18:10:10+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "HSBC, Standard Chartered execute first live banking transaction on Swift\u2019s 24/7 ledger",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger",
-      "published": "2026-08-19T14:50:33+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cantor opens Kalshi prediction markets to thousands of institutional clients",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/19/cantor-opens-kalshi-prediction-markets-to-thousands-of-institutional-clients",
-      "published": "2026-08-19T14:41:55+00:00",
+      "source": "Decrypt",
+      "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
+      "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
+      "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
+      "published": "2026-08-20T11:31:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -609,17 +600,6 @@
       "summary": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
       "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
       "published": "2026-08-19T16:57:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
-      "summary": "Kalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
-      "url": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
-      "published": "2026-08-19T03:22:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
