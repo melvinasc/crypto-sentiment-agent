@@ -1,40 +1,29 @@
 {
-  "generated_at": "2026-08-20T13:03:02.310301+00:00",
+  "generated_at": "2026-08-20T18:51:04.828673+00:00",
   "total_articles": 55,
   "coins": {
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.6249,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
-          "summary": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
-          "published": "2026-08-19T16:01:13+00:00",
-          "coins": [
-            "ETH",
-            "LINK"
-          ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3548,
+      "article_count": 3,
+      "avg_compound": 0.4915,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Notches Best Week Since 2024 Election Pump on Bitcoin Short Squeeze",
+          "summary": "The token's steepest daily and weekly gains in months rode Bitcoin's record liquidation wave\u2014though ETF flows and futures data hint the move is running on borrowed momentum.",
+          "url": "https://decrypt.co/376120/xrp-price-best-week-since-2024-election-pump",
+          "published": "2026-08-20T17:46:08+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        },
         {
           "source": "TheBlock",
           "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
@@ -64,28 +53,38 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3437,
-      "overall": "BULLISH",
-      "bullish": 3,
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum engineering firm Nethermind leaves LayerZero verifier role for Chainlink",
-          "summary": "Nethermind said it is joining Chainlink as a node operator, where it will help secure CCIP and Data Feeds.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-19-nethermind-layerzero-chainlink-412226",
-          "published": "2026-08-19T16:01:13+00:00",
+          "title": "\u2018Star Wars vibes:\u2019 Chainlink\u2019s McCormick sees AI agents, robots driving blockchain transactions",
+          "summary": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
+          "url": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
+          "published": "2026-08-20T13:58:22+00:00",
           "coins": [
-            "ETH",
             "LINK"
           ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        },
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.2499,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
           "title": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
@@ -113,17 +112,30 @@
           "compound": 0.5106,
           "label": "BULLISH",
           "confidence": 0.5106
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
+          "published": "2026-08-20T05:40:54+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0597,
-      "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 10,
-      "neutral": 5,
+      "article_count": 27,
+      "avg_compound": 0.0893,
+      "overall": "BULLISH",
+      "bullish": 15,
+      "bearish": 9,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -152,17 +164,17 @@
           "confidence": 0.9118
         },
         {
-          "source": "Decrypt",
-          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
-          "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
-          "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
-          "published": "2026-08-19T18:20:35+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Rockets-Past-72000-After-Trump-Pushes-For-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000\" rel=\"nofollow\">Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act\u00a0</a></p>\n<p>Bitcoin&#8217;s price surged further on Thursday, blowing past $72,000 the day after President Trump held a meeting with crypto executives and urged lawmakers to get the long-awaited Clarity Act over the line.&#160; The leading cryptocurrency was trading for $71,758 at 8am in New York, after jumping nearly 12% over a 24-hour period. It touched as [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000\" rel=\"nofollow\">Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000",
+          "published": "2026-08-20T13:40:27+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8625,
-          "label": "BEARISH",
-          "confidence": 0.8625
+          "compound": 0.7845,
+          "label": "BULLISH",
+          "confidence": 0.7845
         }
       ],
       "no_news": false
@@ -320,6 +332,28 @@
   },
   "uncategorised": [
     {
+      "source": "Decrypt",
+      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
+      "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
+      "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
+      "published": "2026-08-20T16:33:38+00:00",
+      "coins": [],
+      "compound": -0.8519,
+      "label": "BEARISH",
+      "confidence": 0.8519
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ondo executive says tokenization is following the same path as early ETFs",
+      "summary": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
+      "url": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
+      "published": "2026-08-20T17:53:38+00:00",
+      "coins": [],
+      "compound": 0.802,
+      "label": "BULLISH",
+      "confidence": 0.802
+    },
+    {
       "source": "TheBlock",
       "title": "GSR\u2019s Baehr says tokenized fixed income could play key role in institutional collateral",
       "summary": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
@@ -329,6 +363,17 @@
       "compound": 0.7964,
       "label": "BULLISH",
       "confidence": 0.7964
+    },
+    {
+      "source": "TheBlock",
+      "title": "Inside the Oval Office meeting: Trump appears \u2018bullish\u2019 on Clarity Act as he solicits feedback from crypto, finance CEOs",
+      "summary": "During a private Oval Office meeting, President Trump appeared \u201cbullish\u201d on passing the Clarity Act, one source said.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
+      "published": "2026-08-20T17:44:28+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
     },
     {
       "source": "TheBlock",
@@ -342,15 +387,15 @@
       "confidence": 0.6369
     },
     {
-      "source": "TheBlock",
-      "title": "Bitwise CIO sees potential for 10-100x blockchain transaction growth as AI agents meet tokenized markets",
-      "summary": "Bitwise CIO Matt Hougan said investors may be underestimating blockchain transaction activity by 10 to 100 times as tokenized markets expand.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-19-bitwise-cio-sees-potential-for-10-100x-blockchain-transaction-growth-as-ai-agents-meet-tokenized-markets-412196",
-      "published": "2026-08-19T11:32:48+00:00",
+      "source": "Decrypt",
+      "title": "Alibaba's Revenue Jumps 9% as AI Cloud Growth Hits 45%\u2014But a Profit Plunge Sends Shares Lower",
+      "summary": "Cloud and AI product revenue accelerated in the June quarter, but a 75% drop in net income extended Alibaba's run of profit misses to a fifth straight quarter.",
+      "url": "https://decrypt.co/376143/alibaba-revenue-jumps-ai-cloud-growth",
+      "published": "2026-08-20T18:32:25+00:00",
       "coins": [],
-      "compound": 0.5994,
+      "compound": 0.6059,
       "label": "BULLISH",
-      "confidence": 0.5994
+      "confidence": 0.6059
     },
     {
       "source": "CoinDesk",
@@ -376,36 +421,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Moderna Stock Doubles on Cancer Breakthrough: Here\u2019s What It Means",
-      "summary": "A Phase 3 win against the standard of care sent the biotech's shares up 131% and left short sellers down $4.8 billion.",
-      "url": "https://decrypt.co/375968/moderna-stock-doubles-cancer-vaccine",
-      "published": "2026-08-19T16:54:46+00:00",
+      "title": "Morning Minute: Hyperliquid Is Coming to the US",
+      "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
+      "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
+      "published": "2026-08-20T14:02:44+00:00",
       "coins": [],
-      "compound": 0.5859,
+      "compound": 0.5222,
       "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ex-Signature Bank chair warns big banks could use blockchain to take market share from smaller rivals as N3XT goes global",
-      "summary": "Scott Shay said big banks could use blockchain payments to take market share from smaller rivals as N3XT expands globally.",
-      "url": "https://www.theblock.co/news/business/2026-08-19-ex-signature-bank-chair-big-banks-blockchain-n3xt-412202",
-      "published": "2026-08-19T13:08:49+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "TheBlock",
-      "title": "Injective becomes SEC-registered transfer agent as it expands tokenization push",
-      "summary": "Injective says the registration gives it a regulated way to keep track of who owns tokenized securities and how those assets change hands.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-19-injective-becomes-sec-registered-transfer-agent-expands-tokenization-push-412225",
-      "published": "2026-08-19T16:24:24+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.5222
     },
     {
       "source": "Decrypt",
@@ -441,37 +464,26 @@
       "confidence": 0.4767
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "published": "2026-08-19T19:48:33+00:00",
+      "source": "Decrypt",
+      "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
+      "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
+      "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
+      "published": "2026-08-20T18:44:08+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: SEC Brings Clarity to Crypto",
-      "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
-      "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-      "published": "2026-08-19T14:30:24+00:00",
+      "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
+      "summary": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
+      "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
+      "published": "2026-08-20T13:31:05+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.347,
       "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "Alleged $165M Crypto Ponzi Mastermind Deported From Fiji to US",
-      "summary": "Edward Zimbardi allegedly lured thousands of investors into \"The Crypto Program\" with promises of 25% monthly returns before fleeing to Fiji.",
-      "url": "https://decrypt.co/375933/crypto-ponzi-mastermind-deported-fiji-us",
-      "published": "2026-08-19T11:31:04+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.347
     },
     {
       "source": "TheBlock",
@@ -530,10 +542,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
+      "title": "Crypto for Advisors: What are tokenized deposits?",
       "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "published": "2026-08-20T12:00:25+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
+      "published": "2026-08-20T15:01:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -541,10 +553,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-      "published": "2026-08-19T19:49:51+00:00",
+      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
+      "published": "2026-08-20T12:00:25+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -556,28 +568,6 @@
       "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
       "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
       "published": "2026-08-20T11:31:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase's Base Is Betting Big on AI Agents With $1 Million Startup Accelerator",
-      "summary": "Base is narrowing its accelerator to 10 startups as it looks for teams building AI agents, payments, trading, and financing products.",
-      "url": "https://decrypt.co/375952/coinbase-base-ai-agents-startup-accelerator",
-      "published": "2026-08-19T16:31:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
-      "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
-      "url": "https://decrypt.co/375921/coinbase-50x-crypto-perps-base-app-hyperliquid",
-      "published": "2026-08-19T16:00:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
