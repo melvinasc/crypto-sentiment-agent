@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:44:57.197652+00:00",
+  "generated_at": "2026-08-20T01:42:26.188074+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -26,7 +26,7 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "LINK": {
       "article_count": 1,
       "avg_compound": 0.6249,
       "overall": "BULLISH",
@@ -51,11 +51,11 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.6249,
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.5912,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -72,6 +72,20 @@
           "compound": 0.6249,
           "label": "BULLISH",
           "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
+          "summary": "The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
+          "published": "2026-08-19T19:05:42+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.5574,
+          "label": "BULLISH",
+          "confidence": 0.5574
         }
       ],
       "no_news": false
@@ -102,24 +116,24 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.1477,
+      "avg_compound": -0.1484,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 10,
-      "neutral": 5,
+      "bearish": 9,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi\" rel=\"nofollow\">Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI</a></p>\n<p>Clay Garrett\u2019s investigation matched the 1,082.65 BTC sweeps to a major data provider\u2019s internal logs with \u201cextraordinary specificity.\u201d The coins remain unmoved.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi\" rel=\"nofollow\">Hunting Down the Coldcard Hacker. Wave 1 Thief May Be Known to FBI</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/technical/hunting-down-the-coldcard-hacker-wave-1-thief-may-be-known-to-fbi",
-          "published": "2026-08-18T16:02:05+00:00",
+          "title": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shortsellers-Get-Destroyed-With-1.7B-in-Positions-Liquidated-Following-BTC-Price-Jump.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed\" rel=\"nofollow\">Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump\u00a0</a></p>\n<p>Those betting on the price of bitcoin to drop have had their positions closed following a green candle earlier on Wednesday. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed\" rel=\"nofollow\">Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed",
+          "published": "2026-08-19T19:11:09+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9201,
+          "compound": -0.9274,
           "label": "BEARISH",
-          "confidence": 0.9201
+          "confidence": 0.9274
         },
         {
           "source": "Bitcoin Magazine",
@@ -135,17 +149,17 @@
           "confidence": 0.9118
         },
         {
-          "source": "TheBlock",
-          "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
-          "summary": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
-          "url": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
-          "published": "2026-08-18T15:09:55+00:00",
+          "source": "Decrypt",
+          "title": "Six-Bug Exploit Halts Maya Protocol After $1.4 Million in Bitcoin Stolen",
+          "summary": "The cross-chain protocol said an attacker exploited six software flaws to drain Bitcoin and other assets, sending its CACAO token plunging.",
+          "url": "https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit",
+          "published": "2026-08-19T18:20:35+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.886,
-          "label": "BULLISH",
-          "confidence": 0.886
+          "compound": -0.8625,
+          "label": "BEARISH",
+          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -304,17 +318,6 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Arguing With People on X May Get You More Posts You Hate as Algo Feeds on Ragebait",
-      "summary": "X\u2019s algorithm may turn argumentative replies into a feedback loop that serves users more content that clashes with their values, with the effect stronger among Democrats, researchers found.",
-      "url": "https://decrypt.co/375899/arguing-twitter-x-more-posts-hate-algorithm-ragebait",
-      "published": "2026-08-18T21:20:04+00:00",
-      "coins": [],
-      "compound": -0.6326,
-      "label": "BEARISH",
-      "confidence": 0.6326
-    },
-    {
       "source": "CoinDesk",
       "title": "Strengthen the Clarity Act",
       "summary": "",
@@ -335,6 +338,17 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
+      "summary": "Trump touted his administration\u2019s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
+      "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
+      "published": "2026-08-19T19:56:45+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -382,25 +396,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Markets Confident OpenAI Releases Its Next AI Model in Weeks",
-      "summary": "Traders are betting OpenAI's next frontier model lands within weeks\u2014even after the company pumped the brakes.",
-      "url": "https://decrypt.co/375892/openai-next-ai-model-gpt6-astra-prediction",
-      "published": "2026-08-18T19:15:26+00:00",
+      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
+      "summary": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
+      "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
+      "published": "2026-08-19T21:36:50+00:00",
       "coins": [],
-      "compound": 0.4939,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.4939
+      "confidence": 0.4767
     },
     {
-      "source": "TheBlock",
-      "title": "SEC proposes new crypto offering rules as Congress stalls on digital asset legislation",
-      "summary": "On Tuesday, the SEC proposed a new rule that seeks to offer a pathway for investments involving digital assets.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-18-sec-proposes-new-crypto-offering-rules-congress-stalls-digital-asset-legislation-412145",
-      "published": "2026-08-18T19:23:53+00:00",
+      "source": "Decrypt",
+      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
+      "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
+      "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
+      "published": "2026-08-19T19:16:04+00:00",
       "coins": [],
-      "compound": 0.4939,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.4939
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
@@ -414,11 +428,11 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: SEC Brings Clarity to Crypto",
-      "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
-      "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
-      "published": "2026-08-19T14:30:24+00:00",
+      "source": "CoinDesk",
+      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
+      "published": "2026-08-19T19:48:33+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -426,10 +440,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Mozilla Tests an AI 'Smart Window' in Firefox\u2014But Only If You Opt In",
-      "summary": "The optional window puts an assistant of your choice next to your tabs, with a switch to disable it.",
-      "url": "https://decrypt.co/375903/mozilla-ai-smart-firefox-opt-in",
-      "published": "2026-08-18T22:31:04+00:00",
+      "title": "Morning Minute: SEC Brings Clarity to Crypto",
+      "summary": "If the proposed rules are formalized, it could lead to an ICO boom in the U.S.",
+      "url": "https://decrypt.co/375949/morning-minute-sec-clarity-crypto-token-fundraising",
+      "published": "2026-08-19T14:30:24+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -456,17 +470,6 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "China triples its e-CNY network in 2026 as 8 more banks join the CBDC push this week",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/19/china-triples-digital-yuan-bank-roster-year-to-date-as-eight-more-banks-join-network",
-      "published": "2026-08-19T11:55:45+00:00",
-      "coins": [],
-      "compound": 0.3566,
-      "label": "BULLISH",
-      "confidence": 0.3566
     },
     {
       "source": "Decrypt",
@@ -502,15 +505,15 @@
       "confidence": 0.2617
     },
     {
-      "source": "Decrypt",
-      "title": "Rare Books Traced to Amazon AI Training Facility to Be Scanned and Destroyed",
-      "summary": "A tracking device planted in a book order ended at a Las Vegas facility where Amazon strips bindings to scan pages for training data.",
-      "url": "https://decrypt.co/375912/rare-books-amazon-ai-scanned-destroyed",
-      "published": "2026-08-18T21:49:46+00:00",
+      "source": "TheBlock",
+      "title": "Congress can still \u2018land this plane\u2019 on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
+      "summary": "Sen. Ruben Gallego says Congress can still \"land this plane,\" referring to the Clarity Act crypto bill, as concerns grow over an unfinished ethics deal.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
+      "published": "2026-08-19T22:36:38+00:00",
       "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -524,15 +527,15 @@
       "confidence": 0.1531
     },
     {
-      "source": "Decrypt",
-      "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
-      "summary": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
-      "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
-      "published": "2026-08-18T20:00:25+00:00",
+      "source": "TheBlock",
+      "title": "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in \u2018fully compliant fashion\u2019",
+      "summary": "President Trump said CFTC Chair Mike Selig is working to bring Hyperliquid into the U.S. in a \u201cfully compliant and legal fashion.\"",
+      "url": "https://www.theblock.co/news/regulation/2026-08-19-hype-token-surges-trump-says-cftc-bring-hyperliquid-us-fully-compliant-fashion-412262",
+      "published": "2026-08-19T20:29:35+00:00",
       "coins": [],
-      "compound": 0.0547,
+      "compound": 0.128,
       "label": "BULLISH",
-      "confidence": 0.0547
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -544,6 +547,17 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
+      "published": "2026-08-19T19:49:51+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
