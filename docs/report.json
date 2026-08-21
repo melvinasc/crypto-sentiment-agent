@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:01:40.331025+00:00",
+  "generated_at": "2026-08-21T18:47:55.692927+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -26,36 +26,38 @@
       ],
       "no_news": false
     },
-    "BNB": {
+    "LINK": {
       "article_count": 1,
-      "avg_compound": 0.5719,
+      "avg_compound": 0.5267,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
-          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-          "published": "2026-08-21T09:31:05+00:00",
+          "source": "TheBlock",
+          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+          "published": "2026-08-21T17:24:02+00:00",
           "coins": [
-            "BNB"
+            "XRP",
+            "BTC",
+            "LINK"
           ],
-          "compound": 0.5719,
+          "compound": 0.5267,
           "label": "BULLISH",
-          "confidence": 0.5719
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.51,
+      "article_count": 5,
+      "avg_compound": 0.306,
       "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
+      "bullish": 3,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -86,51 +88,114 @@
           "confidence": 0.765
         },
         {
-          "source": "CoinDesk",
-          "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
-          "published": "2026-08-21T01:51:56+00:00",
+          "source": "Decrypt",
+          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
+          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+          "published": "2026-08-21T15:39:02+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
+    "BTC": {
+      "article_count": 31,
+      "avg_compound": 0.2313,
+      "overall": "BULLISH",
+      "bullish": 17,
+      "bearish": 7,
+      "neutral": 7,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Roars-Towards-80000-Following-Positive-Regulatory-News-US-Buyback-Pledge.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000\" rel=\"nofollow\">Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge</a></p>\n<p>Bitcoin has continued its rocket upwards, and blew past $79,000 on Friday. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000\" rel=\"nofollow\">Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
+          "published": "2026-08-21T15:24:23+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.836,
+          "label": "BULLISH",
+          "confidence": 0.836
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a></p>\n<p>FOSS rests on four essential freedoms defined by the Free Software Foundation and the Open Source Initiative\u2019s ten criteria. Licenses that withhold commercial rights, such as MIT plus Commons Clause, shrink the reviewer pool and shift the burden back onto the vendor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
+          "published": "2026-08-20T20:49:28+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.836,
+          "label": "BEARISH",
+          "confidence": 0.836
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Has-Its-Best-Week-Since-2023-as-Shortsellers-Continue-To-Get-Wiped-Out.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-has-best-week-since-2023\" rel=\"nofollow\">Bitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out</a></p>\n<p>Bitcoin's price continues to rise and those betting on it to fall are suffering. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-has-best-week-since-2023\" rel=\"nofollow\">Bitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-has-best-week-since-2023",
+          "published": "2026-08-21T17:51:59+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8225,
+          "label": "BULLISH",
+          "confidence": 0.8225
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.1094,
       "overall": "BEARISH",
-      "bullish": 0,
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "\u2018Star Wars vibes:\u2019 Chainlink\u2019s McCormick sees AI agents, robots driving blockchain transactions",
-          "summary": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
-          "url": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
-          "published": "2026-08-20T13:58:22+00:00",
+          "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+          "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+          "published": "2026-08-21T17:28:34+00:00",
           "coins": [
-            "LINK"
+            "BNB"
           ],
-          "compound": -0.4404,
+          "compound": -0.7906,
           "label": "BEARISH",
-          "confidence": 0.4404
+          "confidence": 0.7906
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
+          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+          "published": "2026-08-21T09:31:05+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.5719,
+          "label": "BULLISH",
+          "confidence": 0.5719
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.247,
-      "overall": "BULLISH",
+      "article_count": 3,
+      "avg_compound": 0.0178,
+      "overall": "NEUTRAL",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -147,6 +212,19 @@
           "confidence": 0.4939
         },
         {
+          "source": "Decrypt",
+          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
+          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+          "published": "2026-08-21T18:45:01+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
           "source": "CoinDesk",
           "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
           "summary": "",
@@ -160,56 +238,6 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.0027,
-      "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 11,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Shortsellers-Get-Destroyed-With-1.7B-in-Positions-Liquidated-Following-BTC-Price-Jump.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed\" rel=\"nofollow\">Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump\u00a0</a></p>\n<p>Those betting on the price of bitcoin to drop have had their positions closed following a green candle earlier on Wednesday. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed\" rel=\"nofollow\">Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-shortsellers-get-destroyed",
-          "published": "2026-08-19T19:11:09+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9274,
-          "label": "BEARISH",
-          "confidence": 0.9274
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a></p>\n<p>FOSS rests on four essential freedoms defined by the Free Software Foundation and the Open Source Initiative\u2019s ten criteria. Licenses that withhold commercial rights, such as MIT plus Commons Clause, shrink the reviewer pool and shift the burden back onto the vendor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
-          "published": "2026-08-20T20:49:28+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.836,
-          "label": "BEARISH",
-          "confidence": 0.836
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-          "published": "2026-08-21T10:15:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8176,
-          "label": "BULLISH",
-          "confidence": 0.8176
         }
       ],
       "no_news": false
@@ -363,17 +391,6 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Nearly 2,000 Hacked WordPress Sites Turned Into Criminal Infrastructure",
-      "summary": "The StopAndProtect operation used compromised WordPress websites to spread malware, steal crypto wallet files, and deploy ransomware.",
-      "url": "https://decrypt.co/376109/hacked-wordpress-sites-criminal-infrastructure",
-      "published": "2026-08-20T16:33:38+00:00",
-      "coins": [],
-      "compound": -0.8519,
-      "label": "BEARISH",
-      "confidence": 0.8519
-    },
-    {
       "source": "TheBlock",
       "title": "Ondo executive says tokenization is following the same path as early ETFs",
       "summary": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
@@ -407,11 +424,11 @@
       "confidence": 0.7783
     },
     {
-      "source": "TheBlock",
-      "title": "Inside the Oval Office meeting: Trump appears \u2018bullish\u2019 on Clarity Act as he solicits feedback from crypto, finance CEOs",
-      "summary": "During a private Oval Office meeting, President Trump appeared \u201cbullish\u201d on passing the Clarity Act, one source said.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
-      "published": "2026-08-20T17:44:28+00:00",
+      "source": "Decrypt",
+      "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+      "summary": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abruptly advanced its first crypto fundraising framework.",
+      "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
+      "published": "2026-08-21T18:06:56+00:00",
       "coins": [],
       "compound": 0.6597,
       "label": "BULLISH",
@@ -463,17 +480,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Hyperliquid Is Coming to the US",
-      "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
-      "url": "https://decrypt.co/376069/morning-minute-hyperliquid-coming-us",
-      "published": "2026-08-20T14:02:44+00:00",
-      "coins": [],
-      "compound": 0.5222,
-      "label": "BULLISH",
-      "confidence": 0.5222
-    },
-    {
-      "source": "Decrypt",
       "title": "CFTC Chair Readies Crypto Rules If Congress Fails to Pass Clarity Act",
       "summary": "The CFTC chair said staff is already exploring a crypto market structure framework and could move quickly to propose rules if Congress fails to act.",
       "url": "https://decrypt.co/376151/cftc-chair-crypto-rules-if-congress-fails-clarity-act",
@@ -506,39 +512,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "Decrypt",
-      "title": "Fake Crypto AML Checkers Are Trying to Drain Users' Wallets",
-      "summary": "Scammers are impersonating crypto compliance services to trick users into approving transactions that could put their assets at risk.",
-      "url": "https://decrypt.co/376029/fake-crypto-aml-drain-users-wallets",
-      "published": "2026-08-20T13:31:05+00:00",
-      "coins": [],
-      "compound": 0.347,
-      "label": "BULLISH",
-      "confidence": 0.347
-    },
-    {
-      "source": "Decrypt",
-      "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
-      "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
-      "url": "https://decrypt.co/376048/banking-regulator-occ-genius-act-stablecoin-rules-november",
-      "published": "2026-08-20T09:31:03+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
-      "published": "2026-08-20T18:54:18+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
       "source": "TheBlock",
       "title": "CME CEO Terrence Duffy trades barbs with CFTC\u2019s Selig and Kalshi\u2019s COO over prediction market oversight",
       "summary": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
@@ -561,11 +534,11 @@
       "confidence": 0.0258
     },
     {
-      "source": "Decrypt",
-      "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
-      "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
-      "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
-      "published": "2026-08-20T11:31:04+00:00",
+      "source": "CoinDesk",
+      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
+      "published": "2026-08-21T16:10:37+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
