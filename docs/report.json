@@ -1,14 +1,62 @@
 {
-  "generated_at": "2026-08-21T06:58:34.020944+00:00",
+  "generated_at": "2026-08-21T13:01:40.331025+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 5,
-      "avg_compound": 0.4479,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.7677,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Avalanche\u2019s Nahas: Token prices are down, but \u2018I\u2019ve never seen more opportunities\u2019 in crypto",
+          "summary": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
+          "published": "2026-08-21T09:00:26+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.7677,
+          "label": "BULLISH",
+          "confidence": 0.7677
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.5719,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
+          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+          "published": "2026-08-21T09:31:05+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.5719,
+          "label": "BULLISH",
+          "confidence": 0.5719
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.51,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -38,17 +86,17 @@
           "confidence": 0.765
         },
         {
-          "source": "TheBlock",
-          "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
-          "summary": "The XRP-focused digital asset treasury firm plans to put its holdings to work as it also moves through the process of going public.",
-          "url": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
-          "published": "2026-08-20T11:34:05+00:00",
+          "source": "CoinDesk",
+          "title": "A $2 million bet on XRP volatility crosses the tape as prices surge",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/21/a-usd2-million-bet-on-xrp-volatility-crosses-the-tape-as-prices-surge",
+          "published": "2026-08-21T01:51:56+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.7096,
-          "label": "BULLISH",
-          "confidence": 0.7096
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -117,12 +165,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0414,
+      "article_count": 28,
+      "avg_compound": -0.0027,
       "overall": "NEUTRAL",
-      "bullish": 13,
-      "bearish": 10,
-      "neutral": 4,
+      "bullish": 11,
+      "bearish": 11,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -151,43 +199,29 @@
           "confidence": 0.836
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Rockets-Past-72000-After-Trump-Pushes-For-Clarity-Act.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000\" rel=\"nofollow\">Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act\u00a0</a></p>\n<p>Bitcoin&#8217;s price surged further on Thursday, blowing past $72,000 the day after President Trump held a meeting with crypto executives and urged lawmakers to get the long-awaited Clarity Act over the line.&#160; The leading cryptocurrency was trading for $71,758 at 8am in New York, after jumping nearly 12% over a 24-hour period. It touched as [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000\" rel=\"nofollow\">Bitcoin Rockets Past $72,000 After Trump Pushes For Clarity Act\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-price-rockets-past-72000",
-          "published": "2026-08-20T13:40:27+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
+          "published": "2026-08-21T10:15:36+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7845,
+          "compound": 0.8176,
           "label": "BULLISH",
-          "confidence": 0.7845
+          "confidence": 0.8176
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
-          "published": "2026-08-21T06:43:24+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "CoinDesk",
           "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
@@ -207,26 +241,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -371,15 +385,26 @@
       "confidence": 0.802
     },
     {
-      "source": "TheBlock",
-      "title": "GSR\u2019s Baehr says tokenized fixed income could play key role in institutional collateral",
-      "summary": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
-      "url": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
-      "published": "2026-08-20T10:08:12+00:00",
+      "source": "CoinDesk",
+      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
+      "published": "2026-08-21T10:38:47+00:00",
       "coins": [],
-      "compound": 0.7964,
+      "compound": 0.7783,
       "label": "BULLISH",
-      "confidence": 0.7964
+      "confidence": 0.7783
+    },
+    {
+      "source": "Decrypt",
+      "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
+      "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decisions.",
+      "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
+      "published": "2026-08-21T11:31:04+00:00",
+      "coins": [],
+      "compound": 0.7783,
+      "label": "BULLISH",
+      "confidence": 0.7783
     },
     {
       "source": "TheBlock",
@@ -394,13 +419,13 @@
     },
     {
       "source": "TheBlock",
-      "title": "Securitize\u2019s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics",
-      "summary": "Securitize says the SEC delayed its crypto trading exemption to avoid complicating Senate votes on the Clarity Act.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
-      "published": "2026-08-20T10:06:46+00:00",
+      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
+      "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
+      "url": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
+      "published": "2026-08-21T12:00:00+00:00",
       "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
+      "compound": -0.6369,
+      "label": "BEARISH",
       "confidence": 0.6369
     },
     {
@@ -426,6 +451,17 @@
       "confidence": 0.5994
     },
     {
+      "source": "CoinDesk",
+      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
+      "published": "2026-08-21T11:30:00+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Hyperliquid Is Coming to the US",
       "summary": "At least, if Trump and the CFTC have their way. And the market really, really liked the news.",
@@ -435,28 +471,6 @@
       "compound": 0.5222,
       "label": "BULLISH",
       "confidence": 0.5222
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
-      "summary": "The president said the U.S. is far ahead of China in artificial intelligence and defended the rapid construction of data centers and power plants needed to fuel the industry.",
-      "url": "https://decrypt.co/376026/trump-ai-bigger-than-internet-light-touch-regulation",
-      "published": "2026-08-19T21:36:50+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "TheBlock",
-      "title": "AI agents could make today\u2019s billion-dollar crypto hacks look like \u2018pennies,\u2019 industry leaders warn",
-      "summary": "Crypto leaders see trust, hallucinations and unclear legal liability as the biggest hurdles to agentic adoption.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-19-ai-agents-todays-billion-dollar-crypto-hacks-look-like-pennies-industry-leaders-412278",
-      "published": "2026-08-20T03:07:29+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
     },
     {
       "source": "Decrypt",
@@ -503,17 +517,6 @@
       "confidence": 0.347
     },
     {
-      "source": "TheBlock",
-      "title": "OpenLedger\u2019s Ram Kumar sees agentic payments as crypto\u2019s first AI \u2018killer app\u2019",
-      "summary": "OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto use case as AI agents lack traditional banking access.",
-      "url": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
-      "published": "2026-08-20T11:34:23+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
       "title": "Banking Regulator Races to Finalize GENIUS Act Stablecoin Rules",
       "summary": "OCC Comptroller Jonathan Gould told the Wyoming Blockchain Symposium the agency is moving at a rapid pace to beat a January statutory deadline, after already missing an earlier July target.",
@@ -548,8 +551,8 @@
     },
     {
       "source": "TheBlock",
-      "title": "MANTRA freezes all transactions and network following unspecified incident",
-      "summary": "MANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
+      "title": "MANTRA freezes all transactions and network following incident",
+      "summary": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
       "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
       "published": "2026-08-21T04:47:29+00:00",
       "coins": [],
@@ -558,33 +561,33 @@
       "confidence": 0.0258
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: What are tokenized deposits?",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
-      "published": "2026-08-20T15:01:40+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users",
-      "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users",
-      "published": "2026-08-20T12:00:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Flock's New AI Police Tool Can Track Drivers Without a Name or License Plate",
       "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
       "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
       "published": "2026-08-20T11:31:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
+      "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
+      "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
+      "published": "2026-08-21T09:17:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Anchorage CEO says AI agents need bank accounts for \u2018The Jetsons\u2019-like future",
+      "summary": "The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
+      "url": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
+      "published": "2026-08-21T07:11:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
