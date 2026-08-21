@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:51:04.828673+00:00",
+  "generated_at": "2026-08-21T01:47:40.760897+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -78,10 +78,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.2499,
+      "article_count": 2,
+      "avg_compound": 0.1196,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
@@ -101,20 +101,6 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Ether jumps 18% to $2,250 as bitcoin tops $69,000 in broad crypto rally",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/20/ether-jumps-18-to-usd2-250-as-bitcoin-tops-usd69-000-in-broad-crypto-rally",
-          "published": "2026-08-20T04:10:40+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "CoinDesk",
           "title": "Trader who made $49 million shorting crypto lost $24 million on ether in 12 seconds",
           "summary": "",
           "url": "https://www.coindesk.com/markets/2026/08/20/trader-who-made-usd49-million-shorting-crypto-lost-usd24-million-on-ether-in-12-seconds",
@@ -131,11 +117,11 @@
     },
     "BTC": {
       "article_count": 27,
-      "avg_compound": 0.0893,
+      "avg_compound": 0.0663,
       "overall": "BULLISH",
       "bullish": 15,
-      "bearish": 9,
-      "neutral": 3,
+      "bearish": 10,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -152,16 +138,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "BitBox Warns Bitcoiners After Discovering \u2018Severe\u2019 Vulnerability In Firmware",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/BitBox-Warns-Bitcoiners-After-Discovering-Severe-Vulnerability-In-Firmware.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability\" rel=\"nofollow\">BitBox Warns Bitcoiners After Discovering &#8216;Severe&#8217; Vulnerability In Firmware\u00a0</a></p>\n<p>Bitcoin wallet manufacturer BitBox has told users it was able to fix &#8220;severe vulnerabilities&#8221; with its hardware wallet&#8217;s firmware, and reassured users that no funds were taken. Yet it still urged users to upgrade carefully.&#160; Writing in a blog post Tuesday, the Swiss company said that one of the vulnerabilities would have allowed an attacker [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability\" rel=\"nofollow\">BitBox Warns Bitcoiners After Discovering &#8216;Severe&#8217; Vulnerability In Firmware\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitbox-warns-users-about-vulnerability",
-          "published": "2026-08-18T21:06:52+00:00",
+          "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a></p>\n<p>FOSS rests on four essential freedoms defined by the Free Software Foundation and the Open Source Initiative\u2019s ten criteria. Licenses that withhold commercial rights, such as MIT plus Commons Clause, shrink the reviewer pool and shift the burden back onto the vendor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives\" rel=\"nofollow\">Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/open-source-vs-source-available-what-the-coldcard-failure-teaches-about-bitcoin-software-incentives",
+          "published": "2026-08-20T20:49:28+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9118,
+          "compound": -0.836,
           "label": "BEARISH",
-          "confidence": 0.9118
+          "confidence": 0.836
         },
         {
           "source": "Bitcoin Magazine",
@@ -398,22 +384,22 @@
       "confidence": 0.6059
     },
     {
+      "source": "Decrypt",
+      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
+      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+      "published": "2026-08-20T22:32:11+00:00",
+      "coins": [],
+      "compound": -0.5994,
+      "label": "BEARISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "CoinDesk",
       "title": "BitGo secures South Korea virtual asset license, says it's the first global crypto company to do so",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/20/bitgo-secures-south-korea-virtual-asset-license-says-it-s-the-first-global-crypto-company-to-do-so",
       "published": "2026-08-20T09:25:25+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-      "summary": "Trump touted his administration\u2019s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-      "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-      "published": "2026-08-19T19:56:45+00:00",
       "coins": [],
       "compound": 0.5859,
       "label": "BULLISH",
@@ -442,17 +428,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "Decrypt",
-      "title": "Kalshi Pushes Beyond Prediction Markets With Copper Perpetual Futures",
-      "summary": "The prediction market operator is seeking CFTC approval for a copper perpetual as it moves further into traditional derivatives markets.",
-      "url": "https://decrypt.co/375987/kalshi-copper-perpetual-futures",
-      "published": "2026-08-19T19:16:04+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "TheBlock",
       "title": "AI agents could make today\u2019s billion-dollar crypto hacks look like \u2018pennies,\u2019 industry leaders warn",
       "summary": "Crypto leaders see trust, hallucinations and unclear legal liability as the biggest hurdles to agentic adoption.",
@@ -473,6 +448,17 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kraken parent Payward explores becoming a \u2018full bank\u2019 outside the US",
+      "summary": "Payward is expanding across banking, lending and asset management, with mortgages a future possibility.",
+      "url": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
+      "published": "2026-08-20T20:41:44+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -508,6 +494,17 @@
       "confidence": 0.296
     },
     {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "published": "2026-08-20T18:54:18+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
       "source": "TheBlock",
       "title": "Congress can still \u2018land this plane\u2019 on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
       "summary": "Sen. Ruben Gallego says Congress can still \"land this plane,\" referring to the Clarity Act crypto bill, as concerns grow over an unfinished ethics deal.",
@@ -541,6 +538,17 @@
       "confidence": 0.1027
     },
     {
+      "source": "TheBlock",
+      "title": "CME CEO Terrence Duffy trades barbs with CFTC\u2019s Selig and Kalshi\u2019s COO over prediction market oversight",
+      "summary": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+      "published": "2026-08-20T23:39:38+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto for Advisors: What are tokenized deposits?",
       "summary": "",
@@ -568,28 +576,6 @@
       "summary": "The underlying code for \"OS Investigate\" has 69 preloaded AI prompts that turn Flock cameras into a super-charged surveillance system that identifies people by how they move.",
       "url": "https://decrypt.co/375978/flock-ai-police-tool-track-drivers",
       "published": "2026-08-20T11:31:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "OCC races to finalize GENIUS Act stablecoin rules by November",
-      "summary": "The OCC is stepping on the gas to finalize rules by November to implement a stablecoin law signed by President Trump.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-19-occ-races-to-finalize-genius-act-stablecoin-rules-by-november-412240",
-      "published": "2026-08-19T17:03:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Grayscale\u2019s latest Zcash ETF amendment shows DCG in talks to contribute 200,000 ZEC to fund",
-      "summary": "While DCG is in discussions to contribute ~200,000 ZEC to the Grayscale fund, the potential transaction is nonbinding.",
-      "url": "https://www.theblock.co/news/markets/2026-08-19-grayscale-zcash-etf-amendment-dcg-discussions-contribute-200000-zec-fund-412232",
-      "published": "2026-08-19T16:57:52+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
