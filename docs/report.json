@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:42:45.652121+00:00",
+  "generated_at": "2026-08-22T06:53:49.831060+00:00",
   "total_articles": 40,
   "coins": {
     "BNB": {
@@ -26,13 +26,37 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.2202,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.5267,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
+          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+          "published": "2026-08-21T15:39:02+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -46,30 +70,15 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-          "published": "2026-08-21T04:56:30+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": 0.1937,
+      "article_count": 27,
+      "avg_compound": 0.194,
       "overall": "BULLISH",
-      "bullish": 14,
+      "bullish": 15,
       "bearish": 7,
       "neutral": 5,
       "top_articles": [
@@ -115,69 +124,6 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.1192,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ripple backs an RLUSD credit fund amid XRP's best week in months",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months",
-          "published": "2026-08-21T05:29:48+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        },
-        {
-          "source": "Decrypt",
-          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-          "published": "2026-08-21T15:39:02+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/21/bitcoin-ether-and-solana-climb-as-another-usd1-billion-shorts-get-wiped-out",
-          "published": "2026-08-21T04:56:30+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -219,6 +165,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
