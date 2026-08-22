@@ -1,86 +1,64 @@
 {
-  "generated_at": "2026-08-22T06:53:49.831060+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-08-22T12:53:00.425387+00:00",
+  "total_articles": 55,
   "coins": {
-    "BNB": {
+    "AVAX": {
       "article_count": 1,
-      "avg_compound": 0.5719,
+      "avg_compound": 0.7677,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
-          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-          "published": "2026-08-21T09:31:05+00:00",
+          "source": "TheBlock",
+          "title": "Avalanche\u2019s Nahas: Token prices are down, but \u2018I\u2019ve never seen more opportunities\u2019 in crypto",
+          "summary": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
+          "published": "2026-08-21T09:00:26+00:00",
           "coins": [
-            "BNB"
+            "AVAX"
           ],
-          "compound": 0.5719,
+          "compound": 0.7677,
           "label": "BULLISH",
-          "confidence": 0.5719
+          "confidence": 0.7677
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "LINK": {
       "article_count": 1,
-      "avg_compound": -0.5267,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "avg_compound": 0.5267,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-          "published": "2026-08-21T15:39:02+00:00",
+          "source": "TheBlock",
+          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+          "published": "2026-08-21T17:24:02+00:00",
           "coins": [
-            "XRP"
+            "XRP",
+            "BTC",
+            "LINK"
           ],
-          "compound": -0.5267,
-          "label": "BEARISH",
+          "compound": 0.5267,
+          "label": "BULLISH",
           "confidence": 0.5267
         }
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
-          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
-          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-          "published": "2026-08-21T18:45:01+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.194,
+      "article_count": 33,
+      "avg_compound": 0.1944,
       "overall": "BULLISH",
-      "bullish": 15,
-      "bearish": 7,
-      "neutral": 5,
+      "bullish": 18,
+      "bearish": 9,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -124,17 +102,145 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 0,
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.1094,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+          "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+          "published": "2026-08-21T17:28:34+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.7906,
+          "label": "BEARISH",
+          "confidence": 0.7906
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
+          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
+          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
+          "published": "2026-08-21T09:31:05+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.5719,
+          "label": "BULLISH",
+          "confidence": 0.5719
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+          "published": "2026-08-22T12:00:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0267,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "South Korea\u2019s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+          "summary": "The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
+          "url": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+          "published": "2026-08-21T06:32:48+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4939,
+          "label": "BULLISH",
+          "confidence": 0.4939
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
+          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+          "published": "2026-08-21T18:45:01+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
+      "bullish": 1,
+      "bearish": 1,
       "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
+          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+          "published": "2026-08-21T15:39:02+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "TheBlock",
+          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+          "published": "2026-08-21T17:24:02+00:00",
+          "coins": [
+            "XRP",
+            "BTC",
+            "LINK"
+          ],
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
+        }
+      ],
+      "no_news": false
     },
-    "AVAX": {
+    "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -165,26 +271,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "ETH": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -310,6 +396,17 @@
       "confidence": 0.6597
     },
     {
+      "source": "TheBlock",
+      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
+      "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
+      "url": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
+      "published": "2026-08-21T12:00:00+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
+    },
+    {
       "source": "Decrypt",
       "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
       "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
@@ -330,6 +427,17 @@
       "compound": 0.5574,
       "label": "BULLISH",
       "confidence": 0.5574
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+      "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+      "published": "2026-08-21T21:34:53+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -365,15 +473,37 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
-      "published": "2026-08-21T05:52:27+00:00",
+      "source": "TheBlock",
+      "title": "Kraken parent Payward explores becoming a \u2018full bank\u2019 outside the US",
+      "summary": "Payward is expanding across banking, lending and asset management, with mortgages a future possibility.",
+      "url": "https://www.theblock.co/news/business/2026-08-20-kraken-parent-payward-explores-becoming-a-full-bank-outside-us-412390",
+      "published": "2026-08-20T20:41:44+00:00",
       "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
+      "compound": 0.3612,
+      "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "TheBlock",
+      "title": "CME CEO Terrence Duffy trades barbs with CFTC\u2019s Selig and Kalshi\u2019s COO over prediction market oversight",
+      "summary": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
+      "published": "2026-08-20T23:39:38+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "MANTRA freezes all transactions and network following incident",
+      "summary": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
+      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+      "published": "2026-08-21T04:47:29+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -381,6 +511,28 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
       "published": "2026-08-21T16:10:37+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
+      "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
+      "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
+      "published": "2026-08-21T09:17:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Anchorage CEO says AI agents need bank accounts for \u2018The Jetsons\u2019-like future",
+      "summary": "The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
+      "url": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
+      "published": "2026-08-21T07:11:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
