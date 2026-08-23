@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T12:54:01.413087+00:00",
+  "generated_at": "2026-08-23T18:39:13.882241+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -22,6 +22,31 @@
           "compound": 0.7677,
           "label": "BULLISH",
           "confidence": 0.7677
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.7096,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+          "summary": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
+          "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+          "published": "2026-08-23T17:02:20+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
         }
       ],
       "no_news": false
@@ -53,10 +78,10 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.1562,
+      "article_count": 2,
+      "avg_compound": -0.5203,
       "overall": "BEARISH",
-      "bullish": 1,
+      "bullish": 0,
       "bearish": 2,
       "neutral": 0,
       "top_articles": [
@@ -74,19 +99,6 @@
           "confidence": 0.7906
         },
         {
-          "source": "Decrypt",
-          "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
-          "summary": "Binance Agent OS connects tools like ChatGPT and Claude directly to the exchange's markets, though safeguards wall agents off from user funds\u2014and leave much of the oversight to users themselves.",
-          "url": "https://decrypt.co/376161/binance-ai-agents-trade-crypto",
-          "published": "2026-08-21T09:31:05+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.5719,
-          "label": "BULLISH",
-          "confidence": 0.5719
-        },
-        {
           "source": "CoinDesk",
           "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
           "summary": "",
@@ -98,6 +110,58 @@
           "compound": -0.25,
           "label": "BEARISH",
           "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.2635,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+          "published": "2026-08-23T15:52:21+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.7906,
+          "label": "BULLISH",
+          "confidence": 0.7906
+        },
+        {
+          "source": "Decrypt",
+          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
+          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
+          "published": "2026-08-21T15:39:02+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "TheBlock",
+          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+          "published": "2026-08-21T17:24:02+00:00",
+          "coins": [
+            "XRP",
+            "BTC",
+            "LINK"
+          ],
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
         }
       ],
       "no_news": false
@@ -192,12 +256,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": 0.1345,
+      "article_count": 27,
+      "avg_compound": 0.1189,
       "overall": "BULLISH",
       "bullish": 13,
       "bearish": 10,
-      "neutral": 5,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -237,45 +301,6 @@
           "compound": 0.836,
           "label": "BULLISH",
           "confidence": 0.836
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-          "published": "2026-08-21T15:39:02+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "TheBlock",
-          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-          "published": "2026-08-21T17:24:02+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "LINK"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
         }
       ],
       "no_news": false
@@ -389,30 +414,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "CoinDesk",
-      "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
-      "published": "2026-08-21T10:38:47+00:00",
-      "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
-    },
     {
       "source": "Decrypt",
       "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
@@ -458,28 +462,6 @@
       "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
-      "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
-      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-      "published": "2026-08-20T22:32:11+00:00",
-      "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The hard truth is that the Clarity Act is an anti-crypto bill",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/21/the-hard-truth-is-that-the-clarity-act-is-an-anti-crypto-bill",
-      "published": "2026-08-21T11:30:00+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "TheBlock",
       "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
       "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
@@ -489,6 +471,17 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "published": "2026-08-23T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "TheBlock",
@@ -507,6 +500,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
       "published": "2026-08-21T19:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
+      "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
+      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
+      "published": "2026-08-23T14:31:04+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -546,6 +550,17 @@
       "confidence": 0.2732
     },
     {
+      "source": "Decrypt",
+      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
+      "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
+      "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
+      "published": "2026-08-23T16:31:04+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
       "summary": "",
@@ -557,15 +572,26 @@
       "confidence": 0.0258
     },
     {
-      "source": "TheBlock",
-      "title": "MANTRA freezes all transactions and network following incident",
-      "summary": "MANTRA Chain halted the network and all transactions after discovering an incident related to its Cosmos EVM module.",
-      "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
-      "published": "2026-08-21T04:47:29+00:00",
+      "source": "CoinDesk",
+      "title": "Regulation Crypto is here: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "published": "2026-08-23T18:30:00+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto\u2019s next billion users might be AI agents, and they\u2019re paying with stablecoins",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "published": "2026-08-23T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
