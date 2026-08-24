@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-24T07:12:18.222536+00:00",
+  "generated_at": "2026-08-24T13:04:18.030844+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": 0.7677,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.7906,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Avalanche\u2019s Nahas: Token prices are down, but \u2018I\u2019ve never seen more opportunities\u2019 in crypto",
-          "summary": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
-          "published": "2026-08-21T09:00:26+00:00",
+          "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+          "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+          "published": "2026-08-21T17:28:34+00:00",
           "coins": [
-            "AVAX"
+            "BNB"
           ],
-          "compound": 0.7677,
-          "label": "BULLISH",
-          "confidence": 0.7677
+          "compound": -0.7906,
+          "label": "BEARISH",
+          "confidence": 0.7906
         }
       ],
       "no_news": false
@@ -77,87 +77,39 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": -0.5203,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.5267,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-          "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
-          "published": "2026-08-21T17:28:34+00:00",
+          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+          "published": "2026-08-21T17:24:02+00:00",
           "coins": [
-            "BNB"
+            "XRP",
+            "BTC",
+            "LINK"
           ],
-          "compound": -0.7906,
-          "label": "BEARISH",
-          "confidence": 0.7906
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Web3 gaming network Sandbox stops Base and BNB chain bridging after exploit",
-          "summary": "",
-          "url": "https://www.coindesk.com/web3/2026/08/22/web3-gaming-network-sandbox-stops-base-and-bnb-chain-bridging-after-exploit",
-          "published": "2026-08-22T14:10:17+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.4535,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-          "summary": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-          "published": "2026-08-22T15:54:13+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4666,
-          "label": "BEARISH",
-          "confidence": 0.4666
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
-          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
-          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-          "published": "2026-08-21T18:45:01+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 4,
-      "avg_compound": -0.3462,
+      "avg_compound": -0.3205,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 4,
-      "neutral": 0,
+      "bearish": 3,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -203,65 +155,87 @@
       ],
       "no_news": false
     },
-    "XRP": {
+    "SOL": {
       "article_count": 3,
-      "avg_compound": 0.2635,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
+      "avg_compound": -0.2113,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
-          "published": "2026-08-23T15:52:21+00:00",
+          "source": "TheBlock",
+          "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+          "summary": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+          "published": "2026-08-22T15:54:13+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
-          "compound": 0.7906,
-          "label": "BULLISH",
-          "confidence": 0.7906
+          "compound": -0.4666,
+          "label": "BEARISH",
+          "confidence": 0.4666
         },
         {
           "source": "Decrypt",
-          "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-          "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
-          "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-          "published": "2026-08-21T15:39:02+00:00",
+          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
+          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
+          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
+          "published": "2026-08-21T18:45:01+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
-          "compound": -0.5267,
+          "compound": -0.4404,
           "label": "BEARISH",
-          "confidence": 0.5267
+          "confidence": 0.4404
         },
         {
-          "source": "TheBlock",
-          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-          "published": "2026-08-21T17:24:02+00:00",
+          "source": "CoinDesk",
+          "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+          "published": "2026-08-24T12:52:30+00:00",
           "coins": [
-            "XRP",
-            "BTC",
-            "LINK"
+            "SOL"
           ],
-          "compound": 0.5267,
+          "compound": 0.2732,
           "label": "BULLISH",
-          "confidence": 0.5267
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1739,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
+          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+          "published": "2026-08-24T10:08:38+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1739,
+          "label": "BULLISH",
+          "confidence": 0.1739
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": 0.0949,
+      "article_count": 31,
+      "avg_compound": 0.1254,
       "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 13,
-      "neutral": 2,
+      "bullish": 16,
+      "bearish": 12,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -306,6 +280,16 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -404,30 +388,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "Decrypt",
-      "title": "Most Americans Say Trump's Crypto Profits Cross the Line: Poll",
-      "summary": "A Reuters/Ipsos survey found 63% of Americans view the Trump family's crypto profits as inappropriate, with even half of the president's fellow Republicans saying his business interests sway his decisions.",
-      "url": "https://decrypt.co/376167/americans-say-trump-crypto-profits-cross-line",
-      "published": "2026-08-21T11:31:04+00:00",
-      "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
-    },
     {
       "source": "Decrypt",
       "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -473,17 +436,6 @@
       "confidence": 0.5423
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
-      "published": "2026-08-23T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
       "source": "TheBlock",
       "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
       "summary": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
@@ -518,24 +470,24 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "title": "Gemini strikes Apex deal to widen prediction markets reach",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "published": "2026-08-22T13:30:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
+      "published": "2026-08-24T10:55:00+00:00",
       "coins": [],
-      "compound": -0.3818,
+      "compound": -0.34,
       "label": "BEARISH",
-      "confidence": 0.3818
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
-      "title": "Tokenized stocks risk repeating Wall Street\u2019s 1960s \u2018paper crisis,\u2019 Fairmint CEO says",
+      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "published": "2026-08-22T14:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
+      "published": "2026-08-24T12:24:58+00:00",
       "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
+      "compound": 0.2732,
+      "label": "BULLISH",
       "confidence": 0.2732
     },
     {
@@ -550,33 +502,22 @@
       "confidence": 0.1779
     },
     {
-      "source": "CoinDesk",
-      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
-      "published": "2026-08-24T04:45:00+00:00",
+      "source": "TheBlock",
+      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
+      "summary": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
+      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
+      "published": "2026-08-24T07:56:44+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
+      "compound": 0.0516,
+      "label": "BULLISH",
       "confidence": 0.0516
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
+      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
-      "published": "2026-08-22T15:16:41+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto holds big weekly rally as Warsh\u2019s Jackson Hole debut comes into focus",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
-      "published": "2026-08-24T04:41:28+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
+      "published": "2026-08-24T11:36:55+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -584,10 +525,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Regulation Crypto is here: State of Crypto",
+      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
-      "published": "2026-08-23T18:30:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
+      "published": "2026-08-24T11:19:16+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -595,10 +536,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto\u2019s next billion users might be AI agents, and they\u2019re paying with stablecoins",
+      "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
-      "published": "2026-08-23T13:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+      "published": "2026-08-24T08:16:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
+      "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
+      "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
+      "published": "2026-08-24T12:14:27+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -617,10 +569,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
-      "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
-      "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
-      "published": "2026-08-21T09:17:58+00:00",
+      "title": "Gemini to provide crypto prediction markets venue for Apex\u2019s brokerage clients",
+      "summary": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
+      "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
+      "published": "2026-08-24T11:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
