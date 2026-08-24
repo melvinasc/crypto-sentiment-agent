@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:48:36.188136+00:00",
+  "generated_at": "2026-08-24T07:12:18.222536+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -151,6 +151,58 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.3462,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 4,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+          "published": "2026-08-24T06:27:33+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7184,
+          "label": "BEARISH",
+          "confidence": 0.7184
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+          "published": "2026-08-24T06:50:58+00:00",
+          "coins": [
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+          "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
+          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+          "published": "2026-08-22T19:31:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 3,
       "avg_compound": 0.2635,
@@ -203,52 +255,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.1525,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-          "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
-          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-          "published": "2026-08-22T19:31:35+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.2023,
-          "label": "BEARISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
-          "published": "2026-08-22T12:00:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.1189,
+      "article_count": 28,
+      "avg_compound": 0.0949,
       "overall": "BULLISH",
       "bullish": 13,
-      "bearish": 10,
-      "neutral": 4,
+      "bearish": 13,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -277,17 +290,17 @@
           "confidence": 0.9022
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Bitcoin-Price-Roars-Towards-80000-Following-Positive-Regulatory-News-US-Buyback-Pledge.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000\" rel=\"nofollow\">Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge</a></p>\n<p>Bitcoin has continued its rocket upwards, and blew past $79,000 on Friday. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000\" rel=\"nofollow\">Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
-          "published": "2026-08-21T15:24:23+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts \u2018strongest\u2019 cycle ever",
+          "summary": "Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
+          "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
+          "published": "2026-08-24T03:52:31+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.836,
+          "compound": 0.8625,
           "label": "BULLISH",
-          "confidence": 0.836
+          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -493,17 +506,6 @@
       "confidence": 0.4245
     },
     {
-      "source": "CoinDesk",
-      "title": "Pass the Clarity Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act",
-      "published": "2026-08-21T19:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
       "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
       "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
@@ -523,17 +525,6 @@
       "coins": [],
       "compound": -0.3818,
       "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto advocates join in suing Illinois over digital asset tax",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-      "published": "2026-08-21T22:10:28+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
       "confidence": 0.3818
     },
     {
@@ -560,6 +551,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "published": "2026-08-24T04:45:00+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto exchange BitMart weighs partial restart and creditor payouts weeks after announcing shutdown",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/22/crypto-exchange-bitmart-weighs-partial-restart-and-creditor-payouts-weeks-after-announcing-shutdown",
@@ -568,6 +570,17 @@
       "compound": -0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto holds big weekly rally as Warsh\u2019s Jackson Hole debut comes into focus",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "published": "2026-08-24T04:41:28+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -592,17 +605,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin",
-      "published": "2026-08-21T16:10:37+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
       "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains\u2014and multiplying fast.",
@@ -619,17 +621,6 @@
       "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
       "url": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
       "published": "2026-08-21T09:17:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Anchorage CEO says AI agents need bank accounts for \u2018The Jetsons\u2019-like future",
-      "summary": "The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
-      "url": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
-      "published": "2026-08-21T07:11:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
