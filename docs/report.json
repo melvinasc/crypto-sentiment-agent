@@ -1,194 +1,15 @@
 {
-  "generated_at": "2026-08-24T13:04:18.030844+00:00",
-  "total_articles": 55,
+  "generated_at": "2026-08-24T18:52:14.426247+00:00",
+  "total_articles": 40,
   "coins": {
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.7906,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-          "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
-          "published": "2026-08-21T17:28:34+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.7906,
-          "label": "BEARISH",
-          "confidence": 0.7906
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.7096,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-          "summary": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-          "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-          "published": "2026-08-23T17:02:20+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": -0.7096,
-          "label": "BEARISH",
-          "confidence": 0.7096
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.5267,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-          "published": "2026-08-21T17:24:02+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "LINK"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.5267,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
-          "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-          "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-          "published": "2026-08-21T17:24:02+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "LINK"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.3205,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 3,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
-          "published": "2026-08-24T06:27:33+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7184,
-          "label": "BEARISH",
-          "confidence": 0.7184
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
-          "published": "2026-08-24T06:50:58+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-          "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
-          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-          "published": "2026-08-22T19:31:35+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.2023,
-          "label": "BEARISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.2113,
-      "overall": "BEARISH",
+      "article_count": 1,
+      "avg_compound": 0.2732,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-          "summary": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-          "published": "2026-08-22T15:54:13+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4666,
-          "label": "BEARISH",
-          "confidence": 0.4666
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Just Got Faster\u2014Is It Bullish for SOL?",
-          "summary": "Solana has activated the first reduction in its block timing since launch, speeding up transactions on the network.",
-          "url": "https://decrypt.co/376245/solana-faster-bullish-sol-price",
-          "published": "2026-08-21T18:45:01+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
         {
           "source": "CoinDesk",
           "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
@@ -205,36 +26,12 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1739,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
-          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
-          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-          "published": "2026-08-24T10:08:38+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1739,
-          "label": "BULLISH",
-          "confidence": 0.1739
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 31,
-      "avg_compound": 0.1254,
+      "article_count": 24,
+      "avg_compound": 0.1859,
       "overall": "BULLISH",
-      "bullish": 16,
-      "bearish": 12,
+      "bullish": 13,
+      "bearish": 8,
       "neutral": 3,
       "top_articles": [
         {
@@ -251,6 +48,20 @@
           "confidence": 0.9136
         },
         {
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
+          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
+          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+          "published": "2026-08-24T17:07:32+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.9106,
+          "label": "BULLISH",
+          "confidence": 0.9106
+        },
+        {
           "source": "Bitcoin Magazine",
           "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Smart-Money-Helping-Support-Bitcoin-Rebound-Says-Pantera-Capital.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher\" rel=\"nofollow\">Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital</a></p>\n<p>Pantera Capital's portfolio manager has said it's hard not to be bullish with bitcoin's recent price surges. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher\" rel=\"nofollow\">Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
@@ -262,19 +73,58 @@
           "compound": 0.9022,
           "label": "BULLISH",
           "confidence": 0.9022
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.1373,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
+          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
+          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+          "published": "2026-08-24T17:07:32+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.9106,
+          "label": "BULLISH",
+          "confidence": 0.9106
         },
         {
-          "source": "TheBlock",
-          "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts \u2018strongest\u2019 cycle ever",
-          "summary": "Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
-          "url": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
-          "published": "2026-08-24T03:52:31+00:00",
+          "source": "CoinDesk",
+          "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+          "published": "2026-08-24T06:50:58+00:00",
           "coins": [
+            "ETH",
             "BTC"
           ],
-          "compound": 0.8625,
-          "label": "BULLISH",
-          "confidence": 0.8625
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+          "published": "2026-08-24T12:59:55+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -290,6 +140,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -320,6 +180,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -388,6 +258,36 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -401,61 +301,6 @@
       "compound": -0.6858,
       "label": "BEARISH",
       "confidence": 0.6858
-    },
-    {
-      "source": "Decrypt",
-      "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
-      "summary": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abruptly advanced its first crypto fundraising framework.",
-      "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
-      "published": "2026-08-21T18:06:56+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "TheBlock",
-      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
-      "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
-      "url": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
-      "published": "2026-08-21T12:00:00+00:00",
-      "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
-    },
-    {
-      "source": "TheBlock",
-      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
-      "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
-      "published": "2026-08-21T21:34:53+00:00",
-      "coins": [],
-      "compound": 0.5423,
-      "label": "BULLISH",
-      "confidence": 0.5423
-    },
-    {
-      "source": "TheBlock",
-      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "summary": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
-      "published": "2026-08-22T17:35:27+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
-      "summary": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
-      "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
-      "published": "2026-08-23T20:50:45+00:00",
-      "coins": [],
-      "compound": -0.4245,
-      "label": "BEARISH",
-      "confidence": 0.4245
     },
     {
       "source": "Decrypt",
@@ -502,15 +347,48 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
-      "summary": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
-      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
-      "published": "2026-08-24T07:56:44+00:00",
+      "source": "Decrypt",
+      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
+      "summary": "Hyperliquid's token is riding a record into its largest remaining supply release.",
+      "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
+      "published": "2026-08-24T18:30:27+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
+      "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
+      "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
+      "published": "2026-08-24T17:50:35+00:00",
       "coins": [],
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
+      "published": "2026-08-24T17:30:10+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
+      "published": "2026-08-24T17:12:35+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -562,17 +440,6 @@
       "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains\u2014and multiplying fast.",
       "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
       "published": "2026-08-22T13:31:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Gemini to provide crypto prediction markets venue for Apex\u2019s brokerage clients",
-      "summary": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
-      "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-      "published": "2026-08-24T11:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
