@@ -1,62 +1,88 @@
 {
-  "generated_at": "2026-08-25T01:42:49.540263+00:00",
+  "generated_at": "2026-08-25T06:59:02.910415+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.7096,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": 0.2413,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
-          "summary": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
-          "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
-          "published": "2026-08-23T17:02:20+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
+          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
+          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
+          "published": "2026-08-24T17:07:32+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "BTC",
+            "ETH"
           ],
-          "compound": -0.7096,
-          "label": "BEARISH",
-          "confidence": 0.7096
+          "compound": 0.9106,
+          "label": "BULLISH",
+          "confidence": 0.9106
+        },
+        {
+          "source": "Decrypt",
+          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+          "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+          "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+          "published": "2026-08-24T19:43:43+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
+          "published": "2026-08-24T12:59:55+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "SOL": {
+    "USDC": {
       "article_count": 1,
-      "avg_compound": 0.2732,
+      "avg_compound": 0.1739,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-          "published": "2026-08-24T12:52:30+00:00",
+          "source": "TheBlock",
+          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
+          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+          "published": "2026-08-24T10:08:38+00:00",
           "coins": [
-            "SOL"
+            "USDC"
           ],
-          "compound": 0.2732,
+          "compound": 0.1739,
           "label": "BULLISH",
-          "confidence": 0.2732
+          "confidence": 0.1739
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": 0.1871,
+      "article_count": 27,
+      "avg_compound": 0.1513,
       "overall": "BULLISH",
-      "bullish": 16,
-      "bearish": 8,
+      "bullish": 14,
+      "bearish": 9,
       "neutral": 4,
       "top_articles": [
         {
@@ -102,78 +128,40 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1739,
-      "overall": "BULLISH",
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0175,
+      "overall": "NEUTRAL",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
-          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
-          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-          "published": "2026-08-24T10:08:38+00:00",
+          "source": "CoinDesk",
+          "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
+          "published": "2026-08-24T12:52:30+00:00",
           "coins": [
-            "USDC"
+            "SOL"
           ],
-          "compound": 0.1739,
+          "compound": 0.2732,
           "label": "BULLISH",
-          "confidence": 0.1739
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1674,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
-          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
-          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-          "published": "2026-08-24T17:07:32+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.9106,
-          "label": "BULLISH",
-          "confidence": 0.9106
+          "confidence": 0.2732
         },
         {
-          "source": "Decrypt",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
-          "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-          "published": "2026-08-24T19:43:43+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
-          "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
-          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
-          "published": "2026-08-22T19:31:35+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+          "published": "2026-08-25T05:25:11+00:00",
           "coins": [
             "BTC",
-            "ETH"
+            "SOL"
           ],
-          "compound": -0.2023,
+          "compound": -0.2382,
           "label": "BEARISH",
-          "confidence": 0.2023
+          "confidence": 0.2382
         }
       ],
       "no_news": false
@@ -308,6 +296,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -343,6 +341,17 @@
       "confidence": 0.6705
     },
     {
+      "source": "TheBlock",
+      "title": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
+      "summary": "Dillman faces a maximum penalty of 20 years and a $250,000 fine for each count of conviction, according to the DOJ.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662",
+      "published": "2026-08-25T02:08:02+00:00",
+      "coins": [],
+      "compound": -0.6597,
+      "label": "BEARISH",
+      "confidence": 0.6597
+    },
+    {
       "source": "Decrypt",
       "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
       "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
@@ -352,28 +361,6 @@
       "compound": 0.5106,
       "label": "BULLISH",
       "confidence": 0.5106
-    },
-    {
-      "source": "TheBlock",
-      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
-      "summary": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
-      "published": "2026-08-22T17:35:27+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
-      "summary": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
-      "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
-      "published": "2026-08-23T20:50:45+00:00",
-      "coins": [],
-      "compound": -0.4245,
-      "label": "BEARISH",
-      "confidence": 0.4245
     },
     {
       "source": "Decrypt",
@@ -432,6 +419,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
+      "summary": "HashKey said it has launched the Franklin OnChain US Government Liquidity Fund on the platform's Earn channel.",
+      "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
+      "published": "2026-08-25T06:39:12+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
+      "title": "Blockchain Association backs Treasury\u2019s proposed GENIUS Act rules for stablecoin issuers",
+      "summary": "It backs limiting client ID requirements to direct issuer-customer transactions in the primary market, while calling for clearer definitions.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
+      "published": "2026-08-25T05:24:15+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
       "title": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of \u2018economic D-Day\u2019",
       "summary": "The U.S. Treasury Department is zeroing in on digital assets it says are being used to bolster Iran\u2019s economy.",
       "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
@@ -487,6 +496,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
+      "published": "2026-08-25T06:26:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
@@ -513,17 +533,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
       "published": "2026-08-24T11:19:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Jackson  Hole Symposium, U.S. PCE prices, IREN earnings: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
-      "published": "2026-08-24T08:16:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
