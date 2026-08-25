@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-08-25T13:01:04.471865+00:00",
+  "generated_at": "2026-08-25T18:49:21.278019+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.5106,
+      "article_count": 2,
+      "avg_compound": 0.5957,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
+          "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
+          "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
+          "published": "2026-08-25T16:03:42+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6808,
+          "label": "BULLISH",
+          "confidence": 0.6808
+        },
         {
           "source": "CoinDesk",
           "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
@@ -26,64 +41,28 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1739,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.1359,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
-          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
-          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-          "published": "2026-08-24T10:08:38+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1739,
-          "label": "BULLISH",
-          "confidence": 0.1739
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1556,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
-          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
-          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-          "published": "2026-08-24T17:07:32+00:00",
+          "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
+          "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
+          "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
+          "published": "2026-08-25T16:03:42+00:00",
           "coins": [
             "BTC",
-            "ETH"
+            "ETH",
+            "SOL"
           ],
-          "compound": 0.9106,
+          "compound": 0.6808,
           "label": "BULLISH",
-          "confidence": 0.9106
-        },
-        {
-          "source": "Decrypt",
-          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
-          "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
-          "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
-          "published": "2026-08-24T19:43:43+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
+          "confidence": 0.6808
         },
         {
           "source": "Decrypt",
@@ -98,17 +77,30 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
+        },
+        {
+          "source": "CoinDesk",
+          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
+          "published": "2026-08-25T12:03:55+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.1106,
+      "article_count": 22,
+      "avg_compound": 0.0771,
       "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 8,
-      "neutral": 3,
+      "bullish": 12,
+      "bearish": 9,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -124,20 +116,6 @@
           "confidence": 0.9136
         },
         {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum ETFs Grew $23 Billion Last Week\u2014Only $2.6 Billion Was New Money",
-          "summary": "Bitcoin and Ethereum ETFs booked their strongest inflow week since October, but most of the gain came from coins investors already owned getting more valuable.",
-          "url": "https://decrypt.co/376349/bitcoin-ethereum-etfs-23-billion-aum-inflows",
-          "published": "2026-08-24T17:07:32+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.9106,
-          "label": "BULLISH",
-          "confidence": 0.9106
-        },
-        {
           "source": "Bitcoin Magazine",
           "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Smart-Money-Helping-Support-Bitcoin-Rebound-Says-Pantera-Capital.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher\" rel=\"nofollow\">Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital</a></p>\n<p>Pantera Capital's portfolio manager has said it's hard not to be bullish with bitcoin's recent price surges. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher\" rel=\"nofollow\">Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
@@ -149,6 +127,19 @@
           "compound": 0.9022,
           "label": "BULLISH",
           "confidence": 0.9022
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/UK-banks-still-blocking-bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin\" rel=\"nofollow\">UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament</a></p>\n<p>Bitcoin Policy UK says that 40% of bank-to-exchange transfers are being blocked in Britain. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin\" rel=\"nofollow\">UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin",
+          "published": "2026-08-24T19:56:45+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8957,
+          "label": "BEARISH",
+          "confidence": 0.8957
         }
       ],
       "no_news": false
@@ -297,6 +288,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -319,6 +320,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
+      "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
+      "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
+      "published": "2026-08-25T14:56:10+00:00",
+      "coins": [],
+      "compound": -0.8689,
+      "label": "BEARISH",
+      "confidence": 0.8689
+    },
     {
       "source": "TheBlock",
       "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
@@ -375,17 +387,6 @@
       "confidence": 0.6597
     },
     {
-      "source": "CoinDesk",
-      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
-      "published": "2026-08-25T07:01:49+00:00",
-      "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
-    },
-    {
       "source": "TheBlock",
       "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
       "summary": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.",
@@ -406,6 +407,39 @@
       "compound": 0.5106,
       "label": "BULLISH",
       "confidence": 0.5106
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+      "summary": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
+      "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
+      "published": "2026-08-25T14:10:05+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
+      "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
+      "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
+      "published": "2026-08-25T18:39:26+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+      "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would \u201ccripple the industry\u201d as regulators implement the GENIUS Act.",
+      "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+      "published": "2026-08-25T16:28:59+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -441,17 +475,6 @@
       "confidence": 0.2023
     },
     {
-      "source": "Decrypt",
-      "title": "Hyperliquid Hits Record High as $1.2 Billion Token Unlock Looms",
-      "summary": "Hyperliquid's token is riding a record into its largest remaining supply release.",
-      "url": "https://decrypt.co/376375/hypeliquid-price-record-high-token-unlock",
-      "published": "2026-08-24T18:30:27+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
       "source": "TheBlock",
       "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
       "summary": "HashKey said it has launched the Franklin OnChain US Government Liquidity Fund on the platform's Earn channel.",
@@ -485,17 +508,6 @@
       "confidence": 0.0772
     },
     {
-      "source": "Decrypt",
-      "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
-      "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
-      "url": "https://decrypt.co/376372/zcash-eight-year-high-price-futures-bets",
-      "published": "2026-08-24T17:50:35+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
-    },
-    {
       "source": "TheBlock",
       "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
       "summary": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
@@ -505,6 +517,39 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
+      "published": "2026-08-25T16:22:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
+      "published": "2026-08-25T14:50:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
+      "published": "2026-08-25T13:48:50+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -551,17 +596,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto rally spills into dog and cat memecoins as smaller tokens double in a week",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/25/crypto-rally-spills-into-dog-and-cat-memecoins-as-smaller-tokens-double-in-a-week",
-      "published": "2026-08-25T06:26:29+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
       "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
@@ -574,10 +608,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Crypto exchange volumes double in five days as market activity rebounds",
-      "summary": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
-      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
-      "published": "2026-08-24T18:07:20+00:00",
+      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+      "summary": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
+      "published": "2026-08-25T18:41:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -585,10 +619,32 @@
     },
     {
       "source": "TheBlock",
-      "title": "Gemini to provide crypto prediction markets venue for Apex\u2019s brokerage clients",
-      "summary": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
-      "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
-      "published": "2026-08-24T11:01:02+00:00",
+      "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
+      "summary": "The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
+      "url": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
+      "published": "2026-08-25T14:16:26+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
+      "summary": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
+      "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
+      "published": "2026-08-25T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto exchange volumes double in five days as market activity rebounds",
+      "summary": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
+      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
+      "published": "2026-08-24T18:07:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
