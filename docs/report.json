@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-08-24T18:52:14.426247+00:00",
-  "total_articles": 40,
+  "generated_at": "2026-08-25T01:42:49.540263+00:00",
+  "total_articles": 55,
   "coins": {
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.7096,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
+          "summary": "UTE cut power to Tether's mining sites in July 2025 after Tether representatives did not attend the signing of a revised contract, per the report.",
+          "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
+          "published": "2026-08-23T17:02:20+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.2732,
@@ -27,12 +52,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.1859,
+      "article_count": 28,
+      "avg_compound": 0.1871,
       "overall": "BULLISH",
-      "bullish": 13,
+      "bullish": 16,
       "bearish": 8,
-      "neutral": 3,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -77,13 +102,37 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1373,
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1739,
       "overall": "BULLISH",
       "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
+          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+          "published": "2026-08-24T10:08:38+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1739,
+          "label": "BULLISH",
+          "confidence": 0.1739
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.1674,
+      "overall": "BULLISH",
+      "bullish": 2,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -100,31 +149,31 @@
           "confidence": 0.9106
         },
         {
-          "source": "CoinDesk",
-          "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
-          "published": "2026-08-24T06:50:58+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-          "published": "2026-08-24T12:59:55+00:00",
+          "source": "Decrypt",
+          "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+          "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+          "url": "https://decrypt.co/376393/coinbase-tokenized-stocks-base-ethereum",
+          "published": "2026-08-24T19:43:43+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+          "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
+          "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+          "published": "2026-08-22T19:31:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -259,26 +308,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -292,15 +321,59 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
-      "summary": "The Entra ID flaw earned the highest possible severity score, but Microsoft says it patched the bug before publishing the CVE and found no evidence it was ever exploited.",
-      "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
-      "published": "2026-08-22T17:31:03+00:00",
+      "source": "TheBlock",
+      "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
+      "summary": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
+      "published": "2026-08-24T16:18:24+00:00",
       "coins": [],
-      "compound": -0.6858,
+      "compound": 0.7269,
+      "label": "BULLISH",
+      "confidence": 0.7269
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "summary": "The open-source AI hub is fielding buyout interest at nearly triple its 2023 valuation, weeks after a security breach and days after Stripe's OpenRouter deal reset the price of AI infrastructure.",
+      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "published": "2026-08-24T22:16:04+00:00",
+      "coins": [],
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
+      "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
+      "url": "https://decrypt.co/376396/mysterious-ai-model-ox-alpha",
+      "published": "2026-08-24T20:46:03+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
+      "source": "TheBlock",
+      "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
+      "summary": "CoinGlass recorded nearly $10 billion in 24-hour futures volume and $1.76 billion in open interest, indicating that derivatives made up much of the trading.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
+      "published": "2026-08-22T17:35:27+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "TheBlock",
+      "title": "DeFi lending protocol Term Finance loses an estimated $8.5 million to governance exploit",
+      "summary": "Term vault proposals face a seven-day delay and can be vetoed by liquidity providers, yet those controls apparently did not stop the exploit.",
+      "url": "https://www.theblock.co/news/defi/2026-08-23-defi-lending-protocol-term-finance-loses-an-estimated-8-5-million-to-governance-exploit-412543",
+      "published": "2026-08-23T20:50:45+00:00",
+      "coins": [],
+      "compound": -0.4245,
       "label": "BEARISH",
-      "confidence": 0.6858
+      "confidence": 0.4245
     },
     {
       "source": "Decrypt",
@@ -358,6 +431,17 @@
       "confidence": 0.1531
     },
     {
+      "source": "TheBlock",
+      "title": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of \u2018economic D-Day\u2019",
+      "summary": "The U.S. Treasury Department is zeroing in on digital assets it says are being used to bolster Iran\u2019s economy.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
+      "published": "2026-08-24T19:23:02+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
       "source": "Decrypt",
       "title": "Zcash Hits Eight-Year High as Futures Bets Nearly Double",
       "summary": "ZEC broke above $880 while open interest in perpetual futures climbed to $1.8 billion.",
@@ -369,11 +453,33 @@
       "confidence": 0.0516
     },
     {
+      "source": "TheBlock",
+      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
+      "summary": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
+      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
+      "published": "2026-08-24T07:56:44+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto political group details list of U.S. congressional allies its backing this year",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
       "published": "2026-08-24T17:30:10+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "TheBlock",
+      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
+      "summary": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
+      "published": "2026-08-24T15:57:45+00:00",
       "coins": [],
       "compound": 0.0258,
       "label": "NEUTRAL",
@@ -435,11 +541,22 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-      "summary": "Pew Research scanned nearly half a million webpages with an AI detector and found the fingerprints concentrated on .com domains\u2014and multiplying fast.",
-      "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
-      "published": "2026-08-22T13:31:03+00:00",
+      "source": "TheBlock",
+      "title": "Crypto exchange volumes double in five days as market activity rebounds",
+      "summary": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
+      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
+      "published": "2026-08-24T18:07:20+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Gemini to provide crypto prediction markets venue for Apex\u2019s brokerage clients",
+      "summary": "Under the alliance, brokerages that offer crypto event contracts through Apex will use Gemini for execution and clearing, the firms said.",
+      "url": "https://www.theblock.co/news/web3/2026-08-24-gemini-crypto-prediction-market-apex-412557",
+      "published": "2026-08-24T11:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
