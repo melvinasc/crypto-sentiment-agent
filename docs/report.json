@@ -1,13 +1,61 @@
 {
-  "generated_at": "2026-08-25T06:59:02.910415+00:00",
+  "generated_at": "2026-08-25T13:01:04.471865+00:00",
   "total_articles": 55,
   "coins": {
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.5106,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
+          "published": "2026-08-25T10:25:32+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1739,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
+          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
+          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
+          "published": "2026-08-24T10:08:38+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1739,
+          "label": "BULLISH",
+          "confidence": 0.1739
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2413,
+      "article_count": 6,
+      "avg_compound": 0.1556,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 3,
       "top_articles": [
         {
@@ -38,52 +86,29 @@
           "confidence": 0.296
         },
         {
-          "source": "CoinDesk",
-          "title": "Tom Lee's Bitmine buys $81 million of ETH in largest weekly haul since early July",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/24/tom-lee-s-bitmine-buys-usd81-million-of-eth-in-largest-weekly-haul-since-early-july",
-          "published": "2026-08-24T12:59:55+00:00",
+          "source": "Decrypt",
+          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
+          "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
+          "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
+          "published": "2026-08-25T12:01:03+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1739,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bernstein says Circle\u2019s growth cycle can continue without the Clarity Act, sees 59% upside",
-          "summary": "Bernstein says Circle can sustain growth without the Clarity Act as USDC supply rebounds and stablecoin volumes continue expanding.",
-          "url": "https://www.theblock.co/news/business/2026-08-24-bernstein-says-circles-growth-cycle-can-continue-without-the-clarity-act-sees-59-upside-412573",
-          "published": "2026-08-24T10:08:38+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1739,
-          "label": "BULLISH",
-          "confidence": 0.1739
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.1513,
+      "article_count": 24,
+      "avg_compound": 0.1106,
       "overall": "BULLISH",
-      "bullish": 14,
-      "bearish": 9,
-      "neutral": 4,
+      "bullish": 13,
+      "bearish": 8,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -128,40 +153,26 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.0175,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "New Solana vote could ramp daily SOL burns to $800,000 and slow new token creation",
+          "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/24/new-solana-vote-could-ramp-daily-sol-burns-to-usd800-000-and-slow-new-token-creation",
-          "published": "2026-08-24T12:52:30+00:00",
+          "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
+          "published": "2026-08-25T13:00:00+00:00",
           "coins": [
-            "SOL"
+            "BNB"
           ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
-          "published": "2026-08-25T05:25:11+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": -0.2382,
-          "label": "BEARISH",
-          "confidence": 0.2382
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -177,16 +188,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -320,6 +321,28 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
+      "summary": "A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
+      "published": "2026-08-25T07:53:23+00:00",
+      "coins": [],
+      "compound": -0.7964,
+      "label": "BEARISH",
+      "confidence": 0.7964
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury\u2019s bond buyback plan fights the market and heightens the danger, billionaire Druckenmiller says",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/25/governments-defending-prices-against-fundamentals-always-lose-billionaire-investor-druckenmiller-says",
+      "published": "2026-08-25T07:32:32+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
+    },
+    {
+      "source": "TheBlock",
       "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
       "summary": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
       "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
@@ -352,6 +375,28 @@
       "confidence": 0.6597
     },
     {
+      "source": "CoinDesk",
+      "title": "Monad proposes wallet upgrade that could survive lost keys and quantum attacks",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/25/monad-proposes-wallet-upgrade-that-could-survive-lost-keys-and-quantum-attacks",
+      "published": "2026-08-25T07:01:49+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
+      "summary": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
+      "published": "2026-08-25T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "Decrypt",
       "title": "AI Model Ox Alpha Is Free, Beats Claude Fable, and Nobody Knows Who Built It",
       "summary": "Ox Alpha is topping benchmark scores, reads a million tokens, takes video as input, and has developers guessing who's behind it.",
@@ -364,47 +409,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
-      "summary": "The breakthrough could come from AI models that help robots understand and interact with the physical world, though widespread adoption may still be years away.",
-      "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
-      "published": "2026-08-23T14:31:04+00:00",
+      "title": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
+      "summary": "Digital assets are among five sectors in a campaign Treasury called an \u201cEconomic D-Day,\u201d alongside technology, gold, aviation and shipping.",
+      "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+      "published": "2026-08-25T10:21:41+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Gemini strikes Apex deal to widen prediction markets reach",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/24/gemini-strikes-apex-deal-to-widen-prediction-markets-reach",
-      "published": "2026-08-24T10:55:00+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy raises $2 billion through MSTR sales and creates new USD Cash pool",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/24/strategy-raises-usd2-billion-through-mstr-sales-and-creates-new-usd-cash-pool",
-      "published": "2026-08-24T12:24:58+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
-      "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-      "summary": "Witchcraft books had the highest rate of likely AI-generated content at 78%, according to an Originality.ai analysis of more than 2,000 titles.",
-      "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
-      "published": "2026-08-23T16:31:04+00:00",
+      "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+      "summary": "These aren\u2019t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
+      "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
+      "published": "2026-08-25T11:58:22+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
+      "summary": "The $1.8 trillion manager is putting its onchain money market fund on the Hong Kong exchange's Earn channel.",
+      "url": "https://decrypt.co/376422/franklin-templetons-tokenized-treasury-fund-lands-on-hashkey",
+      "published": "2026-08-25T09:30:27+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -463,28 +497,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Fasset reaches unicorn status after $68 million raise led by SBI Group",
-      "summary": "Fasset raised $68 million in Series C funding at a $1 billion valuation, expanding its cross-border stablecoin infrastructure.",
-      "url": "https://www.theblock.co/news/business/2026-08-24-fasset-68-million-raise-sbi-group-412563",
-      "published": "2026-08-24T07:56:44+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto political group details list of U.S. congressional allies its backing this year",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/24/crypto-political-group-details-list-of-u-s-congressional-allies-its-backing-this-year",
-      "published": "2026-08-24T17:30:10+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "TheBlock",
       "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
       "summary": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
       "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
@@ -493,6 +505,50 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
+      "published": "2026-08-25T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
+      "published": "2026-08-25T11:46:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
+      "published": "2026-08-25T08:47:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Franklin Templeton and Hashkey roll out U.S. tokenized money fund in Asia",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/25/franklin-templeton-and-hashkey-roll-out-u-s-tokenized-money-fund-in-asia",
+      "published": "2026-08-25T07:55:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -506,44 +562,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/24/coinbase-debuts-tokenized-stocks-on-base-network-joining-race-to-bring-equities-on-blockchain",
-      "published": "2026-08-24T17:12:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-      "published": "2026-08-24T11:36:55+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Pakistan kicks off crypto licensing regime with Sept. 5 registration deadline",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/24/pakistan-kicks-off-crypto-licensing-regime-with-sept-5-registration-deadline",
-      "published": "2026-08-24T11:19:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "Pakistan Sets September 5 Deadline for Crypto Firms to Register",
-      "summary": "Anyone serving Pakistani users since March must apply for clearance by September 5, then incorporate locally to keep going.",
-      "url": "https://decrypt.co/376318/pakistan-sets-september-5-deadline-for-crypto-firms-to-register",
-      "published": "2026-08-24T12:14:27+00:00",
+      "title": "Jury Convicts Las Vegas Man of $24M AI Crypto Mining Ponzi Scheme",
+      "summary": "Brent Kovar told at least 400 investors a supercomputer was mining crypto for them, and that their money was insured by the FDIC.",
+      "url": "https://decrypt.co/376427/jury-convicts-las-vegas-man-of-24m-ai-crypto-mining-ponzi-scheme",
+      "published": "2026-08-25T10:50:23+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
