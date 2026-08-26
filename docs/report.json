@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T07:00:18.497596+00:00",
+  "generated_at": "2026-08-26T13:05:57.399286+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
+    "ETH": {
       "article_count": 2,
       "avg_compound": 0.5104,
       "overall": "BULLISH",
@@ -43,13 +43,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1869,
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.5104,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -80,20 +80,6 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
-        },
-        {
-          "source": "Decrypt",
-          "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
-          "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
-          "url": "https://decrypt.co/376420/grayscale-launches-zcash-etf-following-critical-privacy-flaw-that-rocked-the-cryptocurrency",
-          "published": "2026-08-25T12:01:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
         }
       ],
       "no_news": false
@@ -136,12 +122,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.0275,
+      "article_count": 23,
+      "avg_compound": -0.0082,
       "overall": "NEUTRAL",
-      "bullish": 7,
+      "bullish": 8,
       "bearish": 11,
-      "neutral": 1,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -185,7 +171,7 @@
       ],
       "no_news": false
     },
-    "AVAX": {
+    "LINK": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -194,37 +180,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "South Korea trade giant POSCO brings trade receivables to Avalanche in latest tokenization move",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/25/south-korea-trade-giant-posco-brings-trade-receivables-to-avalanche-in-latest-tokenization-move",
-          "published": "2026-08-25T19:40:00+00:00",
+          "source": "Decrypt",
+          "title": "Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says",
+          "summary": "Piero Cipollone said the Eurosystem would not be able to link individuals to transactions, though the banks handling them still could.",
+          "url": "https://decrypt.co/376590/digital-euro-will-offer-maximum-level-of-privacy-ecb-board-member-says",
+          "published": "2026-08-26T12:51:03+00:00",
           "coins": [
-            "AVAX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Chainalysis-run sting targets child exploitation networks with aid of Binance, Coinbase",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/08/24/chainalysis-run-sting-targets-child-exploitation-networks-with-aid-of-binance-coinbase",
-          "published": "2026-08-25T13:00:00+00:00",
-          "coins": [
-            "BNB"
+            "LINK"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -234,6 +196,26 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -264,16 +246,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -377,17 +349,6 @@
       "confidence": 0.9359
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
-      "summary": "Japheth Dillman told investors that Block Bits Capital's \"Autotrader\" software was finished and running, and took nearly $1 million.",
-      "url": "https://decrypt.co/376441/crypto-fund-founder-convicted-of-fraud-over-fake-trading-bot",
-      "published": "2026-08-25T14:56:10+00:00",
-      "coins": [],
-      "compound": -0.8689,
-      "label": "BEARISH",
-      "confidence": 0.8689
-    },
-    {
       "source": "TheBlock",
       "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
       "summary": "A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
@@ -407,17 +368,6 @@
       "coins": [],
       "compound": 0.6597,
       "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "TheBlock",
-      "title": "San Francisco-based gaming founder convicted of operating fraudulent crypto trading fund",
-      "summary": "Dillman faces a maximum penalty of 20 years and a $250,000 fine for each count of conviction, according to the DOJ.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-san-francisco-gaming-founder-crypto-fraud-412662",
-      "published": "2026-08-25T02:08:02+00:00",
-      "coins": [],
-      "compound": -0.6597,
-      "label": "BEARISH",
       "confidence": 0.6597
     },
     {
@@ -455,25 +405,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Zerohash back for second effort at OCC trust bank charter",
+      "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/25/zerohash-back-for-second-effort-at-occ-trust-bank-charter",
-      "published": "2026-08-25T21:38:28+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+      "published": "2026-08-26T10:42:52+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.5719,
+      "label": "BEARISH",
+      "confidence": 0.5719
     },
     {
-      "source": "Decrypt",
-      "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
-      "summary": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
-      "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
-      "published": "2026-08-25T14:10:05+00:00",
+      "source": "TheBlock",
+      "title": "Tornado Cash developer Roman Storm\u2019s retrial pushed back to April 2027",
+      "summary": "A jury convicted Storm on a count of money transmitting last year, but did not reach a verdict on other charges.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-26-tornado-cash-roman-storm-retrial-april-2027-412761",
+      "published": "2026-08-26T08:00:17+00:00",
       "coins": [],
-      "compound": -0.4767,
+      "compound": -0.531,
       "label": "BEARISH",
-      "confidence": 0.4767
+      "confidence": 0.531
     },
     {
       "source": "Decrypt",
@@ -485,6 +435,28 @@
       "compound": 0.4404,
       "label": "BULLISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+      "published": "2026-08-26T11:14:16+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
+      "summary": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom.",
+      "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
+      "published": "2026-08-26T11:50:27+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
     },
     {
       "source": "TheBlock",
@@ -532,32 +504,32 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-      "summary": "These aren\u2019t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
-      "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-      "published": "2026-08-25T11:58:22+00:00",
+      "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
+      "summary": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided.",
+      "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
+      "published": "2026-08-26T10:42:35+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
-      "summary": "HashKey said it has launched the Franklin OnChain US Government Liquidity Fund on the platform's Earn channel.",
-      "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
-      "published": "2026-08-25T06:39:12+00:00",
+      "source": "CoinDesk",
+      "title": "The evidence doesn't support the banks' case against stablecoin rewards",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
+      "published": "2026-08-26T13:00:00+00:00",
       "coins": [],
-      "compound": 0.128,
+      "compound": 0.2124,
       "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.2124
     },
     {
-      "source": "TheBlock",
-      "title": "Blockchain Association backs Treasury\u2019s proposed GENIUS Act rules for stablecoin issuers",
-      "summary": "It backs limiting client ID requirements to direct issuer-customer transactions in the primary market, while calling for clearer definitions.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-25-blockchain-association-backs-genius-act-412668",
-      "published": "2026-08-25T05:24:15+00:00",
+      "source": "CoinDesk",
+      "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
+      "published": "2026-08-26T11:46:19+00:00",
       "coins": [],
       "compound": -0.1027,
       "label": "BEARISH",
@@ -575,15 +547,26 @@
       "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "US escalates Iran pressure with sanctions on crypto, aviation, shipping and gold as part of \u2018economic D-Day\u2019",
-      "summary": "The U.S. Treasury Department is zeroing in on digital assets it says are being used to bolster Iran\u2019s economy.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-us-escalates-iran-pressure-sanctions-crypto-aviation-shipping-gold-economic-d-day-412648",
-      "published": "2026-08-24T19:23:02+00:00",
+      "source": "CoinDesk",
+      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
+      "published": "2026-08-26T10:03:43+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan to start stocks and bonds tokenization development plans this year",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
+      "published": "2026-08-26T09:06:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -597,55 +580,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "LayerZero unveils trading infrastructure for crypto and tokenized markets, ZRO surges",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/25/layerzero-unveils-trading-infrastructure-for-crypto-and-tokenized-markets-zro-surges",
-      "published": "2026-08-25T16:22:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitwise turns Coinbase's tokenized stocks into automated AI, robotics and tech portfolios",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/25/bitwise-turns-coinbase-s-tokenized-stocks-into-automated-ai-robotics-and-tech-portfolios",
-      "published": "2026-08-25T14:50:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto custody firm Copper has potential buyers. But offers are way below its $500 million asking price",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/25/crypto-custody-firm-copper-has-potential-buyers-but-offers-are-way-below-its-usd500-million-asking-price",
-      "published": "2026-08-25T13:48:50+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MiCA revolutionised European crypto, and left Poland licking its wounds",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/24/mica-revolutionised-european-crypto-and-left-poland-licking-its-wounds",
-      "published": "2026-08-25T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Las Vegas businessman convicted in $24 million 'AI supercomputer' crypto Ponzi scheme",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
-      "published": "2026-08-25T11:46:18+00:00",
+      "source": "Decrypt",
+      "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
+      "summary": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves.",
+      "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
+      "published": "2026-08-26T12:31:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -657,6 +596,28 @@
       "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
       "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
       "published": "2026-08-25T22:16:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Revolut begins phased EURR stablecoin rollout in Denmark, Poland and Portugal",
+      "summary": "Revolut began rolling out EURR, its first euro-pegged stablecoin, to customers in Denmark, Poland, and Portugal.",
+      "url": "https://www.theblock.co/news/business/2026-08-26-revolut-begins-phased-eurr-stablecoin-rollout-in-denmark-poland-and-portugal-412772",
+      "published": "2026-08-26T09:12:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea\u2019s Shinhan to use Visa\u2019s stablecoin platform for \u2018future finance\u2019 initiatives",
+      "summary": "The two will also test the application of stablecoins in card payments, AI-based future payment models, and B2B and B2C payment businesses.",
+      "url": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765",
+      "published": "2026-08-26T08:43:43+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -690,17 +651,6 @@
       "summary": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
       "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
       "published": "2026-08-25T14:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto exchange volumes double in five days as market activity rebounds",
-      "summary": "Monthly volume tells a similar story, with $490 billion traded so far in August compared to $670 billion in July.",
-      "url": "https://www.theblock.co/news/markets/2026-08-24-crypto-exchange-volumes-double-in-five-days-as-market-activity-rebounds-412641",
-      "published": "2026-08-24T18:07:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
