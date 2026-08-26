@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T01:48:30.448375+00:00",
+  "generated_at": "2026-08-26T07:00:18.497596+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
       "article_count": 2,
-      "avg_compound": 0.5957,
+      "avg_compound": 0.5104,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
@@ -27,36 +27,14 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Solana ETFs extend growth streak to 5 days after year's biggest inflows",
+          "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows",
-          "published": "2026-08-25T10:25:32+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+          "published": "2026-08-26T04:13:10+00:00",
           "coins": [
+            "BTC",
+            "ETH",
             "SOL"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
-          "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
-          "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
-          "published": "2026-08-25T21:46:04+00:00",
-          "coins": [
-            "XRP"
           ],
           "compound": 0.34,
           "label": "BULLISH",
@@ -66,10 +44,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.1359,
+      "article_count": 4,
+      "avg_compound": 0.1869,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -89,6 +67,21 @@
           "confidence": 0.6808
         },
         {
+          "source": "CoinDesk",
+          "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
+          "published": "2026-08-26T04:13:10+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
           "source": "Decrypt",
           "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
           "summary": "The fund gives brokerage investors exposure to ZEC as Grayscale bets on demand for crypto assets beyond Bitcoin and Ethereum.",
@@ -101,29 +94,53 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.0334,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
+          "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
+          "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
+          "published": "2026-08-25T21:46:04+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         },
         {
           "source": "CoinDesk",
-          "title": "A 3% token move just triggered $36 million in Ethereum DeFi liquidations",
+          "title": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/25/a-3-token-move-just-triggered-usd36-million-in-ethereum-defi-liquidations",
-          "published": "2026-08-25T12:03:55+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
+          "published": "2026-08-26T05:16:32+00:00",
           "coins": [
-            "ETH"
+            "XRP"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.007,
+      "article_count": 19,
+      "avg_compound": -0.0275,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 10,
+      "bullish": 7,
+      "bearish": 11,
       "neutral": 1,
       "top_articles": [
         {
@@ -382,17 +399,6 @@
       "confidence": 0.7964
     },
     {
-      "source": "TheBlock",
-      "title": "Hyperliquid Policy Center urges SEC, CFTC to harmonize rules for perpetual contracts",
-      "summary": "The push comes as Hyperliquid's multi-asset perpetuals gain scale and draw scrutiny from traditional exchanges.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-hyperliquid-policy-center-urges-sec-cftc-harmonize-rules-perpetual-contracts-412601",
-      "published": "2026-08-24T16:18:24+00:00",
-      "coins": [],
-      "compound": 0.7269,
-      "label": "BULLISH",
-      "confidence": 0.7269
-    },
-    {
       "source": "Decrypt",
       "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
       "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
@@ -424,6 +430,17 @@
       "compound": 0.6486,
       "label": "BULLISH",
       "confidence": 0.6486
+    },
+    {
+      "source": "TheBlock",
+      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+      "summary": "Relayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
+      "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
+      "published": "2026-08-26T03:35:32+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
     },
     {
       "source": "TheBlock",
@@ -470,6 +487,28 @@
       "confidence": 0.4404
     },
     {
+      "source": "TheBlock",
+      "title": "Japan to work on blockchain-based stock settlement system, details expected early 2027: Nikkei",
+      "summary": "If the plan is approved, the agencies could launch the system within a few years, and fully operational in the early 2030s.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-26-japan-blockchain-stock-settlement-system-412755",
+      "published": "2026-08-26T06:40:31+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
+      "published": "2026-08-26T04:51:49+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "Decrypt",
       "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
       "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would \u201ccripple the industry\u201d as regulators implement the GENIUS Act.",
@@ -479,6 +518,17 @@
       "compound": -0.3612,
       "label": "BEARISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
+      "summary": "It was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation.",
+      "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
+      "published": "2026-08-26T04:51:58+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -534,17 +584,6 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
-    },
-    {
-      "source": "TheBlock",
-      "title": "Stand With Crypto ramps up midterm push with 32 House endorsements",
-      "summary": "Stand With Crypto is backing more than 30 House candidates as it looks to flex its political influence once more in the upcoming elections.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-24-stand-with-crypto-ramps-up-midterm-push-with-32-house-endorsements-412616",
-      "published": "2026-08-24T15:57:45+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -607,17 +646,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/25/crypto-supercomputer-ponzi-schemer-convicted-faces-up-to-280-years-in-prison",
       "published": "2026-08-25T11:46:18+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology",
-      "published": "2026-08-25T08:47:18+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
