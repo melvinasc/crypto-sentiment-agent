@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-08-26T13:05:57.399286+00:00",
+  "generated_at": "2026-08-26T19:55:47.559757+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.5104,
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.7006,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Solana Treasury Firm Invites Investors to Look 'Beyond the Price of SOL'",
+          "summary": "Nasdaq-listed SOL treasury company DeFi Development Corp launched a free network dashboard on Wednesday. Its pitch: judge Solana on more than just price.",
+          "url": "https://decrypt.co/376619/solana-treasury-sol-data-beyond-price",
+          "published": "2026-08-26T17:52:22+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.7506,
+          "label": "BULLISH",
+          "confidence": 0.7506
+        },
         {
           "source": "TheBlock",
           "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
@@ -26,30 +39,28 @@
           "confidence": 0.6808
         },
         {
-          "source": "CoinDesk",
-          "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-          "published": "2026-08-26T04:13:10+00:00",
+          "source": "TheBlock",
+          "title": "SOL treasury firm DeFi Development launches real-time \u2018State of Solana\u2019 intelligence platform",
+          "summary": "The Nasdaq-listed company holds roughly 2.3 million SOL worth about $208 million, while its shares have fallen 16% year to date.",
+          "url": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
+          "published": "2026-08-26T14:07:21+00:00",
           "coins": [
-            "BTC",
-            "ETH",
             "SOL"
           ],
-          "compound": 0.34,
+          "compound": 0.6705,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.6705
         }
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.5104,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.2012,
       "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -68,30 +79,54 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
+          "title": "Ethereum developers propose first step to protect ETH staking from quantum attacks",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-          "published": "2026-08-26T04:13:10+00:00",
+          "url": "https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks",
+          "published": "2026-08-26T13:30:00+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
+            "ETH"
           ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
+          "compound": -0.0772,
+          "label": "BEARISH",
+          "confidence": 0.0772
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Devs Propose Deposit Contract Overhaul to Quantum-Proof Staking",
+          "summary": "The proposal would let validator keys grow to 8,192 bytes and adds a switch that permanently retires today's BLS signatures.",
+          "url": "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
+          "published": "2026-08-26T15:04:58+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.0334,
-      "overall": "NEUTRAL",
+      "article_count": 3,
+      "avg_compound": -0.1117,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
+          "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
+          "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
+          "published": "2026-08-26T15:29:49+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        },
         {
           "source": "Decrypt",
           "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
@@ -122,26 +157,13 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0082,
+      "article_count": 20,
+      "avg_compound": 0.0374,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 11,
-      "neutral": 4,
+      "bullish": 6,
+      "bearish": 9,
+      "neutral": 5,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/UK-banks-still-blocking-bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin\" rel=\"nofollow\">UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament</a></p>\n<p>Bitcoin Policy UK says that 40% of bank-to-exchange transfers are being blocked in Britain. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin\" rel=\"nofollow\">UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/uk-banks-blocking-bitcoin",
-          "published": "2026-08-24T19:56:45+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8957,
-          "label": "BEARISH",
-          "confidence": 0.8957
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Tops $81,000 \u2014 Is the Debasement Trade Back?",
@@ -156,17 +178,30 @@
           "confidence": 0.8377
         },
         {
-          "source": "Decrypt",
-          "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here\u2019s Why",
-          "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
-          "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
-          "published": "2026-08-25T16:45:59+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Coinbase-Better.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages\" rel=\"nofollow\">Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages\u00a0</a></p>\n<p>The announcement comes after Better and Coinbase debuted the first Bitcoin-backed loan in June. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages\" rel=\"nofollow\">Coinbase and Better Mortgage Announce General Availability of Bitcoin-Backed Mortgages\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coinbase-better-announce-bitcoin-mortgages",
+          "published": "2026-08-26T17:24:53+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7579,
+          "compound": 0.8271,
           "label": "BULLISH",
-          "confidence": 0.7579
+          "confidence": 0.8271
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/05/Human-Rights-Foundation-Donates-800-Million-Satoshis-To-22-Worldwide-Bitcoin-And-Freedom-Projects.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants\" rel=\"nofollow\">The Human Rights Foundation Announces Support for 16 Projects Worldwide</a></p>\n<p>The Human Rights Foundation has announced 500 million satoshis in new grants through its Bitcoin Development Fund. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants\" rel=\"nofollow\">The Human Rights Foundation Announces Support for 16 Projects Worldwide</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
+          "published": "2026-08-25T16:00:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
         }
       ],
       "no_news": false
@@ -338,55 +373,33 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
-      "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
-      "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
-      "published": "2026-08-25T19:11:04+00:00",
+      "source": "TheBlock",
+      "title": "Coinbase, Better make token-backed mortgages generally available",
+      "summary": "Coinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available.",
+      "url": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
+      "published": "2026-08-26T15:00:35+00:00",
       "coins": [],
-      "compound": -0.9359,
+      "compound": 0.8658,
+      "label": "BULLISH",
+      "confidence": 0.8658
+    },
+    {
+      "source": "Decrypt",
+      "title": "'The Government Doesn't Own Our Data': Prosecuted GrapheneOS User",
+      "summary": "Samuel Tunick, facing five years over a wiped phone, said he was secretly placed on a watch list as a suspected terrorist.",
+      "url": "https://decrypt.co/376631/the-government-doesnt-own-our-data-prosecuted-grapheneos-user",
+      "published": "2026-08-26T17:24:52+00:00",
+      "coins": [],
+      "compound": -0.8481,
       "label": "BEARISH",
-      "confidence": 0.9359
+      "confidence": 0.8481
     },
     {
       "source": "TheBlock",
-      "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
-      "summary": "A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
-      "published": "2026-08-25T07:53:23+00:00",
-      "coins": [],
-      "compound": -0.7964,
-      "label": "BEARISH",
-      "confidence": 0.7964
-    },
-    {
-      "source": "Decrypt",
-      "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
-      "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
-      "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
-      "published": "2026-08-25T19:46:03+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "Decrypt",
-      "title": "These Researchers Just Shrunk an AI Model and Somehow Made It Smarter",
-      "summary": "A smaller, cheaper AI usually means a dumber one. A new technique flipped that\u2014and your phone might be the winner.",
-      "url": "https://decrypt.co/376536/researchers-shrink-ai-model-made-smarter",
-      "published": "2026-08-25T20:46:03+00:00",
-      "coins": [],
-      "compound": 0.6486,
-      "label": "BULLISH",
-      "confidence": 0.6486
-    },
-    {
-      "source": "TheBlock",
-      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
-      "summary": "Relayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
-      "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
-      "published": "2026-08-26T03:35:32+00:00",
+      "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
+      "summary": "The CFTC should adopt a regulatory framework for energy perpetual contracts, the Hyperliquid Policy Center and TradeXYZ said in a letter.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
+      "published": "2026-08-26T16:06:46+00:00",
       "coins": [],
       "compound": 0.5994,
       "label": "BULLISH",
@@ -394,10 +407,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
-      "summary": "On Tuesday morning, Grayscale launched the first ETF to offer direct exposure to Zcash, the privacy-focused cryptocurrency.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-25-grayscale-debuts-zcash-etf-412654",
-      "published": "2026-08-25T12:00:00+00:00",
+      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+      "summary": "Relayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
+      "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
+      "published": "2026-08-26T03:35:32+00:00",
       "coins": [],
       "compound": 0.5994,
       "label": "BULLISH",
@@ -415,6 +428,17 @@
       "confidence": 0.5719
     },
     {
+      "source": "Decrypt",
+      "title": "US Banks Join Forces to Build a Blockchain of Their Own",
+      "summary": "The BankChain Alliance aims to give smaller financial institutions access to tokenized deposits and blockchain payments through a shared network targeted for 2027.",
+      "url": "https://decrypt.co/376644/banks-build-blockchain-bankchain-alliance",
+      "published": "2026-08-26T19:21:25+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "TheBlock",
       "title": "Tornado Cash developer Roman Storm\u2019s retrial pushed back to April 2027",
       "summary": "A jury convicted Storm on a count of money transmitting last year, but did not reach a verdict on other charges.",
@@ -427,14 +451,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
-      "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
-      "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
-      "published": "2026-08-25T18:39:26+00:00",
+      "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
+      "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
+      "url": "https://decrypt.co/376609/tokenized-deposits-bank-lending-dallas-fed",
+      "published": "2026-08-26T16:18:24+00:00",
       "coins": [],
-      "compound": 0.4404,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.4404
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
@@ -470,28 +494,6 @@
       "confidence": 0.4215
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto greed gauge hits highest since just before October\u2019s $19 billion wipeout",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-      "published": "2026-08-26T04:51:49+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
-      "summary": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would \u201ccripple the industry\u201d as regulators implement the GENIUS Act.",
-      "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
-      "published": "2026-08-25T16:28:59+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "TheBlock",
       "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
       "summary": "It was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation.",
@@ -501,6 +503,17 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto CEO Faces US Extradition Over Alleged $20 Million Token Scheme",
+      "summary": "Manpreet Kohli, accused of making $20 million from an alleged scheme to manipulate the Saitama token, is a step closer to facing trial in Boston.",
+      "url": "https://decrypt.co/376617/crypto-ceo-extradition-20-million-scheme",
+      "published": "2026-08-26T17:15:33+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -526,6 +539,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "South Korea\u2019s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "published": "2026-08-26T15:15:13+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC sends crypto custody rule changes to White House for review",
+      "summary": "A proposal from the SEC to change its rules governing how investment advisers hold digital assets was sent this week to the White House.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-26-sec-sends-crypto-custody-rule-changes-to-white-house-for-review-412811",
+      "published": "2026-08-26T14:55:57+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
       "title": "Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity",
@@ -548,6 +583,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/08/26/crypto-long-and-short-tokenized-equities-the-model-underneath-the-trade",
+      "published": "2026-08-26T15:00:09+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
@@ -563,17 +609,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
       "published": "2026-08-26T09:06:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. state banking associations plan to launch their own nationwide blockchain network",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/25/u-s-state-banking-associations-plan-to-launch-their-own-nationwide-blockchain-network",
-      "published": "2026-08-25T21:56:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -629,28 +664,6 @@
       "summary": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
       "published": "2026-08-25T18:41:50+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
-      "summary": "The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
-      "url": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
-      "published": "2026-08-25T14:16:26+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
-      "summary": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
-      "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
-      "published": "2026-08-25T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
