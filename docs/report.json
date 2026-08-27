@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T19:55:47.559757+00:00",
+  "generated_at": "2026-08-27T08:55:22.793421+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
       "article_count": 3,
-      "avg_compound": 0.7006,
+      "avg_compound": 0.601,
       "overall": "BULLISH",
       "bullish": 3,
       "bearish": 0,
@@ -25,21 +25,6 @@
         },
         {
           "source": "TheBlock",
-          "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
-          "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
-          "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
-          "published": "2026-08-25T16:03:42+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.6808,
-          "label": "BULLISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "TheBlock",
           "title": "SOL treasury firm DeFi Development launches real-time \u2018State of Solana\u2019 intelligence platform",
           "summary": "The Nasdaq-listed company holds roughly 2.3 million SOL worth about $208 million, while its shares have fallen 16% year to date.",
           "url": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
@@ -50,32 +35,85 @@
           "compound": 0.6705,
           "label": "BULLISH",
           "confidence": 0.6705
+        },
+        {
+          "source": "Decrypt",
+          "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+          "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+          "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+          "published": "2026-08-26T19:56:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.4019,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin below $79,000, XRP leads losses as traders start betting on a Fed hike",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-below-usd79-000-xrp-leads-losses-as-traders-start-betting-on-a-fed-hike",
+          "published": "2026-08-27T04:35:18+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "Decrypt",
+          "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
+          "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
+          "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
+          "published": "2026-08-26T15:29:49+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 3,
-      "avg_compound": 0.2012,
+      "avg_compound": 0.1015,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
-          "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
-          "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
-          "published": "2026-08-25T16:03:42+00:00",
+          "source": "Decrypt",
+          "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
+          "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+          "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
+          "published": "2026-08-26T19:56:03+00:00",
           "coins": [
             "BTC",
             "ETH",
             "SOL"
           ],
-          "compound": 0.6808,
+          "compound": 0.3818,
           "label": "BULLISH",
-          "confidence": 0.6808
+          "confidence": 0.3818
         },
         {
           "source": "CoinDesk",
@@ -106,76 +144,26 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": -0.1117,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Leads Crypto Pullback as Leverage Unwind Tests Rally",
-          "summary": "XRP led losses among the 10 biggest cryptocurrencies today. The charts show the real test for its rally is only getting started.",
-          "url": "https://decrypt.co/376601/xrp-price-leverage-unwind-tests-rally",
-          "published": "2026-08-26T15:29:49+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "Decrypt",
-          "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
-          "summary": "XRP has given back two days of gains after a vertical recovery, and the charts say the bounce just met a wall.",
-          "url": "https://decrypt.co/376559/xrp-price-cools-where-next",
-          "published": "2026-08-25T21:46:04+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP\u2019s 44% rally brings leverage back, raising risk of sharper pullback",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-          "published": "2026-08-26T05:16:32+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0374,
-      "overall": "NEUTRAL",
-      "bullish": 6,
-      "bearish": 9,
-      "neutral": 5,
+      "article_count": 24,
+      "avg_compound": 0.0597,
+      "overall": "BULLISH",
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Tops $81,000 \u2014 Is the Debasement Trade Back?",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back\" rel=\"nofollow\">Bitcoin Tops $81,000 \u2014 Is the Debasement Trade Back?</a></p>\n<p>Bitcoin reached over $80,000 for the first time since January. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back\" rel=\"nofollow\">Bitcoin Tops $81,000 \u2014 Is the Debasement Trade Back?</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-surges-is-debasement-trade-back",
-          "published": "2026-08-25T15:14:28+00:00",
+          "title": "Coinkite\u2019s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline\" rel=\"nofollow\">Coinkite\u2019s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline</a></p>\n<p>Coinkite now forces dice rolls and key-press entropy on new Coldcard seeds. The lasting lesson from the July\u2013August 2026 thefts is not to abandon self-custody \u2014 it is to stop generating every key on one vendor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline\" rel=\"nofollow\">Coinkite\u2019s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline",
+          "published": "2026-08-26T23:39:32+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8377,
-          "label": "BULLISH",
-          "confidence": 0.8377
+          "compound": -0.8357,
+          "label": "BEARISH",
+          "confidence": 0.8357
         },
         {
           "source": "Bitcoin Magazine",
@@ -202,6 +190,30 @@
           "compound": 0.7269,
           "label": "BULLISH",
           "confidence": 0.7269
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance co-founders CZ and Yi He adopted Simpsons cartoon aliases \u2018Homer\u2019 and \u2018Marge\u2019 in company meetings",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings",
+          "published": "2026-08-27T05:25:28+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -241,16 +253,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -374,6 +376,17 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "Mirae Asset maps out $109 billion digital asset push with Digital X: report",
+      "summary": "South Korea's Mirae Asset targets a $109 billion digital asset business around Digital X, aiming for profitability by 2027.",
+      "url": "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
+      "published": "2026-08-27T08:21:57+00:00",
+      "coins": [],
+      "compound": 0.8779,
+      "label": "BULLISH",
+      "confidence": 0.8779
+    },
+    {
+      "source": "TheBlock",
       "title": "Coinbase, Better make token-backed mortgages generally available",
       "summary": "Coinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available.",
       "url": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
@@ -406,25 +419,14 @@
       "confidence": 0.5994
     },
     {
-      "source": "TheBlock",
-      "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
-      "summary": "Relayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
-      "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
-      "published": "2026-08-26T03:35:32+00:00",
+      "source": "Decrypt",
+      "title": "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+      "summary": "The chipmaker doubled quarterly revenue while disclosing $366 billion in future commitments and up to $108.5 billion in guarantee exposure.",
+      "url": "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+      "published": "2026-08-26T21:42:42+00:00",
       "coins": [],
-      "compound": 0.5994,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
-      "published": "2026-08-26T10:42:52+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
       "confidence": 0.5719
     },
     {
@@ -450,6 +452,17 @@
       "confidence": 0.531
     },
     {
+      "source": "CoinDesk",
+      "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+      "published": "2026-08-26T23:01:44+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
+    },
+    {
       "source": "Decrypt",
       "title": "Tokenized Deposits Could Drain $700 Billion From Bank Lending, Dallas Fed Warns",
       "summary": "A shift toward faster, more rate-sensitive deposits could push banks into safer assets, constrain lending, and raise borrowing costs, Dallas Fed researchers said.",
@@ -459,6 +472,28 @@
       "compound": 0.4767,
       "label": "BULLISH",
       "confidence": 0.4767
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "published": "2026-08-26T20:24:31+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+      "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
+      "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+      "published": "2026-08-26T22:16:03+00:00",
+      "coins": [],
+      "compound": 0.4449,
+      "label": "BULLISH",
+      "confidence": 0.4449
     },
     {
       "source": "CoinDesk",
@@ -473,10 +508,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: LayerZero Announces ATLAS as New Settlement Engine",
-      "summary": "The market liked the news, with ZRO up 10% and jumping nearly 50% off its local bottom.",
-      "url": "https://decrypt.co/376580/morning-minute-layerzero-announces-atlas-as-new-settlement-engine",
-      "published": "2026-08-26T11:50:27+00:00",
+      "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+      "summary": "The operation promoted a purported Israeli think tank that published copied scholarship under academics\u2019 names and circulated pro-Russian analysis across social media.",
+      "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+      "published": "2026-08-26T22:46:03+00:00",
       "coins": [],
       "compound": 0.4215,
       "label": "BULLISH",
@@ -495,14 +530,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
-      "summary": "It was reported earlier this month that Kalshi is looking to raise $750 million in fresh capital at a $40 billion valuation.",
-      "url": "https://www.theblock.co/news/web3/2026-08-26-kalshi-latest-form-d-412749",
-      "published": "2026-08-26T04:51:58+00:00",
+      "title": "Connecticut sues Kalshi over sports event contracts in months-long legal feud",
+      "summary": "Kalshi Head of Litigation Jovy Dedaj calls the move 'arbitrary and inconsistent enforcement,' as other platforms continue to operate there.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870",
+      "published": "2026-08-27T06:11:59+00:00",
       "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -514,17 +549,6 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Roman Storm's Tornado Cash Retrial Pushed to April 2027",
-      "summary": "Judge Katherine Polk Failla adjourned the retrial by more than six months, with Storm's motion for acquittal still undecided.",
-      "url": "https://decrypt.co/376577/roman-storms-tornado-cash-retrial-pushed-to-april-2027",
-      "published": "2026-08-26T10:42:35+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -571,17 +595,6 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "Alibaba to Release Qwen 3.8-Flash-Next as a Preview of What Qwen 4 Will Offer",
-      "summary": "Alibaba's Qwen team is teasing its next architecture a day early\u2014and the specs say it runs near-frontier scale on a fraction of the power.",
-      "url": "https://decrypt.co/376530/alibaba-qwen-3-8-flash-next-preview-qwen-4",
-      "published": "2026-08-25T21:16:04+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto Long & Short: Tokenized equities: the model underneath the trade",
       "summary": "",
@@ -593,44 +606,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Euro stablecoins get a mainstream push as Revolut begins rolling out EURR in Europe",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/26/euro-stablecoins-get-a-mainstream-push-as-revolut-begins-rolling-out-eurr-in-europe",
-      "published": "2026-08-26T10:03:43+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan to start stocks and bonds tokenization development plans this year",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/26/japan-plans-blockchain-settlement-network-for-stocks-and-government-bonds",
-      "published": "2026-08-26T09:06:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Revolut Launches Euro-Pegged EURR Stablecoin",
       "summary": "EURR has gone live for selected customers in Denmark, Poland and Portugal, with a Luxembourg subsidiary of Stripe holding the reserves.",
       "url": "https://decrypt.co/376575/revolut-launches-euro-pegged-eurr-stablecoin",
       "published": "2026-08-26T12:31:13+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Elon Musk\u2019s SpaceX Plans $100 Billion Louisiana Spaceport",
-      "summary": "The 10-year project in Vermilion Parish will include five launch complexes and infrastructure for Starship missions.",
-      "url": "https://decrypt.co/376573/elon-musk-spacex-100-billion-spaceport",
-      "published": "2026-08-25T22:16:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -653,17 +633,6 @@
       "summary": "The two will also test the application of stablecoins in card payments, AI-based future payment models, and B2B and B2C payment businesses.",
       "url": "https://www.theblock.co/news/web3/2026-08-26-south-koreas-shinhan-visa-stablecoin-412765",
       "published": "2026-08-26T08:43:43+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
-      "summary": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
-      "published": "2026-08-25T18:41:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
