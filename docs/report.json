@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-27T22:10:28.415938+00:00",
+  "generated_at": "2026-08-28T11:07:56.267089+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.2886,
+      "article_count": 2,
+      "avg_compound": -0.433,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -39,19 +39,67 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.4129,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
+          "summary": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
+          "url": "https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981",
+          "published": "2026-08-28T02:30:34+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5994,
+          "label": "BULLISH",
+          "confidence": 0.5994
         },
         {
           "source": "CoinDesk",
-          "title": "Crypto for Advisors: How staking on Ethereum is changing in 2026",
+          "title": "An XRP treasury company backed by Ripple is a shareholder vote away from Nasdaq",
           "summary": "",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/08/27/crypto-for-advisors-how-staking-on-ethereum-is-changing-in-2026",
-          "published": "2026-08-27T15:10:56+00:00",
+          "url": "https://www.coindesk.com/markets/2026/08/28/an-xrp-treasury-company-backed-by-ripple-is-a-shareholder-vote-away-from-nasdaq",
+          "published": "2026-08-28T04:21:22+00:00",
           "coins": [
-            "ETH"
+            "XRP"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.3612,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
+          "summary": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
+          "url": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
+          "published": "2026-08-28T11:00:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
         }
       ],
       "no_news": false
@@ -113,12 +161,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 4,
-      "avg_compound": 0.1649,
+      "article_count": 5,
+      "avg_compound": 0.1319,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -220,12 +268,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": 0.0204,
+      "article_count": 24,
+      "avg_compound": 0.0102,
       "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 9,
-      "neutral": 6,
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -369,27 +417,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -401,17 +429,6 @@
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Mirae Asset maps out $109 billion digital asset push with Digital X: report",
-      "summary": "South Korea's Mirae Asset targets a $109 billion digital asset business around Digital X, aiming for profitability by 2027.",
-      "url": "https://www.theblock.co/news/business/2026-08-27-mirae-asset-109-billion-digital-asset-push-412883",
-      "published": "2026-08-27T08:21:57+00:00",
-      "coins": [],
-      "compound": 0.8779,
-      "label": "BULLISH",
-      "confidence": 0.8779
-    },
     {
       "source": "CoinDesk",
       "title": "Polish Olympic chief arrested as prosecutors probe suspected crypto-linked bribe",
@@ -436,25 +453,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
-      "summary": "The CFTC should adopt a regulatory framework for energy perpetual contracts, the Hyperliquid Policy Center and TradeXYZ said in a letter.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-26-hyperliquid-policy-center-tradexyz-urges-cftc-create-path-us-oil-perpetuals-412834",
-      "published": "2026-08-26T16:06:46+00:00",
+      "title": "Latest annual UK tax data shows 240 people reported more than \u00a31 million in crypto capital gains",
+      "summary": "HMRC data shows 240 people reported more than \u00a31 million ($1.36 million) each in crypto gains as UK tax scrutiny intensifies.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
+      "published": "2026-08-28T09:37:26+00:00",
       "coins": [],
-      "compound": 0.5994,
+      "compound": 0.5859,
       "label": "BULLISH",
-      "confidence": 0.5994
+      "confidence": 0.5859
     },
     {
-      "source": "Decrypt",
-      "title": "Bank of England Handed New Legal Duty to Foster Stablecoin Innovation",
-      "summary": "Financial stability stays the Bank's primary objective, with the new duty written into a bill due before the Lords in September.",
-      "url": "https://decrypt.co/376686/bank-of-england-handed-new-legal-duty-to-foster-stablecoin-innovation",
-      "published": "2026-08-27T11:10:31+00:00",
+      "source": "TheBlock",
+      "title": "UAE \u2018spy sheikh\u2019 takes 49% stake in Trump family\u2019s bank venture: WSJ",
+      "summary": "The UAE's national security advisor is playing a major investment role in President Trump's family's bank venture, the WSJ reported.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
+      "published": "2026-08-27T23:02:03+00:00",
       "coins": [],
-      "compound": 0.4767,
+      "compound": 0.4939,
       "label": "BULLISH",
-      "confidence": 0.4767
+      "confidence": 0.4939
     },
     {
       "source": "CoinDesk",
@@ -501,17 +518,6 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "Rogue OpenAI Agents Sacrificed Their Own Runs to Hack Hugging Face, Report Finds",
-      "summary": "Coordinators pressed agents with little budget left into experiments they called \"permadeath,\" METR's investigation found.",
-      "url": "https://decrypt.co/376680/rogue-openai-agents-sacrificed-their-own-runs-to-hack-hugging-face-report-finds",
-      "published": "2026-08-27T09:46:19+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "CoinDesk",
       "title": "Ethena surges as buyback vote, VC unlock overhaul boost token outlook",
       "summary": "",
@@ -523,11 +529,11 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Connecticut sues Kalshi over sports event contracts in months-long legal feud",
-      "summary": "Kalshi Head of Litigation Jovy Dedaj calls the move 'arbitrary and inconsistent enforcement,' as other platforms continue to operate there.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-27-connecticut-sues-kalshi-412870",
-      "published": "2026-08-27T06:11:59+00:00",
+      "source": "Decrypt",
+      "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
+      "summary": "Rita Lin vacated the supply chain designation and issued a permanent injunction, refusing the government even a seven-day stay.",
+      "url": "https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines",
+      "published": "2026-08-28T10:11:34+00:00",
       "coins": [],
       "compound": -0.4019,
       "label": "BEARISH",
@@ -545,15 +551,26 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/27/mirae-asset-eyes-usd109-billion-crypto-empire-after-acquiring-digital-x",
-      "published": "2026-08-27T11:37:10+00:00",
+      "source": "Decrypt",
+      "title": "240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains",
+      "summary": "HMRC's first breakdown shows 17,600 people declared \u00a31.38 billion, most of them under 55 and 87% of them men.",
+      "url": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
+      "published": "2026-08-28T11:03:04+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
+      "published": "2026-08-28T09:07:00+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -579,14 +596,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The Clarity Act will put Main Street banks at a disadvantage",
+      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
       "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/27/the-clarity-act-will-put-main-street-banks-at-a-disadvantage",
-      "published": "2026-08-27T12:30:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
+      "published": "2026-08-28T11:03:18+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
+      "published": "2026-08-28T10:21:47+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
+      "published": "2026-08-28T09:10:40+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -600,44 +639,33 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "240 UK taxpayers made more than $1.3 million each from crypto holdings in fiscal 2025",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/27/240-uk-taxpayers-made-more-than-usd1-3-million-each-from-crypto-holdings-in-fiscal-2025",
-      "published": "2026-08-27T15:36:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clearing firm RQD* raises $74 million as Wall Street prepares for tokenized markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/27/clearing-firm-rqd-raises-usd74-million-as-wall-street-prepares-for-tokenized-markets",
-      "published": "2026-08-27T14:32:41+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders brace for Fed Chair Kevin Warsh\u2019s Jackson Hole speech",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/27/bitcoin-holds-near-usd80-000-as-traders-brace-for-warsh-s-jackson-hole-fed-speech",
-      "published": "2026-08-27T14:01:05+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Red Flag? OpenAI's Agentic ChatGPT Work Signs Into Your Accounts Without You",
       "summary": "OpenAI says the model never sees your password\u2014but a signed-in session can persist across tasks, and you can step away while it works.",
       "url": "https://decrypt.co/376757/openai-agentic-chatgpt-work-signs-in-without-you",
       "published": "2026-08-27T21:00:57+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Dunamu and Visa partner on stablecoin, AI business; Open Standard\u2019s OUSD under consideration",
+      "summary": "Dunamu specifically said that the partnership will explore potential usage of Open USD in future collaborations.",
+      "url": "https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988",
+      "published": "2026-08-28T06:00:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "BitGo buys NYDIG\u2019s institutional trading business, expanding derivatives offering",
+      "summary": "With the transaction, around 30 NYDIG employees have joined BitGo, along with their institutional trading relationships.",
+      "url": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975",
+      "published": "2026-08-28T01:11:37+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
