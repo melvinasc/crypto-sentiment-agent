@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T06:52:36.817115+00:00",
+  "generated_at": "2026-08-29T16:38:01.430204+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -187,6 +187,60 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 5,
+      "avg_compound": -0.1139,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
+          "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
+          "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
+          "published": "2026-08-28T17:44:09+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.5106,
+          "label": "BEARISH",
+          "confidence": 0.5106
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
+          "summary": "Two majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients\u2014quite the setup for Solana.",
+          "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
+          "published": "2026-08-28T12:13:35+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        },
+        {
+          "source": "Decrypt",
+          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
+          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+          "published": "2026-08-28T16:39:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL",
+            "AVAX",
+            "LINK"
+          ],
+          "compound": 0.2144,
+          "label": "BULLISH",
+          "confidence": 0.2144
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
       "article_count": 20,
       "avg_compound": 0.0821,
@@ -233,56 +287,6 @@
           "compound": 0.6461,
           "label": "BULLISH",
           "confidence": 0.6461
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 6,
-      "avg_compound": -0.0456,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
-          "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
-          "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-          "published": "2026-08-28T17:44:09+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "TheBlock",
-          "title": "DeFi Development Corp resumes Solana purchases, acquiring nearly 20,000 SOL",
-          "summary": "DFDV's return has been more than twice that of SOL in the month of August, while quarter-to-date, shares have outperformed SOL by 1.8x.",
-          "url": "https://www.theblock.co/news/business/2026-08-27-defi-development-resumes-solana-purchases-acquiring-nearly-20000-sol-412932",
-          "published": "2026-08-27T15:32:13+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
-          "summary": "Two majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients\u2014quite the setup for Solana.",
-          "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
-          "published": "2026-08-28T12:13:35+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
         }
       ],
       "no_news": false
@@ -501,17 +505,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "Decrypt",
-      "title": "Judge Rules Trump Administration Illegally Retaliated Against Anthropic Over AI Red Lines",
-      "summary": "Rita Lin vacated the supply chain designation and issued a permanent injunction, refusing the government even a seven-day stay.",
-      "url": "https://decrypt.co/376781/judge-rules-trump-administration-illegally-retaliated-against-anthropic-over-ai-red-lines",
-      "published": "2026-08-28T10:11:34+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "TheBlock",
       "title": "IREN\u2019s $25 billion-$30 billion AI buildout may have \u2018spooked\u2019 investors, Bernstein says",
       "summary": "IREN has $4 billion in contracted cloud ARR for 2026 capacity and has secured over $20M in annual revenue per IT megawatt on recent deals.",
@@ -532,17 +525,6 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "240 Crypto Millionaires Booked Over Half of Britain's Taxable Crypto Gains",
-      "summary": "HMRC's first breakdown shows 17,600 people declared \u00a31.38 billion, most of them under 55 and 87% of them men.",
-      "url": "https://decrypt.co/376794/240-crypto-millionaires-booked-over-half-of-britains-taxable-crypto-gains",
-      "published": "2026-08-28T11:03:04+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -568,6 +550,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Tokenized assets are busier than the data shows",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
+      "published": "2026-08-29T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
       "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
@@ -578,15 +571,48 @@
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-      "published": "2026-08-28T11:03:18+00:00",
+      "source": "TheBlock",
+      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
+      "summary": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
+      "published": "2026-08-29T13:58:02+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "published": "2026-08-29T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swift\u2019s $1.5 quadrillion network faces a blockchain test",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "published": "2026-08-29T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next trillion-dollar currency may not be a stablecoin \u2014 it might not even have a name yet",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
+      "published": "2026-08-29T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -622,22 +648,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Visa doubles down on South Korea with Upbit operator Dunamu on stablecoin payments",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/visa-doubles-down-on-south-korea-with-upbit-operator-dunamu-on-stablecoin-payments",
-      "published": "2026-08-28T10:21:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken users briefly locked out after a flood of sanctioned crypto transactions",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/kraken-users-briefly-locked-out-after-a-flood-of-sanctioned-crypto-transactions",
-      "published": "2026-08-28T09:10:40+00:00",
+      "source": "Decrypt",
+      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
+      "summary": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
+      "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
+      "published": "2026-08-29T13:31:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
