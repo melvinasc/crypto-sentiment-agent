@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-28T22:10:23.726915+00:00",
+  "generated_at": "2026-08-29T06:52:36.817115+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.635,
+      "article_count": 3,
+      "avg_compound": 0.4233,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -35,6 +35,19 @@
           "compound": 0.5994,
           "label": "BULLISH",
           "confidence": 0.5994
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+          "published": "2026-08-29T02:30:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -176,11 +189,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.1021,
+      "avg_compound": 0.0821,
       "overall": "BULLISH",
       "bullish": 11,
-      "bearish": 6,
-      "neutral": 3,
+      "bearish": 7,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -541,17 +554,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "IREN shares fall 8% as costly AI transition weighs on earnings",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/28/iren-shares-fall-8-as-costly-ai-transition-weighs-on-earnings",
-      "published": "2026-08-28T09:07:00+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
