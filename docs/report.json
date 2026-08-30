@@ -1,99 +1,7 @@
 {
-  "generated_at": "2026-08-30T16:33:18.563003+00:00",
+  "generated_at": "2026-08-30T20:55:32.547157+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.4233,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-          "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
-          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-          "published": "2026-08-28T19:46:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.6705,
-          "label": "BULLISH",
-          "confidence": 0.6705
-        },
-        {
-          "source": "TheBlock",
-          "title": "XRP treasury firm Evernorth says SEC registration now effective, clearing way for Nasdaq listing",
-          "summary": "The S-4 registration statement is for Evernorth's merger with SPAC firm Armada, through which it seeks a Nasdaq listing.",
-          "url": "https://www.theblock.co/news/deals/2026-08-27-evernorth-xrp-sec-effective-412981",
-          "published": "2026-08-28T02:30:34+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5994,
-          "label": "BULLISH",
-          "confidence": 0.5994
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-          "published": "2026-08-29T02:30:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.4002,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-          "summary": "Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.",
-          "url": "https://decrypt.co/376810/ethereum-etfs-take-226m-in-a-day-almost-matching-bitcoins-haul",
-          "published": "2026-08-28T14:17:21+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": 0.5859,
-          "label": "BULLISH",
-          "confidence": 0.5859
-        },
-        {
-          "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
       "article_count": 1,
       "avg_compound": -0.3612,
@@ -118,7 +26,72 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3352,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+          "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
+          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+          "published": "2026-08-28T19:46:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6705,
+          "label": "BULLISH",
+          "confidence": 0.6705
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
+          "published": "2026-08-29T02:30:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.2144,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
+          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+          "published": "2026-08-28T16:39:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL",
+            "AVAX",
+            "LINK"
+          ],
+          "compound": 0.2144,
+          "label": "BULLISH",
+          "confidence": 0.2144
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
       "article_count": 1,
       "avg_compound": 0.2144,
       "overall": "BULLISH",
@@ -176,11 +149,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.14,
+      "avg_compound": 0.1107,
       "overall": "BULLISH",
-      "bullish": 12,
+      "bullish": 11,
       "bearish": 5,
-      "neutral": 3,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -416,6 +389,28 @@
   "uncategorised": [
     {
       "source": "TheBlock",
+      "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+      "summary": "Li says the attacker manipulated the price of Tectonic's illiquid TONIC token before borrowing against the inflated collateral, a Mango Markets-style hack.",
+      "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+      "published": "2026-08-30T18:40:08+00:00",
+      "coins": [],
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
+    },
+    {
+      "source": "TheBlock",
+      "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+      "summary": "The lawsuit asks a federal court to block the $95 million TRM contract and require ICE to conduct a full and open competition.",
+      "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+      "published": "2026-08-30T17:51:54+00:00",
+      "coins": [],
+      "compound": -0.7351,
+      "label": "BEARISH",
+      "confidence": 0.7351
+    },
+    {
+      "source": "TheBlock",
       "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC\u2019s exclusive jurisdiction claim",
       "summary": "An appeals court sided with a lower court's ruling that  Kalshi failed to show that the federal government preempts Nevada\u2019s authority.",
       "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
@@ -460,6 +455,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
+      "summary": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
+      "url": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
+      "published": "2026-08-30T20:28:52+00:00",
+      "coins": [],
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
+    },
+    {
+      "source": "TheBlock",
       "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
       "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
       "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
@@ -468,17 +474,6 @@
       "compound": -0.5267,
       "label": "BEARISH",
       "confidence": 0.5267
-    },
-    {
-      "source": "TheBlock",
-      "title": "UAE \u2018spy sheikh\u2019 takes 49% stake in Trump family\u2019s bank venture: WSJ",
-      "summary": "The UAE's national security advisor is playing a major investment role in President Trump's family's bank venture, the WSJ reported.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
-      "published": "2026-08-27T23:02:03+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -695,17 +690,6 @@
       "summary": "Dunamu specifically said that the partnership will explore potential usage of Open USD in future collaborations.",
       "url": "https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988",
       "published": "2026-08-28T06:00:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "BitGo buys NYDIG\u2019s institutional trading business, expanding derivatives offering",
-      "summary": "With the transaction, around 30 NYDIG employees have joined BitGo, along with their institutional trading relationships.",
-      "url": "https://www.theblock.co/news/business/2026-08-27-bitgo-buys-nydig-institutional-trading-412975",
-      "published": "2026-08-28T01:11:37+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
