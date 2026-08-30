@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:45:14.812990+00:00",
+  "generated_at": "2026-08-30T16:33:18.563003+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -175,12 +175,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.1488,
+      "article_count": 20,
+      "avg_compound": 0.14,
       "overall": "BULLISH",
       "bullish": 12,
       "bearish": 5,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -225,11 +225,11 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 5,
-      "avg_compound": -0.1139,
+      "article_count": 4,
+      "avg_compound": -0.0741,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
         {
@@ -247,19 +247,6 @@
         },
         {
           "source": "Decrypt",
-          "title": "Morning Minute: Solana Jumps with Network Inflation Set to Drop",
-          "summary": "Two majors proposals are set to pass, its leading DATs are back, and Schwab is offering SOL to its clients\u2014quite the setup for Solana.",
-          "url": "https://decrypt.co/376800/morning-minute-solana-jumps-with-network-inflation-set-to-drop",
-          "published": "2026-08-28T12:13:35+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.2732,
-          "label": "BEARISH",
-          "confidence": 0.2732
-        },
-        {
-          "source": "Decrypt",
           "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
           "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
           "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
@@ -274,6 +261,19 @@
           "compound": 0.2144,
           "label": "BULLISH",
           "confidence": 0.2144
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
+          "published": "2026-08-28T16:12:45+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -481,6 +481,17 @@
       "confidence": 0.4939
     },
     {
+      "source": "Decrypt",
+      "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
+      "summary": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
+      "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
+      "published": "2026-08-30T13:31:04+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
       "source": "CoinDesk",
       "title": "The Clarity Act slipped to September. Banks are building anyway",
       "summary": "",
@@ -537,14 +548,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "SBI buys 20% stake in Indonesia's Ajaib for $270 million to expand yen stablecoin in Southeast Asia",
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/sbi-stakes-usd270-million-in-ajaib-to-expand-yen-stablecoin-in-southeast-asia",
-      "published": "2026-08-28T12:18:31+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "published": "2026-08-30T15:00:00+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.34
     },
     {
       "source": "Decrypt",
@@ -651,17 +662,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
       "published": "2026-08-28T14:05:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethena looks beyond crypto to squeeze yield from booming equity perpetuals",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/ethena-looks-beyond-crypto-to-squeeze-yield-from-booming-equity-perpetuals",
-      "published": "2026-08-28T12:30:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
