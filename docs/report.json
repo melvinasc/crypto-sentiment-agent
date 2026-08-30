@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:50:13.394009+00:00",
+  "generated_at": "2026-08-30T05:06:48.827703+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -94,6 +94,30 @@
       ],
       "no_news": false
     },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.3612,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
+          "summary": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
+          "url": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
+          "published": "2026-08-28T11:00:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": 0.2144,
@@ -150,49 +174,12 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": -0.1806,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
-          "summary": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
-          "url": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-          "published": "2026-08-28T11:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Circle's USDC takes over Chelsea's jersey in Premier League first sponsorship deal",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/28/circle-s-usdc-takes-over-chelsea-s-jersey-in-premier-league-first",
-          "published": "2026-08-28T11:09:27+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 19,
-      "avg_compound": 0.1158,
+      "avg_compound": 0.1488,
       "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 6,
+      "bullish": 12,
+      "bearish": 5,
       "neutral": 2,
       "top_articles": [
         {
@@ -473,6 +460,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+      "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "published": "2026-08-29T21:16:51+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
       "title": "UAE \u2018spy sheikh\u2019 takes 49% stake in Trump family\u2019s bank venture: WSJ",
       "summary": "The UAE's national security advisor is playing a major investment role in President Trump's family's bank venture, the WSJ reported.",
       "url": "https://www.theblock.co/news/regulation/2026-08-27-uae-spy-sheikh-takes-49-stake-in-trump-familys-bank-venture-wsj-412971",
@@ -481,17 +479,6 @@
       "compound": 0.4939,
       "label": "BULLISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
-      "title": "Polish Olympic Committee president detained in Zondacrypto bribery probe",
-      "summary": "Polish Olympic Committee President Rados\u0142aw Piesiewicz was detained as part of an investigation into digital asset platform ZondaCrypto.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-27-polish-olympic-committee-president-detained-in-zondacrypto-bribery-probe-412961",
-      "published": "2026-08-27T18:23:53+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -525,6 +512,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "published": "2026-08-29T15:00:00+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -605,10 +603,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-      "published": "2026-08-29T15:00:00+00:00",
+      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "published": "2026-08-29T23:49:17+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -616,9 +614,9 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Swift\u2019s $1.5 quadrillion network faces a blockchain test",
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
       "published": "2026-08-29T15:00:00+00:00",
       "coins": [],
       "compound": 0.0,
