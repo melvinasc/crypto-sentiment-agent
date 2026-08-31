@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-30T20:55:32.547157+00:00",
+  "generated_at": "2026-08-31T05:14:35.958667+00:00",
   "total_articles": 55,
   "coins": {
+    "MATIC": {
+      "article_count": 1,
+      "avg_compound": 0.4731,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
+          "summary": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
+          "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
+          "published": "2026-08-30T22:31:04+00:00",
+          "coins": [
+            "MATIC"
+          ],
+          "compound": 0.4731,
+          "label": "BULLISH",
+          "confidence": 0.4731
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
       "article_count": 1,
       "avg_compound": -0.3612,
@@ -22,6 +46,48 @@
           "compound": -0.3612,
           "label": "BEARISH",
           "confidence": 0.3612
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.3366,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
+          "summary": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
+          "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
+          "published": "2026-08-30T21:31:04+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
+        {
+          "source": "Decrypt",
+          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
+          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+          "published": "2026-08-28T16:39:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL",
+            "AVAX",
+            "LINK"
+          ],
+          "compound": 0.2144,
+          "label": "BULLISH",
+          "confidence": 0.2144
         }
       ],
       "no_news": false
@@ -91,34 +157,6 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.2144,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
     "LINK": {
       "article_count": 1,
       "avg_compound": 0.2144,
@@ -143,56 +181,6 @@
           "compound": 0.2144,
           "label": "BULLISH",
           "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.1107,
-      "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 5,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a></p>\n<p>The so-called debasement trade is benefiting bitcoin, the asset manager's research team has said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
-          "published": "2026-08-28T20:45:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8689,
-          "label": "BULLISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Drops Before Shrugging Off Fed Chair\u2019s Inflation Comments",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a></p>\n<p>Bitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had &#8220;more work to do&#8221; to fight inflation.&#160; The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again.&#160; Bitcoin has typically done [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
-          "published": "2026-08-28T15:49:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.765,
-          "label": "BEARISH",
-          "confidence": 0.765
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a></p>\n<p>Genius Group has announced a new plan to buy bitcoin \u2014 just months after selling its entire stash.&#160; The NYSE-listed AI-powered education company said in a Thursday statement that it was aiming to build parallel AI and bitcoin treasuries worth a combined $1.6 billion, with total company assets targeted at $2 billion by fiscal year [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings",
-          "published": "2026-08-27T20:17:43+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.6461,
-          "label": "BULLISH",
-          "confidence": 0.6461
         }
       ],
       "no_news": false
@@ -247,6 +235,56 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0716,
+      "overall": "BULLISH",
+      "bullish": 9,
+      "bearish": 6,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a></p>\n<p>The so-called debasement trade is benefiting bitcoin, the asset manager's research team has said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
+          "published": "2026-08-28T20:45:06+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8689,
+          "label": "BULLISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Drops Before Shrugging Off Fed Chair\u2019s Inflation Comments",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a></p>\n<p>Bitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had &#8220;more work to do&#8221; to fight inflation.&#160; The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again.&#160; Bitcoin has typically done [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
+          "published": "2026-08-28T15:49:18+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.765,
+          "label": "BEARISH",
+          "confidence": 0.765
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a></p>\n<p>Genius Group has announced a new plan to buy bitcoin \u2014 just months after selling its entire stash.&#160; The NYSE-listed AI-powered education company said in a Thursday statement that it was aiming to build parallel AI and bitcoin treasuries worth a combined $1.6 billion, with total company assets targeted at $2 billion by fiscal year [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings",
+          "published": "2026-08-27T20:17:43+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.6461,
+          "label": "BULLISH",
+          "confidence": 0.6461
         }
       ],
       "no_news": false
@@ -326,16 +364,6 @@
       "no_news": true
     },
     "LTC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "MATIC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -487,17 +515,6 @@
       "confidence": 0.4588
     },
     {
-      "source": "CoinDesk",
-      "title": "The Clarity Act slipped to September. Banks are building anyway",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/28/the-clarity-act-slipped-to-september-banks-are-building-anyway",
-      "published": "2026-08-28T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
       "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'\u20144 Key Things He Said",
       "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
@@ -528,6 +545,17 @@
       "coins": [],
       "compound": -0.3818,
       "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+      "summary": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
+      "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+      "published": "2026-08-30T23:31:03+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
       "confidence": 0.3818
     },
     {
@@ -584,6 +612,17 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
+      "published": "2026-08-31T04:57:13+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -646,17 +685,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
       "published": "2026-08-28T14:37:14+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed Chair Kevin Warsh at Jackson Hole: 'We have work to do' on inflation",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/28/warsh-at-jackson-hole-we-have-work-to-do-on-inflaiton",
-      "published": "2026-08-28T14:05:12+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
