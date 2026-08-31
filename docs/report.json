@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T13:26:57.224115+00:00",
+  "generated_at": "2026-08-31T22:43:53.390143+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
       "article_count": 1,
-      "avg_compound": 0.6705,
+      "avg_compound": 0.5267,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
@@ -12,75 +12,27 @@
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-          "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
-          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-          "published": "2026-08-28T19:46:03+00:00",
+          "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
+          "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
+          "url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
+          "published": "2026-08-31T19:31:04+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.6705,
+          "compound": 0.5267,
           "label": "BULLISH",
-          "confidence": 0.6705
-        }
-      ],
-      "no_news": false
-    },
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": 0.4731,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
-          "summary": "The Austin and Kyoto hard forks, deployed quietly on the Bor and Heimdall clients before public disclosure, closed denial-of-service and consensus-hardening flaws that Polygon says were never exploited.",
-          "url": "https://decrypt.co/376911/polygon-quietly-patched-security-flaws",
-          "published": "2026-08-30T22:31:04+00:00",
-          "coins": [
-            "MATIC"
-          ],
-          "compound": 0.4731,
-          "label": "BULLISH",
-          "confidence": 0.4731
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.3612,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
-          "summary": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
-          "url": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-          "published": "2026-08-28T11:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1898,
+      "article_count": 8,
+      "avg_compound": 0.1741,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 4,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -97,41 +49,77 @@
         },
         {
           "source": "Decrypt",
-          "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-          "summary": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
-          "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
-          "published": "2026-08-30T21:31:04+00:00",
+          "title": "Tom Lee's Bitmine Buys $131M of ETH in Largest Ethereum Purchase Since June",
+          "summary": "The purchase lifts Bitmine's stash to 5.9 million ETH\u20144.9% of supply\u2014as chairman Tom Lee points to crypto's strong third quarter.",
+          "url": "https://decrypt.co/376932/tom-lee-bitmine-largest-ethereum-purchase-since-june",
+          "published": "2026-08-31T14:54:47+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": 0.4588,
+          "compound": 0.5106,
           "label": "BULLISH",
-          "confidence": 0.4588
+          "confidence": 0.5106
         },
         {
-          "source": "Decrypt",
-          "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
-          "summary": "Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
-          "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
-          "published": "2026-08-31T09:41:27+00:00",
+          "source": "TheBlock",
+          "title": "Tom Lee says ether is \u2018best performing macro asset\u2019 as Bitmine adds 53,501 ETH",
+          "summary": "Tom Lee's Bitmine acquired 53,501 ETH over the past week, expanding its corporate treasury to 5.9 million ether tokens.",
+          "url": "https://www.theblock.co/news/business/2026-08-31-tom-lee-says-ether-best-performing-macro-asset-bitmine-adds-53501-eth-413105",
+          "published": "2026-08-31T14:17:57+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.1695,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.1695
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0643,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
+          "summary": "OpenSea has added support for Solana NFTs, allowing users to buy, sell, and trade the blockchain's digital collectibles on its platform.",
+          "url": "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128",
+          "published": "2026-08-31T18:11:53+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Solana fees hit record as validators double pace of inflation cuts",
+          "summary": "Less new supply of SOL will reach the market every year, which also means validators will earn less for the same amount of work.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-08-31-solana-fees-hit-record-as-validators-double-pace-of-inflation-cuts-413135",
+          "published": "2026-08-31T20:14:57+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": 0.0421,
+      "article_count": 20,
+      "avg_compound": 0.0425,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 7,
-      "neutral": 8,
+      "bullish": 7,
+      "bearish": 8,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -147,54 +135,30 @@
           "confidence": 0.8689
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Drops Before Shrugging Off Fed Chair\u2019s Inflation Comments",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a></p>\n<p>Bitcoin dropped, then popped after Federal Reserve Chair Kevin Warsh gave his first major speech as head of the U.S. central bank and said he had &#8220;more work to do&#8221; to fight inflation.&#160; The leading cryptocurrency was recently trading for $79,474 after dropping as low as $78,630 before quickly rising again.&#160; Bitcoin has typically done [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments\" rel=\"nofollow\">Bitcoin Drops Before Shrugging Off Fed Chair&#8217;s Inflation Comments\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-shrugs-off-fed-chair-comments",
-          "published": "2026-08-28T15:49:18+00:00",
+          "source": "Decrypt",
+          "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
+          "summary": "The Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
+          "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
+          "published": "2026-08-31T21:01:05+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.765,
-          "label": "BEARISH",
-          "confidence": 0.765
+          "compound": 0.8519,
+          "label": "BULLISH",
+          "confidence": 0.8519
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Pics-1-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a></p>\n<p>Genius Group has announced a new plan to buy bitcoin \u2014 just months after selling its entire stash.&#160; The NYSE-listed AI-powered education company said in a Thursday statement that it was aiming to build parallel AI and bitcoin treasuries worth a combined $1.6 billion, with total company assets targeted at $2 billion by fiscal year [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings\" rel=\"nofollow\">Genius Group Sets $2B Dual Treasury Target Months After Liquidating Bitcoin Holdings</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/genius-group-to-rebuild-bitcoin-holdings",
-          "published": "2026-08-27T20:17:43+00:00",
+          "source": "CoinDesk",
+          "title": "Live updates: Bitcoin eyes 25% gain in August, best month since November 2024",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
+          "published": "2026-08-31T08:18:03+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.6461,
+          "compound": 0.8225,
           "label": "BULLISH",
-          "confidence": 0.6461
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
-          "summary": "The Bitwise Solana Staking ETF (ticker BSOL) crossed $1 billion AUM on Friday, less than a year after its launch.",
-          "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
-          "published": "2026-08-28T15:48:52+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.8225
         }
       ],
       "no_news": false
@@ -222,12 +186,13 @@
           "confidence": 0.0
         },
         {
-          "source": "TheBlock",
-          "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
-          "summary": "Beginning Sept. 17, Bybit users will be able to trade 24/7 options on SPCX and NVDA, with fractional lots and USDT settlement.",
-          "url": "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
-          "published": "2026-08-28T14:44:23+00:00",
+          "source": "Decrypt",
+          "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+          "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
+          "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+          "published": "2026-08-31T18:46:04+00:00",
           "coins": [
+            "ETH",
             "USDT"
           ],
           "compound": 0.0,
@@ -317,6 +282,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "MATIC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -356,9 +331,41 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Kalshi issues first permanent ban to former Rep. George Santos over State of the Union trading",
+      "summary": "Former U.S. Rep. George Santos has been permanently banned from trading on Kalshi, marking the platform\u2019s first-ever permanent ban.",
+      "url": "https://www.theblock.co/news/regulation/2026-08-31-kalshi-issues-first-permanent-ban-to-former-rep-george-santos-over-state-of-the-union-trading-413120",
+      "published": "2026-08-31T15:23:17+00:00",
+      "coins": [],
+      "compound": -0.8807,
+      "label": "BEARISH",
+      "confidence": 0.8807
+    },
+    {
+      "source": "Decrypt",
+      "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
+      "summary": "Gov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.",
+      "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
+      "published": "2026-08-31T21:46:04+00:00",
+      "coins": [],
+      "compound": -0.8442,
+      "label": "BEARISH",
+      "confidence": 0.8442
+    },
     {
       "source": "TheBlock",
       "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
@@ -382,22 +389,22 @@
       "confidence": 0.7351
     },
     {
-      "source": "TheBlock",
-      "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC\u2019s exclusive jurisdiction claim",
-      "summary": "An appeals court sided with a lower court's ruling that  Kalshi failed to show that the federal government preempts Nevada\u2019s authority.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-      "published": "2026-08-28T19:50:48+00:00",
+      "source": "Decrypt",
+      "title": "South Korea Will Give Every Citizen Free AI Access With Unlimited Tokens",
+      "summary": "Three consortia will run the service, sharing up to 512 Nvidia B200 chips supplied by the state, with beta testing due in September.",
+      "url": "https://decrypt.co/376929/south-korea-will-give-every-citizen-free-ai-access-with-unlimited-tokens",
+      "published": "2026-08-31T14:03:39+00:00",
       "coins": [],
-      "compound": -0.6908,
-      "label": "BEARISH",
-      "confidence": 0.6908
+      "compound": 0.7269,
+      "label": "BULLISH",
+      "confidence": 0.7269
     },
     {
       "source": "Decrypt",
-      "title": "Meta Tests Robots to Handle Data Center Work",
-      "summary": "The company says it needs more skilled workers as its AI infrastructure expands, but employees fear automation could reduce or eliminate some roles.",
-      "url": "https://decrypt.co/376843/meta-tests-robots-data-center",
-      "published": "2026-08-28T20:19:44+00:00",
+      "title": "Sony Argues in Court That Digital Games Can't Be Owned",
+      "summary": "The PlayStation maker is fighting a California class action over \"Buy Now\" buttons, and has asked the judge to send the case to arbitration.",
+      "url": "https://decrypt.co/376935/sony-argues-in-court-that-digital-games-cant-be-owned",
+      "published": "2026-08-31T15:46:03+00:00",
       "coins": [],
       "compound": -0.6249,
       "label": "BEARISH",
@@ -426,6 +433,39 @@
       "confidence": 0.5719
     },
     {
+      "source": "CoinDesk",
+      "title": "Kalshi lays down first lifetime ban for ex-member of Congress George Santos",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/08/31/kalshi-lays-down-first-lifetime-ban-for-ex-member-of-congress-george-santos",
+      "published": "2026-08-31T15:33:14+00:00",
+      "coins": [],
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+      "summary": "Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
+      "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
+      "published": "2026-08-31T22:21:03+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
+      "title": "NYSE parent ICE partners with tZERO on infrastructure for tokenized securities",
+      "summary": "tZERO will be a design partner for ICE\u2019s upcoming tokenized securities platform, and ICE will also invest in tZERO\u2019s latest financing round.",
+      "url": "https://www.theblock.co/news/markets/2026-08-31-nyse-parent-ice-partners-with-tzero-infrastructure-tokenized-securities-413111",
+      "published": "2026-08-31T15:04:14+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
       "source": "TheBlock",
       "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
       "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
@@ -437,15 +477,15 @@
       "confidence": 0.5267
     },
     {
-      "source": "Decrypt",
-      "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
-      "summary": "More than 100 AI, security, finance, and technology organizations want governments and industry to prepare for attacks powered by increasingly capable models.",
-      "url": "https://decrypt.co/376863/ai-models-hacked-companies-ai-labs-cyber-defenses",
-      "published": "2026-08-30T13:31:04+00:00",
+      "source": "TheBlock",
+      "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
+      "summary": "Payward has reportedly presented the CFTC with an outline of the proposed structure, though regulatory approval is still pending.",
+      "url": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
+      "published": "2026-08-31T18:16:29+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
@@ -459,48 +499,26 @@
       "confidence": 0.4215
     },
     {
-      "source": "TheBlock",
-      "title": "IREN\u2019s $25 billion-$30 billion AI buildout may have \u2018spooked\u2019 investors, Bernstein says",
-      "summary": "IREN has $4 billion in contracted cloud ARR for 2026 capacity and has secured over $20M in annual revenue per IT megawatt on recent deals.",
-      "url": "https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016",
-      "published": "2026-08-28T12:57:52+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
-      "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
-      "summary": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
-      "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
-      "published": "2026-08-30T23:31:03+00:00",
+      "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
+      "summary": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
+      "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
+      "published": "2026-08-31T17:06:04+00:00",
       "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-      "summary": "Ajaib offers crypto and stablecoins alongside traditional investments, including OTC settlement services for institutional clients.",
-      "url": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
-      "published": "2026-08-28T13:32:26+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
+      "compound": -0.3612,
+      "label": "BEARISH",
       "confidence": 0.3612
     },
     {
       "source": "CoinDesk",
-      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "title": "NYSE owner ICE taps tZERO for tokenized securities push, takes stake in firm",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
-      "published": "2026-08-30T15:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/08/31/nyse-owner-ice-taps-tzero-for-tokenized-securities-push-takes-stake-in-firm",
+      "published": "2026-08-31T14:44:26+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -514,37 +532,37 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/31/cronos-halts-blockchain-after-usd75-million-lending-exploit-hits-lending-app-tectonic",
-      "published": "2026-08-31T04:57:13+00:00",
+      "source": "Decrypt",
+      "title": "George Santos Bet on Whether He'd Show Up to the State of the Union\u2014Kalshi Just Banned Him for Life",
+      "summary": "The exchange found the former congressman placed large trades on his own State of the Union attendance, then made false statements to move prices, profiting nearly $18,000.",
+      "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
+      "published": "2026-08-31T20:16:03+00:00",
       "coins": [],
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
-      "summary": "The fine marks the CFTC's second insider trading case against a federal employee trading event contracts and its second related settlement in four weeks.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-29-former-white-house-teleprompter-operator-ordered-to-pay-172000-for-kalshi-trades-on-mention-markets-413058",
-      "published": "2026-08-29T13:58:02+00:00",
+      "source": "CoinDesk",
+      "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/31/north-korean-hackers-are-moving-tens-of-millions-on-hyperliquid-as-trump-pushes-to-onshore-the-crypto-platform",
+      "published": "2026-08-31T20:48:40+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-      "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
-      "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
-      "published": "2026-08-29T17:31:03+00:00",
+      "source": "CoinDesk",
+      "title": "Ireland bars crypto from new tax-advantaged investment accounts",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/08/31/ireland-bars-crypto-from-new-tax-advantaged-investment-accounts",
+      "published": "2026-08-31T13:29:56+00:00",
       "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -570,10 +588,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "BitGo Buys NYDIG's Institutional Trading Arm to Beef Up Derivatives and Financing",
-      "summary": "The roughly $42.5 million cash-and-stock deal adds derivatives, structured products and capital-markets capabilities, while letting NYDIG focus on its power and data-center business.",
-      "url": "https://decrypt.co/376864/bitgo-buys-nydig-institutional-trading-arm",
-      "published": "2026-08-29T13:31:04+00:00",
+      "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
+      "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry\u2014weeks after Trump said his administration was working to bring it onshore.",
+      "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
+      "published": "2026-08-31T17:54:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -585,17 +603,6 @@
       "summary": "Sberbank's forecast comes as the country's new crypto regulations are set to take effect on Sept. 1, 2026.",
       "url": "https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082",
       "published": "2026-08-31T08:15:48+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
-      "summary": "Investors are $4.7 billion underwater across Trump crypto ventures while Trump earned $1.4 billion, Public Citizen reported.",
-      "url": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003",
-      "published": "2026-08-28T11:26:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
