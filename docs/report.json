@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-31T05:14:35.958667+00:00",
+  "generated_at": "2026-08-31T13:26:57.224115+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.6705,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+          "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
+          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+          "published": "2026-08-28T19:46:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6705,
+          "label": "BULLISH",
+          "confidence": 0.6705
+        }
+      ],
+      "no_news": false
+    },
     "MATIC": {
       "article_count": 1,
       "avg_compound": 0.4731,
@@ -51,13 +75,26 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.3366,
+      "article_count": 6,
+      "avg_compound": 0.1898,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitmine makes largest ether purchase since June as Tom Lee points to crypto's strong Q3",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3",
+          "published": "2026-08-31T12:53:17+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        },
         {
           "source": "Decrypt",
           "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
@@ -74,178 +111,27 @@
         },
         {
           "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
+          "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
+          "summary": "Some $6 million reached Ethereum before validators froze the chain, stranding the rest on a network that still is not producing blocks.",
+          "url": "https://decrypt.co/376913/crypto-coms-cronos-halts-entire-blockchain-after-75m-tectonic-exploit",
+          "published": "2026-08-31T09:41:27+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
+            "ETH"
           ],
-          "compound": 0.2144,
+          "compound": 0.1695,
           "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3352,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
-          "summary": "Evernorth has gained SEC clearance, teeing up a shareholder vote on its Nasdaq listing\u2014while the firm's XRP stash sits well below what it paid for it.",
-          "url": "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
-          "published": "2026-08-28T19:46:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.6705,
-          "label": "BULLISH",
-          "confidence": 0.6705
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple is preparing XRP Ledger for quantum computers before \u2018Q-Day\u2019 arrives",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-          "published": "2026-08-29T02:30:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.2144,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.2144,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 4,
-      "avg_compound": -0.0741,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Will Now Print Less SOL as Disinflation Vote Passes in Dramatic Fashion",
-          "summary": "The \"Double Disinflation\" proposal squeaked through by a razor-thin margin after Kraken nearly sank it, while a separate fee-burning measure failed.",
-          "url": "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
-          "published": "2026-08-28T17:44:09+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "Decrypt",
-          "title": "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
-          "summary": "The brokerage will expand Schwab Crypto trading to Solana, Avalanche, and Chainlink, but has not given a launch date for the three tokens.",
-          "url": "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
-          "published": "2026-08-28T16:39:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "LINK"
-          ],
-          "compound": 0.2144,
-          "label": "BULLISH",
-          "confidence": 0.2144
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-          "published": "2026-08-28T16:12:45+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.1695
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0716,
-      "overall": "BULLISH",
-      "bullish": 9,
-      "bearish": 6,
-      "neutral": 4,
+      "article_count": 23,
+      "avg_compound": 0.0421,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 7,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -289,7 +175,7 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "SOL": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -297,6 +183,44 @@
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitwise fund is first Solana ETF to hit $1 billion AUM",
+          "summary": "The Bitwise Solana Staking ETF (ticker BSOL) crossed $1 billion AUM on Friday, less than a year after its launch.",
+          "url": "https://www.theblock.co/news/markets/2026-08-28-bitwise-fund-is-first-solana-etf-to-hit-1-billion-aum-413035",
+          "published": "2026-08-28T15:48:52+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/31/sberbank-plans-to-add-ether-and-usdt-as-collateral-for-crypto-backed-loans",
+          "published": "2026-08-31T11:26:26+00:00",
+          "coins": [
+            "ETH",
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "TheBlock",
           "title": "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
@@ -314,6 +238,16 @@
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -354,6 +288,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -472,17 +416,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Latest annual UK tax data shows 240 people reported more than \u00a31 million in crypto capital gains",
-      "summary": "HMRC data shows 240 people reported more than \u00a31 million ($1.36 million) each in crypto gains as UK tax scrutiny intensifies.",
-      "url": "https://www.theblock.co/news/regulation/2026-08-28-uk-tax-crypto-capital-gains-412993",
-      "published": "2026-08-28T09:37:26+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "TheBlock",
       "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
       "summary": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
       "url": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
@@ -515,15 +448,15 @@
       "confidence": 0.4588
     },
     {
-      "source": "Decrypt",
-      "title": "Fed Chair Warsh Calls AI a 'Hinge Point in History'\u20144 Key Things He Said",
-      "summary": "Fed Chair Warsh devoted a full section of his speech today at Jackson Hole to AI's weight on the economy. Here are the biggest takeaways.",
-      "url": "https://decrypt.co/376821/fed-chair-warsh-ai-hinge-point-4-key-things",
-      "published": "2026-08-28T17:18:52+00:00",
+      "source": "CoinDesk",
+      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
+      "published": "2026-08-31T06:42:45+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
     },
     {
       "source": "TheBlock",
@@ -535,17 +468,6 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
-      "published": "2026-08-29T15:00:00+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -582,36 +504,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "US Cities Eye AI Data Center Limits as Study Flags Water Risks",
-      "summary": "Austin is the latest city to consider restrictions as communities challenge the water and electricity demands of AI infrastructure.",
-      "url": "https://decrypt.co/376838/us-cities-ai-data-center-limits",
-      "published": "2026-08-28T19:14:37+00:00",
+      "title": "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+      "summary": "Shares, bonds, funds, ETFs and insurance products will qualify for the tax-advantaged accounts, which open next year.",
+      "url": "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+      "published": "2026-08-31T11:10:44+00:00",
       "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized assets are busier than the data shows",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-      "published": "2026-08-29T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.1779,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
-      "published": "2026-08-28T21:28:12+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -648,10 +548,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "title": "U.S. jobs report, Russia\u2019s digital ruble rollout: Crypto Week Ahead",
       "summary": "",
-      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
-      "published": "2026-08-29T23:49:17+00:00",
+      "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
+      "published": "2026-08-31T08:22:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -659,32 +559,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
-      "published": "2026-08-29T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The next trillion-dollar currency may not be a stablecoin \u2014 it might not even have a name yet",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/29/the-next-trillion-dollar-currency-may-not-be-a-stablecoin-it-might-not-even-have-a-name-yet",
-      "published": "2026-08-29T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
-      "published": "2026-08-28T14:37:14+00:00",
+      "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+      "published": "2026-08-31T05:23:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -703,10 +581,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
-      "summary": "Investors are $4.7 billion underwater across Trump crypto ventures while Trump earned $1.4 billion, Public Citizen reported.",
-      "url": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003",
-      "published": "2026-08-28T11:26:02+00:00",
+      "title": "Russia\u2019s largest bank forecasts $46 billion in first-year crypto exchange trading under new rules: report",
+      "summary": "Sberbank's forecast comes as the country's new crypto regulations are set to take effect on Sept. 1, 2026.",
+      "url": "https://www.theblock.co/news/business/2026-08-31-russias-largest-bank-forecasts-46-billion-in-first-year-crypto-exchange-trading-under-new-rules-report-413082",
+      "published": "2026-08-31T08:15:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -714,10 +592,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Dunamu and Visa partner on stablecoin, AI business; Open Standard\u2019s OUSD under consideration",
-      "summary": "Dunamu specifically said that the partnership will explore potential usage of Open USD in future collaborations.",
-      "url": "https://www.theblock.co/news/business/2026-08-28-dunamu-visa-partner-stablecoin-ai-ousd-412988",
-      "published": "2026-08-28T06:00:22+00:00",
+      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
+      "summary": "Investors are $4.7 billion underwater across Trump crypto ventures while Trump earned $1.4 billion, Public Citizen reported.",
+      "url": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003",
+      "published": "2026-08-28T11:26:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
