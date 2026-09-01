@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-31T22:43:53.390143+00:00",
+  "generated_at": "2026-09-01T04:49:58.760143+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.5267,
+      "article_count": 2,
+      "avg_compound": 0.4113,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,6 +22,19 @@
           "compound": 0.5267,
           "label": "BULLISH",
           "confidence": 0.5267
+        },
+        {
+          "source": "CoinDesk",
+          "title": "CME\u2019s share of XRP futures jumps as token rallies 40% in a week",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+          "published": "2026-09-01T03:49:39+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -77,12 +90,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.0643,
-      "overall": "BULLISH",
+      "article_count": 3,
+      "avg_compound": 0.0429,
+      "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -109,6 +122,19 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
+        },
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
+          "summary": "The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
+          "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
+          "published": "2026-09-01T03:46:02+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -412,17 +438,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-      "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
-      "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
-      "published": "2026-08-29T20:15:32+00:00",
-      "coins": [],
-      "compound": -0.6124,
-      "label": "BEARISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
       "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
       "summary": "As part of the agreement, rival prediction market platforms are reportedly barred from advertising at the tournament and on its ESPN broadcasts.",
       "url": "https://www.theblock.co/news/deals/2026-08-30-kalshi-becomes-exclusive-prediction-market-partner-of-us-open-report-413074",
@@ -488,17 +503,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "CoinDesk",
-      "title": "September Fed rate hike fears look overblown as the probability stands at just 58%, not 90%",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/08/31/september-fed-rate-hike-fears-appear-overblown-as-the-probability-is-just-58-not-90",
-      "published": "2026-08-31T06:42:45+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "Decrypt",
       "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
       "summary": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
@@ -508,6 +512,17 @@
       "compound": -0.3612,
       "label": "BEARISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/01/trump-jr-s-firm-leads-usd1-billion-polymarket-raise-at-usd21-billion-value-report",
+      "published": "2026-09-01T04:19:54+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
@@ -570,17 +585,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
       "published": "2026-08-31T08:22:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash private transactions could go from three-second waits to under 200 milliseconds",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
-      "published": "2026-08-31T05:23:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
