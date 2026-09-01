@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-01T16:28:42.148255+00:00",
+  "generated_at": "2026-09-01T20:55:47.760358+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.3626,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
+          "published": "2026-09-01T13:56:44+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.3626,
+          "label": "BEARISH",
+          "confidence": 0.3626
+        }
+      ],
+      "no_news": false
+    },
     "BNB": {
       "article_count": 1,
       "avg_compound": 0.1027,
@@ -22,43 +46,6 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.082,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP ETFs Extend Inflow Streak to 9 Days, Pulling In $1.6 Billion Since Launch",
-          "summary": "Spot XRP funds have drawn inflows for nine straight days, reaching $1.6 billion in cumulative net inflows even as the token's price cools.",
-          "url": "https://decrypt.co/376973/xrp-etfs-inflow-streak-9-days",
-          "published": "2026-08-31T19:31:04+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/08/31/firelight-raises-usd8-million-expands-beyond-xrp-as-it-aims-to-make-defi-less-scary-for-fintechs",
-          "published": "2026-09-01T13:56:44+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.3626,
-          "label": "BEARISH",
-          "confidence": 0.3626
         }
       ],
       "no_news": false
@@ -89,24 +76,24 @@
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.0678,
+      "avg_compound": -0.0759,
       "overall": "BEARISH",
       "bullish": 8,
       "bearish": 11,
       "neutral": 4,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/Debasement-Trade-Is-Here-Thanks-to-Government-Debt.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a></p>\n<p>The so-called debasement trade is benefiting bitcoin, the asset manager's research team has said. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin\" rel=\"nofollow\">Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/debasement-trade-to-benefit-bitcoin",
-          "published": "2026-08-28T20:45:06+00:00",
+          "source": "Decrypt",
+          "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
+          "summary": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.",
+          "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
+          "published": "2026-09-01T20:31:05+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8689,
-          "label": "BULLISH",
-          "confidence": 0.8689
+          "compound": -0.93,
+          "label": "BEARISH",
+          "confidence": 0.93
         },
         {
           "source": "Decrypt",
@@ -123,40 +110,40 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "What Is Worth Preserving: Rupture on Remains, Decay, and the Collector\u2019s Dilemma",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/What-Is-Worth-Preserving.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/what-is-worth-preserving-rupture-on-remains-decay-and-the-collectors-dilemma\" rel=\"nofollow\">What Is Worth Preserving: Rupture on Remains, Decay, and the Collector&#8217;s Dilemma</a></p>\n<p>A conversation with artist Rupture ahead of his New York solo exhibition, September 2\u20138, at 46 Hester Street, New York. Presented by BMAG.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/what-is-worth-preserving-rupture-on-remains-decay-and-the-collectors-dilemma\" rel=\"nofollow\">What Is Worth Preserving: Rupture on Remains, Decay, and the Collector&#8217;s Dilemma</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/dennis-koch\" rel=\"nofollow\">Dennis Koch</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/what-is-worth-preserving-rupture-on-remains-decay-and-the-collectors-dilemma",
-          "published": "2026-08-31T14:26:09+00:00",
+          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+          "published": "2026-09-01T16:35:17+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.7906,
-          "label": "BEARISH",
-          "confidence": 0.7906
+          "compound": 0.802,
+          "label": "BULLISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
     },
     "SOL": {
       "article_count": 3,
-      "avg_compound": 0.0429,
+      "avg_compound": 0.0362,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "OpenSea adds Solana NFT trading more than four years after initial beta",
-          "summary": "OpenSea has added support for Solana NFTs, allowing users to buy, sell, and trade the blockchain's digital collectibles on its platform.",
-          "url": "https://www.theblock.co/news/markets/2026-08-31-opensea-solana-nft-trading-413128",
-          "published": "2026-08-31T18:11:53+00:00",
+          "source": "Decrypt",
+          "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+          "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
+          "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+          "published": "2026-09-01T18:03:47+00:00",
           "coins": [
             "SOL"
           ],
-          "compound": 0.4019,
+          "compound": 0.3818,
           "label": "BULLISH",
-          "confidence": 0.4019
+          "confidence": 0.3818
         },
         {
           "source": "TheBlock",
@@ -179,56 +166,6 @@
           "published": "2026-09-01T03:46:02+00:00",
           "coins": [
             "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-          "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
-          "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-          "published": "2026-08-31T18:46:04+00:00",
-          "coins": [
-            "ETH",
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
-          "summary": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
-          "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
-          "published": "2026-08-31T18:46:04+00:00",
-          "coins": [
-            "ETH",
-            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -268,6 +205,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -356,6 +303,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -383,7 +340,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+      "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
       "summary": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
       "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
       "published": "2026-09-01T09:46:27+00:00",
@@ -404,6 +361,17 @@
       "confidence": 0.743
     },
     {
+      "source": "Decrypt",
+      "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
+      "summary": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
+      "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
+      "published": "2026-09-01T19:29:12+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
+    },
+    {
       "source": "TheBlock",
       "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
       "summary": "Payward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to support trading, subject to regulatory approval.",
@@ -413,6 +381,17 @@
       "compound": 0.7003,
       "label": "BULLISH",
       "confidence": 0.7003
+    },
+    {
+      "source": "TheBlock",
+      "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
+      "summary": "Test memecoin purchases were coded as \"digital media\" rather than crypto, earning credit card points despite card network restrictions.",
+      "url": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911",
+      "published": "2026-09-01T19:33:37+00:00",
+      "coins": [],
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
     },
     {
       "source": "CoinDesk",
@@ -448,17 +427,6 @@
       "confidence": 0.4939
     },
     {
-      "source": "TheBlock",
-      "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-      "summary": "Payward has reportedly presented the CFTC with an outline of the proposed structure, though regulatory approval is still pending.",
-      "url": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
-      "published": "2026-08-31T18:16:29+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "CoinDesk",
       "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
       "summary": "",
@@ -475,17 +443,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
       "published": "2026-09-01T09:29:33+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "Former SEC, CFTC Officials Urge Lighter Touch to Bring Crypto Perps Trading Onshore",
-      "summary": "With the Clarity Act stuck in recess limbo, the agencies are pressing ahead on crypto derivatives and custody, as former officials warn that overly burdensome rules will keep a $90 trillion perps market offshore.",
-      "url": "https://decrypt.co/376936/sec-cftc-crypto-perps-trading-onshore",
-      "published": "2026-08-31T17:06:04+00:00",
       "coins": [],
       "compound": -0.3612,
       "label": "BEARISH",
@@ -512,6 +469,28 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
+      "summary": "Attackers reportedly registered Lenovo IDs using victims\u2019 email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
+      "url": "https://decrypt.co/377099/dropbox-security-breach",
+      "published": "2026-09-01T20:01:05+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
+      "summary": "Cumulative market capitalization for these companies is up 10% since mid-August and hovers around $340 billion.",
+      "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
+      "published": "2026-09-01T18:11:02+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -613,11 +592,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
-      "summary": "A deal would route the decentralized exchange's perpetual futures through Payward's US-regulated Bitnomial, marking Hyperliquid's first US entry\u2014weeks after Trump said his administration was working to bring it onshore.",
-      "url": "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
-      "published": "2026-08-31T17:54:15+00:00",
+      "source": "TheBlock",
+      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
+      "summary": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
+      "published": "2026-09-01T17:16:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
