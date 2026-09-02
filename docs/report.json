@@ -1,15 +1,106 @@
 {
-  "generated_at": "2026-09-02T04:10:44.983944+00:00",
+  "generated_at": "2026-09-02T11:06:22.499108+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.2658,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+          "published": "2026-09-02T05:01:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.5574,
+          "label": "BEARISH",
+          "confidence": 0.5574
+        },
+        {
+          "source": "Decrypt",
+          "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
+          "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
+          "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
+          "published": "2026-09-01T21:01:04+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
       "article_count": 1,
-      "avg_compound": -0.3626,
+      "avg_compound": -0.25,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+          "published": "2026-09-02T11:03:46+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": -0.1365,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+          "published": "2026-09-02T05:01:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.5574,
+          "label": "BEARISH",
+          "confidence": 0.5574
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
+          "published": "2026-09-02T07:20:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        },
         {
           "source": "CoinDesk",
           "title": "Firelight raises $8 million, expands beyond XRP as it aims to make DeFi less scary for fintechs",
@@ -26,49 +117,12 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1909,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-          "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
-          "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-          "published": "2026-09-01T18:03:47+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "TheBlock",
-          "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
-          "summary": "The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
-          "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
-          "published": "2026-09-01T03:46:02+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1236,
+      "article_count": 24,
+      "avg_compound": -0.115,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 11,
+      "bullish": 8,
+      "bearish": 12,
       "neutral": 4,
       "top_articles": [
         {
@@ -137,6 +191,45 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": -0.0878,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
+          "published": "2026-09-02T05:01:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.5574,
+          "label": "BEARISH",
+          "confidence": 0.5574
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
+          "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
+          "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
+          "published": "2026-09-01T18:03:47+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": -0.0772,
@@ -157,30 +250,6 @@
           "compound": -0.0772,
           "label": "BEARISH",
           "confidence": 0.0772
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Robinhood Chain DEX Volume Jumps to $1.6 billion",
-          "summary": "Trading on the Ethereum Layer 2 climbed 61% in a matter of days as DeFi deposits and stablecoin holdings approached $800 million.",
-          "url": "https://decrypt.co/377126/robinhood-chain-dex-volume-jumps",
-          "published": "2026-09-01T21:01:04+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -304,40 +373,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "UK\u2019s crime agency freezes Premier League $13.5 million account in crypto crime probe",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/01/uk-s-crime-agency-freezes-premier-league-usd13-5-million-account-in-crypto-crime-probe",
-      "published": "2026-09-01T12:37:10+00:00",
+      "source": "TheBlock",
+      "title": "G20 finance leaders vow to establish \u2018clear pathways\u2019 for digital assets innovation",
+      "summary": "The G20 officials acknowledged that digital assets can support economic growth and private sector innovation.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
+      "published": "2026-09-02T04:43:52+00:00",
       "coins": [],
-      "compound": -0.7964,
-      "label": "BEARISH",
-      "confidence": 0.7964
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK's National Crime Agency Freezes $13.6M Sent by Sorare to Premier League: Report",
-      "summary": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
-      "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
-      "published": "2026-09-01T09:46:27+00:00",
-      "coins": [],
-      "compound": -0.7783,
-      "label": "BEARISH",
-      "confidence": 0.7783
+      "compound": 0.8979,
+      "label": "BULLISH",
+      "confidence": 0.8979
     },
     {
       "source": "Decrypt",
@@ -385,10 +433,32 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-      "published": "2026-09-01T10:35:21+00:00",
+      "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+      "published": "2026-09-02T05:28:51+00:00",
+      "coins": [],
+      "compound": -0.6319,
+      "label": "BEARISH",
+      "confidence": 0.6319
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
+      "published": "2026-09-02T10:27:30+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
+      "summary": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
+      "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
+      "published": "2026-09-02T09:06:22+00:00",
       "coins": [],
       "compound": -0.5574,
       "label": "BEARISH",
@@ -404,28 +474,6 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
-      "summary": "Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
-      "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
-      "published": "2026-08-31T22:21:03+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "Decrypt",
-      "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
-      "summary": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
-      "url": "https://decrypt.co/377010/saylor-urges-msci-to-drop-discriminatory-rule-that-would-delete-strategy",
-      "published": "2026-09-01T11:28:45+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -450,28 +498,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
-      "published": "2026-09-01T09:29:33+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey\u2019s Block Inc",
-      "summary": "Last month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion",
-      "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
-      "published": "2026-09-01T04:57:33+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
       "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
@@ -494,6 +520,17 @@
       "confidence": 0.3182
     },
     {
+      "source": "Decrypt",
+      "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
+      "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
+      "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
+      "published": "2026-09-02T10:25:02+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
       "source": "TheBlock",
       "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
       "summary": "Cumulative market capitalization for these companies is up 10% since mid-August and hovers around $340 billion.",
@@ -505,6 +542,17 @@
       "confidence": 0.2023
     },
     {
+      "source": "CoinDesk",
+      "title": "Live updates: Global bond yields surge, pressuring debasement-trade assets further",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
+      "published": "2026-09-02T08:31:00+00:00",
+      "coins": [],
+      "compound": -0.1779,
+      "label": "BEARISH",
+      "confidence": 0.1779
+    },
+    {
       "source": "TheBlock",
       "title": "Silhouette debuts RFQ trading for xStocks on Hyperliquid",
       "summary": "Silhouette launched RFQ trading for xStocks on Hyperliquid, allowing market makers to compete for tokenized equity trades settled onchain.",
@@ -514,17 +562,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Strategy hits back at MSCI proposal, calling it \u2018discriminatory\u2019 against DATs",
-      "summary": "MSCI opened a new consultation targeting companies that have operating assets lower than 50% of its total assets.",
-      "url": "https://www.theblock.co/news/business/2026-09-01-strategy-hits-back-against-msci-413201",
-      "published": "2026-09-01T07:03:29+00:00",
-      "coins": [],
-      "compound": 0.1263,
-      "label": "BULLISH",
-      "confidence": 0.1263
     },
     {
       "source": "CoinDesk",
@@ -560,44 +597,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Ethena pushes stablecoins into everyday banking with high-yield savings, cards and payments",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/01/ethena-pushes-stablecoins-into-everyday-banking-with-high-yield-savings-cards-and-payments",
-      "published": "2026-09-01T13:15:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hut 8's Texas power site sits inside Anthropic\u2019s $35 billion AI deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/01/hut-8-s-texas-power-site-sits-inside-anthropic-s-usd35-billion-ai-deal",
-      "published": "2026-09-01T12:11:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
-      "published": "2026-09-01T07:49:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "X Data Breach? Users Are Getting Flooded With Password Reset Emails Nobody Requested",
       "summary": "X engineers have acknowledged the issue, but have not confirmed a new data breach of its systems.",
       "url": "https://decrypt.co/377048/x-data-breach-users-flooded-password-reset",
       "published": "2026-09-01T16:26:10+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi and Polymarket\u2019s combined volume falls 15% in August, first monthly decline in a year",
+      "summary": "Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US platform saw a combined $8.16 billion.",
+      "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
+      "published": "2026-09-02T04:28:38+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
