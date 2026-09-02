@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:27:03.275237+00:00",
+  "generated_at": "2026-09-02T20:55:35.813656+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,12 +27,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.2908,
+      "article_count": 2,
+      "avg_compound": -0.3157,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 2,
-      "neutral": 1,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -47,21 +47,6 @@
           "compound": -0.8578,
           "label": "BEARISH",
           "confidence": 0.8578
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
-          "published": "2026-09-02T05:01:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.5574,
-          "label": "BEARISH",
-          "confidence": 0.5574
         },
         {
           "source": "TheBlock",
@@ -79,6 +64,61 @@
           "compound": 0.2263,
           "label": "BULLISH",
           "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.2456,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
+          "published": "2026-09-02T07:20:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        },
+        {
+          "source": "TheBlock",
+          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
+          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
+          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+          "published": "2026-09-02T11:32:55+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "CoinDesk",
+          "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
+          "published": "2026-09-02T12:13:26+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -111,42 +151,14 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 4,
-      "avg_compound": 0.0449,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.2263,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
-          "published": "2026-09-02T05:01:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.5574,
-          "label": "BEARISH",
-          "confidence": 0.5574
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
-          "published": "2026-09-02T07:20:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        },
         {
           "source": "TheBlock",
           "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
@@ -163,6 +175,57 @@
           "compound": 0.2263,
           "label": "BULLISH",
           "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": -0.0653,
+      "overall": "BEARISH",
+      "bullish": 9,
+      "bearish": 11,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Slides as US-Iran Tensions Escalate",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a></p>\n<p>Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
+          "published": "2026-09-01T21:27:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9136,
+          "label": "BEARISH",
+          "confidence": 0.9136
+        },
+        {
+          "source": "Decrypt",
+          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
+          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
+          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
+          "published": "2026-09-02T11:30:45+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.8578,
+          "label": "BEARISH",
+          "confidence": 0.8578
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+          "published": "2026-09-01T16:35:17+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.802,
+          "label": "BULLISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -200,113 +263,6 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0169,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
-          "published": "2026-09-02T05:01:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.5574,
-          "label": "BEARISH",
-          "confidence": 0.5574
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Treasury DeFi Development Corp Eyes $20 Million Raise to Buy More SOL",
-          "summary": "The publicly traded company recently bought 19,000 SOL, bringing its treasury to more than 2.33 million SOL and SOL equivalents.",
-          "url": "https://decrypt.co/377068/defi-development-corp-20-million-raise-more-solana",
-          "published": "2026-09-01T18:03:47+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "TheBlock",
-          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
-          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-          "published": "2026-09-02T11:32:55+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP",
-            "DOGE",
-            "BTC"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0058,
-      "overall": "NEUTRAL",
-      "bullish": 12,
-      "bearish": 9,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "What Is 'Red September'? Bitcoin's Curse, and Why Wall Street Has the Same One",
-          "summary": "Bitcoin has lost ground in eight of the last 13 Septembers. The stock market's had the same problem since 1928. Here's the case for the curse, what broke it last year, and what's coming in the next round.",
-          "url": "https://decrypt.co/377100/what-is-red-september-bitcoin-curse",
-          "published": "2026-09-01T20:31:05+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.93,
-          "label": "BEARISH",
-          "confidence": 0.93
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Slides as US-Iran Tensions Escalate",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a></p>\n<p>Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
-          "published": "2026-09-01T21:27:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9136,
-          "label": "BEARISH",
-          "confidence": 0.9136
-        },
-        {
-          "source": "Decrypt",
-          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-          "published": "2026-09-02T11:30:45+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.8578,
-          "label": "BEARISH",
-          "confidence": 0.8578
         }
       ],
       "no_news": false
@@ -445,6 +401,17 @@
       "confidence": 0.8979
     },
     {
+      "source": "TheBlock",
+      "title": "New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets",
+      "summary": "New Jersey is asking the U.S. Supreme Court to settle, once and for all, how sports betting on prediction markets should be regulated.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398",
+      "published": "2026-09-02T18:18:28+00:00",
+      "coins": [],
+      "compound": 0.802,
+      "label": "BULLISH",
+      "confidence": 0.802
+    },
+    {
       "source": "Decrypt",
       "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
       "summary": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
@@ -454,17 +421,6 @@
       "compound": -0.7579,
       "label": "BEARISH",
       "confidence": 0.7579
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Ships Claude Fable 5.1, More Than Doubling Its Predecessor on Key Benchmark",
-      "summary": "Fable 5.1 and its restricted sibling Mythos 5.1 arrive three months after export controls forced Anthropic to pull Fable 5 offline for 18 days",
-      "url": "https://decrypt.co/377078/anthropic-claude-fable-5-1",
-      "published": "2026-09-01T19:29:12+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
     },
     {
       "source": "TheBlock",
@@ -478,17 +434,6 @@
       "confidence": 0.6369
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
-      "published": "2026-09-02T05:28:51+00:00",
-      "coins": [],
-      "compound": -0.6319,
-      "label": "BEARISH",
-      "confidence": 0.6319
-    },
-    {
       "source": "Decrypt",
       "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
       "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
@@ -500,6 +445,17 @@
       "confidence": 0.6124
     },
     {
+      "source": "Decrypt",
+      "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
+      "summary": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
+      "url": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
+      "published": "2026-09-02T17:41:04+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "CoinDesk",
       "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
       "summary": "",
@@ -509,6 +465,17 @@
       "compound": -0.5859,
       "label": "BEARISH",
       "confidence": 0.5859
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+      "published": "2026-09-02T17:23:48+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
@@ -531,6 +498,17 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Astra Becomes Its First AI Model With 'Critical' Hacking Abilities",
+      "summary": "The unreleased model can find zero-day vulnerabilities and chain them into working exploits without a human walking it through each step, and access to that capability is starting with a small group of testers.",
+      "url": "https://decrypt.co/377180/openai-astra-first-ai-model-critical-hacking",
+      "published": "2026-09-02T16:43:53+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -567,21 +545,21 @@
     },
     {
       "source": "Decrypt",
-      "title": "Dropbox Security Breach: Hackers Access Accounts Through Authentication Flaw",
-      "summary": "Attackers reportedly registered Lenovo IDs using victims\u2019 email addresses, allowing them to sign into existing Dropbox accounts without their passwords.",
-      "url": "https://decrypt.co/377099/dropbox-security-breach",
-      "published": "2026-09-01T20:01:05+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
       "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
       "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
       "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
       "published": "2026-09-02T10:25:02+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
+      "summary": "FAMI quickly corrected while the stock saw more than 720 million shares traded \u2014 nearly 90 times more than its daily average.",
+      "url": "https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374",
+      "published": "2026-09-02T17:40:13+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
@@ -599,11 +577,33 @@
       "confidence": 0.2732
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
+      "published": "2026-09-02T17:39:00+00:00",
+      "coins": [],
+      "compound": 0.2617,
+      "label": "BULLISH",
+      "confidence": 0.2617
+    },
+    {
+      "source": "Decrypt",
+      "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
+      "summary": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
+      "url": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
+      "published": "2026-09-02T20:46:04+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "TheBlock",
-      "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
-      "summary": "Cumulative market capitalization for these companies is up 10% since mid-August and hovers around $340 billion.",
-      "url": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
-      "published": "2026-09-01T18:11:02+00:00",
+      "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
+      "summary": "It's the first project launched through Securitize\u2019s fully authorized European Trading &amp; Settlement System under the EU DLT Pilot Regime.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378",
+      "published": "2026-09-02T17:17:59+00:00",
       "coins": [],
       "compound": 0.2023,
       "label": "BULLISH",
@@ -611,10 +611,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
+      "published": "2026-09-02T20:08:34+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
       "published": "2026-09-02T13:14:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Goldman Sachs, BofA Among 21 Banks Planning Joint Dollar Stablecoin Launch",
+      "summary": "The bank-led consortium wants a U.S. dollar token live by the first half of 2027, with a euro version queued up next.",
+      "url": "https://decrypt.co/377216/goldman-sachs-bofa-banks-stablecoin",
+      "published": "2026-09-02T20:01:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -648,17 +670,6 @@
       "summary": "Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US platform saw a combined $8.16 billion.",
       "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
       "published": "2026-09-02T04:28:38+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
-      "summary": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
-      "published": "2026-09-01T17:16:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
