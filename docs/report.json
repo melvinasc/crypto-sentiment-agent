@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T11:03:31.012824+00:00",
+  "generated_at": "2026-09-03T16:17:20.847155+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.6124,
+      "article_count": 2,
+      "avg_compound": 0.4868,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,6 +22,19 @@
           "compound": 0.6124,
           "label": "BULLISH",
           "confidence": 0.6124
+        },
+        {
+          "source": "TheBlock",
+          "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
+          "summary": "SoFi Technologies partnered with Payward to connect its banking settlement network with Kraken's digital-asset infrastructure.",
+          "url": "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
+          "published": "2026-09-03T12:52:54+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
         }
       ],
       "no_news": false
@@ -175,40 +188,52 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.1012,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": 0.0464,
+      "overall": "NEUTRAL",
+      "bullish": 12,
+      "bearish": 10,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-          "summary": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-          "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
-          "published": "2026-09-02T15:42:13+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Slides as US-Iran Tensions Escalate",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a></p>\n<p>Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
+          "published": "2026-09-01T21:27:02+00:00",
           "coins": [
-            "USDT"
+            "BTC"
           ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "compound": -0.9136,
+          "label": "BEARISH",
+          "confidence": 0.9136
         },
         {
-          "source": "CoinDesk",
-          "title": "Bitcoin\u2019s fabled golden cross is coming. And USDT may be the real signal this time",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-          "published": "2026-09-03T07:01:28+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "\u2018Crypto Capital of the World\u2019: SEC Chair Expects Clarity Act to Pass This Month",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a></p>\n<p>Securities and Exchange Commission Chair Paul Atkins has been pushing ahead with crypto regulation despite a delay in a vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage",
+          "published": "2026-09-02T21:40:17+00:00",
           "coins": [
-            "BTC",
-            "USDT"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.8343,
+          "label": "BULLISH",
+          "confidence": 0.8343
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+          "published": "2026-09-01T16:35:17+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.802,
+          "label": "BULLISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -272,52 +297,27 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0117,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 10,
-      "neutral": 5,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Slides as US-Iran Tensions Escalate",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a></p>\n<p>Things are heating up between Iran and the U.S. \u2014 again \u2014 and it's hurting bitcoin's price.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates\" rel=\"nofollow\">Bitcoin Slides as US-Iran Tensions Escalate\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-as-iran-us-war-escalates",
-          "published": "2026-09-01T21:27:02+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin\u2019s fabled golden cross is coming. And USDT may be the real signal this time",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+          "published": "2026-09-03T07:01:28+00:00",
           "coins": [
-            "BTC"
+            "BTC",
+            "USDT"
           ],
-          "compound": -0.9136,
-          "label": "BEARISH",
-          "confidence": 0.9136
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "\u2018Crypto Capital of the World\u2019: SEC Chair Expects Clarity Act to Pass This Month",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a></p>\n<p>Securities and Exchange Commission Chair Paul Atkins has been pushing ahead with crypto regulation despite a delay in a vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage",
-          "published": "2026-09-02T21:40:17+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8343,
-          "label": "BULLISH",
-          "confidence": 0.8343
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
-          "published": "2026-09-01T16:35:17+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.802,
-          "label": "BULLISH",
-          "confidence": 0.802
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -457,17 +457,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
-      "summary": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
-      "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
-      "published": "2026-09-02T15:18:44+00:00",
-      "coins": [],
-      "compound": -0.7579,
-      "label": "BEARISH",
-      "confidence": 0.7579
-    },
-    {
-      "source": "Decrypt",
       "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
       "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
       "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
@@ -490,17 +479,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
-      "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
-      "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
-      "published": "2026-09-02T14:16:44+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "Decrypt",
       "title": "Crypto Groups Push SEC for Tailored Rules on Novel ETFs",
       "summary": "Groups including The Crypto Council for Innovation, Grayscale, and a16z urged the regulator to preserve existing fund classifications and streamline reviews for new exchange-traded products.",
       "url": "https://decrypt.co/377184/crypto-groups-sec-novel-etfs",
@@ -509,17 +487,6 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "New Jersey becomes first state to ask Supreme Court to weigh in on prediction markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
-      "published": "2026-09-02T17:23:48+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
@@ -531,6 +498,17 @@
       "compound": 0.5574,
       "label": "BULLISH",
       "confidence": 0.5574
+    },
+    {
+      "source": "Decrypt",
+      "title": "SoFi Links Banking Network and Stablecoin to Kraken in New Deal",
+      "summary": "Kraken will list SoFiUSD and gain access to SoFi\u2019s round-the-clock dollar settlement network, while Kraken Prime will execute trades for SoFi\u2019s crypto customers.",
+      "url": "https://decrypt.co/377283/sofi-banking-network-stablecoin-kraken",
+      "published": "2026-09-03T15:40:08+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
@@ -555,15 +533,26 @@
       "confidence": 0.4939
     },
     {
-      "source": "CoinDesk",
-      "title": "The token supercycle: everything of value is becoming programmable",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
-      "published": "2026-09-02T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "Mamdani Imposes One-Year Moratorium on Generative AI in NYC Schools",
+      "summary": "Nearly 600,000 students lose access to generative AI tools, while five named vendors keep metered pilots running in high schools.",
+      "url": "https://decrypt.co/377253/mamdani-imposes-one-year-moratorium-on-generative-ai-in-nyc-schools",
+      "published": "2026-09-03T11:36:41+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Why crypto earnings reports can be misleading",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/03/crypto-for-advisors-why-crypto-earnings-reports-can-be-misleading",
+      "published": "2026-09-03T15:00:00+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -599,28 +588,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Crypto VCs are mistaking consensus for discipline",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
-      "published": "2026-09-02T15:15:02+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto made new friends in U.S. primaries, but focus now shifts to general election",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
-      "published": "2026-09-02T17:39:00+00:00",
-      "coins": [],
-      "compound": 0.2617,
-      "label": "BULLISH",
-      "confidence": 0.2617
-    },
-    {
       "source": "Decrypt",
       "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
       "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
@@ -654,6 +621,17 @@
       "confidence": 0.2263
     },
     {
+      "source": "CoinDesk",
+      "title": "A memecoin making app becomes crypto\u2019s top fee generators as Robinhood Chain activity explodes",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/03/a-memecoin-making-app-becomes-crypto-s-top-fee-generators-as-robinhood-chain-activity-explodes",
+      "published": "2026-09-03T14:51:39+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "Decrypt",
       "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
       "summary": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
@@ -662,6 +640,17 @@
       "coins": [],
       "compound": 0.2023,
       "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "Stablecoin payments infrastructure startup Diameter Pay raises $10 million",
+      "summary": "Diameter Pay has raised $10 million in a Series A funding round co-led by CMT Digital and Lightspeed Faction.",
+      "url": "https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454",
+      "published": "2026-09-03T16:00:03+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
       "confidence": 0.2023
     },
     {
@@ -677,14 +666,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+      "title": "Standard Chartered brings spot crypto trading to Dubai FX platform",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
-      "published": "2026-09-02T21:24:26+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/03/standard-chartered-first-top-global-bank-to-offer-bitcoin-and-ether-trading-in-uae",
+      "published": "2026-09-03T15:58:02+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget in talks with Wall Street giants including BlackRock to fuel Asian distribution",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/03/bitget-in-talks-with-wall-street-giants-including-blackrock-for-asian-distribution",
+      "published": "2026-09-03T14:41:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SoFi, Kraken tie up as crypto and banking push into each other's turf",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+      "published": "2026-09-03T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -692,28 +703,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
       "published": "2026-09-03T10:09:31+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
-      "published": "2026-09-02T20:08:34+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
-      "published": "2026-09-02T13:14:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
