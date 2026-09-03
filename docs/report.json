@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:55:35.813656+00:00",
+  "generated_at": "2026-09-03T04:07:10.386922+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -26,53 +26,11 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.3157,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-          "published": "2026-09-02T11:30:45+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.8578,
-          "label": "BEARISH",
-          "confidence": 0.8578
-        },
-        {
-          "source": "TheBlock",
-          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
-          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-          "published": "2026-09-02T11:32:55+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP",
-            "DOGE",
-            "BTC"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.2456,
+      "article_count": 4,
+      "avg_compound": 0.2467,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
@@ -90,6 +48,23 @@
           "confidence": 0.5106
         },
         {
+          "source": "Decrypt",
+          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+          "published": "2026-09-02T21:31:05+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "BTC",
+            "SOL",
+            "DOGE"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
           "source": "TheBlock",
           "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
           "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
@@ -105,32 +80,35 @@
           "compound": 0.2263,
           "label": "BULLISH",
           "confidence": 0.2263
-        },
-        {
-          "source": "CoinDesk",
-          "title": "The bearish 'Bart Simpson' pattern is back as bitcoin and XRP prices pull back",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
-          "published": "2026-09-02T12:13:26+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.2263,
+      "article_count": 2,
+      "avg_compound": 0.2382,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+          "published": "2026-09-02T21:31:05+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "BTC",
+            "SOL",
+            "DOGE"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
         {
           "source": "TheBlock",
           "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
@@ -152,13 +130,89 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.2263,
+      "article_count": 2,
+      "avg_compound": 0.2382,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+          "published": "2026-09-02T21:31:05+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "BTC",
+            "SOL",
+            "DOGE"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "TheBlock",
+          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
+          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
+          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+          "published": "2026-09-02T11:32:55+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.1272,
+      "overall": "BEARISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
+          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
+          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
+          "published": "2026-09-02T11:30:45+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.8578,
+          "label": "BEARISH",
+          "confidence": 0.8578
+        },
+        {
+          "source": "Decrypt",
+          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+          "published": "2026-09-02T21:31:05+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "BTC",
+            "SOL",
+            "DOGE"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
         {
           "source": "TheBlock",
           "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
@@ -181,8 +235,8 @@
     },
     "BTC": {
       "article_count": 25,
-      "avg_compound": -0.0653,
-      "overall": "BEARISH",
+      "avg_compound": -0.0385,
+      "overall": "NEUTRAL",
       "bullish": 9,
       "bearish": 11,
       "neutral": 5,
@@ -216,16 +270,16 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
-          "published": "2026-09-01T16:35:17+00:00",
+          "title": "\u2018Crypto Capital of the World\u2019: SEC Chair Expects Clarity Act to Pass This Month",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a></p>\n<p>Securities and Exchange Commission Chair Paul Atkins has been pushing ahead with crypto regulation despite a delay in a vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage",
+          "published": "2026-09-02T21:40:17+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.802,
+          "compound": 0.8343,
           "label": "BULLISH",
-          "confidence": 0.802
+          "confidence": 0.8343
         }
       ],
       "no_news": false
@@ -423,17 +477,6 @@
       "confidence": 0.7579
     },
     {
-      "source": "TheBlock",
-      "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
-      "summary": "Test memecoin purchases were coded as \"digital media\" rather than crypto, earning credit card points despite card network restrictions.",
-      "url": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911",
-      "published": "2026-09-01T19:33:37+00:00",
-      "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
-      "confidence": 0.6369
-    },
-    {
       "source": "Decrypt",
       "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
       "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
@@ -479,25 +522,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Kalshi Suspends House Candidate Laurie Buckhout for Betting on Herself",
-      "summary": "The North Carolina Republican bought less than $1,000 of contracts on her own race and drew a three-year ban.",
-      "url": "https://decrypt.co/377142/kalshi-suspends-house-candidate-laurie-buckhout-for-betting-on-herself",
-      "published": "2026-09-02T09:06:22+00:00",
+      "title": "FBI Seizes $560K in Crypto Bound for Hamas, Takes Over Fundraising Sites",
+      "summary": "Agents seized digital assets, domains, and servers allegedly used by Hamas\u2019 military wing to collect donations and recruit supporters.",
+      "url": "https://decrypt.co/377230/fbi-seizes-560k-crypto-hamas",
+      "published": "2026-09-02T22:47:06+00:00",
       "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hyperliquid Strategies expands equity facility to $2.5 billion from $1 billion",
-      "summary": "As of June 30, Hyperliquid Strategies has sold around $647 million worth of shares, according to its recent filings.",
-      "url": "https://www.theblock.co/news/business/2026-09-01-hyperliquid-strategies-expands-equity-facility-413304",
-      "published": "2026-09-02T03:35:30+00:00",
-      "coins": [],
-      "compound": 0.5423,
+      "compound": 0.5574,
       "label": "BULLISH",
-      "confidence": 0.5423
+      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
@@ -511,17 +543,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
-      "summary": "The open-source agent framework that started the \"autonomous AI\" hype cycle just shipped its biggest update ever, almost by accident, and it's coming for the enterprise now.",
-      "url": "https://decrypt.co/377135/openclaw-2-0-is-here-whats-new",
-      "published": "2026-09-01T22:16:04+00:00",
-      "coins": [],
-      "compound": -0.4256,
-      "label": "BEARISH",
-      "confidence": 0.4256
-    },
-    {
       "source": "CoinDesk",
       "title": "The token supercycle: everything of value is becoming programmable",
       "summary": "",
@@ -533,25 +554,25 @@
       "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
-      "summary": "The deal, part of MediaTek's record $3.9 billion bond offering, ties Nvidia's chip ecosystem to a Taiwanese rival building its own AI accelerator business.",
-      "url": "https://decrypt.co/377128/nvidia-invests-3-5-billion-mediatek",
-      "published": "2026-09-01T21:31:04+00:00",
+      "source": "TheBlock",
+      "title": "\u2018Much ado about nothing\u2019: CFTC files to dismiss CME\u2019s lawsuit over crypto perpetual futures",
+      "summary": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-02-cftc-dismiss-cme-413416",
+      "published": "2026-09-03T03:39:02+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-      "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
-      "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
-      "published": "2026-09-02T10:25:02+00:00",
+      "source": "TheBlock",
+      "title": "Anthony Armstrong, former CFO at Elon Musk\u2019s xAI and X, joins Coinbase board",
+      "summary": "Anthony Armstrong \u2014 no relation to Coinbase CEO Brian Armstrong \u2014 most recently served as CFO across xAI, X.AI Corp., and X Corp.",
+      "url": "https://www.theblock.co/news/business/2026-09-02-anthony-armstrong-former-cfo-elon-musk-xai-x-joins-coinbase-board-413405",
+      "published": "2026-09-02T21:03:53+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
+      "compound": -0.296,
+      "label": "BEARISH",
       "confidence": 0.296
     },
     {
@@ -589,6 +610,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
+      "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
+      "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
+      "published": "2026-09-02T23:46:04+00:00",
+      "coins": [],
+      "compound": -0.25,
+      "label": "BEARISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "Decrypt",
       "title": "Top Pentagon AI Official Sold Millions in Perplexity Stock, Disclosures Show",
       "summary": "Emil Michael's latest financial filings show a summer exit from Perplexity, months after a January sale of xAI stock that reportedly netted him up to $24 million.",
       "url": "https://decrypt.co/377225/pentagon-ai-official-sold-millions-perplexity-stock",
@@ -611,6 +643,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/02/doj-says-hamas-crypto-seizures-reached-usd560-000-as-fbi-took-over-fundraising-sites",
+      "published": "2026-09-02T21:24:26+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
       "title": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
@@ -626,6 +669,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
       "published": "2026-09-02T13:14:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "An AI Training Data Startup Just Became Y Combinator's Fastest-Ever Unicorn",
+      "summary": "Afterquery's valuation jumped more than tenfold in five months, making it Y Combinator's fastest unicorn ever.",
+      "url": "https://decrypt.co/377231/afterquery-ai-tradining-data-unicorn-y-combinator",
+      "published": "2026-09-02T23:16:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
