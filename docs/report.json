@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T04:07:10.386922+00:00",
+  "generated_at": "2026-09-03T11:03:31.012824+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -26,65 +26,7 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 4,
-      "avg_compound": 0.2467,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP ETFs pull in $170 million over 11 days. Goldman tops institutional holders",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
-          "published": "2026-09-02T07:20:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "Decrypt",
-          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
-          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
-          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
-          "published": "2026-09-02T21:31:05+00:00",
-          "coins": [
-            "ETH",
-            "XRP",
-            "BTC",
-            "SOL",
-            "DOGE"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "TheBlock",
-          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
-          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-          "published": "2026-09-02T11:32:55+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP",
-            "DOGE",
-            "BTC"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
+    "ETH": {
       "article_count": 2,
       "avg_compound": 0.2382,
       "overall": "BULLISH",
@@ -174,27 +116,124 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "XRP": {
       "article_count": 3,
-      "avg_compound": -0.1272,
-      "overall": "BEARISH",
+      "avg_compound": 0.1588,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Japan\u2019s Remixpoint Dumps Ethereum, XRP in Shift to Bitcoin-Only Treasury",
+          "summary": "The Japanese company booked a \u00a5117.8 million profit after selling its ETH, SOL, XRP and DOGE, leaving roughly 1,506 BTC as its only cryptocurrency holding.",
+          "url": "https://decrypt.co/377228/remixpoint-xrp-ethereum-bitcoin-only",
+          "published": "2026-09-02T21:31:05+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "BTC",
+            "SOL",
+            "DOGE"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "TheBlock",
+          "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
+          "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
+          "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+          "published": "2026-09-02T11:32:55+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP",
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin back above $77,500, XRP leads majors as Fed hike odds slide to 62%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
+          "published": "2026-09-03T04:22:40+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.1012,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
+          "summary": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
+          "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
+          "published": "2026-09-02T15:42:13+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin\u2019s fabled golden cross is coming. And USDT may be the real signal this time",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
+          "published": "2026-09-03T07:01:28+00:00",
+          "coins": [
+            "BTC",
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 3,
+      "avg_compound": 0.0315,
+      "overall": "NEUTRAL",
       "bullish": 2,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-          "published": "2026-09-02T11:30:45+00:00",
+          "source": "CoinDesk",
+          "title": "Dogecoin becomes only losing bet for Japan-listed firm as it sells altcoins for bitcoin",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/03/dogecoin-becomes-losing-bet-for-japan-listed-firm-remixpoint-as-it-sells-altcoins-for-bitcoin",
+          "published": "2026-09-03T04:58:05+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "DOGE",
+            "BTC"
           ],
-          "compound": -0.8578,
+          "compound": -0.3818,
           "label": "BEARISH",
-          "confidence": 0.8578
+          "confidence": 0.3818
         },
         {
           "source": "Decrypt",
@@ -234,11 +273,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0385,
+      "article_count": 24,
+      "avg_compound": -0.0117,
       "overall": "NEUTRAL",
       "bullish": 9,
-      "bearish": 11,
+      "bearish": 10,
       "neutral": 5,
       "top_articles": [
         {
@@ -255,20 +294,6 @@
           "confidence": 0.9136
         },
         {
-          "source": "Decrypt",
-          "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-          "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
-          "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-          "published": "2026-09-02T11:30:45+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.8578,
-          "label": "BEARISH",
-          "confidence": 0.8578
-        },
-        {
           "source": "Bitcoin Magazine",
           "title": "\u2018Crypto Capital of the World\u2019: SEC Chair Expects Clarity Act to Pass This Month",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a></p>\n<p>Securities and Exchange Commission Chair Paul Atkins has been pushing ahead with crypto regulation despite a delay in a vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
@@ -280,43 +305,19 @@
           "compound": 0.8343,
           "label": "BULLISH",
           "confidence": 0.8343
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.0238,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
-          "published": "2026-09-02T11:03:46+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
         },
         {
-          "source": "Decrypt",
-          "title": "Tether Sued Over Alleged Unlawful Freeze of $42.4 Million in USDT",
-          "summary": "Two Thai businessmen claim Tether blocked access to their stablecoins months before federal authorities secured a seizure warrant.",
-          "url": "https://decrypt.co/377171/tether-sued-freeze-42-4-million-usdt",
-          "published": "2026-09-02T15:42:13+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "BlackRock\u2019s iShares Bitcoin Trust Is Beating Top S&P 500 ETF",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Says-Crypto-Can-Outrun-the-Quantum-Threat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a></p>\n<p>The asset manager's flagship bitcoin fund is delivering better returns than Vanguard's S&#038;P 500 ETF. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard\" rel=\"nofollow\">BlackRock&#8217;s iShares Bitcoin Trust Is Beating Top S&amp;P 500 ETF\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-etf-is-beating-vanguard",
+          "published": "2026-09-01T16:35:17+00:00",
           "coins": [
-            "USDT"
+            "BTC"
           ],
-          "compound": 0.2023,
+          "compound": 0.802,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -445,17 +446,6 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "G20 finance leaders vow to establish \u2018clear pathways\u2019 for digital assets innovation",
-      "summary": "The G20 officials acknowledged that digital assets can support economic growth and private sector innovation.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-02-g20-finance-leaders-digital-assets-413310",
-      "published": "2026-09-02T04:43:52+00:00",
-      "coins": [],
-      "compound": 0.8979,
-      "label": "BULLISH",
-      "confidence": 0.8979
-    },
-    {
-      "source": "TheBlock",
       "title": "New Jersey asks Supreme Court to decide who regulates sports betting on prediction markets",
       "summary": "New Jersey is asking the U.S. Supreme Court to settle, once and for all, how sports betting on prediction markets should be regulated.",
       "url": "https://www.theblock.co/news/regulation/2026-09-02-new-jersey-asks-supreme-court-to-decide-who-regulates-sports-betting-on-prediction-markets-413398",
@@ -478,6 +468,28 @@
     },
     {
       "source": "Decrypt",
+      "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
+      "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
+      "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
+      "published": "2026-09-03T09:53:41+00:00",
+      "coins": [],
+      "compound": -0.7184,
+      "label": "BEARISH",
+      "confidence": 0.7184
+    },
+    {
+      "source": "TheBlock",
+      "title": "Michigan court orders Kalshi to keep blocking sports prediction markets",
+      "summary": "The injunction converts a temporary restraining order issued in June, and violations would result in a fine of $500,000 per day.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-03-michigan-court-orders-kalshi-sports-prediction-markets-413422",
+      "published": "2026-09-03T04:30:32+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
+    },
+    {
+      "source": "Decrypt",
       "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
       "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
       "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
@@ -497,17 +509,6 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
-      "published": "2026-09-02T10:27:30+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
     },
     {
       "source": "CoinDesk",
@@ -541,6 +542,17 @@
       "compound": -0.5106,
       "label": "BEARISH",
       "confidence": 0.5106
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
+      "published": "2026-09-03T08:30:00+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
     },
     {
       "source": "CoinDesk",
@@ -610,6 +622,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
+      "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
+      "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
+      "published": "2026-09-03T08:47:34+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "Decrypt",
       "title": "Anthropic Admits Security Failures Behind Claude Hacking Incidents",
       "summary": "After Claude models accessed real systems during cyber tests, Anthropic tightened its safeguards and warned that flawed training can encourage dangerous behavior.",
       "url": "https://decrypt.co/377232/anthropic-security-claude-ai-hacks",
@@ -618,6 +641,17 @@
       "compound": -0.25,
       "label": "BEARISH",
       "confidence": 0.25
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
+      "published": "2026-09-03T09:13:40+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
@@ -651,6 +685,17 @@
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
+      "published": "2026-09-03T10:09:31+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -713,17 +758,6 @@
       "summary": "Licensing fees accounted for 35% of the DAO's income in July, the first month Robinhood Chain was live on mainnet.",
       "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
       "published": "2026-09-02T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi and Polymarket\u2019s combined volume falls 15% in August, first monthly decline in a year",
-      "summary": "Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US platform saw a combined $8.16 billion.",
-      "url": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
-      "published": "2026-09-02T04:28:38+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
