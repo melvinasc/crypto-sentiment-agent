@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T04:13:30.958180+00:00",
-  "total_articles": 54,
+  "generated_at": "2026-09-04T11:04:32.388685+00:00",
+  "total_articles": 55,
   "coins": {
     "LINK": {
       "article_count": 2,
@@ -93,13 +93,26 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.0217,
+      "article_count": 24,
+      "avg_compound": 0.0226,
       "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 8,
-      "neutral": 4,
+      "bullish": 11,
+      "bearish": 7,
+      "neutral": 6,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "CFTC Asks Judge to Dismiss CME Lawsuit Over Crypto Perpetual Futures",
+          "summary": "The regulator argues that CME cannot challenge its approval of Kalshi\u2019s Bitcoin perpetual contract without showing concrete financial harm.",
+          "url": "https://decrypt.co/377315/cftc-dismiss-cme-lawsuit-crypto-perpetual-futures",
+          "published": "2026-09-03T17:31:04+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8682,
+          "label": "BEARISH",
+          "confidence": 0.8682
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
@@ -125,44 +138,6 @@
           "compound": 0.8343,
           "label": "BULLISH",
           "confidence": 0.8343
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel=\"nofollow\">Bitcoin Bear Market May Not Yet Be Over, Says Fidelity\u00a0</a></p>\n<p>Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel=\"nofollow\">Bitcoin Bear Market May Not Yet Be Over, Says Fidelity\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-          "published": "2026-09-03T22:19:41+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7935,
-          "label": "BEARISH",
-          "confidence": 0.7935
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin\u2019s fabled golden cross is coming. And USDT may be the real signal this time",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-s-fabled-golden-cross-is-coming-and-usdt-may-be-the-real-signal-this-time",
-          "published": "2026-09-03T07:01:28+00:00",
-          "coins": [
-            "BTC",
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -306,9 +281,30 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
+      "summary": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
+      "published": "2026-09-04T10:18:40+00:00",
+      "coins": [],
+      "compound": 0.8779,
+      "label": "BULLISH",
+      "confidence": 0.8779
+    },
     {
       "source": "Decrypt",
       "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
@@ -343,15 +339,15 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Ukraine Busts Kyiv Crypto Drainer Ring Moving Up to $1M Monthly",
-      "summary": "Fake investment ads on Telegram channels funneled EU victims to a lookalike exchange that emptied their wallets.",
-      "url": "https://decrypt.co/377245/ukraine-busts-kyiv-crypto-drainer-ring-moving-up-to-1m-monthly",
-      "published": "2026-09-03T09:53:41+00:00",
+      "source": "TheBlock",
+      "title": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
+      "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
+      "published": "2026-09-04T09:46:06+00:00",
       "coins": [],
-      "compound": -0.7184,
-      "label": "BEARISH",
-      "confidence": 0.7184
+      "compound": 0.6486,
+      "label": "BULLISH",
+      "confidence": 0.6486
     },
     {
       "source": "TheBlock",
@@ -363,6 +359,28 @@
       "compound": -0.6369,
       "label": "BEARISH",
       "confidence": 0.6369
+    },
+    {
+      "source": "Decrypt",
+      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
+      "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
+      "url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
+      "published": "2026-09-04T09:24:56+00:00",
+      "coins": [],
+      "compound": -0.5994,
+      "label": "BEARISH",
+      "confidence": 0.5994
+    },
+    {
+      "source": "Decrypt",
+      "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
+      "summary": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
+      "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+      "published": "2026-09-04T10:22:57+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -385,17 +403,6 @@
       "compound": 0.5267,
       "label": "BULLISH",
       "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Catastrophe bonds may join tokenization rush, with plans for test issuance in 2027",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/03/catastrophe-bonds-may-join-tokenization-rush-with-plans-for-test-issuance-in-2027",
-      "published": "2026-09-03T08:30:00+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -442,6 +449,17 @@
       "confidence": 0.3612
     },
     {
+      "source": "CoinDesk",
+      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
+      "published": "2026-09-04T10:40:14+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
       "source": "TheBlock",
       "title": "\u2018Much ado about nothing\u2019: CFTC files to dismiss CME\u2019s lawsuit over crypto perpetual futures",
       "summary": "The CFTC said CME lacks standing on its competitive-injury claims, as the exchange is free to list perp futures as a DCM.",
@@ -451,6 +469,17 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
+      "published": "2026-09-04T09:41:31+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -472,17 +501,6 @@
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "Memecoin shenanigans spill into Nasdaq as microcap mushroom seller Farmmi surges 350%",
-      "summary": "FAMI quickly corrected while the stock saw more than 720 million shares traded \u2014 nearly 90 times more than its daily average.",
-      "url": "https://www.theblock.co/news/markets/2026-09-02-memecoin-shenanigans-nasdaq-microcap-mushroom-seller-farmmi-413374",
-      "published": "2026-09-02T17:40:13+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
       "confidence": 0.296
     },
     {
@@ -508,28 +526,6 @@
       "confidence": 0.25
     },
     {
-      "source": "Decrypt",
-      "title": "Michigan Judge Bars Kalshi Sports Bets, Threatens $500K Daily Fine",
-      "summary": "The order calls the prediction market platform a sports betting operation \"masquerading as an investment opportunity.\"",
-      "url": "https://decrypt.co/377238/michigan-judge-bars-kalshi-sports-bets-threatens-500k-daily-fine",
-      "published": "2026-09-03T08:47:34+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CFTC asks judge to dismiss CME lawsuit over crypto perpetual futures",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
-      "published": "2026-09-03T09:13:40+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
       "source": "CoinDesk",
       "title": "A memecoin making app becomes crypto\u2019s top fee generators as Robinhood Chain activity explodes",
       "summary": "",
@@ -552,15 +548,26 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Securitize and Socios team up to tokenize equity in pro sports teams",
-      "summary": "It's the first project launched through Securitize\u2019s fully authorized European Trading &amp; Settlement System under the EU DLT Pilot Regime.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-02-securitize-and-socios-team-up-to-tokenize-equity-in-pro-sports-teams-413378",
-      "published": "2026-09-02T17:17:59+00:00",
+      "source": "CoinDesk",
+      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
+      "published": "2026-09-04T05:49:43+00:00",
       "coins": [],
-      "compound": 0.2023,
+      "compound": 0.128,
       "label": "BULLISH",
-      "confidence": 0.2023
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
+      "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over \u2018outrageous\u2019 tokenized shares",
+      "summary": "OpenAI had previously made a similar criticism of Robinhood\u2019s tokenized equities, saying it did not approve the transfer of its shares.",
+      "url": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
+      "published": "2026-09-04T07:59:34+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
     },
     {
       "source": "Decrypt",
@@ -607,44 +614,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Australia is cracking down on crypto businesses as its strict new regulatory deadline nears",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
-      "published": "2026-09-03T10:09:31+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
       "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
       "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
       "published": "2026-09-03T22:16:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "World open-sources ProveKit, a zero-knowledge identity proving toolkit",
-      "summary": "World has open-sourced ProveKit, a zero-knowledge identity proving toolkit already used in World ID since April.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-02-world-provekit-zero-knowledge-identity-proving-toolkit-413364",
-      "published": "2026-09-02T16:00:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Arbitrum DAO reports $6.2 million in first-half income as Robinhood Chain adds new revenue stream",
-      "summary": "Licensing fees accounted for 35% of the DAO's income in July, the first month Robinhood Chain was live on mainnet.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-02-arbitrum-dao-reports-6-2-million-first-half-income-robinhood-chain-adds-new-revenue-stream-413345",
-      "published": "2026-09-02T16:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
