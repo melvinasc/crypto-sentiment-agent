@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-04T16:13:00.433911+00:00",
+  "generated_at": "2026-09-04T20:40:34.209596+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.1677,
+      "article_count": 1,
+      "avg_compound": 0.3612,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -22,96 +22,18 @@
           "compound": 0.3612,
           "label": "BULLISH",
           "confidence": 0.3612
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-          "summary": "Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back with $101.15 million in one day after their worst outflow since July.",
-          "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-          "published": "2026-09-03T18:15:07+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": 0.1319,
-      "overall": "BULLISH",
-      "bullish": 14,
-      "bearish": 6,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a></p>\n<p>Bitcoin is trading with gold \u2014 something it does when investors lose confidence in the dollar. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
-          "published": "2026-09-03T21:31:34+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8658,
-          "label": "BEARISH",
-          "confidence": 0.8658
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "\u2018Crypto Capital of the World\u2019: SEC Chair Expects Clarity Act to Pass This Month",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/SEC-CHair-Paul-Atkins-Supports-Clairty.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a></p>\n<p>Securities and Exchange Commission Chair Paul Atkins has been pushing ahead with crypto regulation despite a delay in a vote on the Clarity Act. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage\" rel=\"nofollow\">&#8216;Crypto Capital of the World&#8217;: SEC Chair Expects Clarity Act to Pass This Month</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/sec-chair-predict-clarity-act-passage",
-          "published": "2026-09-02T21:40:17+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8343,
-          "label": "BULLISH",
-          "confidence": 0.8343
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-6.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel=\"nofollow\">Bitcoin Bear Market May Not Yet Be Over, Says Fidelity\u00a0</a></p>\n<p>Fidelity argues that bitcoin may have seen its bottom in July. But there's still evidence it could drop again to a new low later this year. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity\" rel=\"nofollow\">Bitcoin Bear Market May Not Yet Be Over, Says Fidelity\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-bear-market-not-over-says-fidelity",
-          "published": "2026-09-03T22:19:41+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7935,
-          "label": "BEARISH",
-          "confidence": 0.7935
         }
       ],
       "no_news": false
     },
     "LINK": {
-      "article_count": 2,
-      "avg_compound": 0.1293,
-      "overall": "BULLISH",
-      "bullish": 1,
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "SoFi, Payward agree to link banking network with Kraken infrastructure",
-          "summary": "SoFi Technologies partnered with Payward to connect its banking settlement network with Kraken's digital-asset infrastructure.",
-          "url": "https://www.theblock.co/news/business/2026-09-03-sofi-payward-agree-to-link-banking-network-with-kraken-infrastructure-413432",
-          "published": "2026-09-03T12:52:54+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
@@ -129,28 +51,52 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.0258,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": 0.0715,
+      "overall": "BULLISH",
+      "bullish": 13,
+      "bearish": 8,
+      "neutral": 4,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
-          "summary": "Ethereum funds broke a 12-day winning run and XRP snapped an 11-session streak on Wednesday, while Bitcoin ETFs bounced back with $101.15 million in one day after their worst outflow since July.",
-          "url": "https://decrypt.co/377284/bitcoin-etfs-rebound-ethereum-xrp-end-streaks",
-          "published": "2026-09-03T18:15:07+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+          "published": "2026-09-04T17:17:53+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
+            "BTC"
           ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
+          "compound": 0.875,
+          "label": "BULLISH",
+          "confidence": 0.875
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
+          "published": "2026-09-04T20:30:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a></p>\n<p>Bitcoin is trading with gold \u2014 something it does when investors lose confidence in the dollar. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
+          "published": "2026-09-03T21:31:34+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8658,
+          "label": "BEARISH",
+          "confidence": 0.8658
         }
       ],
       "no_news": false
@@ -206,6 +152,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -319,17 +275,6 @@
       "confidence": 0.8779
     },
     {
-      "source": "Decrypt",
-      "title": "Bernie Sanders Pushes Bill to Ban Advanced AI Development",
-      "summary": "The forthcoming bill would pause advanced AI development, create a federal regulator, and threaten violators with up to 20 years in prison.",
-      "url": "https://decrypt.co/377340/bernie-sanders-ban-advanced-ai",
-      "published": "2026-09-03T20:16:04+00:00",
-      "coins": [],
-      "compound": -0.8074,
-      "label": "BEARISH",
-      "confidence": 0.8074
-    },
-    {
       "source": "TheBlock",
       "title": "Revolut takes \u2018important\u2019 step toward becoming a US bank with conditional OCC approval",
       "summary": "Revolut says it has received preliminary approval from a key U.S. banking regulator as it seeks to become a bank in the country.",
@@ -375,6 +320,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
+      "summary": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
+      "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
+      "published": "2026-09-04T18:36:41+00:00",
+      "coins": [],
+      "compound": -0.5771,
+      "label": "BEARISH",
+      "confidence": 0.5771
+    },
+    {
+      "source": "Decrypt",
       "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
       "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
       "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
@@ -386,14 +342,36 @@
     },
     {
       "source": "TheBlock",
-      "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
-      "summary": "Coinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.",
+      "title": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
+      "summary": "Grayscale's ZCSH inflows climb as surging network competition cuts into miners\u2019 gains from the ZEC token's rally.",
+      "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
+      "published": "2026-09-04T16:59:34+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase seeks SEC greenlight to list equity perpetuals",
+      "summary": "Coinbase, the largest U.S. based crypto exchange, is seeking to list equity products as perpetual gain momentum.",
       "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
       "published": "2026-09-03T20:46:52+00:00",
       "coins": [],
       "compound": 0.5267,
       "label": "BULLISH",
       "confidence": 0.5267
+    },
+    {
+      "source": "Decrypt",
+      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
+      "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
+      "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
+      "published": "2026-09-04T17:19:55+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
@@ -440,17 +418,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "What Is Pons? The Robinhood Chain Meme Coin Factory Token Up 18,000% Since July",
-      "summary": "PONS, the token behind Robinhood Chain's biggest meme coin factory, flipped CASHCAT to become the chain's largest cryptocurrency by market cap\u2014and its chart looks like a hockey stick.",
-      "url": "https://decrypt.co/377349/pons-robinhood-chain-meme-coin-token-factory",
-      "published": "2026-09-03T20:46:04+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "CoinDesk",
       "title": "From warning to listing: UK\u2019s largest retail investment platform opens access to crypto ETNs",
       "summary": "",
@@ -474,17 +441,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "AMC CEO tells Robinhood to stop issuing stock token as industry executives weigh in",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-      "published": "2026-09-04T14:56:00+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
       "title": "South Korea targets February 2027 rollout for full tokenized securities market",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
@@ -504,17 +460,6 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Releases GPT-6 Astra: The Closest AI Model Yet to AGI",
-      "summary": "The model can independently discover and exploit unknown security flaws across hardened systems, triggering a staged rollout and White House review before public access.",
-      "url": "https://decrypt.co/377341/openai-releases-gpt-6-astra-agi",
-      "published": "2026-09-03T19:24:24+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -584,14 +529,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "ChatGPT, Claude and Grok Outages Leave Users Asking How to Work Without AI",
-      "summary": "The three AI platforms restored service Thursday after users said the simultaneous disruptions brought their work to a halt.",
-      "url": "https://decrypt.co/377337/chatgpt-claude-grok-outages-work-without-ai",
-      "published": "2026-09-03T18:31:26+00:00",
+      "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
+      "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day\u2014though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
+      "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
+      "published": "2026-09-04T20:31:03+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": -0.0382,
+      "label": "NEUTRAL",
+      "confidence": 0.0382
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood\u2014And It's Working (Sort Of)",
+      "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
+      "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
+      "published": "2026-09-04T19:16:03+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
+      "published": "2026-09-04T14:56:00+00:00",
+      "coins": [],
+      "compound": -0.0191,
+      "label": "NEUTRAL",
+      "confidence": 0.0191
     },
     {
       "source": "Decrypt",
@@ -599,6 +566,17 @@
       "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
       "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
       "published": "2026-09-03T22:16:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
+      "summary": "President Trump says his administration is working to bring Hyperliquid into the U.S., raising a deceptively simple question: How?",
+      "url": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
+      "published": "2026-09-04T18:35:21+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
