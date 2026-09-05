@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:00:52.684297+00:00",
+  "generated_at": "2026-09-05T20:14:00.591988+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -39,6 +39,30 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+          "published": "2026-09-05T16:06:41+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
     "LINK": {
       "article_count": 1,
       "avg_compound": -0.1027,
@@ -65,10 +89,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.0065,
+      "article_count": 23,
+      "avg_compound": -0.0079,
       "overall": "NEUTRAL",
-      "bullish": 11,
+      "bullish": 10,
       "bearish": 10,
       "neutral": 3,
       "top_articles": [
@@ -165,16 +189,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -289,6 +303,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+      "summary": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
+      "url": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
+      "published": "2026-09-05T20:02:08+00:00",
+      "coins": [],
+      "compound": 0.8126,
+      "label": "BULLISH",
+      "confidence": 0.8126
+    },
+    {
+      "source": "TheBlock",
       "title": "Revolut takes \u2018important\u2019 step toward becoming a US bank with conditional OCC approval",
       "summary": "Revolut says it has received preliminary approval from a key U.S. banking regulator as it seeks to become a bank in the country.",
       "url": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
@@ -319,17 +344,6 @@
       "compound": 0.6486,
       "label": "BULLISH",
       "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
-      "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
-      "summary": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
-      "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
-      "published": "2026-09-04T10:22:57+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -465,6 +479,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "published": "2026-09-05T16:43:13+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
       "title": "South Korea targets February 2027 rollout for full tokenized securities market",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
@@ -519,17 +544,6 @@
       "confidence": 0.1531
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI puts $1 billion behind cyber defense after unveiling AI that can find zero-days",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/04/openai-puts-usd1-billion-behind-cyber-defense-after-unveiling-ai-that-can-find-zero-days",
-      "published": "2026-09-04T05:49:43+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
       "source": "TheBlock",
       "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over \u2018outrageous\u2019 tokenized shares",
       "summary": "OpenAI had previously made a similar criticism of Robinhood\u2019s tokenized equities, saying it did not approve the transfer of its shares.",
@@ -539,17 +553,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "67,000 More Trezor Customers Exposed as Data Breach Widens",
-      "summary": "Some records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.",
-      "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
-      "published": "2026-09-04T11:32:49+00:00",
-      "coins": [],
-      "compound": 0.0609,
-      "label": "BULLISH",
-      "confidence": 0.0609
     },
     {
       "source": "Decrypt",
@@ -583,6 +586,17 @@
       "compound": -0.0191,
       "label": "NEUTRAL",
       "confidence": 0.0191
+    },
+    {
+      "source": "Decrypt",
+      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+      "summary": "The update fixes a high-severity flaw in Chrome\u2019s V8 engine, but Google has not revealed who is using it or whom they targeted.",
+      "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+      "published": "2026-09-05T15:01:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "TheBlock",
