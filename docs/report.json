@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:40:34.209596+00:00",
+  "generated_at": "2026-09-05T04:09:47.842749+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -52,11 +52,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": 0.0715,
-      "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 8,
+      "article_count": 24,
+      "avg_compound": 0.0197,
+      "overall": "NEUTRAL",
+      "bullish": 11,
+      "bearish": 9,
       "neutral": 4,
       "top_articles": [
         {
@@ -418,6 +418,17 @@
       "confidence": 0.3818
     },
     {
+      "source": "Decrypt",
+      "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
+      "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok\u2019s parent company spends heavily on AI chips, models, and overseas data centers.",
+      "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
+      "published": "2026-09-04T21:46:03+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
+    },
+    {
       "source": "CoinDesk",
       "title": "From warning to listing: UK\u2019s largest retail investment platform opens access to crypto ETNs",
       "summary": "",
@@ -460,6 +471,17 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
+      "summary": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today\u2019s encryption and digital signatures.",
+      "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
+      "published": "2026-09-04T21:16:04+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -559,17 +581,6 @@
       "compound": -0.0191,
       "label": "NEUTRAL",
       "confidence": 0.0191
-    },
-    {
-      "source": "Decrypt",
-      "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-      "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
-      "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-      "published": "2026-09-03T22:16:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
     },
     {
       "source": "TheBlock",
