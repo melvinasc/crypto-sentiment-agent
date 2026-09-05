@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:26:13.251540+00:00",
+  "generated_at": "2026-09-05T15:00:52.684297+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -66,11 +66,11 @@
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": 0.0197,
+      "avg_compound": 0.0065,
       "overall": "NEUTRAL",
       "bullish": 11,
-      "bearish": 9,
-      "neutral": 4,
+      "bearish": 10,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -299,6 +299,17 @@
       "confidence": 0.7351
     },
     {
+      "source": "Decrypt",
+      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
+      "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+      "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+      "published": "2026-09-05T13:01:03+00:00",
+      "coins": [],
+      "compound": -0.6707,
+      "label": "BEARISH",
+      "confidence": 0.6707
+    },
+    {
       "source": "TheBlock",
       "title": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
       "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
@@ -308,17 +319,6 @@
       "compound": 0.6486,
       "label": "BULLISH",
       "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
-      "title": "AMC CEO Calls Robinhood Stock Tokens 'Contemptible' and 'Vile'",
-      "summary": "Adam Aron says AMC Entertainment has no connection to the tokens and is putting outside securities counsel on the case.",
-      "url": "https://decrypt.co/377378/amc-ceo-calls-robinhood-stock-tokens-contemptible-and-vile",
-      "published": "2026-09-04T09:24:56+00:00",
-      "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
     },
     {
       "source": "Decrypt",
@@ -487,6 +487,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "LeBron James teases Polymarket partnership in new social media video",
+      "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
+      "url": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
+      "published": "2026-09-05T14:01:40+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
       "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
       "summary": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
       "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
@@ -495,17 +506,6 @@
       "compound": 0.2263,
       "label": "BULLISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "TheBlock",
-      "title": "Stablecoin payments infrastructure startup Diameter Pay raises $10 million",
-      "summary": "Diameter Pay has raised $10 million in a Series A funding round co-led by CMT Digital and Lightspeed Faction.",
-      "url": "https://www.theblock.co/news/deals/2026-09-03-diameter-pay-funding-stablecoin-payments-infrastructure-413454",
-      "published": "2026-09-03T16:00:03+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
