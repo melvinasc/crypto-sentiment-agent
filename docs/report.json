@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:45:16.697412+00:00",
+  "generated_at": "2026-09-06T15:21:23.271782+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -89,12 +89,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0108,
+      "article_count": 22,
+      "avg_compound": -0.0105,
       "overall": "NEUTRAL",
       "bullish": 10,
       "bearish": 10,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -335,6 +335,17 @@
       "confidence": 0.6707
     },
     {
+      "source": "Decrypt",
+      "title": "Stablecoins Won't Scale Without Banks",
+      "summary": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+      "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+      "published": "2026-09-06T15:01:03+00:00",
+      "coins": [],
+      "compound": 0.6486,
+      "label": "BULLISH",
+      "confidence": 0.6486
+    },
+    {
       "source": "TheBlock",
       "title": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
       "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
@@ -399,17 +410,6 @@
       "compound": 0.4767,
       "label": "BULLISH",
       "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
-      "title": "BitMEX Co-Founder Ben Delo Gives Farage's Reform UK Another \u00a34 Million",
-      "summary": "Two April payments supplied three-quarters of the party's donations for the quarter, where the next largest single gift was \u00a3180,000.",
-      "url": "https://decrypt.co/377411/bitmex-co-founder-ben-delo-gives-farages-reform-uk-another-4-million",
-      "published": "2026-09-04T15:10:00+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -531,6 +531,17 @@
       "compound": 0.2263,
       "label": "BULLISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+      "summary": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+      "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+      "published": "2026-09-06T13:01:04+00:00",
+      "coins": [],
+      "compound": 0.1655,
+      "label": "BULLISH",
+      "confidence": 0.1655
     },
     {
       "source": "TheBlock",
