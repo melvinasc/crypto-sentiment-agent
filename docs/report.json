@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-06T15:21:23.271782+00:00",
+  "generated_at": "2026-09-06T20:18:12.014949+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.5099,
+      "article_count": 3,
+      "avg_compound": 0.4739,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,6 +22,19 @@
           "compound": 0.6586,
           "label": "BULLISH",
           "confidence": 0.6586
+        },
+        {
+          "source": "Decrypt",
+          "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
+          "summary": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+          "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+          "published": "2026-09-06T16:01:03+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         },
         {
           "source": "TheBlock",
@@ -89,10 +102,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0105,
-      "overall": "NEUTRAL",
-      "bullish": 10,
+      "article_count": 20,
+      "avg_compound": -0.0612,
+      "overall": "BEARISH",
+      "bullish": 8,
       "bearish": 10,
       "neutral": 2,
       "top_articles": [
@@ -313,17 +326,6 @@
       "confidence": 0.8126
     },
     {
-      "source": "TheBlock",
-      "title": "Revolut takes \u2018important\u2019 step toward becoming a US bank with conditional OCC approval",
-      "summary": "Revolut says it has received preliminary approval from a key U.S. banking regulator as it seeks to become a bank in the country.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-03-revolut-takes-important-step-toward-becoming-a-us-bank-with-conditional-occ-approval-413474",
-      "published": "2026-09-03T18:23:44+00:00",
-      "coins": [],
-      "compound": 0.7351,
-      "label": "BULLISH",
-      "confidence": 0.7351
-    },
-    {
       "source": "Decrypt",
       "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
       "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
@@ -368,15 +370,26 @@
       "confidence": 0.5771
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Agents Hack German Website to Share Rule-Breaking Tactics: Report",
-      "summary": "The activity began in May and remained undisclosed until Friday, a day after OpenAI launched Astra and U.S. lawmakers proposed restrictions on advanced AI.",
-      "url": "https://decrypt.co/377412/openai-agents-hack-german-website",
-      "published": "2026-09-04T15:36:04+00:00",
+      "source": "CoinDesk",
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "published": "2026-09-06T16:00:00+00:00",
       "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
+      "compound": -0.5719,
+      "label": "BEARISH",
       "confidence": 0.5719
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "published": "2026-09-06T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
     },
     {
       "source": "TheBlock",
@@ -399,6 +412,17 @@
       "compound": 0.5267,
       "label": "BULLISH",
       "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
+      "summary": "The shutdown comes after attempts to commercialize, license or find a buyer for its technology failed to produce a sustainable business.",
+      "url": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
+      "published": "2026-09-06T18:03:26+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -489,11 +513,11 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "South Korea targets February 2027 rollout for full tokenized securities market",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/04/south-korea-targets-february-2027-rollout-for-full-tokenized-securities-market",
-      "published": "2026-09-04T09:41:31+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
+      "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+      "url": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+      "published": "2026-09-06T17:01:04+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
