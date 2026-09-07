@@ -1,7 +1,44 @@
 {
-  "generated_at": "2026-09-06T20:18:12.014949+00:00",
+  "generated_at": "2026-09-07T04:17:05.905920+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.4871,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+          "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
+          "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+          "published": "2026-09-07T02:28:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7964,
+          "label": "BULLISH",
+          "confidence": 0.7964
+        },
+        {
+          "source": "Decrypt",
+          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+          "published": "2026-09-05T16:06:41+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 3,
       "avg_compound": 0.4739,
@@ -52,26 +89,26 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "SOL": {
       "article_count": 1,
-      "avg_compound": 0.1779,
+      "avg_compound": 0.34,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-          "published": "2026-09-05T16:06:41+00:00",
+          "source": "TheBlock",
+          "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+          "summary": "The platform integrated with Raydium's LaunchLab on Saturday as RAY also saw gains of more than 40%.",
+          "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+          "published": "2026-09-06T20:51:40+00:00",
           "coins": [
-            "ETH"
+            "SOL"
           ],
-          "compound": 0.1779,
+          "compound": 0.34,
           "label": "BULLISH",
-          "confidence": 0.1779
+          "confidence": 0.34
         }
       ],
       "no_news": false
@@ -103,8 +140,8 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": -0.0612,
-      "overall": "BEARISH",
+      "avg_compound": -0.0473,
+      "overall": "NEUTRAL",
       "bullish": 8,
       "bearish": 10,
       "neutral": 2,
@@ -242,16 +279,6 @@
       "no_news": true
     },
     "SHIB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -401,17 +428,6 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase seeks SEC greenlight to list equity perpetuals",
-      "summary": "Coinbase, the largest U.S. based crypto exchange, is seeking to list equity products as perpetual gain momentum.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
-      "published": "2026-09-03T20:46:52+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
     },
     {
       "source": "TheBlock",
@@ -577,17 +593,6 @@
       "compound": -0.1531,
       "label": "BEARISH",
       "confidence": 0.1531
-    },
-    {
-      "source": "TheBlock",
-      "title": "AMC stock jumps 21% overnight as CEO slams Robinhood over \u2018outrageous\u2019 tokenized shares",
-      "summary": "OpenAI had previously made a similar criticism of Robinhood\u2019s tokenized equities, saying it did not approve the transfer of its shares.",
-      "url": "https://www.theblock.co/news/business/2026-09-04-amc-ceo-slams-robinhood-413513",
-      "published": "2026-09-04T07:59:34+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
     },
     {
       "source": "Decrypt",
