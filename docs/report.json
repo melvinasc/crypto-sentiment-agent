@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:15:19.774117+00:00",
+  "generated_at": "2026-09-07T21:25:25.045654+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -51,10 +51,10 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3816,
+      "article_count": 1,
+      "avg_compound": 0.4019,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -70,29 +70,16 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple expands college sports push with XRP partnership at Florida",
-          "summary": "The XRP logo will be featured on the field at Ben Hill Griffin Stadium, as well as across Florida Athletics\u2019 digital properties and events.",
-          "url": "https://www.theblock.co/news/business/2026-09-04-ripple-college-sports-push-xrp-partnership-florida-gators-413576",
-          "published": "2026-09-04T15:37:17+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.3162,
+      "article_count": 4,
+      "avg_compound": 0.2817,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -110,79 +97,68 @@
         },
         {
           "source": "Decrypt",
-          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-          "published": "2026-09-05T16:06:41+00:00",
+          "title": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
+          "summary": "The team wants to move ONE to Ethereum and enter the AI-video business, urging users to exit smart contracts before September 10.",
+          "url": "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
+          "published": "2026-09-07T16:16:48+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.1779,
+          "compound": 0.3818,
           "label": "BULLISH",
-          "confidence": 0.1779
+          "confidence": 0.3818
         },
         {
           "source": "CoinDesk",
-          "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+          "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
-          "published": "2026-09-07T08:02:18+00:00",
+          "url": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+          "published": "2026-09-07T13:54:07+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
+          "compound": -0.0772,
+          "label": "BEARISH",
+          "confidence": 0.0772
         }
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.1801,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 13,
-      "neutral": 4,
+    "LINK": {
+      "article_count": 2,
+      "avg_compound": 0.2039,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Coldcard exploiter moves 45% of funds stolen from \u2018Wave 3\u2019 attacks, Galaxy says",
-          "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
-          "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
-          "published": "2026-09-07T07:30:32+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
+          "summary": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
+          "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+          "published": "2026-09-07T15:42:34+00:00",
           "coins": [
-            "BTC"
+            "BTC",
+            "LINK"
           ],
-          "compound": -0.891,
-          "label": "BEARISH",
-          "confidence": 0.891
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
-          "published": "2026-09-04T17:17:53+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.875,
+          "compound": 0.5105,
           "label": "BULLISH",
-          "confidence": 0.875
+          "confidence": 0.5105
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-          "published": "2026-09-04T20:30:14+00:00",
+          "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a></p>\n<p>The new deal is designed to enhance banking, payments and digital asset markets, and comes after SoFi last year debuted bitcoin trading. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
+          "published": "2026-09-03T18:49:39+00:00",
           "coins": [
+            "LINK",
             "BTC"
           ],
-          "compound": -0.8689,
+          "compound": -0.1027,
           "label": "BEARISH",
-          "confidence": 0.8689
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -224,27 +200,52 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
+    "BTC": {
+      "article_count": 27,
+      "avg_compound": -0.129,
       "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 10,
+      "bearish": 14,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a></p>\n<p>The new deal is designed to enhance banking, payments and digital asset markets, and comes after SoFi last year debuted bitcoin trading. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
-          "published": "2026-09-03T18:49:39+00:00",
+          "source": "TheBlock",
+          "title": "Coldcard exploiter moves 45% of funds stolen from \u2018Wave 3\u2019 attacks, Galaxy says",
+          "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
+          "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+          "published": "2026-09-07T07:30:32+00:00",
           "coins": [
-            "LINK",
             "BTC"
           ],
-          "compound": -0.1027,
+          "compound": -0.891,
           "label": "BEARISH",
-          "confidence": 0.1027
+          "confidence": 0.891
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+          "published": "2026-09-04T17:17:53+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.875,
+          "label": "BULLISH",
+          "confidence": 0.875
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
+          "published": "2026-09-04T20:30:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
         }
       ],
       "no_news": false
@@ -384,36 +385,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-      "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
-      "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
-      "published": "2026-09-05T13:01:03+00:00",
+      "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP\u2019s Biggest Losers",
+      "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
+      "url": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
+      "published": "2026-09-07T16:26:00+00:00",
       "coins": [],
-      "compound": -0.6707,
+      "compound": -0.6908,
       "label": "BEARISH",
-      "confidence": 0.6707
+      "confidence": 0.6908
     },
     {
       "source": "Decrypt",
-      "title": "Stablecoins Won't Scale Without Banks",
-      "summary": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
-      "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
-      "published": "2026-09-06T15:01:03+00:00",
+      "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+      "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models\u2019 reasoning.",
+      "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
+      "published": "2026-09-07T21:16:03+00:00",
       "coins": [],
-      "compound": 0.6486,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
-      "summary": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
-      "url": "https://decrypt.co/377461/send-your-lawyers-robinhood-not-backing-down-amc",
-      "published": "2026-09-04T18:36:41+00:00",
-      "coins": [],
-      "compound": -0.5771,
-      "label": "BEARISH",
-      "confidence": 0.5771
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -427,15 +417,15 @@
       "confidence": 0.5423
     },
     {
-      "source": "CoinDesk",
-      "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
-      "published": "2026-09-07T05:52:44+00:00",
+      "source": "Decrypt",
+      "title": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
+      "summary": "Keys are going into rented boxes alongside cash, watches and passports, Ireland\u2019s Criminal Assets Bureau says.",
+      "url": "https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
+      "published": "2026-09-07T12:43:50+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
     },
     {
       "source": "TheBlock",
@@ -461,14 +451,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
-      "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok\u2019s parent company spends heavily on AI chips, models, and overseas data centers.",
-      "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
-      "published": "2026-09-04T21:46:03+00:00",
+      "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+      "summary": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
+      "url": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
+      "published": "2026-09-07T19:47:27+00:00",
       "coins": [],
-      "compound": -0.3612,
+      "compound": -0.357,
       "label": "BEARISH",
-      "confidence": 0.3612
+      "confidence": 0.357
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+      "summary": "Ita\u00fa, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
+      "url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
+      "published": "2026-09-07T20:31:03+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+      "published": "2026-09-07T15:28:43+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -493,17 +505,6 @@
       "confidence": 0.2755
     },
     {
-      "source": "Decrypt",
-      "title": "G7 Warns Quantum Threat Demands Action as Crypto Industry Weighs Fixes",
-      "summary": "The group is urging organizations to adopt post-quantum security before powerful computers can compromise today\u2019s encryption and digital signatures.",
-      "url": "https://decrypt.co/377486/g7-warns-quantum-threat-crypto-fixes",
-      "published": "2026-09-04T21:16:04+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "TheBlock",
       "title": "LeBron James teases Polymarket partnership in new social media video",
       "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
@@ -515,48 +516,26 @@
       "confidence": 0.2732
     },
     {
-      "source": "Decrypt",
-      "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
-      "summary": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
-      "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
-      "published": "2026-09-06T13:01:04+00:00",
+      "source": "CoinDesk",
+      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+      "published": "2026-09-07T14:12:15+00:00",
       "coins": [],
-      "compound": 0.1655,
+      "compound": 0.0772,
       "label": "BULLISH",
-      "confidence": 0.1655
+      "confidence": 0.0772
     },
     {
-      "source": "TheBlock",
-      "title": "Trezor says ShipMonk breach affected another 67,000 customers",
-      "summary": "The newly identified records date from 2019 to 2021 and include names, emails, phone numbers, shipping addresses, and order numbers.",
-      "url": "https://www.theblock.co/news/business/2026-09-04-trezor-says-shipmonk-breach-affected-another-67000-customers-413540",
-      "published": "2026-09-04T12:03:16+00:00",
+      "source": "CoinDesk",
+      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+      "published": "2026-09-07T15:44:30+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polymarket Launches Crypto Perpetual Futures With Up to 20x Leverage",
-      "summary": "The prediction market platform's new Perps product scaled from 10 markets to 67 on its first day\u2014though the 20x leverage ceiling only applies to some of them, and none of it reaches U.S. traders.",
-      "url": "https://decrypt.co/377483/polymarket-crypto-perpetual-futures",
-      "published": "2026-09-04T20:31:03+00:00",
-      "coins": [],
-      "compound": -0.0382,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0382
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood\u2014And It's Working (Sort Of)",
-      "summary": "A meme coin called BONER cornered half of Hims &amp; Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-      "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-      "published": "2026-09-04T19:16:03+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -581,11 +560,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
-      "summary": "The update fixes a high-severity flaw in Chrome\u2019s V8 engine, but Google has not revealed who is using it or whom they targeted.",
-      "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
-      "published": "2026-09-05T15:01:04+00:00",
+      "source": "TheBlock",
+      "title": "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
+      "summary": "DBS and Citi completed the first weekend cross-border USD settlement between Singapore and the U.S. using tokenized deposits.",
+      "url": "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689",
+      "published": "2026-09-07T13:00:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
