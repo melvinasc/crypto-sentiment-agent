@@ -1,65 +1,63 @@
 {
-  "generated_at": "2026-09-07T04:17:05.905920+00:00",
+  "generated_at": "2026-09-07T12:15:19.774117+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.4871,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.5267,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-          "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
-          "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-          "published": "2026-09-07T02:28:47+00:00",
+          "title": "South Korea\u2019s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
+          "summary": "South Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
+          "url": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
+          "published": "2026-09-07T06:24:46+00:00",
           "coins": [
-            "ETH"
+            "AVAX"
           ],
-          "compound": 0.7964,
+          "compound": 0.5267,
           "label": "BULLISH",
-          "confidence": 0.7964
-        },
-        {
-          "source": "Decrypt",
-          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
-          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-          "published": "2026-09-05T16:06:41+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.4739,
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.4939,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
+          "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
-          "published": "2026-09-05T05:30:45+00:00",
+          "url": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
+          "published": "2026-09-07T10:35:23+00:00",
           "coins": [
-            "XRP"
+            "USDT"
           ],
-          "compound": 0.6586,
+          "compound": 0.4939,
           "label": "BULLISH",
-          "confidence": 0.6586
-        },
+          "confidence": 0.4939
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3816,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "Decrypt",
           "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
@@ -89,13 +87,113 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.3162,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+          "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
+          "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+          "published": "2026-09-07T02:28:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.7964,
+          "label": "BULLISH",
+          "confidence": 0.7964
+        },
+        {
+          "source": "Decrypt",
+          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+          "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+          "published": "2026-09-05T16:06:41+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+          "published": "2026-09-07T08:02:18+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": -0.1801,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 13,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Coldcard exploiter moves 45% of funds stolen from \u2018Wave 3\u2019 attacks, Galaxy says",
+          "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
+          "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+          "published": "2026-09-07T07:30:32+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.891,
+          "label": "BEARISH",
+          "confidence": 0.891
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
+          "published": "2026-09-04T17:17:53+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.875,
+          "label": "BULLISH",
+          "confidence": 0.875
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
+          "published": "2026-09-04T20:30:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8689,
+          "label": "BEARISH",
+          "confidence": 0.8689
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.34,
+      "article_count": 2,
+      "avg_compound": 0.17,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -109,6 +207,19 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana to triple transaction size as apps get room for more complex trades",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
+          "published": "2026-09-07T12:08:11+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -138,67 +249,7 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0473,
-      "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 10,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
-          "published": "2026-09-04T17:17:53+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.875,
-          "label": "BULLISH",
-          "confidence": 0.875
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-          "published": "2026-09-04T20:30:14+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8689,
-          "label": "BEARISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a></p>\n<p>Bitcoin is trading with gold \u2014 something it does when investors lose confidence in the dollar. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars\" rel=\"nofollow\">Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-gold-correlation-soars",
-          "published": "2026-09-03T21:31:34+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8658,
-          "label": "BEARISH",
-          "confidence": 0.8658
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -317,30 +368,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Andreessen Horowitz-backed OpenReserve secures preliminary OCC approval for national bank charter",
-      "summary": "OpenReserve Holdings received preliminary OCC approval for a national bank focused on onchain settlement, following a $25 million seed round.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-andreessen-horowitz-backed-openreserve-secures-preliminary-occ-approval-for-national-bank-charter-413528",
-      "published": "2026-09-04T10:18:40+00:00",
-      "coins": [],
-      "compound": 0.8779,
-      "label": "BULLISH",
-      "confidence": 0.8779
-    },
     {
       "source": "TheBlock",
       "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
@@ -375,17 +405,6 @@
       "confidence": 0.6486
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea to start tokenizing \u2018all types\u2019 of securities in three stages from 2027",
-      "summary": "South Korea ultimately aims to allow participants to settle tokenized securities onchain with stablecoins, as part of a three-stage plan.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-south-korea-to-start-tokenizing-all-types-of-securities-in-three-stages-from-2027-413523",
-      "published": "2026-09-04T09:46:06+00:00",
-      "coins": [],
-      "compound": 0.6486,
-      "label": "BULLISH",
-      "confidence": 0.6486
-    },
-    {
       "source": "Decrypt",
       "title": "'Send Your Lawyers': Robinhood Isn't Backing Down From AMC Over Stock Tokens",
       "summary": "Lawyers question AMC\u2019s grounds for a securities-law challenge, but say the tokens\u2019 branding and marketing could leave room for a dispute.",
@@ -395,28 +414,6 @@
       "compound": -0.5771,
       "label": "BEARISH",
       "confidence": 0.5771
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
-      "published": "2026-09-06T16:00:00+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-      "published": "2026-09-06T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
     },
     {
       "source": "TheBlock",
@@ -430,6 +427,17 @@
       "confidence": 0.5423
     },
     {
+      "source": "CoinDesk",
+      "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
+      "published": "2026-09-07T05:52:44+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
       "source": "TheBlock",
       "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
       "summary": "The shutdown comes after attempts to commercialize, license or find a buyer for its technology failed to produce a sustainable business.",
@@ -441,47 +449,14 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "A16z-Backed OpenReserve Gets Approval for Full-Service National Bank",
-      "summary": "The a16z-backed startup chose a full national charter over the trust-bank route most crypto firms have taken, clearing a path toward insured deposits and conventional lending alongside stablecoin issuance.",
-      "url": "https://decrypt.co/377458/openreserve-occ-approval-full-service-national-bank",
-      "published": "2026-09-04T17:19:55+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "CoinDesk",
-      "title": "Southeast Asia\u2019s crypto funding rebounds to $680 million as investors focus on mature firms",
+      "title": "UK regulator weighs easing financial prediction market ban: Times",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
-      "published": "2026-09-05T05:00:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times",
+      "published": "2026-09-07T10:42:58+00:00",
       "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Sheriff\u2019s association shifts opposition stance to Clarity Act to 'neutral'",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/04/u-s-sheriff-s-association-shifts-opposition-stance-to-clarity-act-to-neutral",
-      "published": "2026-09-04T14:12:34+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. added stronger than expected 162,000 jobs in August as labor market bounced back",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-      "published": "2026-09-04T12:31:47+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
+      "compound": -0.3818,
+      "label": "BEARISH",
       "confidence": 0.3818
     },
     {
@@ -496,39 +471,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "From warning to listing: UK\u2019s largest retail investment platform opens access to crypto ETNs",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/04/from-warning-to-listing-uk-s-largest-wealth-platform-opens-access-to-crypto-etns",
-      "published": "2026-09-04T14:23:11+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash jumps 20% to landmark $1,000 level as short sellers lose $34 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/04/zcash-jumps-20-to-landmark-usd1-000-level-as-short-sellers-lose-usd34-million",
-      "published": "2026-09-04T10:40:14+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-      "published": "2026-09-05T16:43:13+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
       "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
@@ -538,6 +480,17 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
+      "title": "No, Friday's jobs report hasn't materially boosted Fed rate hike odds",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds",
+      "published": "2026-09-07T08:38:17+00:00",
+      "coins": [],
+      "compound": -0.2755,
+      "label": "BEARISH",
+      "confidence": 0.2755
     },
     {
       "source": "Decrypt",
@@ -560,17 +513,6 @@
       "compound": 0.2732,
       "label": "BULLISH",
       "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
-      "summary": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
-      "published": "2026-09-04T11:21:09+00:00",
-      "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
@@ -618,14 +560,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood isn't backing down after AMC CEO demands halt to stock tokens",
+      "title": "DBS and Citi complete weekend USD payment via Swift\u2019s Digital Ledger using tokenized deposits",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/04/amc-ceo-tells-robinhood-to-stop-issuing-stock-token-as-industry-executives-weigh-in",
-      "published": "2026-09-04T14:56:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
+      "published": "2026-09-07T12:05:32+00:00",
       "coins": [],
-      "compound": -0.0191,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0191
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. inflation, Coinbase\u2019s Deribit switch: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+      "published": "2026-09-07T08:07:05+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
