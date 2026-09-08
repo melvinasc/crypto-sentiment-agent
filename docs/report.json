@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T16:30:24.539555+00:00",
+  "generated_at": "2026-09-08T21:01:44.804933+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.6249,
+      "article_count": 2,
+      "avg_compound": 0.4136,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -23,6 +23,19 @@
           "compound": 0.6249,
           "label": "BULLISH",
           "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
+          "summary": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
+          "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
+          "published": "2026-09-08T18:33:27+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -117,26 +130,13 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0834,
+      "article_count": 22,
+      "avg_compound": -0.0881,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 14,
+      "bullish": 6,
+      "bearish": 13,
       "neutral": 3,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a></p>\n<p>Bitcoin dipped on news that the Federal Reserve may hike interest rates this month. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report\" rel=\"nofollow\">Bitcoin Dips Below $80,000 on Strong US Jobs Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-dips-on-strong-jobs-report",
-          "published": "2026-09-04T17:17:53+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.875,
-          "label": "BULLISH",
-          "confidence": 0.875
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
@@ -151,17 +151,30 @@
           "confidence": 0.8689
         },
         {
-          "source": "TheBlock",
-          "title": "Liquid Network attacker returns 3,400 BTC after bug fix, retains nearly 600 BTC",
-          "summary": "The Liquid Network attacker returned 3,400 BTC after Blockstream said its bridge nodes had been patched, leaving about 598.5 BTC behind.",
-          "url": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
-          "published": "2026-09-07T10:20:16+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Senator-Lummis-at-Bitcoin-2025.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act\" rel=\"nofollow\">Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed</a></p>\n<p>Pro-crypto senator Cynthia Lummis has said that the Clarity Act can still get through, but it'll need \"further compromise\" from Democrats. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act\" rel=\"nofollow\">Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
+          "published": "2026-09-08T20:56:30+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8126,
-          "label": "BEARISH",
-          "confidence": 0.8126
+          "compound": 0.8248,
+          "label": "BULLISH",
+          "confidence": 0.8248
+        },
+        {
+          "source": "Decrypt",
+          "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
+          "summary": "The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.",
+          "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
+          "published": "2026-09-08T17:46:05+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7184,
+          "label": "BULLISH",
+          "confidence": 0.7184
         }
       ],
       "no_news": false
@@ -331,6 +344,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
+      "summary": "Malone Lam pleaded guilty for his role in leading an international \"social engineering\" scheme, stealing  $245 million worth in cryptocurrency.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911",
+      "published": "2026-09-08T19:17:17+00:00",
+      "coins": [],
+      "compound": -0.8126,
+      "label": "BEARISH",
+      "confidence": 0.8126
+    },
+    {
+      "source": "TheBlock",
       "title": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
       "summary": "Visa\u2019s stablecoin settlement volume tops a $20 billion annualized run rate as payment volume grows nearly 200% year over year.",
       "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
@@ -339,17 +363,6 @@
       "compound": 0.765,
       "label": "BULLISH",
       "confidence": 0.765
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP\u2019s Biggest Losers",
-      "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
-      "url": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
-      "published": "2026-09-07T16:26:00+00:00",
-      "coins": [],
-      "compound": -0.6908,
-      "label": "BEARISH",
-      "confidence": 0.6908
     },
     {
       "source": "Decrypt",
@@ -374,6 +387,17 @@
       "confidence": 0.5719
     },
     {
+      "source": "Decrypt",
+      "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
+      "summary": "The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.",
+      "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
+      "published": "2026-09-08T17:10:51+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
       "source": "TheBlock",
       "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
       "summary": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
@@ -396,15 +420,26 @@
       "confidence": 0.4939
     },
     {
-      "source": "Decrypt",
-      "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
-      "summary": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
-      "url": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
-      "published": "2026-09-07T19:47:27+00:00",
+      "source": "TheBlock",
+      "title": "Hyperliquid open interest climbs to $14.3 billion as HYPE hits all-time high",
+      "summary": "On Oct. 10, 2025, Hyperliquid\u2019s OI fell by around 56% in a single day, from $14.7 billion to just $6.5 billion.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-hyperliquid-open-interest-climbs-14-3-billion-hype-hits-all-time-high-413855",
+      "published": "2026-09-08T20:08:23+00:00",
       "coins": [],
-      "compound": -0.357,
-      "label": "BEARISH",
-      "confidence": 0.357
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
+      "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+      "summary": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
+      "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+      "published": "2026-09-08T18:16:04+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -577,17 +612,6 @@
       "summary": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
       "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
       "published": "2026-09-08T15:25:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
-      "summary": "DBS and Citi completed the first weekend cross-border USD settlement between Singapore and the U.S. using tokenized deposits.",
-      "url": "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689",
-      "published": "2026-09-07T13:00:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
