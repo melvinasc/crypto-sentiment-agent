@@ -1,61 +1,12 @@
 {
-  "generated_at": "2026-09-08T11:04:39.850830+00:00",
+  "generated_at": "2026-09-08T16:30:24.539555+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.5267,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "South Korea\u2019s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
-          "summary": "South Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
-          "url": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
-          "published": "2026-09-07T06:24:46+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.5105,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
-          "summary": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
-          "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-          "published": "2026-09-07T15:42:34+00:00",
-          "coins": [
-            "BTC",
-            "LINK"
-          ],
-          "compound": 0.5105,
-          "label": "BULLISH",
-          "confidence": 0.5105
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.4825,
+      "article_count": 1,
+      "avg_compound": 0.6249,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -72,15 +23,52 @@
           "compound": 0.6249,
           "label": "BULLISH",
           "confidence": 0.6249
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": 0.3322,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitmine nears 5% of Ethereum supply after buying 28,086 ETH",
+          "summary": "Bitmine bought 28,086 ETH, boosting its treasury to 5.93 million tokens worth $14.8 billion and representing 4.9% of Ethereum\u2019s total supply.",
+          "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
+          "published": "2026-09-08T13:51:54+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
+          "summary": "The company says it holds roughly 4.9% of Ethereum\u2019s supply, with most of its tokens staked to earn rewards.",
+          "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
+          "published": "2026-09-08T15:04:44+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4939,
+          "label": "BULLISH",
+          "confidence": 0.4939
         },
         {
           "source": "TheBlock",
-          "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
-          "summary": "The platform integrated with Raydium's LaunchLab on Saturday as RAY also saw gains of more than 40%.",
-          "url": "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
-          "published": "2026-09-06T20:51:40+00:00",
+          "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
+          "summary": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegot\u00e1.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+          "published": "2026-09-08T04:17:21+00:00",
           "coins": [
-            "SOL"
+            "ETH"
           ],
           "compound": 0.34,
           "label": "BULLISH",
@@ -128,77 +116,14 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2934,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-          "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
-          "url": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-          "published": "2026-09-07T02:28:47+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.7964,
-          "label": "BULLISH",
-          "confidence": 0.7964
-        },
-        {
-          "source": "Decrypt",
-          "title": "Harmony Cites AI Threats in Proposed Blockchain Shutdown",
-          "summary": "The team wants to move ONE to Ethereum and enter the AI-video business, urging users to exit smart contracts before September 10.",
-          "url": "https://decrypt.co/377579/harmony-ai-threats-blockchain-shutdown",
-          "published": "2026-09-07T16:16:48+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
-          "summary": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegot\u00e1.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
-          "published": "2026-09-08T04:17:21+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.1227,
+      "article_count": 24,
+      "avg_compound": -0.0834,
       "overall": "BEARISH",
-      "bullish": 9,
+      "bullish": 7,
       "bearish": 14,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Coldcard exploiter moves 45% of funds stolen from \u2018Wave 3\u2019 attacks, Galaxy says",
-          "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
-          "url": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
-          "published": "2026-09-07T07:30:32+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.891,
-          "label": "BEARISH",
-          "confidence": 0.891
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Dips Below $80,000 on Strong US Jobs Report",
@@ -224,11 +149,34 @@
           "compound": -0.8689,
           "label": "BEARISH",
           "confidence": 0.8689
+        },
+        {
+          "source": "TheBlock",
+          "title": "Liquid Network attacker returns 3,400 BTC after bug fix, retains nearly 600 BTC",
+          "summary": "The Liquid Network attacker returned 3,400 BTC after Blockstream said its bridge nodes had been patched, leaving about 598.5 BTC behind.",
+          "url": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
+          "published": "2026-09-07T10:20:16+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8126,
+          "label": "BEARISH",
+          "confidence": 0.8126
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -259,6 +207,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -372,6 +330,17 @@
       "confidence": 0.8625
     },
     {
+      "source": "TheBlock",
+      "title": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
+      "summary": "Visa\u2019s stablecoin settlement volume tops a $20 billion annualized run rate as payment volume grows nearly 200% year over year.",
+      "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
+      "published": "2026-09-08T11:09:21+00:00",
+      "coins": [],
+      "compound": 0.765,
+      "label": "BULLISH",
+      "confidence": 0.765
+    },
+    {
       "source": "Decrypt",
       "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP\u2019s Biggest Losers",
       "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
@@ -394,17 +363,6 @@
       "confidence": 0.6124
     },
     {
-      "source": "CoinDesk",
-      "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
-      "published": "2026-09-08T06:23:53+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
       "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models\u2019 reasoning.",
@@ -416,26 +374,15 @@
       "confidence": 0.5719
     },
     {
-      "source": "CoinDesk",
-      "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
-      "published": "2026-09-08T07:00:00+00:00",
+      "source": "TheBlock",
+      "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
+      "summary": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
+      "url": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
+      "published": "2026-09-08T15:54:17+00:00",
       "coins": [],
-      "compound": 0.5267,
+      "compound": 0.5106,
       "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "Decrypt",
-      "title": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
-      "summary": "Keys are going into rented boxes alongside cash, watches and passports, Ireland\u2019s Criminal Assets Bureau says.",
-      "url": "https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
-      "published": "2026-09-07T12:43:50+00:00",
-      "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
+      "confidence": 0.5106
     },
     {
       "source": "CoinDesk",
@@ -460,6 +407,17 @@
       "confidence": 0.357
     },
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
+      "summary": "Is it a warning sign for a local top? Or is the onchain party just getting started?",
+      "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
+      "published": "2026-09-08T13:06:33+00:00",
+      "coins": [],
+      "compound": 0.3527,
+      "label": "BULLISH",
+      "confidence": 0.3527
+    },
+    {
       "source": "TheBlock",
       "title": "Metaplanet slides 17% this week as CEO\u2019s public note fails to ease investor concerns",
       "summary": "The drop comes amid controversies surrounding Metaplanet's expanded Series 10 executive option pool and CEO Simon Gerovich's ties to MMXX Ventures.",
@@ -469,6 +427,17 @@
       "compound": -0.34,
       "label": "BEARISH",
       "confidence": 0.34
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+      "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
+      "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+      "published": "2026-09-08T11:33:50+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -482,11 +451,11 @@
       "confidence": 0.3182
     },
     {
-      "source": "CoinDesk",
-      "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
-      "published": "2026-09-07T15:28:43+00:00",
+      "source": "Decrypt",
+      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
+      "summary": "Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
+      "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
+      "published": "2026-09-08T15:28:43+00:00",
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
@@ -505,25 +474,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
-      "published": "2026-09-07T23:01:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
+      "published": "2026-09-08T14:40:46+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
-      "published": "2026-09-07T14:12:15+00:00",
+      "source": "TheBlock",
+      "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
+      "summary": "ZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
+      "published": "2026-09-08T15:05:03+00:00",
       "coins": [],
-      "compound": 0.0772,
+      "compound": 0.0516,
       "label": "BULLISH",
-      "confidence": 0.0772
+      "confidence": 0.0516
     },
     {
       "source": "TheBlock",
@@ -549,6 +518,50 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
+      "published": "2026-09-08T15:23:46+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strive\u2019s SATA nears $1 billion market cap as Strategy\u2019s STRC continues to underperform",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
+      "published": "2026-09-08T14:33:32+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
+      "published": "2026-09-08T14:29:14+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
+      "published": "2026-09-08T11:06:31+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
@@ -559,11 +572,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
-      "published": "2026-09-07T15:44:30+00:00",
+      "source": "Decrypt",
+      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
+      "summary": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
+      "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
+      "published": "2026-09-08T15:25:16+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
