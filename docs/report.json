@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:25:25.045654+00:00",
+  "generated_at": "2026-09-08T04:17:28.502018+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -26,6 +26,31 @@
       ],
       "no_news": false
     },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.5105,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
+          "summary": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
+          "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+          "published": "2026-09-07T15:42:34+00:00",
+          "coins": [
+            "BTC",
+            "LINK"
+          ],
+          "compound": 0.5105,
+          "label": "BULLISH",
+          "confidence": 0.5105
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 1,
       "avg_compound": 0.4939,
@@ -46,30 +71,6 @@
           "compound": 0.4939,
           "label": "BULLISH",
           "confidence": 0.4939
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
-          "summary": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
-          "url": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
-          "published": "2026-09-06T16:01:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -124,45 +125,6 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 2,
-      "avg_compound": 0.2039,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying\u2014Here's Why",
-          "summary": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
-          "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-          "published": "2026-09-07T15:42:34+00:00",
-          "coins": [
-            "BTC",
-            "LINK"
-          ],
-          "compound": 0.5105,
-          "label": "BULLISH",
-          "confidence": 0.5105
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Kraken and SoFi Link Crypto Trading To Banking Rails",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/sofi.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a></p>\n<p>The new deal is designed to enhance banking, payments and digital asset markets, and comes after SoFi last year debuted bitcoin trading. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-sofi-partnership\" rel=\"nofollow\">Kraken and SoFi Link Crypto Trading To Banking Rails</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/kraken-sofi-partnership",
-          "published": "2026-09-03T18:49:39+00:00",
-          "coins": [
-            "LINK",
-            "BTC"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.17,
@@ -202,7 +164,7 @@
     },
     "BTC": {
       "article_count": 27,
-      "avg_compound": -0.129,
+      "avg_compound": -0.1271,
       "overall": "BEARISH",
       "bullish": 10,
       "bearish": 14,
@@ -369,6 +331,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -393,6 +365,17 @@
       "compound": -0.6908,
       "label": "BEARISH",
       "confidence": 0.6908
+    },
+    {
+      "source": "Decrypt",
+      "title": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
+      "summary": "A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
+      "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+      "published": "2026-09-07T21:46:04+00:00",
+      "coins": [],
+      "compound": 0.6124,
+      "label": "BULLISH",
+      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -517,6 +500,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/08/metaplanet-ceo-breaks-silence-but-shareholders-say-the-hard-questions-remain-unanswered",
+      "published": "2026-09-07T23:01:00+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
       "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
@@ -543,17 +537,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
       "published": "2026-09-07T12:05:32+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. inflation, Coinbase\u2019s Deribit switch: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
-      "published": "2026-09-07T08:07:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
