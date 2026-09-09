@@ -1,50 +1,36 @@
 {
-  "generated_at": "2026-09-08T21:01:44.804933+00:00",
+  "generated_at": "2026-09-09T04:23:15.736586+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.4136,
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": 0.7003,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "\u2018The chain is now earnings\u2019: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
-          "summary": "Bernstein sees 31% upside for Robinhood as its new chain tops Solana in fees, generating $33 million over 15 days.",
-          "url": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
-          "published": "2026-09-08T08:50:14+00:00",
+          "title": "First staked ETF tied to Tron hits the US markets on Wednesday",
+          "summary": "The first staked ETF tied to Tron is set to hit the market Wednesday, giving investors a new way to gain exposure to TRX.",
+          "url": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
+          "published": "2026-09-09T04:01:03+00:00",
           "coins": [
-            "SOL",
-            "BNB"
+            "TRX"
           ],
-          "compound": 0.6249,
+          "compound": 0.7003,
           "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "TheBlock",
-          "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
-          "summary": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
-          "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-          "published": "2026-09-08T18:33:27+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.7003
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.3322,
+      "article_count": 4,
+      "avg_compound": 0.3303,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
@@ -75,56 +61,41 @@
           "confidence": 0.4939
         },
         {
-          "source": "TheBlock",
-          "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegot\u00e1 upgrade takes form",
-          "summary": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegot\u00e1.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
-          "published": "2026-09-08T04:17:21+00:00",
+          "source": "CoinDesk",
+          "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
+          "published": "2026-09-08T13:18:24+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.34,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.3125,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "\u2018The chain is now earnings\u2019: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
-          "summary": "Bernstein sees 31% upside for Robinhood as its new chain tops Solana in fees, generating $33 million over 15 days.",
-          "url": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
-          "published": "2026-09-08T08:50:14+00:00",
+          "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
+          "summary": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
+          "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
+          "published": "2026-09-08T18:33:27+00:00",
           "coins": [
-            "SOL",
-            "BNB"
+            "SOL"
           ],
-          "compound": 0.6249,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-          "published": "2026-09-08T10:33:17+00:00",
-          "coins": [
-            "BTC",
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -175,6 +146,31 @@
           "compound": 0.7184,
           "label": "BULLISH",
           "confidence": 0.7184
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
+          "published": "2026-09-08T10:33:17+00:00",
+          "coins": [
+            "BTC",
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -279,16 +275,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -333,17 +319,6 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Polish prosecutors charge fifth suspect in Zondacrypto probe involving around $100 million in estimated losses",
-      "summary": "Polish prosecutors charged Roman \u017b. with two offenses following his arrest on Sept. 5 as part of an investigation into Zondacrypto.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-08-polish-prosecutors-charge-fifth-suspect-in-zondacrypto-probe-involving-around-100-million-in-estimated-losses-413745",
-      "published": "2026-09-08T10:38:15+00:00",
-      "coins": [],
-      "compound": -0.8625,
-      "label": "BEARISH",
-      "confidence": 0.8625
-    },
-    {
-      "source": "TheBlock",
       "title": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
       "summary": "Malone Lam pleaded guilty for his role in leading an international \"social engineering\" scheme, stealing  $245 million worth in cryptocurrency.",
       "url": "https://www.theblock.co/news/regulation/2026-09-08-a-22-year-old-crypto-ringleader-pleads-guilty-to-245-million-racketeering-scheme-413911",
@@ -363,6 +338,17 @@
       "compound": 0.765,
       "label": "BULLISH",
       "confidence": 0.765
+    },
+    {
+      "source": "TheBlock",
+      "title": "Jack Dorsey\u2019s Block joins rush for federal bank charters from OCC",
+      "summary": "Jack Dorsey-founded company Block, Inc., is taking its turn in seeking to become a federally regulated national bank.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-08-jack-dorsey-block-joins-rush-federal-bank-charters-from-occ-413947",
+      "published": "2026-09-08T21:58:33+00:00",
+      "coins": [],
+      "compound": -0.7003,
+      "label": "BEARISH",
+      "confidence": 0.7003
     },
     {
       "source": "Decrypt",
@@ -442,6 +428,17 @@
       "confidence": 0.4019
     },
     {
+      "source": "TheBlock",
+      "title": "StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets",
+      "summary": "The report says the launch of Robinhood Chain and the company's prediction markets business provide new growth drivers.",
+      "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
+      "published": "2026-09-09T02:18:25+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
       "summary": "Is it a warning sign for a local top? Or is the onchain party just getting started?",
@@ -453,17 +450,6 @@
       "confidence": 0.3527
     },
     {
-      "source": "TheBlock",
-      "title": "Metaplanet slides 17% this week as CEO\u2019s public note fails to ease investor concerns",
-      "summary": "The drop comes amid controversies surrounding Metaplanet's expanded Series 10 executive option pool and CEO Simon Gerovich's ties to MMXX Ventures.",
-      "url": "https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738",
-      "published": "2026-09-08T09:13:45+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
       "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
@@ -472,17 +458,6 @@
       "coins": [],
       "compound": -0.3182,
       "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
-      "summary": "Ita\u00fa, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
-      "url": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
-      "published": "2026-09-07T20:31:03+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
       "confidence": 0.3182
     },
     {
@@ -520,6 +495,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
+      "summary": "PONS reached an all-time high valuation of over $970 million on Friday, with the token up over 200% in the last week alone.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
+      "published": "2026-09-08T22:26:02+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
+      "summary": "NYU's Tristan Buckmaster accuses OpenAI's S\u00e9bastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alp\u00f6ge.",
+      "url": "https://decrypt.co/resources/openai-solved-1m-math-problem-rival-mathematician",
+      "published": "2026-09-08T21:38:34+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
       "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
       "summary": "ZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.",
       "url": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
@@ -527,17 +524,6 @@
       "coins": [],
       "compound": 0.0516,
       "label": "BULLISH",
-      "confidence": 0.0516
-    },
-    {
-      "source": "TheBlock",
-      "title": "Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback",
-      "summary": "A subsequent rollback reversed roughly $111.2 million, but $9.19 million had already left the chain and remains unrecovered, Cronos says.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724",
-      "published": "2026-09-08T05:51:16+00:00",
-      "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
       "confidence": 0.0516
     },
     {
@@ -612,6 +598,17 @@
       "summary": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
       "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
       "published": "2026-09-08T15:25:16+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hunter Biden details LAPTOP memecoin\u2019s airdrop and burn-or-charity rules ahead of launch",
+      "summary": "About 30% of the supply is tied to 30 public real-world events that either burn or donate the tokens depending on the results.",
+      "url": "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
+      "published": "2026-09-09T02:34:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
