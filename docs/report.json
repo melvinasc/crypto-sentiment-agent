@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:09:30.610064+00:00",
+  "generated_at": "2026-09-09T16:27:06.403477+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -26,101 +26,51 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.4404,
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.3818,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitmine nears 5% of Ethereum supply after buying 28,086 ETH",
-          "summary": "Bitmine bought 28,086 ETH, boosting its treasury to 5.93 million tokens worth $14.8 billion and representing 4.9% of Ethereum\u2019s total supply.",
-          "url": "https://www.theblock.co/news/business/2026-09-08-bitmine-nears-5-of-ethereum-supply-after-buying-28086-eth-413790",
-          "published": "2026-09-08T13:51:54+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee's Bitmine Adds $70 Million in Ethereum, Holdings Reach 5.93 Million ETH",
-          "summary": "The company says it holds roughly 4.9% of Ethereum\u2019s supply, with most of its tokens staked to earn rewards.",
-          "url": "https://decrypt.co/377672/tom-lee-bitmine-adds-70-million-ethereum",
-          "published": "2026-09-08T15:04:44+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4939,
-          "label": "BULLISH",
-          "confidence": 0.4939
-        },
         {
           "source": "CoinDesk",
-          "title": "Ethereum makes quantum resistance a top priority with a 2029 deadline",
+          "title": "Tether pushes into private credit with $400 million fund with Fasanara",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/08/ethereum-makes-quantum-resistance-a-top-priority-with-a-2029-deadline",
-          "published": "2026-09-08T13:18:24+00:00",
+          "url": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+          "published": "2026-09-09T15:51:25+00:00",
           "coins": [
-            "ETH"
+            "USDT"
           ],
-          "compound": 0.2023,
+          "compound": 0.3818,
           "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+          "confidence": 0.3818
+        },
         {
           "source": "TheBlock",
-          "title": "DeFi Development closes Strategy-style $11 million CHAD offering to grow Solana treasury",
-          "summary": "DeFi Development Corp's CHAD is a Variable Rate Series C perpetual preferred stock, with an initial annual dividend rate of 13%.",
-          "url": "https://www.theblock.co/news/markets/2026-09-08-defi-development-closes-strategy-style-11-million-chad-offering-grow-solana-treasury-413892",
-          "published": "2026-09-08T18:33:27+00:00",
+          "title": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit",
+          "summary": "The firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
+          "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
+          "published": "2026-09-09T13:53:28+00:00",
           "coins": [
-            "SOL"
+            "USDT"
           ],
-          "compound": 0.2023,
+          "compound": 0.3818,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.3818
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1199,
+      "article_count": 18,
+      "avg_compound": -0.1361,
       "overall": "BEARISH",
-      "bullish": 6,
+      "bullish": 5,
       "bearish": 13,
-      "neutral": 3,
+      "neutral": 0,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Trezor-Data-Breach-Worse-Than-Initially-Reported-67000-US-Customers-Data-Exposed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a></p>\n<p>Trezor said that its third party shipping partner, ShipMonk, had not erased customer data. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported\" rel=\"nofollow\">Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-          "published": "2026-09-04T20:30:14+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8689,
-          "label": "BEARISH",
-          "confidence": 0.8689
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed",
@@ -136,6 +86,19 @@
         },
         {
           "source": "Decrypt",
+          "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+          "summary": "Mexican prosecutors allege suspects targeted Camilo S\u00e9ptimo keyboardist Jonathan Mel\u00e9ndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+          "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
+          "published": "2026-09-09T16:16:04+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7845,
+          "label": "BEARISH",
+          "confidence": 0.7845
+        },
+        {
+          "source": "Decrypt",
           "title": "Strive Buys $109 Million in Bitcoin, Pushes Preferred Stock Toward $1 Billion",
           "summary": "The Vivek Ramaswamy-founded asset manager added 1,375 BTC last week, its third straight week of 5%-plus growth.",
           "url": "https://decrypt.co/377689/strive-buys-109-million-bitcoin-preferred-stock-1-billion",
@@ -146,6 +109,81 @@
           "compound": 0.7184,
           "label": "BULLISH",
           "confidence": 0.7184
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.0172,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+          "published": "2026-09-09T15:30:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.0516,
+          "label": "BEARISH",
+          "confidence": 0.0516
+        },
+        {
+          "source": "Decrypt",
+          "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
+          "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
+          "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+          "published": "2026-09-09T15:07:24+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
+          "summary": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.",
+          "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
+          "published": "2026-09-09T14:54:15+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
+          "published": "2026-09-09T13:00:00+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -210,16 +248,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "LINK": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -260,6 +288,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -271,16 +309,6 @@
       "no_news": true
     },
     "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -303,17 +331,6 @@
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "India\u2019s financial intelligence unit flags 15 crypto platforms for AML lapses",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
-      "published": "2026-09-09T08:17:54+00:00",
-      "coins": [],
-      "compound": 0.8494,
-      "label": "BULLISH",
-      "confidence": 0.8494
-    },
-    {
       "source": "TheBlock",
       "title": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
       "summary": "Malone Lam pleaded guilty for his role in leading an international \"social engineering\" scheme, stealing  $245 million worth in cryptocurrency.",
@@ -325,37 +342,37 @@
       "confidence": 0.8126
     },
     {
-      "source": "CoinDesk",
-      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
-      "published": "2026-09-09T09:54:42+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Venice\u2019s VVV Token Soars After OpenAI Dispute",
+      "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
+      "url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+      "published": "2026-09-09T13:28:52+00:00",
       "coins": [],
-      "compound": -0.765,
+      "compound": -0.7845,
       "label": "BEARISH",
-      "confidence": 0.765
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI could kill us, Anthropic researcher says after resigning",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
-      "published": "2026-09-09T06:20:38+00:00",
-      "coins": [],
-      "compound": -0.765,
-      "label": "BEARISH",
-      "confidence": 0.765
+      "confidence": 0.7845
     },
     {
       "source": "TheBlock",
-      "title": "Visa stablecoin settlement tops $20 billion annualized run rate, up more than 15x year over year",
-      "summary": "Visa\u2019s stablecoin settlement volume tops a $20 billion annualized run rate as payment volume grows nearly 200% year over year.",
-      "url": "https://www.theblock.co/news/business/2026-09-08-visa-stablecoin-settlement-tops-20-billion-annualized-run-rate-up-more-than-15x-year-over-year-413749",
-      "published": "2026-09-08T11:09:21+00:00",
+      "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
+      "summary": "Crypto groups representing a slew of digital asset firms are escalating its legal fight in Illinois over its controversial crypto tax.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
+      "published": "2026-09-09T15:04:41+00:00",
       "coins": [],
-      "compound": 0.765,
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
+    },
+    {
+      "source": "TheBlock",
+      "title": "India seeks takedowns of 15 crypto platforms over AML compliance",
+      "summary": "India's FIU issued non-compliance notices to 15 crypto platforms and sought takedowns of their apps and URLs.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
+      "published": "2026-09-09T11:12:43+00:00",
+      "coins": [],
+      "compound": 0.7297,
       "label": "BULLISH",
-      "confidence": 0.765
+      "confidence": 0.7297
     },
     {
       "source": "TheBlock",
@@ -370,6 +387,39 @@
     },
     {
       "source": "Decrypt",
+      "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
+      "summary": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
+      "url": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
+      "published": "2026-09-09T11:43:53+00:00",
+      "coins": [],
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME\u2019s case",
+      "summary": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange\u2019s lawsuit against the CFTC.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
+      "published": "2026-09-09T16:17:59+00:00",
+      "coins": [],
+      "compound": -0.6597,
+      "label": "BEARISH",
+      "confidence": 0.6597
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
+      "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
+      "published": "2026-09-09T14:49:03+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
+    },
+    {
+      "source": "Decrypt",
       "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
       "summary": "The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.",
       "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
@@ -380,15 +430,15 @@
       "confidence": 0.5423
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood expands prediction markets with Crypto.com, OG partnerships ahead of NFL season",
-      "summary": "Robinhood will also acquire equity stakes in Crypto.com and OG.com, which will be valued based on Crypto.com's recent $20 billion valuation.",
-      "url": "https://www.theblock.co/news/markets/2026-09-08-robinhood-expands-prediction-markets-crypto-com-og-partnerships-nfl-season-413832",
-      "published": "2026-09-08T15:54:17+00:00",
+      "source": "CoinDesk",
+      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
+      "published": "2026-09-09T11:23:50+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
     },
     {
       "source": "TheBlock",
@@ -402,6 +452,17 @@
       "confidence": 0.4588
     },
     {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+      "published": "2026-09-09T16:05:11+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
       "source": "Decrypt",
       "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
       "summary": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
@@ -411,6 +472,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood\u2019s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+      "published": "2026-09-09T16:11:07+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -424,69 +496,58 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: The Trenches Just Had Their Biggest Week Since TRUMP",
-      "summary": "Is it a warning sign for a local top? Or is the onchain party just getting started?",
-      "url": "https://decrypt.co/377661/morning-minute-the-trenches-just-had-their-biggest-week-since-trump",
-      "published": "2026-09-08T13:06:33+00:00",
+      "source": "CoinDesk",
+      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
+      "published": "2026-09-09T13:02:49+00:00",
       "coins": [],
-      "compound": 0.3527,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3527
+      "confidence": 0.34
+    },
+    {
+      "source": "Decrypt",
+      "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+      "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
+      "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+      "published": "2026-09-09T14:37:18+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "CoinDesk",
-      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
-      "published": "2026-09-09T09:59:39+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
+      "published": "2026-09-09T12:00:00+00:00",
       "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
-      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-      "summary": "The LAPTOP token launches in September on Base, with a fifth of the supply earmarked for traders who lost money on TRUMP.",
-      "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-      "published": "2026-09-08T11:33:50+00:00",
+      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
+      "summary": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
+      "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+      "published": "2026-09-09T15:15:01+00:00",
       "coins": [],
-      "compound": -0.3182,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.3182
+      "confidence": 0.2732
     },
     {
-      "source": "Decrypt",
-      "title": "US Police Fear Meta Glasses Are Watching Them Back: Report",
-      "summary": "Memos from the NYPD to Homeland Security warn the devices could be used for covert filming inside jails and police facilities.",
-      "url": "https://decrypt.co/377675/us-police-fear-meta-glasses-are-watching-them-back-report",
-      "published": "2026-09-08T15:28:43+00:00",
+      "source": "TheBlock",
+      "title": "Hunter Biden\u2019s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+      "summary": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
+      "url": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
+      "published": "2026-09-09T16:05:45+00:00",
       "coins": [],
-      "compound": -0.296,
+      "compound": -0.2023,
       "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
-      "summary": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
-      "url": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
-      "published": "2026-09-08T09:54:59+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle agrees to buy cross-border payments firm Tazapay for $400 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/circle-agrees-to-buy-cross-border-payments-firm-tazapay-for-usd400-million",
-      "published": "2026-09-08T14:40:46+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
       "confidence": 0.2023
     },
     {
@@ -501,6 +562,17 @@
       "confidence": 0.1531
     },
     {
+      "source": "CoinDesk",
+      "title": "PayPal expands stablecoin rails with custom token issuance platform",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+      "published": "2026-09-09T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
       "source": "Decrypt",
       "title": "OpenAI Says It Solved a $1M Math Problem. A Rival Mathematician Says He Did It First",
       "summary": "NYU's Tristan Buckmaster accuses OpenAI's S\u00e9bastien Bubeck of racing to claim credit for a Navier-Stokes proof after learning about his unpublished work with Anthropic's Levent Alp\u00f6ge.",
@@ -512,22 +584,22 @@
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "ZKsync developer Matter Labs open-sources Prividium permissioning engine; Bundesbank tests platform",
-      "summary": "ZKsync developer Matter Labs has open-sourced the permissioning engine of Prividium, its DLT platform for financial institutions.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-zksync-developer-matter-labs-open-sources-prividium-permissioning-engine-bundesbank-tests-platform-413814",
-      "published": "2026-09-08T15:05:03+00:00",
+      "source": "CoinDesk",
+      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
+      "published": "2026-09-09T13:57:57+00:00",
       "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
-      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a \u2018grift\u2019",
+      "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
-      "published": "2026-09-09T05:22:57+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+      "published": "2026-09-09T15:24:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -535,10 +607,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Moonshot\u2019s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+      "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
-      "published": "2026-09-09T04:40:54+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/08/crypto-long-and-short-inside-the-300-to-1-onchain-gap-between-the-dollar-and-euro",
+      "published": "2026-09-09T14:58:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -546,10 +618,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Copper CEO Amar Kuchinad departs as search for a buyer enters a fourth month",
+      "title": "Kalshi election data goes live on DoubleZero ahead of U.S. midterms",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/copper-ceo-amar-kuchinad-departs-as-search-for-a-buyer-enters-a-fourth-month",
-      "published": "2026-09-08T15:23:46+00:00",
+      "url": "https://www.coindesk.com/tech/2026/09/09/kalshi-election-data-goes-live-on-doublezero-ahead-of-u-s-midterms",
+      "published": "2026-09-09T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -557,21 +629,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Strive\u2019s SATA nears $1 billion market cap as Strategy\u2019s STRC continues to underperform",
+      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/08/strive-s-sata-nears-usd1-billion-market-cap-as-strategy-s-strc-continues-to-underperform",
-      "published": "2026-09-08T14:33:32+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
+      "published": "2026-09-09T11:40:44+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Visa combines VisaNet data with onchain lending to power stablecoin card working capital",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/visa-opens-settlement-data-to-help-blockchain-lenders-finance-crypto-cards-as-volume-surges",
-      "published": "2026-09-08T14:29:14+00:00",
+      "source": "Decrypt",
+      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+      "summary": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
+      "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+      "published": "2026-09-09T15:47:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -583,17 +655,6 @@
       "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
       "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
       "published": "2026-09-09T09:28:29+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Robinhood Takes Equity Stake in Crypto.com, Taps Exchange to Power Prediction Markets",
-      "summary": "The multi-year deal makes OG.com the infrastructure and clearing engine behind Robinhood's fastest-growing business.",
-      "url": "https://decrypt.co/377676/robinhood-equity-crypto-com-prediction-markets",
-      "published": "2026-09-08T15:25:16+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
