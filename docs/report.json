@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:23:15.736586+00:00",
+  "generated_at": "2026-09-09T11:09:30.610064+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -27,12 +27,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3303,
+      "article_count": 3,
+      "avg_compound": 0.4404,
       "overall": "BULLISH",
       "bullish": 3,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -102,7 +102,7 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.0881,
+      "avg_compound": -0.1199,
       "overall": "BEARISH",
       "bullish": 6,
       "bearish": 13,
@@ -150,31 +150,6 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin slips to $78,800 as BNB and DeFi tokens buck the selloff",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-to-usd78-800-as-bnb-and-defi-tokens-buck-the-selloff",
-          "published": "2026-09-08T10:33:17+00:00",
-          "coins": [
-            "BTC",
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -186,6 +161,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -318,6 +303,17 @@
   },
   "uncategorised": [
     {
+      "source": "CoinDesk",
+      "title": "India\u2019s financial intelligence unit flags 15 crypto platforms for AML lapses",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/09/india-s-financial-intelligence-unit-flags-15-crypto-platforms-for-aml-lapses",
+      "published": "2026-09-09T08:17:54+00:00",
+      "coins": [],
+      "compound": 0.8494,
+      "label": "BULLISH",
+      "confidence": 0.8494
+    },
+    {
       "source": "TheBlock",
       "title": "A 22 year-old crypto ringleader pleads guilty to $245 million racketeering scheme",
       "summary": "Malone Lam pleaded guilty for his role in leading an international \"social engineering\" scheme, stealing  $245 million worth in cryptocurrency.",
@@ -327,6 +323,28 @@
       "compound": -0.8126,
       "label": "BEARISH",
       "confidence": 0.8126
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singaporean 22-year old pleads guilty to being the ringleader in $245 million crypto fraud case",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/09/singaporean-22-year-old-pleads-guilty-to-being-the-ringleader-in-usd245-million-crypto-fraud-case",
+      "published": "2026-09-09T09:54:42+00:00",
+      "coins": [],
+      "compound": -0.765,
+      "label": "BEARISH",
+      "confidence": 0.765
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI could kill us, Anthropic researcher says after resigning",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/09/anthropic-researcher-quits-with-a-warning-on-ai-that-echoes-the-terminator-script",
+      "published": "2026-09-09T06:20:38+00:00",
+      "coins": [],
+      "compound": -0.765,
+      "label": "BEARISH",
+      "confidence": 0.765
     },
     {
       "source": "TheBlock",
@@ -352,28 +370,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
-      "summary": "A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
-      "url": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
-      "published": "2026-09-07T21:46:04+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
-      "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models\u2019 reasoning.",
-      "url": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
-      "published": "2026-09-07T21:16:03+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "Decrypt",
       "title": "Cronos Erased Two Hours of Transactions to Reverse $111 Million DeFi Exploit",
       "summary": "The rollback reversed legitimate activity alongside the attack, while $9.19 million remains unrecovered, according to Cronos.",
       "url": "https://decrypt.co/377686/cronos-erased-two-hours-transactions-defi-exploit",
@@ -393,17 +389,6 @@
       "compound": 0.5106,
       "label": "BULLISH",
       "confidence": 0.5106
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Stablecoins could save South Korean merchants up to $3.8 billion a year, budget office says",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/stablecoins-could-save-south-korean-merchants-up-to-usd3-8-billion-a-year-budget-office-says",
-      "published": "2026-09-08T09:51:01+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
     },
     {
       "source": "TheBlock",
@@ -448,6 +433,17 @@
       "compound": 0.3527,
       "label": "BULLISH",
       "confidence": 0.3527
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Iran eases currency controls to let traders bring earnings home in crypto: FT",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/09/iran-eases-currency-controls-to-let-traders-bring-earnings-home-in-crypto-ft",
+      "published": "2026-09-09T09:59:39+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -528,14 +524,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Cronos executes controversial blockchain rollback to recover crypto worth $111 million",
+      "title": "Hunter Biden defends LAPTOP ahead of Wednesday launch, calls TRUMP a \u2018grift\u2019",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/cronos-executes-controversial-blockchain-rollback-to-recover-crypto-worth-usd111-million",
-      "published": "2026-09-08T10:39:33+00:00",
+      "url": "https://www.coindesk.com/markets/2026/09/09/hunter-biden-defends-laptop-ahead-of-wednesday-launch-calls-trump-a-grift",
+      "published": "2026-09-09T05:22:57+00:00",
       "coins": [],
-      "compound": 0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Moonshot\u2019s Kimi rattled markets. U.S. agencies now say it was trained on American models",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/09/moonshot-s-kimi-rattled-markets-u-s-agencies-now-say-it-was-trained-on-american-models",
+      "published": "2026-09-09T04:40:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -571,22 +578,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "How Curve's soft liquidation model lets borrowers survive market drawdowns",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/08/hundreds-of-defi-loans-on-curve-stayed-in-liquidation-for-weeks-without-dying",
-      "published": "2026-09-08T11:06:31+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tracking cocoa may be just the beginning for PwC, Merck, Hashgraph provenance system",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/08/tracking-cocoa-may-be-just-the-beginning-for-pwc-merck-hashgraph-provenance-system",
-      "published": "2026-09-08T09:39:36+00:00",
+      "source": "Decrypt",
+      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
+      "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
+      "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
+      "published": "2026-09-09T09:28:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
