@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:50:35.353743+00:00",
+  "generated_at": "2026-09-10T04:20:30.255372+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -89,11 +89,11 @@
     },
     "BTC": {
       "article_count": 17,
-      "avg_compound": -0.1901,
+      "avg_compound": -0.0726,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 12,
-      "neutral": 1,
+      "bullish": 5,
+      "bearish": 10,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -110,6 +110,19 @@
         },
         {
           "source": "Bitcoin Magazine",
+          "title": "US Treasury Secretary Scott Bessent \u2018Strongly Urges\u2019 Senate To Pass Clarity Act",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action\" rel=\"nofollow\">US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act</a></p>\n<p>Senators will vote on the long-awaited crypto Clarity Act next week. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action\" rel=\"nofollow\">US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
+          "published": "2026-09-09T21:20:51+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8834,
+          "label": "BULLISH",
+          "confidence": 0.8834
+        },
+        {
+          "source": "Bitcoin Magazine",
           "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/07/Senator-Lummis-at-Bitcoin-2025.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act\" rel=\"nofollow\">Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed</a></p>\n<p>Pro-crypto senator Cynthia Lummis has said that the Clarity Act can still get through, but it'll need \"further compromise\" from Democrats. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act\" rel=\"nofollow\">Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/lummis-blasts-democrats-on-clarity-act",
@@ -120,19 +133,6 @@
           "compound": 0.8248,
           "label": "BULLISH",
           "confidence": 0.8248
-        },
-        {
-          "source": "Decrypt",
-          "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
-          "summary": "Mexican prosecutors allege suspects targeted Camilo S\u00e9ptimo keyboardist Jonathan Mel\u00e9ndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
-          "url": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
-          "published": "2026-09-09T16:16:04+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7845,
-          "label": "BEARISH",
-          "confidence": 0.7845
         }
       ],
       "no_news": false
@@ -422,6 +422,17 @@
       "confidence": 0.5859
     },
     {
+      "source": "TheBlock",
+      "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+      "summary": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
+      "url": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+      "published": "2026-09-10T02:26:58+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
+    },
+    {
       "source": "CoinDesk",
       "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
       "summary": "",
@@ -530,17 +541,6 @@
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
-    },
-    {
-      "source": "TheBlock",
-      "title": "Pons propels Robinhood Chain fees to record $6 million in daily fees as DEX volume doubles",
-      "summary": "PONS reached an all-time high valuation of over $970 million on Friday, with the token up over 200% in the last week alone.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-08-pons-propels-robinhood-chain-fees-record-6-million-daily-fees-dex-volume-doubles-413852",
-      "published": "2026-09-08T22:26:02+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
