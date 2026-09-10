@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:16:25.541561+00:00",
+  "generated_at": "2026-09-10T20:46:16.739504+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -76,6 +76,30 @@
           "compound": 0.8158,
           "label": "BULLISH",
           "confidence": 0.8158
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": -0.6369,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
+          "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
+          "url": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
+          "published": "2026-09-10T20:28:46+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
         }
       ],
       "no_news": false
@@ -157,13 +181,26 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1819,
+      "article_count": 19,
+      "avg_compound": -0.2171,
       "overall": "BEARISH",
-      "bullish": 5,
+      "bullish": 4,
       "bearish": 12,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting\" rel=\"nofollow\">Bitcoin Suffers On Renewed US-Iran Fighting\u00a0</a></p>\n<p>Bitcoin has stumbled on tensions flaring up in the Middle East again. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting\" rel=\"nofollow\">Bitcoin Suffers On Renewed US-Iran Fighting\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
+          "published": "2026-09-10T16:31:42+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9657,
+          "label": "BEARISH",
+          "confidence": 0.9657
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "The Quantum Issue: WTF Is Quantum Computing?",
@@ -189,19 +226,6 @@
           "compound": -0.891,
           "label": "BEARISH",
           "confidence": 0.891
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "US Treasury Secretary Scott Bessent \u2018Strongly Urges\u2019 Senate To Pass Clarity Act",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/04/Scott-Bessent-Bond-Strategy.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action\" rel=\"nofollow\">US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act</a></p>\n<p>Senators will vote on the long-awaited crypto Clarity Act next week. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action\" rel=\"nofollow\">US Treasury Secretary Scott Bessent &#8216;Strongly Urges&#8217; Senate To Pass Clarity Act</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/scott-bessent-urges-clarity-act-action",
-          "published": "2026-09-09T21:20:51+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8834,
-          "label": "BULLISH",
-          "confidence": 0.8834
         }
       ],
       "no_news": false
@@ -237,16 +261,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -361,17 +375,6 @@
       "confidence": 0.8442
     },
     {
-      "source": "TheBlock",
-      "title": "Crypto industry groups escalate fight against Illinois, asking court to block controversial crypto tax",
-      "summary": "Crypto groups representing a slew of digital asset firms are escalating its legal fight in Illinois over its controversial crypto tax.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-09-crypto-industry-groups-escalate-fight-illinois-asking-court-block-crypto-tax-414036",
-      "published": "2026-09-09T15:04:41+00:00",
-      "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
-      "confidence": 0.7717
-    },
-    {
       "source": "Decrypt",
       "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
       "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
@@ -383,15 +386,15 @@
       "confidence": 0.7351
     },
     {
-      "source": "TheBlock",
-      "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME\u2019s case",
-      "summary": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange\u2019s lawsuit against the CFTC.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
-      "published": "2026-09-09T16:17:59+00:00",
+      "source": "CoinDesk",
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "published": "2026-09-10T19:01:30+00:00",
       "coins": [],
-      "compound": -0.6597,
-      "label": "BEARISH",
-      "confidence": 0.6597
+      "compound": 0.6369,
+      "label": "BULLISH",
+      "confidence": 0.6369
     },
     {
       "source": "CoinDesk",
@@ -427,15 +430,15 @@
       "confidence": 0.5267
     },
     {
-      "source": "Decrypt",
-      "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
-      "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
-      "url": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
-      "published": "2026-09-09T16:40:50+00:00",
+      "source": "TheBlock",
+      "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
+      "summary": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-10-senate-republicans-unveil-revised-crypto-bill-ahead-of-key-clarity-act-vote-next-week-414180",
+      "published": "2026-09-10T19:42:06+00:00",
       "coins": [],
-      "compound": 0.4404,
+      "compound": 0.4588,
       "label": "BULLISH",
-      "confidence": 0.4404
+      "confidence": 0.4588
     },
     {
       "source": "TheBlock",
@@ -449,6 +452,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "CoinDesk",
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "published": "2026-09-10T20:21:57+00:00",
+      "coins": [],
+      "compound": 0.3919,
+      "label": "BULLISH",
+      "confidence": 0.3919
+    },
+    {
       "source": "TheBlock",
       "title": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
       "summary": "The integration will use Coinbase's Payments API and custodial wallets to embed stablecoin rails into Moov's existing payments platform.",
@@ -458,6 +472,17 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+      "summary": "The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
+      "url": "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+      "published": "2026-09-10T18:00:00+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -483,14 +508,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-      "summary": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
-      "url": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
-      "published": "2026-09-09T15:15:01+00:00",
+      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
+      "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
+      "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
+      "published": "2026-09-10T18:13:13+00:00",
       "coins": [],
-      "compound": -0.2732,
+      "compound": -0.296,
       "label": "BEARISH",
-      "confidence": 0.2732
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -504,22 +529,22 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Hunter Biden\u2019s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
-      "summary": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
-      "url": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
-      "published": "2026-09-09T16:05:45+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "CoinDesk",
       "title": "Polymarket names former Amazon finance chief Warren Jenson as its first CFO",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/10/polymarket-names-former-amazon-finance-chief-warren-jenson-as-its-first-cfo",
       "published": "2026-09-10T16:10:03+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
+      "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
+      "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
+      "published": "2026-09-10T18:51:04+00:00",
       "coins": [],
       "compound": 0.1779,
       "label": "BULLISH",
@@ -535,6 +560,28 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Europe\u2019s top regulator questions Polymarket and Kalshi\u2019s EU access, warns of authorization gaps",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "published": "2026-09-10T17:03:34+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
+      "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
+      "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
+      "published": "2026-09-10T17:07:50+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -568,6 +615,17 @@
       "compound": -0.0516,
       "label": "BEARISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "published": "2026-09-10T17:07:59+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -614,28 +672,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-invests-usd100-million-in-kraken-parent-company-payward-at-usd21-billion-valuation",
-      "published": "2026-09-10T11:21:21+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
-      "published": "2026-09-10T09:42:59+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Nasdaq Invests $100M in Kraken Parent Payward at $21B Valuation",
       "summary": "Deutsche B\u00f6rse's April stake implied a $13.3 billion valuation. Five months on, Nasdaq is paying at $21 billion.",
@@ -652,17 +688,6 @@
       "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
       "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
       "published": "2026-09-09T17:50:14+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
-      "summary": "LAPTOP hit a $190.81 peak within minutes of launching on Base, then shed roughly 99% as thin liquidity met a wave of selling.",
-      "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
-      "published": "2026-09-09T15:47:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
