@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T04:20:30.255372+00:00",
+  "generated_at": "2026-09-10T11:05:58.321934+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -50,6 +50,31 @@
       ],
       "no_news": false
     },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": -0.4019,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin sinks 5% to lead majors' losses, with bitcoin holding $78,000 level",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/10/dogecoin-sinks-5-to-lead-majors-losses-with-bitcoin-holding-usd78-000-level",
+          "published": "2026-09-10T05:30:15+00:00",
+          "coins": [
+            "DOGE",
+            "BTC"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 2,
       "avg_compound": 0.3818,
@@ -88,12 +113,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.0726,
+      "article_count": 20,
+      "avg_compound": -0.1016,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 10,
-      "neutral": 2,
+      "bearish": 11,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -138,13 +163,26 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.0172,
-      "overall": "NEUTRAL",
+      "article_count": 5,
+      "avg_compound": -0.065,
+      "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
+      "bearish": 2,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Vitalik Buterin Pushes Ethereum Plan to Slash Quantum-Safe Privacy Costs",
+          "summary": "Buterin wants EIP-8288 in I-star, the upgrade after Hegota, and adopting it would make RISC-V Ethereum's canonical instruction set.",
+          "url": "https://decrypt.co/377857/vitalik-buterin-pushes-ethereum-plan-to-slash-quantum-safe-privacy-costs",
+          "published": "2026-09-10T10:11:52+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        },
         {
           "source": "CoinDesk",
           "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
@@ -160,50 +198,14 @@
           "confidence": 0.0516
         },
         {
-          "source": "Decrypt",
-          "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-          "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-          "url": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
-          "published": "2026-09-09T15:07:24+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Consensys splits MetaMask from institutional and Ethereum infrastructure businesses",
-          "summary": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.",
-          "url": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
-          "published": "2026-09-09T14:54:15+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
           "source": "CoinDesk",
-          "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
+          "title": "SGX's bitcoin and ether perpetual futures are now open to U.S. institutions",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-          "published": "2026-09-09T13:00:00+00:00",
+          "url": "https://www.coindesk.com/markets/2026/09/10/sgx-s-bitcoin-and-ether-perpetual-futures-are-now-open-to-u-s-institutions",
+          "published": "2026-09-10T07:01:44+00:00",
           "coins": [
-            "LINK"
+            "BTC",
+            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -252,7 +254,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DOGE": {
+    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -262,7 +264,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DOT": {
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -356,6 +358,17 @@
       "confidence": 0.8658
     },
     {
+      "source": "CoinDesk",
+      "title": "Hunter Biden\u2019s LAPTOP blames bots after 98% crash as traders rack up six-figure losses",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/10/hunter-biden-s-laptop-blames-bots-after-98-crash-as-traders-rack-up-six-figure-losses",
+      "published": "2026-09-10T06:13:45+00:00",
+      "coins": [],
+      "compound": -0.7964,
+      "label": "BEARISH",
+      "confidence": 0.7964
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Venice\u2019s VVV Token Soars After OpenAI Dispute",
       "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
@@ -376,6 +389,17 @@
       "compound": -0.7717,
       "label": "BEARISH",
       "confidence": 0.7717
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto wins regardless of Clarity Act vote, Coinbase's Armstrong says",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/10/crypto-wins-regardless-of-clarity-act-vote-coinbase-s-armstrong-says",
+      "published": "2026-09-10T05:05:41+00:00",
+      "coins": [],
+      "compound": 0.7506,
+      "label": "BULLISH",
+      "confidence": 0.7506
     },
     {
       "source": "TheBlock",
@@ -433,17 +457,6 @@
       "confidence": 0.5423
     },
     {
-      "source": "CoinDesk",
-      "title": "OpenAI says 10,000 AI agents solved a $1 million math problem. Now mathematicians are fighting",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/09/openai-says-10-000-ai-agents-solved-a-usd1-million-math-problem-now-mathematicians-are-fighting",
-      "published": "2026-09-09T11:23:50+00:00",
-      "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "Decrypt",
       "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
       "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
@@ -478,25 +491,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "StoneX sees 45% upside for Robinhood, points to accelerating Layer 2 chain and prediction markets",
-      "summary": "The report says the launch of Robinhood Chain and the company's prediction markets business provide new growth drivers.",
-      "url": "https://www.theblock.co/news/business/2026-09-08-stonex-sees-upside-robinhood-413955",
-      "published": "2026-09-09T02:18:25+00:00",
+      "title": "Hunter Biden\u2019s LAPTOP team cites sniper bots, thin liquidity for 99% crash on launch day",
+      "summary": "The LAPTOP project said it will add pool incentives and expects early prediction-market burns to cut supply.",
+      "url": "https://www.theblock.co/news/defi/2026-09-10-hunter-bidens-laptop-sniper-bots-414095",
+      "published": "2026-09-10T05:28:17+00:00",
       "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-      "published": "2026-09-09T13:02:49+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -508,17 +510,6 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-      "published": "2026-09-09T12:00:00+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -541,6 +532,17 @@
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Treasury yields climb further as Brent crude tops $102 and tech futures slip",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/10/live-updates-bitcoin-etfs-post-a-second-straight-outflow-while-every-other-fund-turns-green",
+      "published": "2026-09-10T07:45:46+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -577,14 +579,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
+      "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-      "published": "2026-09-09T13:57:57+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/10/indian-agri-warehouse-giant-is-putting-usd2-billion-in-grain-backed-loans-onchain",
+      "published": "2026-09-10T09:42:59+00:00",
       "coins": [],
-      "compound": 0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -620,17 +622,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Bank takes next step towards launching its stablecoin with cross-border payment test",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/u-s-bank-takes-next-step-towards-launching-its-stablecoin-with-cross-border-payment-test",
-      "published": "2026-09-09T11:40:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
       "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
@@ -653,33 +644,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-      "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
-      "url": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-      "published": "2026-09-09T09:28:29+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
       "title": "DoubleZero adds Kalshi\u2019s election markets ahead of November midterms",
       "summary": "Kalshi's elections and politics markets went live on the market data delivery platform DoubleZero Edge on Wednesday.",
       "url": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
       "published": "2026-09-09T18:17:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hunter Biden details LAPTOP memecoin\u2019s airdrop and burn-or-charity rules ahead of launch",
-      "summary": "About 30% of the supply is tied to 30 public real-world events that either burn or donate the tokens depending on the results.",
-      "url": "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
-      "published": "2026-09-09T02:34:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
