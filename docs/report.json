@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:19:57.965244+00:00",
+  "generated_at": "2026-09-11T11:04:44.873671+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -104,52 +104,14 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.5106,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
-          "summary": "SkyAI\u2019s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.",
-          "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
-          "published": "2026-09-09T17:56:26+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.4623,
+      "article_count": 2,
+      "avg_compound": -0.375,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Crypto researchers cut Bitcoin and Ethereum quantum attack estimate by 50%",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/10/crypto-researchers-cut-bitcoin-and-ethereum-quantum-attack-estimate-by-50",
-          "published": "2026-09-10T13:00:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.6369,
-          "label": "BEARISH",
-          "confidence": 0.6369
-        },
         {
           "source": "TheBlock",
           "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
@@ -181,12 +143,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.3008,
+      "article_count": 22,
+      "avg_compound": -0.2871,
       "overall": "BEARISH",
       "bullish": 3,
-      "bearish": 13,
-      "neutral": 3,
+      "bearish": 14,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -226,6 +188,30 @@
           "compound": -0.9287,
           "label": "BEARISH",
           "confidence": 0.9287
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+          "published": "2026-09-11T04:25:21+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -330,7 +316,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
+    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -340,7 +326,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -353,15 +339,15 @@
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "Threatened with arrest online? Recognizing a law enforcement impersonation scam",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/10/threatened-with-arrest-online-recognizing-a-law-enforcement-impersonation-scam",
-      "published": "2026-09-10T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
+      "summary": "SBF\u2019s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
+      "url": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
+      "published": "2026-09-11T09:04:11+00:00",
       "coins": [],
-      "compound": -0.8442,
+      "compound": -0.7351,
       "label": "BEARISH",
-      "confidence": 0.8442
+      "confidence": 0.7351
     },
     {
       "source": "Decrypt",
@@ -375,6 +361,17 @@
       "confidence": 0.7351
     },
     {
+      "source": "TheBlock",
+      "title": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
+      "summary": "ESMA says major prediction platforms lack EU authorization, while questioning Polymarket and Kalshi's geographic restrictions.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239",
+      "published": "2026-09-11T10:10:37+00:00",
+      "coins": [],
+      "compound": -0.6734,
+      "label": "BEARISH",
+      "confidence": 0.6734
+    },
+    {
       "source": "CoinDesk",
       "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
       "summary": "",
@@ -386,15 +383,15 @@
       "confidence": 0.6369
     },
     {
-      "source": "CoinDesk",
-      "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/ai-s-rapid-rise-poses-global-financial-stability-risks-says-head-of-the-bis",
-      "published": "2026-09-10T12:00:36+00:00",
+      "source": "TheBlock",
+      "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
+      "summary": "Bankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
+      "published": "2026-09-11T04:20:15+00:00",
       "coins": [],
-      "compound": -0.6124,
+      "compound": -0.6293,
       "label": "BEARISH",
-      "confidence": 0.6124
+      "confidence": 0.6293
     },
     {
       "source": "TheBlock",
@@ -439,6 +436,17 @@
       "compound": 0.4215,
       "label": "BULLISH",
       "confidence": 0.4215
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
+      "published": "2026-09-11T06:17:31+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -496,17 +504,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "Nasdaq, Boerse Stuttgart, others ask EU to remove or increase cap in tokenization trial",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/nasdaq-boerse-stuttgart-others-ask-eu-to-remove-or-increase-cap-in-tokenization-trial",
-      "published": "2026-09-10T13:56:54+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
       "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
       "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
@@ -516,17 +513,6 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Treasury yields continue to rise even as Bessent doubles down on bond buybacks",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/10/scott-bessent-doubles-down-on-bond-buybacks-as-treasury-yields-continue-to-surge",
-      "published": "2026-09-10T11:47:41+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -595,26 +581,15 @@
       "confidence": 0.1027
     },
     {
-      "source": "Decrypt",
-      "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
-      "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
-      "url": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
-      "published": "2026-09-09T20:31:29+00:00",
+      "source": "CoinDesk",
+      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
+      "published": "2026-09-11T05:13:15+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
-      "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
-      "url": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
-      "published": "2026-09-09T18:56:58+00:00",
-      "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -644,28 +619,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
       "published": "2026-09-10T15:00:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending",
-      "published": "2026-09-10T14:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto exchange giant Bybit to offer European \u2018super-app\u2019 with stocks, derivatives",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/crypto-exchange-giant-bybit-to-offer-european-super-app-with-stocks-derivatives",
-      "published": "2026-09-10T11:36:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
