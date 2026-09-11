@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T16:20:24.343087+00:00",
+  "generated_at": "2026-09-11T20:51:34.707570+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -80,31 +80,6 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.4767,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-          "summary": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-          "published": "2026-09-10T13:00:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4767,
-          "label": "BEARISH",
-          "confidence": 0.4767
-        }
-      ],
-      "no_news": false
-    },
     "DOGE": {
       "article_count": 2,
       "avg_compound": -0.4665,
@@ -144,11 +119,11 @@
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.2276,
+      "avg_compound": -0.23,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 15,
-      "neutral": 4,
+      "bearish": 16,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -212,6 +187,45 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.1442,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+          "published": "2026-09-11T17:40:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        },
+        {
+          "source": "TheBlock",
+          "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
+          "summary": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
+          "published": "2026-09-10T13:00:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4767,
+          "label": "BEARISH",
+          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -350,17 +364,6 @@
       "confidence": 0.7351
     },
     {
-      "source": "Decrypt",
-      "title": "Anthropic Discloses Fourth Claude Hacking Incident as Debate Around Regulation Grows",
-      "summary": "The company now says attacks during security tests exposed model behavior failures, after initially emphasizing errors in its testing infrastructure.",
-      "url": "https://decrypt.co/377889/anthropic-discloses-fourth-claude-hacking-incident-as-debate-around-regulation-grows",
-      "published": "2026-09-10T15:33:11+00:00",
-      "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
-      "confidence": 0.7351
-    },
-    {
       "source": "TheBlock",
       "title": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
       "summary": "ESMA says major prediction platforms lack EU authorization, while questioning Polymarket and Kalshi's geographic restrictions.",
@@ -370,17 +373,6 @@
       "compound": -0.6734,
       "label": "BEARISH",
       "confidence": 0.6734
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
-      "published": "2026-09-10T19:01:30+00:00",
-      "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
-      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -416,15 +408,15 @@
       "confidence": 0.5994
     },
     {
-      "source": "TheBlock",
-      "title": "Nasdaq to invest $100 million in Kraken parent Payward as firms expand partnership",
-      "summary": "Nasdaq Ventures agreed to invest $100 million in Kraken parent Payward, expanding their tokenized equity infrastructure partnership.",
-      "url": "https://www.theblock.co/news/deals/2026-09-10-nasdaq-to-invest-100-million-in-kraken-parent-payward-as-firms-expand-partnership-414120",
-      "published": "2026-09-10T12:53:22+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
+      "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
+      "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
+      "published": "2026-09-11T18:16:04+00:00",
       "coins": [],
-      "compound": 0.5267,
+      "compound": 0.5574,
       "label": "BULLISH",
-      "confidence": 0.5267
+      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
@@ -515,6 +507,17 @@
       "confidence": 0.3818
     },
     {
+      "source": "CoinDesk",
+      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
+      "published": "2026-09-11T17:12:45+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
+    },
+    {
       "source": "TheBlock",
       "title": "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
       "summary": "The wallet now supports more than 10 networks, including Robinhood Chain and Monad, plus perps, prediction markets, and tokenized stocks.",
@@ -559,6 +562,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "Decrypt",
+      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
+      "summary": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
+      "url": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
+      "published": "2026-09-11T17:22:39+00:00",
+      "coins": [],
+      "compound": 0.1655,
+      "label": "BULLISH",
+      "confidence": 0.1655
+    },
+    {
       "source": "TheBlock",
       "title": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
       "summary": "MoneyGram has launched its first stablecoin-backed Visa card, developed with Rain and initially available in Colombia.",
@@ -568,17 +582,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "This Guy Cloned Sam Altman, Elon Musk, and Zuckerberg Into AI Bots. They Immediately Started Fighting",
-      "summary": "Kun Chen built chatbot versions of four AI CEOs on SpaceXAI's new Grok Bot templates, locked them in one chat, and told them to debate the AI race until they agreed on something.",
-      "url": "https://decrypt.co/377898/sam-altman-elon-musk-zuckerberg-ai-bots",
-      "published": "2026-09-10T17:07:50+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -619,6 +622,17 @@
       "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
       "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
       "published": "2026-09-10T21:16:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "\u2018DeFi\u2019s federal bank\u2019: Standard Chartered sees SKY token rising fivefold by end-2028",
+      "summary": "Standard Chartered Bank has initiated coverage of Sky, calling it \"DeFi's federal bank,\" and expects SKY to rise $0.325 by 2028.",
+      "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
+      "published": "2026-09-11T16:48:11+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
