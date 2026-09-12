@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:25:31.960345+00:00",
+  "generated_at": "2026-09-12T20:27:31.112750+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -80,6 +80,30 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.5574,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
+          "published": "2026-09-12T16:00:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5574,
+          "label": "BULLISH",
+          "confidence": 0.5574
+        }
+      ],
+      "no_news": false
+    },
     "DOGE": {
       "article_count": 2,
       "avg_compound": -0.4665,
@@ -156,12 +180,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1963,
+      "article_count": 23,
+      "avg_compound": -0.2321,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 14,
-      "neutral": 3,
+      "bearish": 16,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -324,30 +348,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "Decrypt",
-      "title": "Sam Bankman-Fried Asks Supreme Court to Overturn FTX Fraud Conviction",
-      "summary": "SBF\u2019s lawyers say he was barred from arguing customers lost nothing, and call the $11 billion forfeiture an \"crushing fine.\"",
-      "url": "https://decrypt.co/377931/sam-bankman-fried-asks-supreme-court-to-overturn-ftx-fraud-conviction",
-      "published": "2026-09-11T09:04:11+00:00",
-      "coins": [],
-      "compound": -0.7351,
-      "label": "BEARISH",
-      "confidence": 0.7351
-    },
     {
       "source": "Decrypt",
       "title": "GTA Mod Adds Flock Cameras\u2014And Lets Players Destroy Them",
@@ -358,6 +361,17 @@
       "compound": -0.7269,
       "label": "BEARISH",
       "confidence": 0.7269
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
+      "summary": "Ben Delo and Christopher Harborne each gave \u00a336 million, and between them beat what every UK party raised last year.",
+      "url": "https://decrypt.co/378107/crypto-billionaires-hand-reform-uk-97m-in-record-donations",
+      "published": "2026-09-12T15:51:15+00:00",
+      "coins": [],
+      "compound": 0.7096,
+      "label": "BULLISH",
+      "confidence": 0.7096
     },
     {
       "source": "TheBlock",
@@ -391,6 +405,17 @@
       "compound": 0.6705,
       "label": "BULLISH",
       "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
+      "summary": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
+      "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
+      "published": "2026-09-12T16:01:04+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
@@ -482,39 +507,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Citadel urges SEC to assert oversight of event contracts tied to public firms",
-      "summary": "Citadel Securities urges SEC oversight of equity-linked event contracts, challenging CFTC self-certification.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
-      "published": "2026-09-10T13:43:09+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi wants 24/7 Tesla and Nvidia perps as Wall Street fights over who regulates them",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/11/kalshi-wants-24-7-tesla-and-nvidia-perps-as-wall-street-fights-over-who-regulates-them",
-      "published": "2026-09-11T06:17:31+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "Senate Republicans Release Revised Clarity Act Ahead of September 15 Vote",
-      "summary": "The draft adds registration requirements for controlled trading protocols and leaves its ethics provisions largely unchanged.",
-      "url": "https://decrypt.co/377928/senate-republicans-revised-clarity-act-draft",
-      "published": "2026-09-10T21:18:48+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
       "title": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
       "summary": "The integration will use Coinbase's Payments API and custodial wallets to embed stablecoin rails into Moov's existing payments platform.",
       "url": "https://www.theblock.co/news/business/2026-09-10-coinbase-moov-bring-stablecoin-payment-infrastructure-community-banks-credit-unions-414153",
@@ -559,6 +551,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Crypto billionaires Ben Delo and Christopher Harborne each donate \u00a336 million to Farage\u2019s Reform UK",
+      "summary": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at \u00a3100,000 a year.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
+      "published": "2026-09-12T16:18:05+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
       "title": "Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan",
       "summary": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
       "url": "https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265",
@@ -567,6 +570,17 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic CEO calls for AI race to slow down. Musk and OpenAI's Altman agrees",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
+      "published": "2026-09-12T18:43:33+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -580,15 +594,15 @@
       "confidence": 0.1655
     },
     {
-      "source": "TheBlock",
-      "title": "MoneyGram launches first stablecoin-backed Visa card in Colombia",
-      "summary": "MoneyGram has launched its first stablecoin-backed Visa card, developed with Rain and initially available in Colombia.",
-      "url": "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
-      "published": "2026-09-10T14:30:00+00:00",
+      "source": "CoinDesk",
+      "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+      "published": "2026-09-12T18:51:04+00:00",
       "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -607,28 +621,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
       "published": "2026-09-11T12:32:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement",
-      "published": "2026-09-11T05:13:15+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design\u2014at 1.4% of the Cost",
-      "summary": "OpenDesign put 13 AI models through the same design tasks. DeepSeek V4.1 Flash landed a point and a half behind GPT-6 Astra and roughly 70 times cheaper.",
-      "url": "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
-      "published": "2026-09-10T21:16:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
