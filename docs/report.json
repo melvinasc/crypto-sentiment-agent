@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:33:51.248123+00:00",
+  "generated_at": "2026-09-12T15:25:31.960345+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -80,31 +80,6 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.765,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
-          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
-          "published": "2026-09-11T17:40:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        }
-      ],
-      "no_news": false
-    },
     "DOGE": {
       "article_count": 2,
       "avg_compound": -0.4665,
@@ -142,12 +117,50 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.3825,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+          "published": "2026-09-11T17:40:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+          "summary": "",
+          "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+          "published": "2026-09-12T14:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.2316,
+      "article_count": 22,
+      "avg_compound": -0.1963,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 16,
+      "bearish": 14,
       "neutral": 3,
       "top_articles": [
         {
@@ -336,6 +349,17 @@
       "confidence": 0.7351
     },
     {
+      "source": "Decrypt",
+      "title": "GTA Mod Adds Flock Cameras\u2014And Lets Players Destroy Them",
+      "summary": "The surveillance mod on GTA V brings the privacy fight to Los Santos, where players can demolish the cameras tracking them.",
+      "url": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
+      "published": "2026-09-12T15:01:03+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
+    },
+    {
       "source": "TheBlock",
       "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
       "summary": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
@@ -356,6 +380,17 @@
       "compound": -0.6734,
       "label": "BEARISH",
       "confidence": 0.6734
+    },
+    {
+      "source": "Decrypt",
+      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+      "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
+      "url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+      "published": "2026-09-12T13:01:03+00:00",
+      "coins": [],
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
     },
     {
       "source": "TheBlock",
@@ -532,17 +567,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Wallet Rebrands to Chase 'Anything, Anywhere' Trading as Robinhood Chain Heats Up",
-      "summary": "Head of Product Ryan Kass says the return to Coinbase Wallet reflects a broader trading strategy, with the self-custody app serving as a testing ground for new assets and experiences.",
-      "url": "https://decrypt.co/377601/coinbase-wallet-rebrand-robinhood-chain",
-      "published": "2026-09-10T18:51:04+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
