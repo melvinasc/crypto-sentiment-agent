@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:51:34.707570+00:00",
+  "generated_at": "2026-09-12T04:18:46.033932+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -80,6 +80,31 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.765,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+          "published": "2026-09-11T17:40:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        }
+      ],
+      "no_news": false
+    },
     "DOGE": {
       "article_count": 2,
       "avg_compound": -0.4665,
@@ -118,11 +143,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.23,
+      "article_count": 23,
+      "avg_compound": -0.2187,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 16,
+      "bearish": 15,
       "neutral": 3,
       "top_articles": [
         {
@@ -140,19 +165,6 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "The Quantum Issue: WTF Is Quantum Computing?",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Quantum-Issue-Article-Header-2400x1400-WTF-is-Quantum-Computing.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing\" rel=\"nofollow\">The Quantum Issue: WTF Is Quantum Computing?</a></p>\n<p>From The Quantum Issue: A high level look at quantum computer, what it even is, and how it is different from conventional computing. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing\" rel=\"nofollow\">The Quantum Issue: WTF Is Quantum Computing?</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/shinobi\" rel=\"nofollow\">Shinobi</a>.</p>",
-          "url": "https://bitcoinmagazine.com/print/the-quantum-issue-wtf-is-quantum-computing",
-          "published": "2026-09-10T13:00:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9586,
-          "label": "BEARISH",
-          "confidence": 0.9586
-        },
-        {
-          "source": "Bitcoin Magazine",
           "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty\" rel=\"nofollow\">Ringleader of $245M Crypto Theft Pleads Guilty\u00a0</a></p>\n<p>The 22-year-old criminal ringleader led one of the biggest bitcoin heists in U.S. history. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty\" rel=\"nofollow\">Ringleader of $245M Crypto Theft Pleads Guilty\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
@@ -163,6 +175,19 @@
           "compound": -0.9287,
           "label": "BEARISH",
           "confidence": 0.9287
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-19.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin\" rel=\"nofollow\">Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft</a></p>\n<p>White hat hackers targeted Blocksteam's Liquid sidechain, taking over 4,000 bitcoins. They want to keep some of the bitcoins as a reward. Blockstream isn't happy. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin\" rel=\"nofollow\">Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
+          "published": "2026-09-11T21:13:48+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8885,
+          "label": "BEARISH",
+          "confidence": 0.8885
         }
       ],
       "no_news": false
@@ -187,45 +212,6 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.1442,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
-          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
-          "published": "2026-09-11T17:40:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        },
-        {
-          "source": "TheBlock",
-          "title": "Researchers halve quantum resource benchmark for key operation in Bitcoin, Ethereum attack",
-          "summary": "The resulting benchmark is less than half Google's previously reported level, though the two approaches use different accounting methods.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-10-researchers-halve-quantum-resource-benchmark-for-key-operation-in-bitcoin-ethereum-attack-414121",
-          "published": "2026-09-10T13:00:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4767,
-          "label": "BEARISH",
-          "confidence": 0.4767
         }
       ],
       "no_news": false
@@ -365,6 +351,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
+      "summary": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
+      "url": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
+      "published": "2026-09-11T21:37:02+00:00",
+      "coins": [],
+      "compound": 0.6808,
+      "label": "BULLISH",
+      "confidence": 0.6808
+    },
+    {
+      "source": "TheBlock",
       "title": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
       "summary": "ESMA says major prediction platforms lack EU authorization, while questioning Polymarket and Kalshi's geographic restrictions.",
       "url": "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239",
@@ -441,6 +438,17 @@
       "confidence": 0.5023
     },
     {
+      "source": "Decrypt",
+      "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+      "summary": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
+      "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+      "published": "2026-09-11T21:45:05+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
       "source": "TheBlock",
       "title": "Senate Republicans unveil revised crypto bill ahead of key Clarity Act vote next week",
       "summary": "Ahead of a pivotal initial vote next week, Senate Republicans released a revised version of landmark cryptocurrency legislation.",
@@ -485,17 +493,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-      "published": "2026-09-10T20:21:57+00:00",
-      "coins": [],
-      "compound": 0.3919,
-      "label": "BULLISH",
-      "confidence": 0.3919
-    },
-    {
       "source": "TheBlock",
       "title": "Coinbase, Moov to bring stablecoin payment infrastructure to community banks and credit unions",
       "summary": "The integration will use Coinbase's Payments API and custodial wallets to embed stablecoin rails into Moov's existing payments platform.",
@@ -529,6 +526,17 @@
       "confidence": 0.3612
     },
     {
+      "source": "CoinDesk",
+      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+      "published": "2026-09-11T23:47:51+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
       "source": "TheBlock",
       "title": "Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan",
       "summary": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
@@ -538,17 +546,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Banks Have Minutes, Not Weeks, to Fix Flaws as AI Speeds Up Attacks: BIS",
-      "summary": "The Bank for International Settlements says routine patching schedules are increasingly inadequate and cites guidance urging banks to accept planned downtime for urgent fixes.",
-      "url": "https://decrypt.co/377902/ai-hacks-shrinking-bank-time-fix-flaws-bis",
-      "published": "2026-09-10T18:13:13+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
     },
     {
       "source": "Decrypt",
