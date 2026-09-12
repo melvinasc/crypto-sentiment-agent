@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:18:46.033932+00:00",
+  "generated_at": "2026-09-12T10:33:51.248123+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -143,11 +143,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2187,
+      "article_count": 24,
+      "avg_compound": -0.2316,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 15,
+      "bearish": 16,
       "neutral": 3,
       "top_articles": [
         {
@@ -188,30 +188,6 @@
           "compound": -0.8885,
           "label": "BEARISH",
           "confidence": 0.8885
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-          "published": "2026-09-11T04:25:21+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -327,6 +303,16 @@
       "no_news": true
     },
     "TRX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
