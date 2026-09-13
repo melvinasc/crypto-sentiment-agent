@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T11:36:38.200268+00:00",
+  "generated_at": "2026-09-13T16:05:00.071588+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -102,11 +102,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2173,
+      "article_count": 22,
+      "avg_compound": -0.1949,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 16,
+      "bearish": 15,
       "neutral": 2,
       "top_articles": [
         {
@@ -393,17 +393,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Metaplanet cuts executive reward pool by 41%, extinguishes $220 million in value",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
-      "published": "2026-09-11T13:46:51+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
       "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
@@ -467,6 +456,17 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Clarity Act is a Schr\u00f6dinger's cat in life-death limbo as U.S. Senate returns",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "published": "2026-09-13T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -547,6 +547,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "published": "2026-09-13T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take \u2018years to build\u2019",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "published": "2026-09-13T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "OpenAI IPO won't happen this year, says Sam Altman",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
@@ -568,22 +590,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
-      "published": "2026-09-11T13:32:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Core CPI rose a faster-than-forecast 0.3% in August, setting up possible Fed rate hike",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/11/core-cpi-rose-a-faster-than-forecast-0-3-in-august-setting-up-fed-rate-hike",
-      "published": "2026-09-11T12:32:25+00:00",
+      "source": "Decrypt",
+      "title": "AI Agents Spending Money Online? New Research Says Not Really",
+      "summary": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn\u2019t coming from AI agents, it says.",
+      "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
+      "published": "2026-09-13T13:01:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
