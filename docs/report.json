@@ -1,51 +1,106 @@
 {
-  "generated_at": "2026-09-14T04:38:03.736301+00:00",
+  "generated_at": "2026-09-14T12:30:41.731936+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
+    "ETH": {
       "article_count": 1,
-      "avg_compound": 0.5574,
+      "avg_compound": 0.765,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Ripple stablecoin chief sees $13 trillion corporate treasury opportunity for RLUSD",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/12/ripple-stablecoin-chief-sees-usd13-trillion-corporate-treasury-opportunity-for-rlusd",
-          "published": "2026-09-12T16:00:00+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+          "published": "2026-09-11T17:40:54+00:00",
           "coins": [
-            "XRP"
+            "BTC",
+            "ETH"
           ],
-          "compound": 0.5574,
+          "compound": 0.765,
           "label": "BULLISH",
-          "confidence": 0.5574
+          "confidence": 0.765
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.34,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+          "published": "2026-09-14T12:08:35+00:00",
+          "coins": [
+            "DOGE",
+            "XRP",
+            "SOL"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.34,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+          "published": "2026-09-14T12:08:35+00:00",
+          "coins": [
+            "DOGE",
+            "XRP",
+            "SOL"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "DOGE": {
       "article_count": 2,
-      "avg_compound": -0.4665,
+      "avg_compound": -0.318,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
-          "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
-          "url": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
-          "published": "2026-09-10T20:28:46+00:00",
+          "source": "CoinDesk",
+          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
+          "published": "2026-09-14T12:08:35+00:00",
           "coins": [
-            "DOGE"
+            "DOGE",
+            "XRP",
+            "SOL"
           ],
-          "compound": -0.6369,
+          "compound": -0.34,
           "label": "BEARISH",
-          "confidence": 0.6369
+          "confidence": 0.34
         },
         {
           "source": "Decrypt",
@@ -63,51 +118,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.3825,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
-          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
-          "published": "2026-09-11T17:40:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-          "summary": "",
-          "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
-          "published": "2026-09-12T14:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2205,
+      "article_count": 24,
+      "avg_compound": -0.0503,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 16,
-      "neutral": 2,
+      "bullish": 10,
+      "bearish": 11,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -251,16 +268,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -303,6 +310,28 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Bernstein sees more Clarity Act progress than markets expected, says \u2018any positive surprise is definitely not priced in\u2019",
+      "summary": "The analysts argued crypto markets currently have a bearish bias ahead of Tuesday's cloture vote and Wednesday's Federal Reserve decision.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593",
+      "published": "2026-09-14T09:36:08+00:00",
+      "coins": [],
+      "compound": 0.8899,
+      "label": "BULLISH",
+      "confidence": 0.8899
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
+      "published": "2026-09-14T12:07:19+00:00",
+      "coins": [],
+      "compound": 0.7717,
+      "label": "BULLISH",
+      "confidence": 0.7717
+    },
     {
       "source": "Decrypt",
       "title": "GTA Mod Adds Flock Cameras\u2014And Lets Players Destroy Them",
@@ -348,17 +377,6 @@
       "confidence": 0.6808
     },
     {
-      "source": "TheBlock",
-      "title": "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi\u2019s partial geo-blocks",
-      "summary": "ESMA says major prediction platforms lack EU authorization, while questioning Polymarket and Kalshi's geographic restrictions.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239",
-      "published": "2026-09-11T10:10:37+00:00",
-      "coins": [],
-      "compound": -0.6734,
-      "label": "BEARISH",
-      "confidence": 0.6734
-    },
-    {
       "source": "Decrypt",
       "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
       "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
@@ -381,28 +399,6 @@
       "confidence": 0.6369
     },
     {
-      "source": "TheBlock",
-      "title": "Sam Bankman-Fried asks Supreme Court to overturn fraud conviction and $11 billion forfeiture",
-      "summary": "Bankman-Fried says he was unfairly barred from providing evidence that FTX had more than enough assets to cover losses from the collapse.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-11-sam-bankman-fried-supreme-court-petition-414226",
-      "published": "2026-09-11T04:20:15+00:00",
-      "coins": [],
-      "compound": -0.6293,
-      "label": "BEARISH",
-      "confidence": 0.6293
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic CEO calls for AI race to slow down citing safety. Musk and OpenAI's Altman agrees",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/12/anthropic-ceo-calls-for-ai-race-to-slow-down-musk-and-openai-s-altman-agrees",
-      "published": "2026-09-12T18:43:33+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
       "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
@@ -412,17 +408,6 @@
       "compound": 0.5574,
       "label": "BULLISH",
       "confidence": 0.5574
-    },
-    {
-      "source": "Decrypt",
-      "title": "EU Regulator Says Prediction Markets Are 'Rife With Inside Trading'",
-      "summary": "ESMA also asks why Kalshi and Polymarket block some EU countries but not others, and notes VPNs get around the blocks.",
-      "url": "https://decrypt.co/377947/eu-regulator-says-prediction-markets-are-rife-with-inside-trading",
-      "published": "2026-09-11T12:06:24+00:00",
-      "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -437,17 +422,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's Clarity Act is a Schr\u00f6dinger's cat in life-death limbo as U.S. Senate returns",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "published": "2026-09-13T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
       "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
@@ -456,28 +430,6 @@
       "compound": -0.3818,
       "label": "BEARISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The legal drama of imprisoned Sam Bankman-Fried is waiting on its last act",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/the-legal-drama-of-imprisoned-sam-bankman-fried-is-waiting-on-its-last-act",
-      "published": "2026-09-11T17:12:45+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-      "published": "2026-09-11T23:47:51+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -503,6 +455,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
+      "summary": "A petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
+      "published": "2026-09-14T08:31:06+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
       "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
       "summary": "Reuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
       "url": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
@@ -522,6 +485,61 @@
       "compound": 0.1655,
       "label": "BULLISH",
       "confidence": 0.1655
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto\u2019s Clarity Act heads into a make-or-break week with no clear outcome",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
+      "published": "2026-09-13T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.1321,
+      "label": "BULLISH",
+      "confidence": 0.1321
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
+      "published": "2026-09-14T11:58:28+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
+      "published": "2026-09-14T11:15:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "published": "2026-09-14T09:43:45+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
+      "published": "2026-09-14T09:29:57+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -568,11 +586,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
-      "published": "2026-09-12T18:51:04+00:00",
+      "source": "Decrypt",
+      "title": "India Begins Tokenizing Its $620 Billion Corporate Bond Market",
+      "summary": "SEBI and the RBI's \"Demat 2.0\" pilot issues corporate bonds as digital tokens and settles them with the wholesale digital rupee, with three companies already raising about $107 million.",
+      "url": "https://decrypt.co/378120/india-begins-tokenizing-its-620-billion-corporate-bond-market",
+      "published": "2026-09-14T11:01:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
