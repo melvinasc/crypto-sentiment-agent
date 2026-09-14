@@ -1,33 +1,8 @@
 {
-  "generated_at": "2026-09-14T12:30:41.731936+00:00",
+  "generated_at": "2026-09-14T21:44:07.346857+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.765,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
-          "url": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
-          "published": "2026-09-11T17:40:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.765,
-          "label": "BULLISH",
-          "confidence": 0.765
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
+    "DOGE": {
       "article_count": 1,
       "avg_compound": -0.34,
       "overall": "BEARISH",
@@ -79,14 +54,78 @@
       ],
       "no_news": false
     },
-    "DOGE": {
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.1932,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+          "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
+          "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+          "published": "2026-09-14T16:02:25+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+          "summary": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
+          "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+          "published": "2026-09-14T18:01:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
+          "published": "2026-09-14T12:58:42+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
       "article_count": 2,
-      "avg_compound": -0.318,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
+      "avg_compound": 0.0594,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM",
+          "summary": "The Solana treasury company established a $300 million at-the-market offering for its CHAD perpetual preferred stock.",
+          "url": "https://www.theblock.co/news/markets/2026-09-14-defi-development-corp-expands-solana-treasury-2-39-million-sol-sets-300-million-chad-atm-414633",
+          "published": "2026-09-14T14:40:16+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
         {
           "source": "CoinDesk",
           "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
@@ -101,56 +140,30 @@
           "compound": -0.34,
           "label": "BEARISH",
           "confidence": 0.34
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitwise to Close Dogecoin ETF Before Its First Anniversary",
-          "summary": "BWOW will stop trading October 14, with cash payments to remaining shareholders expected October 22.",
-          "url": "https://decrypt.co/377973/bitwise-shuts-dogecoin-etf",
-          "published": "2026-09-11T16:16:05+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0503,
+      "article_count": 20,
+      "avg_compound": -0.0556,
       "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 11,
-      "neutral": 3,
+      "bullish": 8,
+      "bearish": 10,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Suffers On Renewed US-Iran Fighting",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting\" rel=\"nofollow\">Bitcoin Suffers On Renewed US-Iran Fighting\u00a0</a></p>\n<p>Bitcoin has stumbled on tensions flaring up in the Middle East again. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting\" rel=\"nofollow\">Bitcoin Suffers On Renewed US-Iran Fighting\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-on-us-iran-fighting",
-          "published": "2026-09-10T16:31:42+00:00",
+          "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/09/Senator-Cynthia-Lummis-Senate-Banking-Committee.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act\" rel=\"nofollow\">Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote</a></p>\n<p>Pro-crypto Cynthia Lummis says the Clarity Act has led to the \"toughest ethics reform\" the U.S. has had. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act\" rel=\"nofollow\">Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
+          "published": "2026-09-14T18:29:29+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9657,
-          "label": "BEARISH",
-          "confidence": 0.9657
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ringleader of $245M Crypto Theft Pleads Guilty",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty\" rel=\"nofollow\">Ringleader of $245M Crypto Theft Pleads Guilty\u00a0</a></p>\n<p>The 22-year-old criminal ringleader led one of the biggest bitcoin heists in U.S. history. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty\" rel=\"nofollow\">Ringleader of $245M Crypto Theft Pleads Guilty\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ringleader-in-bitcoin-theft-guilty",
-          "published": "2026-09-10T22:24:40+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9287,
-          "label": "BEARISH",
-          "confidence": 0.9287
+          "compound": 0.9201,
+          "label": "BULLISH",
+          "confidence": 0.9201
         },
         {
           "source": "Bitcoin Magazine",
@@ -164,6 +177,19 @@
           "compound": -0.8885,
           "label": "BEARISH",
           "confidence": 0.8885
+        },
+        {
+          "source": "TheBlock",
+          "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed \u2018MORE\u2019 preferred IPO",
+          "summary": "TD Cowen raised its Smarter Web price target after its proposed MORE preferred IPO, citing broader funding options and capital efficiency.",
+          "url": "https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590",
+          "published": "2026-09-14T09:29:39+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8519,
+          "label": "BULLISH",
+          "confidence": 0.8519
         }
       ],
       "no_news": false
@@ -333,11 +359,33 @@
       "confidence": 0.7717
     },
     {
+      "source": "TheBlock",
+      "title": "White House crypto adviser feels \u2018very good\u2019 ahead of Senate Clarity Act vote on Tuesday",
+      "summary": "The White House's top crypto advisor says he feels \"very good\" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702",
+      "published": "2026-09-14T19:29:41+00:00",
+      "coins": [],
+      "compound": 0.7713,
+      "label": "BULLISH",
+      "confidence": 0.7713
+    },
+    {
       "source": "Decrypt",
-      "title": "GTA Mod Adds Flock Cameras\u2014And Lets Players Destroy Them",
-      "summary": "The surveillance mod on GTA V brings the privacy fight to Los Santos, where players can demolish the cameras tracking them.",
-      "url": "https://decrypt.co/377997/gta-mod-flock-cameras-players-destroy",
-      "published": "2026-09-12T15:01:03+00:00",
+      "title": "Morning Minute: Clarity Act Odds Soar as Trump Agrees to Ethics Provisions",
+      "summary": "What had been written off is now very back alive ahead of a key vote on Tuesday, followed by a pivotal FOMC on Wednesday. Big week ahead...",
+      "url": "https://decrypt.co/378122/morning-minute-clarity-act-odds-soar-trump-ethics",
+      "published": "2026-09-14T14:37:21+00:00",
+      "coins": [],
+      "compound": 0.749,
+      "label": "BULLISH",
+      "confidence": 0.749
+    },
+    {
+      "source": "Decrypt",
+      "title": "MetaMask Adds New Wallet Protections Against Crypto Scams",
+      "summary": "MetaMask\u2019s latest safeguards flag suspicious transfers and stop transactions that don\u2019t match their previews.",
+      "url": "https://decrypt.co/378117/metamask-adds-wallet-protections",
+      "published": "2026-09-14T14:01:04+00:00",
       "coins": [],
       "compound": -0.7269,
       "label": "BEARISH",
@@ -356,21 +404,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Billionaires Hand Reform UK $97M in Record Donations",
-      "summary": "Ben Delo and Christopher Harborne each gave \u00a336 million, and between them beat what every UK party raised last year.",
-      "url": "https://decrypt.co/378107/crypto-billionaires-hand-reform-uk-97m-in-record-donations",
-      "published": "2026-09-12T15:51:15+00:00",
-      "coins": [],
-      "compound": 0.7096,
-      "label": "BULLISH",
-      "confidence": 0.7096
-    },
-    {
-      "source": "TheBlock",
-      "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
-      "summary": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
-      "url": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
-      "published": "2026-09-11T21:37:02+00:00",
+      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
+      "summary": "Aboard Air Force One, the president threw his support behind the AI-powered license plate readers that have drawn a Senate investigation and a pledged bill from Bernie Sanders.",
+      "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
+      "published": "2026-09-14T20:07:41+00:00",
       "coins": [],
       "compound": 0.6808,
       "label": "BULLISH",
@@ -378,80 +415,113 @@
     },
     {
       "source": "Decrypt",
-      "title": "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
-      "summary": "OpenAI's new image model promises sharper detail and more precise editing. We ran it against Google's Nano Banana 2 across six categories to see how it compares.",
-      "url": "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
-      "published": "2026-09-12T13:01:03+00:00",
+      "title": "Why Trump Backed Tougher Ethics Rules in Clarity Act, and Why the Crypto Industry Thinks It Can Pass",
+      "summary": "Republicans' \"last, best and final offer\" wins Trump's backing on stronger ethics rules and concedes on DeFi and stablecoin sticking points, but it's unclear if enough Democrats will cross over Tuesday.",
+      "url": "https://decrypt.co/378125/clarity-act-crypto-ethics-trump-key-vote",
+      "published": "2026-09-14T15:22:51+00:00",
       "coins": [],
-      "compound": 0.6705,
+      "compound": 0.6757,
       "label": "BULLISH",
-      "confidence": 0.6705
+      "confidence": 0.6757
     },
     {
-      "source": "Decrypt",
-      "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-      "summary": "A week after launch, complaints are rolling in from users that GPT-6 Astra has been nerfed. OpenAI's last model went through the same cycle in July.",
-      "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
-      "published": "2026-09-12T16:01:04+00:00",
+      "source": "TheBlock",
+      "title": "Where the Clarity Act stands ahead of Tuesday\u2019s Senate vote",
+      "summary": "The Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
+      "published": "2026-09-14T21:32:37+00:00",
       "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Asks Congress Whether an AI Slowdown Would Be Legal",
-      "summary": "The company is seeking clarity on antitrust rules as researchers call for restraint and experts warn that competition encourages companies to overlook risks.",
-      "url": "https://decrypt.co/377990/openai-congress-ai-slowdown-legal",
-      "published": "2026-09-11T18:16:04+00:00",
-      "coins": [],
-      "compound": 0.5574,
+      "compound": 0.6597,
       "label": "BULLISH",
-      "confidence": 0.5574
+      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
-      "title": "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
-      "summary": "Greenberg Traurig said documents were posted to the dark web, while BakerHostetler recorded a near-doubling of law-firm incidents in 2025.",
-      "url": "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
-      "published": "2026-09-11T21:45:05+00:00",
+      "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
+      "summary": "Ethics and banking concessions have improved the crypto bill\u2019s prospects, analysts say, but Democratic support remains uncertain.",
+      "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
+      "published": "2026-09-14T17:25:06+00:00",
       "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
+      "compound": 0.6335,
+      "label": "BULLISH",
+      "confidence": 0.6335
     },
     {
       "source": "CoinDesk",
-      "title": "Is Clarity dead? A vibes-based analysis: State of Crypto",
+      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-      "published": "2026-09-13T18:45:08+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
+      "published": "2026-09-14T14:27:48+00:00",
       "coins": [],
-      "compound": -0.3818,
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
+      "published": "2026-09-14T19:21:58+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
+      "published": "2026-09-14T17:51:20+00:00",
+      "coins": [],
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
+      "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
+      "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
+      "published": "2026-09-14T18:26:04+00:00",
+      "coins": [],
+      "compound": -0.4767,
       "label": "BEARISH",
-      "confidence": 0.3818
+      "confidence": 0.4767
     },
     {
       "source": "TheBlock",
-      "title": "Crypto billionaires Ben Delo and Christopher Harborne each donate \u00a336 million to Farage\u2019s Reform UK",
-      "summary": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at \u00a3100,000 a year.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
-      "published": "2026-09-12T16:18:05+00:00",
+      "title": "Robinhood Chain\u2019s rapid growth is being driven by 4 key factors, analyst says",
+      "summary": "The chain\u2019s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.",
+      "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
+      "published": "2026-09-14T20:21:52+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.4588,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Don\u2019t let perfect be the enemy of Clarity",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
+      "published": "2026-09-14T14:34:56+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "TheBlock",
-      "title": "Metaplanet reverses course on executive options with 41% cut to potential shares, scraps employee warrant plan",
-      "summary": "The changes come amid a bruising stretch for Metaplanet shares, as stock fell about 17% over two trading sessions this week.",
-      "url": "https://www.theblock.co/news/business/2026-09-11-metaplanet-reverses-course-executive-options-41-cut-potential-shares-scraps-employee-warrant-plan-414265",
-      "published": "2026-09-11T15:45:25+00:00",
+      "title": "NY Attorney General James leads bipartisan push against the Clarity Act ahead of initial Senate vote",
+      "summary": "New York Attorney General Letitia James led a group of 17 bipartisan attorneys general urging lawmakers to vote against crypto legislation.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-14-ny-attorney-general-james-bipartisan-push-against-clarity-act-initial-senate-vote-414635",
+      "published": "2026-09-14T14:43:34+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -465,11 +535,22 @@
       "confidence": 0.2732
     },
     {
-      "source": "TheBlock",
-      "title": "Mexican authorities raid hidden crypto mine, suspecting power theft and money laundering",
-      "summary": "Reuters reported that the site was the fourth crypto farm discovered in the area since early 2025, near a local hydroelectric dam.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-13-mexican-authorities-raid-hidden-crypto-mine-suspecting-power-theft-and-money-laundering-414564",
-      "published": "2026-09-13T18:29:23+00:00",
+      "source": "CoinDesk",
+      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
+      "published": "2026-09-14T15:10:29+00:00",
+      "coins": [],
+      "compound": 0.2144,
+      "label": "BULLISH",
+      "confidence": 0.2144
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
+      "published": "2026-09-14T21:05:13+00:00",
       "coins": [],
       "compound": -0.1779,
       "label": "BEARISH",
@@ -477,25 +558,58 @@
     },
     {
       "source": "Decrypt",
-      "title": "Robinhood Crypto Trading Volume Jumps 61% in August",
-      "summary": "Fresh operating data shows crypto trading bouncing back, but the company's fastest-growing business these days isn't traditional trading at all.",
-      "url": "https://decrypt.co/377982/robinhoods-crypto-volume-jumps-august",
-      "published": "2026-09-11T17:22:39+00:00",
+      "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
+      "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
+      "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
+      "published": "2026-09-14T21:16:04+00:00",
       "coins": [],
-      "compound": 0.1655,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.1655
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto\u2019s Clarity Act heads into a make-or-break week with no clear outcome",
+      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
-      "published": "2026-09-13T12:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
+      "published": "2026-09-14T14:06:28+00:00",
       "coins": [],
-      "compound": 0.1321,
+      "compound": 0.128,
       "label": "BULLISH",
-      "confidence": 0.1321
+      "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
+      "published": "2026-09-14T18:34:09+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
+      "published": "2026-09-14T15:57:01+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
+      "published": "2026-09-14T14:37:56+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -509,77 +623,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto market outperforms as call for slower AI development weighs on tech stocks",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/14/crypto-market-outperforms-as-call-for-slower-ai-development-weighs-on-tech-stocks",
-      "published": "2026-09-14T11:15:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "published": "2026-09-14T09:43:45+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed, BOE, BOJ interest-rate decisions: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/14/fed-boe-boj-interest-rate-decisions-crypto-week-ahead",
-      "published": "2026-09-14T09:29:57+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum-proof blockchain: why math, not machines, holds the key",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/13/quantum-proof-blockchain-why-math-not-machines-holds-the-key",
-      "published": "2026-09-13T17:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
-      "published": "2026-09-13T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle's $400M Tazapay deal buys emerging market links that take \u2018years to build\u2019",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-      "published": "2026-09-13T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI IPO won't happen this year, says Sam Altman",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
-      "published": "2026-09-12T21:09:31+00:00",
+      "source": "Decrypt",
+      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
+      "summary": "Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.",
+      "url": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
+      "published": "2026-09-14T19:07:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -609,21 +657,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "\u2018DeFi\u2019s federal bank\u2019: Standard Chartered sees SKY token rising fivefold by end-2028",
-      "summary": "Standard Chartered Bank has initiated coverage of Sky, calling it \"DeFi's federal bank,\" and expects SKY to rise $0.325 by 2028.",
-      "url": "https://www.theblock.co/news/markets/2026-09-11-standard-chartered-sky-token-defi-federal-bank-414280",
-      "published": "2026-09-11T16:48:11+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "India\u2019s SEBI Demat 2.0 pilot debuts with over $100 million in tokenized bonds",
-      "summary": "India's SEBI Demat 2.0 pilot saw three issuers raise over $100 million in tokenized corporate bonds, with settlement via wholesale CBDC.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252",
-      "published": "2026-09-11T12:09:12+00:00",
+      "title": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million",
+      "summary": "BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.",
+      "url": "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618",
+      "published": "2026-09-14T13:13:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
