@@ -1,116 +1,13 @@
 {
-  "generated_at": "2026-09-14T21:44:07.346857+00:00",
+  "generated_at": "2026-09-15T04:38:34.709092+00:00",
   "total_articles": 55,
   "coins": {
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-          "published": "2026-09-14T12:08:35+00:00",
-          "coins": [
-            "DOGE",
-            "XRP",
-            "SOL"
-          ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-          "published": "2026-09-14T12:08:35+00:00",
-          "coins": [
-            "DOGE",
-            "XRP",
-            "SOL"
-          ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.1932,
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.3994,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-          "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
-          "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-          "published": "2026-09-14T16:02:25+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
-          "summary": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
-          "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
-          "published": "2026-09-14T18:01:35+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitmine adds $68 million in ether as Tom Lee sees more upside catalysts ahead",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/14/bitmine-adds-usd68-million-in-ether-as-tom-lee-sees-more-upside-catalysts-ahead",
-          "published": "2026-09-14T12:58:42+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.0594,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
@@ -128,29 +25,80 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+          "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/14/dogecoin-etfs-struggled-for-buyers-while-rival-xrp-and-solana-funds-pulled-in-usd3-billion",
-          "published": "2026-09-14T12:08:35+00:00",
+          "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+          "published": "2026-09-15T04:34:10+00:00",
           "coins": [
-            "DOGE",
-            "XRP",
-            "SOL"
+            "SOL",
+            "ETH"
           ],
-          "compound": -0.34,
-          "label": "BEARISH",
+          "compound": 0.34,
+          "label": "BULLISH",
           "confidence": 0.34
         }
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": 0.1969,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
+          "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
+          "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
+          "published": "2026-09-14T16:02:25+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
+          "published": "2026-09-15T04:34:10+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
+          "summary": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
+          "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
+          "published": "2026-09-14T18:01:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0556,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 10,
-      "neutral": 2,
+      "article_count": 18,
+      "avg_compound": 0.045,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -194,6 +142,30 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
+          "summary": "Prosecutors alleged that two Chinese companies used Binance to launder those funds to Iran and its proxies.",
+          "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768",
+          "published": "2026-09-15T04:01:48+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -214,7 +186,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "BNB": {
+    "DAI": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -224,7 +196,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DAI": {
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -333,6 +305,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -346,17 +328,6 @@
       "compound": 0.8899,
       "label": "BULLISH",
       "confidence": 0.8899
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump agrees to stricter ethics rules to save Clarity Act crypto bill: AP",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/trump-agrees-to-stricter-ethics-rules-to-save-clarity-act-crypto-bill-ap",
-      "published": "2026-09-14T12:07:19+00:00",
-      "coins": [],
-      "compound": 0.7717,
-      "label": "BULLISH",
-      "confidence": 0.7717
     },
     {
       "source": "TheBlock",
@@ -389,17 +360,6 @@
       "coins": [],
       "compound": -0.7269,
       "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
-      "source": "TheBlock",
-      "title": "Senate Republicans release \u2018final\u2019 Clarity Act draft as Trump accepts most ethics provisions",
-      "summary": "President Donald Trump agreed to ethics restrictions on the bill, which would limit officials and their spouses from crypto-related dealings.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-senate-republicans-release-final-clarity-act-draft-414575",
-      "published": "2026-09-14T04:24:37+00:00",
-      "coins": [],
-      "compound": 0.7269,
-      "label": "BULLISH",
       "confidence": 0.7269
     },
     {
@@ -437,6 +397,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
+      "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
+      "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
+      "published": "2026-09-14T21:46:04+00:00",
+      "coins": [],
+      "compound": 0.6527,
+      "label": "BULLISH",
+      "confidence": 0.6527
+    },
+    {
+      "source": "Decrypt",
       "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
       "summary": "Ethics and banking concessions have improved the crypto bill\u2019s prospects, analysts say, but Democratic support remains uncertain.",
       "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
@@ -445,17 +416,6 @@
       "compound": 0.6335,
       "label": "BULLISH",
       "confidence": 0.6335
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here is the revised Clarity Act ethics provision Donald Trump has agreed to",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/here-is-the-revised-clarity-act-ethics-provision-donald-trump-has-agreed-to",
-      "published": "2026-09-14T14:27:48+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
     },
     {
       "source": "CoinDesk",
@@ -503,6 +463,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
+      "published": "2026-09-14T22:34:18+00:00",
+      "coins": [],
+      "compound": 0.4522,
+      "label": "BULLISH",
+      "confidence": 0.4522
+    },
+    {
+      "source": "CoinDesk",
       "title": "Don\u2019t let perfect be the enemy of Clarity",
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
@@ -511,6 +482,17 @@
       "compound": 0.4404,
       "label": "BULLISH",
       "confidence": 0.4404
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/15/democrats-send-counteroffer-to-republicans-over-clarity-act-provisions",
+      "published": "2026-09-15T04:09:01+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -522,6 +504,28 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Even if Clarity fails, Wall Street\u2019s crypto push is unlikely to stop",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
+      "published": "2026-09-14T23:43:28+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week",
+      "published": "2026-09-15T03:27:38+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -547,6 +551,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
+      "published": "2026-09-14T23:30:40+00:00",
+      "coins": [],
+      "compound": 0.1901,
+      "label": "BULLISH",
+      "confidence": 0.1901
+    },
+    {
+      "source": "CoinDesk",
       "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
@@ -566,17 +581,6 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kaiko extends Series B funding round to $110 million with S&P Global, BNP Paribas",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/kaiko-extends-series-b-funding-round-to-usd110-million-with-s-and-p-global-bnp-paribas",
-      "published": "2026-09-14T14:06:28+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -606,17 +610,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
       "published": "2026-09-14T14:37:56+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "FCA considers exempting tokenized gold from fund rules to defend London market",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/fca-considers-exempting-tokenized-gold-from-fund-rules-to-defend-london-market",
-      "published": "2026-09-14T11:58:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
