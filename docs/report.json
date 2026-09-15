@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-15T16:47:44.741377+00:00",
+  "generated_at": "2026-09-15T21:10:19.381918+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
+    "XRP": {
       "article_count": 2,
-      "avg_compound": 0.4646,
+      "avg_compound": 0.44,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
@@ -26,26 +26,26 @@
           "confidence": 0.7269
         },
         {
-          "source": "Decrypt",
-          "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-          "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
-          "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
-          "published": "2026-09-15T11:01:04+00:00",
+          "source": "CoinDesk",
+          "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+          "published": "2026-09-15T11:00:00+00:00",
           "coins": [
-            "SOL"
+            "XRP"
           ],
-          "compound": 0.2023,
+          "compound": 0.1531,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.1531
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.3987,
+      "article_count": 4,
+      "avg_compound": 0.4049,
       "overall": "BULLISH",
-      "bullish": 5,
+      "bullish": 3,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
@@ -79,24 +79,24 @@
           "confidence": 0.6808
         },
         {
-          "source": "Decrypt",
-          "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
-          "summary": "The purchase brings the company closer to its goal of owning 5% of Ethereum\u2019s supply, with most of its tokens earning staking rewards.",
-          "url": "https://decrypt.co/378132/bitmine-adds-68-million-ethereum",
-          "published": "2026-09-14T16:02:25+00:00",
+          "source": "TheBlock",
+          "title": "Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum",
+          "summary": "Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.",
+          "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
+          "published": "2026-09-15T07:05:03+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.4767,
+          "compound": 0.34,
           "label": "BULLISH",
-          "confidence": 0.4767
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "SOL": {
       "article_count": 3,
-      "avg_compound": 0.2933,
+      "avg_compound": 0.3097,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
@@ -118,26 +118,26 @@
           "confidence": 0.7269
         },
         {
-          "source": "CoinDesk",
-          "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
-          "published": "2026-09-15T11:00:00+00:00",
+          "source": "Decrypt",
+          "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+          "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+          "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+          "published": "2026-09-15T11:01:04+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
-          "compound": 0.1531,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.1531
+          "confidence": 0.2023
         },
         {
           "source": "CoinDesk",
-          "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+          "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
-          "published": "2026-09-15T05:58:41+00:00",
+          "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+          "published": "2026-09-15T18:02:05+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -147,12 +147,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.093,
+      "article_count": 18,
+      "avg_compound": 0.0558,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 7,
-      "neutral": 3,
+      "bullish": 8,
+      "bearish": 8,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -169,6 +169,19 @@
         },
         {
           "source": "Bitcoin Magazine",
+          "title": "Senate Blocks Clarity Act, Likely Killing It for 2026",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-Now-Reviewing-Crypto-Clarity-Act-Ethics-Text-Ahead-of-August-Deadline.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a></p>\n<p>In a blow to the digital asset industry, lawmakers blocked the landmark crypto legislation. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
+          "published": "2026-09-15T19:58:39+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9186,
+          "label": "BEARISH",
+          "confidence": 0.9186
+        },
+        {
+          "source": "Bitcoin Magazine",
           "title": "Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strike-CEO-Jack-Mallers-Inflation-Outlook-Bond-Stress-and-BTC-vs-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a></p>\n<p>US debt-to-GDP has pushed past 120%, and Jack Mallers thinks the debate over whether the Fed hikes or cuts is beside the point, both roads lead to inflation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
           "url": "https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold",
@@ -179,30 +192,17 @@
           "compound": -0.9186,
           "label": "BEARISH",
           "confidence": 0.9186
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Will-the-Clarity-Act-Pass-the-Senate.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/will-the-clarity-act-pass-the-senate\" rel=\"nofollow\">Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute</a></p>\n<p>The Clarity Act reaches a make-or-break moment as the Senate holds a cloture vote that requires 60 votes from a chamber Republicans hold 53 seats in.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/will-the-clarity-act-pass-the-senate\" rel=\"nofollow\">Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/will-the-clarity-act-pass-the-senate",
-          "published": "2026-09-15T12:59:39+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8243,
-          "label": "BULLISH",
-          "confidence": 0.8243
         }
       ],
       "no_news": false
     },
     "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.064,
-      "overall": "BULLISH",
+      "article_count": 3,
+      "avg_compound": 0.0427,
+      "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -217,6 +217,19 @@
           "compound": 0.128,
           "label": "BULLISH",
           "confidence": 0.128
+        },
+        {
+          "source": "Decrypt",
+          "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
+          "summary": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran\u2019s government and military.",
+          "url": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
+          "published": "2026-09-15T17:06:03+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "TheBlock",
@@ -377,6 +390,28 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn\u2019t it",
+      "summary": "Sen. Elizabeth Warren says she remains determined to get a crypto bill signed into law \u2014 even if she doesn\u2019t support the current Clarity Act.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
+      "published": "2026-09-15T17:49:30+00:00",
+      "coins": [],
+      "compound": 0.9294,
+      "label": "BULLISH",
+      "confidence": 0.9294
+    },
+    {
+      "source": "TheBlock",
+      "title": "Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump\u2019s crypto wealth",
+      "summary": "An initial vote to try to push the Clarity Act closer to becoming law fell flat amid opposition to President Trump's crypto wealth.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010",
+      "published": "2026-09-15T18:57:00+00:00",
+      "coins": [],
+      "compound": 0.8481,
+      "label": "BULLISH",
+      "confidence": 0.8481
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
       "summary": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
@@ -399,25 +434,14 @@
       "confidence": 0.7845
     },
     {
-      "source": "TheBlock",
-      "title": "White House crypto adviser feels \u2018very good\u2019 ahead of Senate Clarity Act vote on Tuesday",
-      "summary": "The White House's top crypto advisor says he feels \"very good\" about an initial vote in the Senate on cryptocurrency legislation on Tuesday.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-white-house-crypto-adviser-feels-very-good-ahead-senate-clarity-act-vote-tuesday-414702",
-      "published": "2026-09-14T19:29:41+00:00",
-      "coins": [],
-      "compound": 0.7713,
-      "label": "BULLISH",
-      "confidence": 0.7713
-    },
-    {
       "source": "Decrypt",
-      "title": "Trump Says He 'Likes' Flock Surveillance Cameras Amid Bipartisan Pushback",
-      "summary": "Aboard Air Force One, the president threw his support behind the AI-powered license plate readers that have drawn a Senate investigation and a pledged bill from Bernie Sanders.",
-      "url": "https://decrypt.co/378171/trump-likes-flocks-ai-surveillance-cameras",
-      "published": "2026-09-14T20:07:41+00:00",
+      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
+      "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
+      "url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
+      "published": "2026-09-15T17:49:23+00:00",
       "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
+      "compound": -0.6808,
+      "label": "BEARISH",
       "confidence": 0.6808
     },
     {
@@ -454,17 +478,6 @@
       "confidence": 0.6527
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Market Has 'Definitely Not Priced In' Clarity Act Surprise, Says Bernstein",
-      "summary": "Ethics and banking concessions have improved the crypto bill\u2019s prospects, analysts say, but Democratic support remains uncertain.",
-      "url": "https://decrypt.co/378155/crypto-not-priced-in-clarity-act-surprise-bernstein",
-      "published": "2026-09-14T17:25:06+00:00",
-      "coins": [],
-      "compound": 0.6335,
-      "label": "BULLISH",
-      "confidence": 0.6335
-    },
-    {
       "source": "CoinDesk",
       "title": "Why banks should stop worrying and learn to love the Clarity Act",
       "summary": "",
@@ -476,17 +489,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "Trump Says He\u2019s the Only \u2018Guardrails\u2019 AI Needs, Attacks Anthropic and Defends Data Centers",
-      "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
-      "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
-      "published": "2026-09-14T18:26:04+00:00",
-      "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "TheBlock",
       "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
       "summary": "The exchange blamed a long market slump, shrinking volume and liquidity, and rising regulatory and compliance costs.",
@@ -496,17 +498,6 @@
       "compound": -0.4767,
       "label": "BEARISH",
       "confidence": 0.4767
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Chain\u2019s rapid growth is being driven by 4 key factors, analyst says",
-      "summary": "The chain\u2019s TVL has climbed to nearly $1 billion since its July 1 launch, while daily DEX volume reached $1.88 billion Sunday.",
-      "url": "https://www.theblock.co/news/business/2026-09-14-robinhood-chain-rapid-growth-being-driven-4-key-factors-analyst-says-414687",
-      "published": "2026-09-14T20:21:52+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -565,6 +556,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
+      "summary": "According to prosecutors, the two took positions in tokens ahead of Robinhood\u2019s public listing announcements between 2025 and 2026.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
+      "published": "2026-09-15T17:50:23+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
       "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
       "summary": "Among its provisions is a $10 exception for certain fees paid in crypto, along with provisions covering stablecoins, mining, and staking.",
       "url": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
@@ -587,6 +589,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
+      "summary": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
+      "url": "https://decrypt.co/378283/clarity-act-fails-senate-hurdle",
+      "published": "2026-09-15T18:54:10+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
       "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
       "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
       "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
@@ -598,6 +611,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+      "published": "2026-09-15T18:50:58+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
@@ -606,6 +630,39 @@
       "compound": -0.1531,
       "label": "BEARISH",
       "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto stocks sink after Senate rejects Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
+      "published": "2026-09-15T20:03:17+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's Brockman Says Safety Concerns Have Already Slowed Its Most Advanced AI Work",
+      "summary": "Greg Brockman says OpenAI delayed launches and reworked its processes after a pre-release model broke out of a sandbox and hacked into Hugging Face.",
+      "url": "https://decrypt.co/378300/openai-safety-concerns-slowed-most-advanced-ai-work",
+      "published": "2026-09-15T20:09:19+00:00",
+      "coins": [],
+      "compound": 0.1263,
+      "label": "BULLISH",
+      "confidence": 0.1263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
+      "published": "2026-09-15T19:06:31+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
@@ -635,28 +692,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
       "published": "2026-09-15T13:25:52+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
-      "published": "2026-09-15T09:30:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Microsoft Unveils 'Humanist AI' Code of Conduct, Asks the Public to Poke Holes in It",
-      "summary": "Mustafa Suleyman's AI unit wants feedback for six weeks before the document guides model training in 2027.",
-      "url": "https://decrypt.co/378168/microsoft-humanist-ai-code-of-conduct",
-      "published": "2026-09-14T19:07:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
