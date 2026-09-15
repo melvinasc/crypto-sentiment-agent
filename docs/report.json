@@ -1,15 +1,30 @@
 {
-  "generated_at": "2026-09-15T04:38:34.709092+00:00",
+  "generated_at": "2026-09-15T11:34:03.973094+00:00",
   "total_articles": 55,
   "coins": {
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.3994,
+      "article_count": 4,
+      "avg_compound": 0.347,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+          "published": "2026-09-15T11:15:44+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
+        },
         {
           "source": "TheBlock",
           "title": "DeFi Development Corp expands Solana treasury to 2.39 million SOL, sets up $300 million CHAD ATM",
@@ -24,30 +39,58 @@
           "confidence": 0.4588
         },
         {
-          "source": "CoinDesk",
-          "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-          "published": "2026-09-15T04:34:10+00:00",
+          "source": "Decrypt",
+          "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
+          "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
+          "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
+          "published": "2026-09-15T11:01:04+00:00",
           "coins": [
-            "SOL",
-            "ETH"
+            "SOL"
           ],
-          "compound": 0.34,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.1969,
+      "article_count": 8,
+      "avg_compound": 0.299,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 5,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+          "published": "2026-09-15T11:15:44+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
+          "summary": "Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.",
+          "url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
+          "published": "2026-09-15T09:35:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.6808,
+          "label": "BULLISH",
+          "confidence": 0.6808
+        },
         {
           "source": "Decrypt",
           "title": "Bitmine Adds $68 Million in Ethereum as Holdings Near 6 Million ETH",
@@ -60,45 +103,69 @@
           "compound": 0.4767,
           "label": "BULLISH",
           "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.2933,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+          "published": "2026-09-15T11:15:44+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
         },
         {
           "source": "CoinDesk",
-          "title": "Solana transactions just got more than 3 times bigger, giving an edge over Ethereum",
+          "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/15/solana-transactions-just-got-more-than-3-times-bigger-giving-an-edge-over-ethereum",
-          "published": "2026-09-15T04:34:10+00:00",
+          "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
+          "published": "2026-09-15T11:00:00+00:00",
           "coins": [
-            "SOL",
-            "ETH"
+            "XRP"
           ],
-          "compound": 0.34,
+          "compound": 0.1531,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.1531
         },
         {
-          "source": "TheBlock",
-          "title": "Bitcoin production rebounds in August for BitFuFu, edges higher at CleanSpark as Canaan slips",
-          "summary": "Canaan sold its entire ETH position and 54 BTC, using part of the proceeds to repurchase 13.6 million shares.",
-          "url": "https://www.theblock.co/news/markets/2026-09-14-bitcoin-production-rebounds-august-bitfufu-edges-higher-cleanspark-canaan-slips-414660",
-          "published": "2026-09-14T18:01:35+00:00",
+          "source": "CoinDesk",
+          "title": "XRP Ledger is one vote away from starting its next big payments upgrade",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/15/xrp-ledger-is-one-vote-away-from-starting-its-next-big-payments-upgrade",
+          "published": "2026-09-15T05:58:41+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "XRP"
           ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.045,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 20,
+      "avg_compound": 0.0809,
+      "overall": "BULLISH",
+      "bullish": 10,
       "bearish": 8,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -127,17 +194,17 @@
           "confidence": 0.8885
         },
         {
-          "source": "TheBlock",
-          "title": "TD Cowen sees 90% upside for bitcoin treasury firm Smarter Web following proposed \u2018MORE\u2019 preferred IPO",
-          "summary": "TD Cowen raised its Smarter Web price target after its proposed MORE preferred IPO, citing broader funding options and capital efficiency.",
-          "url": "https://www.theblock.co/news/markets/2026-09-14-td-cowen-sees-90-upside-for-bitcoin-treasury-firm-smarter-web-following-proposed-more-preferred-ipo-414590",
-          "published": "2026-09-14T09:29:39+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin gives back Monday's gain as Clarity Act odds fade on Polymarket",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-gives-back-monday-s-gain-as-clarity-act-odds-fade-on-polymarket",
+          "published": "2026-09-15T10:41:35+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8519,
+          "compound": 0.7269,
           "label": "BULLISH",
-          "confidence": 0.8519
+          "confidence": 0.7269
         }
       ],
       "no_news": false
@@ -305,30 +372,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Bernstein sees more Clarity Act progress than markets expected, says \u2018any positive surprise is definitely not priced in\u2019",
-      "summary": "The analysts argued crypto markets currently have a bearish bias ahead of Tuesday's cloture vote and Wednesday's Federal Reserve decision.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-bernstein-sees-more-clarity-act-progress-than-markets-expected-says-any-positive-surprise-is-definitely-not-priced-in-414593",
-      "published": "2026-09-14T09:36:08+00:00",
-      "coins": [],
-      "compound": 0.8899,
-      "label": "BULLISH",
-      "confidence": 0.8899
-    },
     {
       "source": "TheBlock",
       "title": "White House crypto adviser feels \u2018very good\u2019 ahead of Senate Clarity Act vote on Tuesday",
@@ -419,25 +465,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trump's $800 million stake into World Liberty Financial's token now has a timeline to becoming sellable",
+      "title": "Why banks should stop worrying and learn to love the Clarity Act",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/trump-s-usd800-million-stake-into-world-liberty-financial-s-token-now-has-a-timeline-to-becoming-sellable",
-      "published": "2026-09-14T19:21:58+00:00",
+      "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
+      "published": "2026-09-15T11:00:00+00:00",
       "coins": [],
-      "compound": 0.5267,
+      "compound": 0.5106,
       "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Banks escalate stablecoin rewards fight as Senate prepares for a Clarity Act vote",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/banks-escalate-stablecoin-rewards-fight-as-senate-prepares-for-a-clarity-act-vote",
-      "published": "2026-09-14T17:51:20+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -445,6 +480,17 @@
       "summary": "The president dismissed calls for tighter AI controls as industry leaders push to slow development and address safety failures.",
       "url": "https://decrypt.co/378166/trump-ai-guardrails-attacks-anthropic",
       "published": "2026-09-14T18:26:04+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
+      "summary": "The exchange blamed a long market slump, shrinking volume and liquidity, and rising regulatory and compliance costs.",
+      "url": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788",
+      "published": "2026-09-15T06:22:17+00:00",
       "coins": [],
       "compound": -0.4767,
       "label": "BEARISH",
@@ -460,28 +506,6 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senator Lummis says Democrats won't quit asking for more on crypto Clarity Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/u-s-senator-lummis-says-democrats-won-t-quit-asking-for-more-on-crypto-clarity-act",
-      "published": "2026-09-14T22:34:18+00:00",
-      "coins": [],
-      "compound": 0.4522,
-      "label": "BULLISH",
-      "confidence": 0.4522
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Don\u2019t let perfect be the enemy of Clarity",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/14/don-t-let-perfect-be-the-enemy-of-clarity",
-      "published": "2026-09-14T14:34:56+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -507,6 +531,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
+      "published": "2026-09-15T10:27:55+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
       "title": "Even if Clarity fails, Wall Street\u2019s crypto push is unlikely to stop",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/14/even-if-clarity-fails-wall-street-s-crypto-push-is-unlikely-to-stop",
@@ -529,47 +564,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "South Korean investors push for fourth crypto tax delay as regulators stand firm",
-      "summary": "A petition to postpone the planned digital asset gains tax in South Korea reached its threshold of 50,000 signatures.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-south-korean-investors-crypto-tax-delay-414581",
-      "published": "2026-09-14T08:31:06+00:00",
+      "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
+      "summary": "The proposal comes six months after corporate entity Balancer Labs shut down operations, citing a 2025 exploit that drained $128 million.",
+      "url": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782",
+      "published": "2026-09-15T05:29:13+00:00",
       "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Clarity Act odds surge on prediction markets, but crypto bill still faces long road",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/clarity-act-odds-surge-on-prediction-markets-but-crypto-bill-still-faces-long-road",
-      "published": "2026-09-14T15:10:29+00:00",
-      "coins": [],
-      "compound": 0.2144,
-      "label": "BULLISH",
-      "confidence": 0.2144
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC's Atkins backs Clarity Act but says agency will keep pushing crypto rules without it",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/sec-s-atkins-backs-clarity-act-but-says-agency-will-keep-pushing-crypto-rules-without-it",
-      "published": "2026-09-14T23:30:40+00:00",
-      "coins": [],
-      "compound": 0.1901,
-      "label": "BULLISH",
-      "confidence": 0.1901
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood plans share redemptions, voting rights for stock tokens, after criticism",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-      "published": "2026-09-14T21:05:13+00:00",
-      "coins": [],
-      "compound": -0.1779,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.1779
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -584,10 +586,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "White House crypto adviser says Trump gave up 'historic' ethics powers in compromise",
+      "title": "Hong Kong crypto exchange CoinEx to cease operations after 9 years in business",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/white-house-crypto-adviser-says-trump-gave-up-historic-ethics-powers-in-compromise",
-      "published": "2026-09-14T18:34:09+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/15/hong-kong-crypto-exchange-coinex-to-cease-operations-after-9-years-in-business",
+      "published": "2026-09-15T09:30:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -595,21 +597,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "A bipartisan coalition of 17 state attorneys generals urge Senate to reject Clarity Act",
+      "title": "U.S. DOJ seeks $61 million in what it calls Iran's crypto-laundered black market oil sales",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/14/bipartisan-group-of-state-attorneys-general-oppose-clarity-act-over-federal-preemption-worry",
-      "published": "2026-09-14T15:57:01+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/14/consensus-heads-to-hong-kong-for-third-straight-year-with-expanded-focus-on-ai",
-      "published": "2026-09-14T14:37:56+00:00",
+      "url": "https://www.coindesk.com/markets/2026/09/15/u-s-doj-seeks-usd61-million-in-what-it-calls-crypto-laundered-iranian-oil-proceeds",
+      "published": "2026-09-15T05:12:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -638,22 +629,11 @@
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "AI Agents Spending Money Online? New Research Says Not Really",
-      "summary": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn\u2019t coming from AI agents, it says.",
-      "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
-      "published": "2026-09-13T13:01:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
-      "title": "S&P Global leads strategic investment in crypto data firm Kaiko, extending Series B to $110 million",
-      "summary": "BNP Paribas, Nasdaq Ventures, RBC, Coinbase Ventures, DRW Venture Capital and several others joined the extension round.",
-      "url": "https://www.theblock.co/news/deals/2026-09-14-sp-global-leads-strategic-investment-in-crypto-data-firm-kaiko-extending-series-b-to-110-million-414618",
-      "published": "2026-09-14T13:13:06+00:00",
+      "title": "Ark Invest sells $14 million in Circle, trims Coinbase as crypto stocks rally",
+      "summary": "The Cathie Wood-led investment firm routinely adds and trims its crypto stock holdings throughout the year.",
+      "url": "https://www.theblock.co/news/business/2026-09-15-ark-invest-sells-circle-coinbase-414811",
+      "published": "2026-09-15T09:32:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
