@@ -1,57 +1,29 @@
 {
-  "generated_at": "2026-09-16T11:21:00.905787+00:00",
+  "generated_at": "2026-09-16T16:40:33.096629+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.4165,
-      "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 0,
-      "neutral": 1,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.6908,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
-          "summary": "Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.",
-          "url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
-          "published": "2026-09-15T09:35:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.6808,
-          "label": "BULLISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "TheBlock",
-          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
-          "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
-          "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
-          "published": "2026-09-16T10:05:28+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        },
-        {
           "source": "Decrypt",
-          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-          "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
-          "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-          "published": "2026-09-16T09:01:03+00:00",
+          "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+          "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+          "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+          "published": "2026-09-16T15:50:07+00:00",
           "coins": [
             "BTC",
             "ETH",
-            "TRX"
+            "XRP"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": -0.6908,
+          "label": "BEARISH",
+          "confidence": 0.6908
         }
       ],
       "no_news": false
@@ -83,50 +55,90 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.064,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
+      "article_count": 1,
+      "avg_compound": -0.296,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/US-Closes-In-of-Irans-Bitcoin-Insurance-Policy-in-strait-of-hormuz.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/iran-oil-was-laundered-on-binance\" rel=\"nofollow\">DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts</a></p>\n<p>The U.S. Department of Justice has filed to forfeit $61 million in crypto it says was generated from Iranian black-market oil sales. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/iran-oil-was-laundered-on-binance\" rel=\"nofollow\">DOJ Seeks $61M in Iranian Oil Proceeds Laundered Through Binance Accounts</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/iran-oil-was-laundered-on-binance",
-          "published": "2026-09-15T15:45:42+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "Decrypt",
-          "title": "US Seeks Forfeiture of $61 Million in Crypto Linked to Alleged Iranian Oil Scheme",
-          "summary": "Prosecutors allege two Chinese companies used Binance accounts to launder oil proceeds benefiting Iran\u2019s government and military.",
-          "url": "https://decrypt.co/378261/us-forfeiture-61-million-crypto-iranian-oil-scheme",
-          "published": "2026-09-15T17:06:03+00:00",
+          "source": "CoinDesk",
+          "title": "Hamas\u2019 military wing told donors to avoid Binance. Use Bybit, OKX and others instead",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/16/hamas-military-wing-told-donors-to-avoid-binance-use-bybit-okx-and-others-instead",
+          "published": "2026-09-16T15:25:41+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.2629,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+          "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+          "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+          "published": "2026-09-16T15:50:07+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.6908,
+          "label": "BEARISH",
+          "confidence": 0.6908
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
+          "summary": "Tonkeeper has rebranded as Keeper, with the wallet now supporting seven blockchain networks, including Bitcoin and Ethereum.",
+          "url": "https://www.theblock.co/news/business/2026-09-15-tonkeeper-rebrands-as-keeper-with-support-for-7-networks-including-bitcoin-and-ethereum-414807",
+          "published": "2026-09-15T09:35:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.6808,
+          "label": "BULLISH",
+          "confidence": 0.6808
+        },
+        {
+          "source": "TheBlock",
+          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+          "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
+          "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+          "published": "2026-09-16T10:05:28+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.6597,
+          "label": "BULLISH",
+          "confidence": 0.6597
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0398,
+      "article_count": 25,
+      "avg_compound": -0.0271,
       "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 10,
-      "neutral": 7,
+      "bullish": 8,
+      "bearish": 11,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -134,19 +146,6 @@
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-Now-Reviewing-Crypto-Clarity-Act-Ethics-Text-Ahead-of-August-Deadline.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a></p>\n<p>In a blow to the digital asset industry, lawmakers blocked the landmark crypto legislation. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
           "url": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
           "published": "2026-09-15T19:58:39+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9186,
-          "label": "BEARISH",
-          "confidence": 0.9186
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strike-CEO-Jack-Mallers-Inflation-Outlook-Bond-Stress-and-BTC-vs-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a></p>\n<p>US debt-to-GDP has pushed past 120%, and Jack Mallers thinks the debate over whether the Fed hikes or cuts is beside the point, both roads lead to inflation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold",
-          "published": "2026-09-15T13:08:05+00:00",
           "coins": [
             "BTC"
           ],
@@ -166,13 +165,26 @@
           "compound": 0.8658,
           "label": "BULLISH",
           "confidence": 0.8658
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Strive\u2019s Matt Cole: Bitcoin is Primed for 30% Growth into 2030",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/STRIVES-Matt-Cole-Bitcoin-is-Primed-for-30-Growth-into-2030.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/strive-matt-cole-bitcoin-growth-2030\" rel=\"nofollow\">Strive&#8217;s Matt Cole: Bitcoin is Primed for 30% Growth into 2030</a></p>\n<p>Strive CEO Matt Cole shares his base case for Bitcoin, forecasting roughly 50% annualized returns through 2030.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/strive-matt-cole-bitcoin-growth-2030\" rel=\"nofollow\">Strive&#8217;s Matt Cole: Bitcoin is Primed for 30% Growth into 2030</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/strive-matt-cole-bitcoin-growth-2030",
+          "published": "2026-09-15T21:21:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
         }
       ],
       "no_news": false
     },
-    "XRP": {
+    "AVAX": {
       "article_count": 1,
-      "avg_compound": -0.0258,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
@@ -180,17 +192,16 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+          "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-          "published": "2026-09-16T03:37:45+00:00",
+          "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+          "published": "2026-09-16T14:00:00+00:00",
           "coins": [
-            "XRP",
-            "BTC"
+            "AVAX"
           ],
-          "compound": -0.0258,
+          "compound": 0.0,
           "label": "NEUTRAL",
-          "confidence": 0.0258
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -220,16 +231,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -385,36 +386,14 @@
       "confidence": 0.8271
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
-      "summary": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
-      "url": "https://decrypt.co/378230/morning-minute-clarity-act-odds-slump-after-democrat-pushback",
-      "published": "2026-09-15T14:05:47+00:00",
+      "source": "CoinDesk",
+      "title": "A stolen coin can be returned. A leaked identity cannot.",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
+      "published": "2026-09-16T13:00:00+00:00",
       "coins": [],
-      "compound": 0.8074,
-      "label": "BULLISH",
-      "confidence": 0.8074
-    },
-    {
-      "source": "Decrypt",
-      "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
-      "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
-      "url": "https://decrypt.co/378267/robinhood-engineers-charged-fraud-over-crypto-listing-trades",
-      "published": "2026-09-15T17:49:23+00:00",
-      "coins": [],
-      "compound": -0.6808,
+      "compound": -0.6705,
       "label": "BEARISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto's Long-Sought 'De Minimis' Tax Break Gets a House Markup This Week",
-      "summary": "The proposal would overhaul federal tax treatment of digital assets but still requires approval from Congress.",
-      "url": "https://decrypt.co/378260/house-crypto-tax-bill-de-minimis-captail-gains",
-      "published": "2026-09-15T16:34:35+00:00",
-      "coins": [],
-      "compound": 0.6705,
-      "label": "BULLISH",
       "confidence": 0.6705
     },
     {
@@ -441,25 +420,47 @@
     },
     {
       "source": "Decrypt",
-      "title": "Democrats 'Move the Goalposts' on Clarity Act Hours Before Key Senate Vote",
-      "summary": "Democrats are pushing for further concessions as Republicans insist their latest text is their final offer ahead of today\u2019s 60-vote test.",
-      "url": "https://decrypt.co/378246/democrats-goalposts-clarity-act-key-senate-vote",
-      "published": "2026-09-15T15:08:07+00:00",
+      "title": "AI Pause Would Help Dominant Firms, Not Safety, Think Tank Warns",
+      "summary": "Cato favors voluntary safeguards, while Block Chairman Jack Dorsey backs independent testing and narrowly justified restrictions.",
+      "url": "https://decrypt.co/378323/ai-pause-protect-giants-not-safety-cato-jack-dorsey",
+      "published": "2026-09-16T14:36:29+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.453,
       "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.453
     },
     {
       "source": "CoinDesk",
-      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
+      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
-      "published": "2026-09-15T21:58:48+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
+      "published": "2026-09-16T14:00:00+00:00",
       "coins": [],
-      "compound": -0.3612,
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Clarity Act Vote Falls Short as Democrats All Vote \u2018No\u2019",
+      "summary": "It should not have come as a surprise given the odds, but crypto majors, alts and memes all sold off anyway in the wake.",
+      "url": "https://decrypt.co/378352/morning-minute-clarity-act-vote-falls-short-as-democrats-all-vote-no",
+      "published": "2026-09-16T12:17:50+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
+      "summary": "Meta\u2019s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company\u2019s decision to delay Muse.",
+      "url": "https://decrypt.co/378381/zuckerberg-pushes-back-ai-slowdown",
+      "published": "2026-09-16T16:31:03+00:00",
+      "coins": [],
+      "compound": -0.3182,
       "label": "BEARISH",
-      "confidence": 0.3612
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -507,6 +508,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Bernstein says Clarity Act failure allows stablecoin rewards on idle balances to continue, expects \u2018swift\u2019 SEC and CFTC rulemaking",
+      "summary": "Bernstein expects the SEC and CFTC to drive crypto rulemaking after Senate lawmakers failed to advance Clarity Act legislation.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-bernstein-says-clarity-act-failure-allows-stablecoin-rewards-on-idle-balances-to-continue-expects-swift-sec-and-cftc-rulemaking-415263",
+      "published": "2026-09-16T12:47:59+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
       "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
       "summary": "Circle confirmed it completed the genesis mint of 10 billion ARC tokens this week, although a public launch of the token remains undecided.",
       "url": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
@@ -515,28 +527,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
-      "published": "2026-09-16T09:42:37+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
-      "published": "2026-09-16T04:07:27+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -584,6 +574,50 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+      "published": "2026-09-16T16:21:44+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
+      "summary": "The Layer 1 network\u2019s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
+      "url": "https://decrypt.co/378374/circle-launches-arc-mainnet-with-blackrock-dtcc-and-visa-as-validators",
+      "published": "2026-09-16T14:56:02+00:00",
+      "coins": [],
+      "compound": -0.0572,
+      "label": "BEARISH",
+      "confidence": 0.0572
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Six signs a crypto winter is ending",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/15/crypto-long-and-short-six-signs-a-crypto-winter-is-ending",
+      "published": "2026-09-16T14:59:34+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Payward plans to offer U.S. clients onchain perpetual futures on Hyperliquid",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/16/payward-plans-to-offer-u-s-clients-onchain-perpetual-futures-on-hyperliquid",
+      "published": "2026-09-16T14:35:43+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Deutsche Bank close to debuting crypto custody for institutions",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
@@ -594,11 +628,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
-      "published": "2026-09-16T10:37:46+00:00",
+      "source": "Decrypt",
+      "title": "FCA Guidance Lands Two Weeks Before UK Crypto Authorization Window Opens",
+      "summary": "Overseas firms serving UK retail customers need authorization too, and nobody trades under the new rules before October 2027.",
+      "url": "https://decrypt.co/378363/fca-guidance-lands-two-weeks-before-uk-crypto-authorization-window-opens",
+      "published": "2026-09-16T13:12:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
