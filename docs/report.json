@@ -1,30 +1,15 @@
 {
-  "generated_at": "2026-09-16T04:33:44.728185+00:00",
+  "generated_at": "2026-09-16T11:21:00.905787+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.4049,
+      "article_count": 5,
+      "avg_compound": 0.4165,
       "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 4,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-          "published": "2026-09-15T11:15:44+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
-        },
         {
           "source": "TheBlock",
           "title": "Tonkeeper rebrands as Keeper with support for 7 networks, including Bitcoin and Ethereum",
@@ -41,108 +26,58 @@
         },
         {
           "source": "TheBlock",
-          "title": "Zama expands confidential Morpho lineup after first vault hits $40 million, launches private swaps on Ethereum",
-          "summary": "Users get confidential access to 12 existing Morpho vaults on Ethereum, while another four have been created as confidential-only products.",
-          "url": "https://www.theblock.co/news/defi/2026-09-15-zama-expands-confidential-morpho-lineup-after-first-vault-hits-40-million-launches-private-swaps-on-ethereum-414613",
-          "published": "2026-09-15T07:05:03+00:00",
+          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+          "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
+          "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+          "published": "2026-09-16T10:05:28+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": 0.34,
+          "compound": 0.6597,
           "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3505,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-          "published": "2026-09-15T11:15:44+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
-          "published": "2026-09-16T03:37:45+00:00",
-          "coins": [
-            "XRP",
-            "BTC"
-          ],
-          "compound": -0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.3097,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-          "published": "2026-09-15T11:15:44+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
+          "confidence": 0.6597
         },
         {
           "source": "Decrypt",
-          "title": "Solana Treasury Firm DeFi Dev Corp Rolls Out $300M CHAD to Buy More SOL",
-          "summary": "DeFi Development Corp added another 55,491 SOL and opened a CHAD at-the-market program for its preferred stock, extending a fast-moving three-week run of capital markets activity.",
-          "url": "https://decrypt.co/378183/solana-defi-development-corp-chad",
-          "published": "2026-09-15T11:01:04+00:00",
+          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
+          "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
+          "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
+          "published": "2026-09-16T09:01:03+00:00",
           "coins": [
-            "SOL"
+            "BTC",
+            "ETH",
+            "TRX"
           ],
-          "compound": 0.2023,
+          "compound": 0.4019,
           "label": "BULLISH",
-          "confidence": 0.2023
-        },
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": 0.4019,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
-          "published": "2026-09-15T18:02:05+00:00",
+          "source": "Decrypt",
+          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
+          "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
+          "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
+          "published": "2026-09-16T09:01:03+00:00",
           "coins": [
-            "SOL"
+            "BTC",
+            "ETH",
+            "TRX"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -186,12 +121,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0441,
+      "article_count": 27,
+      "avg_compound": 0.0398,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 8,
-      "neutral": 3,
+      "bullish": 10,
+      "bearish": 10,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -231,6 +166,55 @@
           "compound": 0.8658,
           "label": "BULLISH",
           "confidence": 0.8658
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+          "published": "2026-09-16T03:37:45+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Circle debuts Arc blockchain which Jeremy Allaire calls \u2018more consequential\u2019 than USDC",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+          "published": "2026-09-16T10:30:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -335,7 +319,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
+    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -346,16 +330,6 @@
       "no_news": true
     },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -422,17 +396,6 @@
       "confidence": 0.8074
     },
     {
-      "source": "CoinDesk",
-      "title": "To ensure permanent economic innovation, we must pass the Clarity Act now",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/to-ensure-permanent-economic-innovation-we-must-pass-the-clarity-act-now",
-      "published": "2026-09-15T12:00:06+00:00",
-      "coins": [],
-      "compound": 0.7845,
-      "label": "BULLISH",
-      "confidence": 0.7845
-    },
-    {
       "source": "Decrypt",
       "title": "Robinhood Engineers Charged With Fraud Over Alleged Crypto Listing Trades",
       "summary": "Two employees allegedly earned more than $50,000 each by trading Hyperliquid perpetual futures before Robinhood announced new token listings.",
@@ -455,22 +418,22 @@
       "confidence": 0.6705
     },
     {
-      "source": "CoinDesk",
-      "title": "Why banks should stop worrying and learn to love the Clarity Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/15/why-banks-should-stop-worrying-and-learn-to-love-the-clarity-act",
-      "published": "2026-09-15T11:00:00+00:00",
+      "source": "Decrypt",
+      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
+      "summary": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at \u00a3100 billion a year in the UK.",
+      "url": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
+      "published": "2026-09-16T09:41:53+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
     },
     {
       "source": "TheBlock",
-      "title": "Crypto exchange CoinEx to shut down after 9 years, citing market slump",
-      "summary": "The exchange blamed a long market slump, shrinking volume and liquidity, and rising regulatory and compliance costs.",
-      "url": "https://www.theblock.co/news/business/2026-09-15-coinex-shut-down-414788",
-      "published": "2026-09-15T06:22:17+00:00",
+      "title": "Underdog sues Connecticut to stop sports prediction market crackdown",
+      "summary": "The lawsuit follows cease-and-desist orders the state issued to prediction market platforms, including Underdog, Polymarket, and Coinbase.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-underdog-sues-connecticut-415242",
+      "published": "2026-09-16T07:08:26+00:00",
       "coins": [],
       "compound": -0.4767,
       "label": "BEARISH",
@@ -497,17 +460,6 @@
       "compound": -0.3612,
       "label": "BEARISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "Why an AI Slowdown Could Collapse Under Commercial and US-China Pressure",
-      "summary": "Atlantic Council experts argue corporate pledges need enforceable safety standards, while U.S.\u2013China distrust limits prospects for an international agreement.",
-      "url": "https://decrypt.co/378203/ai-slowdown-us-china-pressure",
-      "published": "2026-09-15T13:00:05+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -555,14 +507,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "Balancer proposes winding down protocol and distributing treasury to BAL holders",
-      "summary": "The proposal comes six months after corporate entity Balancer Labs shut down operations, citing a 2025 exploit that drained $128 million.",
-      "url": "https://www.theblock.co/news/defi/2026-09-15-balancer-proposes-winding-down-414782",
-      "published": "2026-09-15T05:29:13+00:00",
+      "title": "Circle launches Arc mainnet with BlackRock and Visa among validators, mints 10 billion ARC tokens",
+      "summary": "Circle confirmed it completed the genesis mint of 10 billion ARC tokens this week, although a public launch of the token remains undecided.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-16-circle-launches-arc-mainnet-with-blackrock-and-visa-among-validators-mints-10-billion-arc-tokens-415250",
+      "published": "2026-09-16T10:30:00+00:00",
       "coins": [],
-      "compound": -0.2732,
+      "compound": -0.2263,
       "label": "BEARISH",
-      "confidence": 0.2732
+      "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Two Robinhood engineers charged with insider trading using Hyperliquid perpetuals",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/16/two-robinhood-engineers-charged-with-insider-trading-using-hyperliquid-perpetuals",
+      "published": "2026-09-16T09:42:37+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -587,37 +550,15 @@
       "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act flames out in failed U.S. Senate vote",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
-      "published": "2026-09-15T18:50:58+00:00",
+      "source": "Decrypt",
+      "title": "Crypto Exchange CoinEx Is Shutting Down After Nine Years, Giving Users Until December to Cash Out",
+      "summary": "The Hong Kong-founded exchange blamed a prolonged crypto winter and rising compliance costs, closing the books on a run that began in December 2017.",
+      "url": "https://decrypt.co/378324/coinex-shutting-down",
+      "published": "2026-09-16T08:01:03+00:00",
       "coins": [],
-      "compound": -0.1531,
+      "compound": -0.1779,
       "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-barrels-toward-disappointment-barring-last-minute-senate-turnaround",
-      "published": "2026-09-15T15:50:23+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto stocks sink after Senate rejects Clarity Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-      "published": "2026-09-15T20:03:17+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -643,21 +584,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto industry reacts after Clarity Act fails Senate vote",
+      "title": "Deutsche Bank close to debuting crypto custody for institutions",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
-      "published": "2026-09-15T19:06:31+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European Central Bank calls for merchants to participate in digital euro pilot",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/15/european-central-bank-calls-for-merchants-to-participate-in-digital-euro-pilot",
-      "published": "2026-09-15T14:15:06+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+      "published": "2026-09-16T10:46:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -665,21 +595,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Clarity Act's odds of passing plunge as Republicans reject Democrats' counter-proposal",
+      "title": "Live updates: Zcash climbs 6% as majors slide ahead of Fed rate decision",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/15/clarity-act-s-odds-of-passing-plunge-as-republicans-reject-democrats-counter-proposal",
-      "published": "2026-09-15T14:13:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue",
-      "published": "2026-09-15T13:25:52+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/16/live-updates-zcash-climbs-6-as-majors-slide-ahead-of-fed-rate-decision",
+      "published": "2026-09-16T10:37:46+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
