@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-09-15T21:10:19.381918+00:00",
+  "generated_at": "2026-09-16T04:33:44.728185+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.44,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
-          "published": "2026-09-15T11:15:44+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.7269,
-          "label": "BULLISH",
-          "confidence": 0.7269
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Velocity extends Series A to $48M at $200M valuation with backing from Visa, Circle, and Ripple",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/10/velocity-extends-series-a-to-usd48m-at-usd200m-valuation-with-backing-from-visa-circle-and-ripple",
-          "published": "2026-09-15T11:00:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
       "article_count": 4,
       "avg_compound": 0.4049,
@@ -90,6 +51,46 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3505,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether, solana, XRP likely to gain if Clarity Act progresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/15/ether-solana-xrp-likely-to-gain-if-clarity-act-progresses",
+          "published": "2026-09-15T11:15:44+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+          "published": "2026-09-16T03:37:45+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -146,63 +147,13 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.0558,
-      "overall": "BULLISH",
-      "bullish": 8,
-      "bearish": 8,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/09/Senator-Cynthia-Lummis-Senate-Banking-Committee.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act\" rel=\"nofollow\">Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote</a></p>\n<p>Pro-crypto Cynthia Lummis says the Clarity Act has led to the \"toughest ethics reform\" the U.S. has had. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act\" rel=\"nofollow\">Lummis Credits Trump for Ethics Deal as Clarity Act Faces Tuesday Vote</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/lummis-credits-trump-on-clarity-act",
-          "published": "2026-09-14T18:29:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9201,
-          "label": "BULLISH",
-          "confidence": 0.9201
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Senate Blocks Clarity Act, Likely Killing It for 2026",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-Now-Reviewing-Crypto-Clarity-Act-Ethics-Text-Ahead-of-August-Deadline.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a></p>\n<p>In a blow to the digital asset industry, lawmakers blocked the landmark crypto legislation. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
-          "published": "2026-09-15T19:58:39+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9186,
-          "label": "BEARISH",
-          "confidence": 0.9186
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strike-CEO-Jack-Mallers-Inflation-Outlook-Bond-Stress-and-BTC-vs-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a></p>\n<p>US debt-to-GDP has pushed past 120%, and Jack Mallers thinks the debate over whether the Fed hikes or cuts is beside the point, both roads lead to inflation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold",
-          "published": "2026-09-15T13:08:05+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9186,
-          "label": "BEARISH",
-          "confidence": 0.9186
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.0427,
-      "overall": "NEUTRAL",
+      "article_count": 2,
+      "avg_compound": 0.064,
+      "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -230,19 +181,56 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": 0.0441,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Senate Blocks Clarity Act, Likely Killing It for 2026",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/08/White-House-Now-Reviewing-Crypto-Clarity-Act-Ethics-Text-Ahead-of-August-Deadline.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a></p>\n<p>In a blow to the digital asset industry, lawmakers blocked the landmark crypto legislation. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/senate-blocks-clarity-act\" rel=\"nofollow\">Senate Blocks Clarity Act, Likely Killing It for 2026</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/senate-blocks-clarity-act",
+          "published": "2026-09-15T19:58:39+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9186,
+          "label": "BEARISH",
+          "confidence": 0.9186
         },
         {
-          "source": "TheBlock",
-          "title": "US DOJ seeks $61 million in crypto proceeds from illicit Iranian oil sales laundered on Binance",
-          "summary": "Prosecutors alleged that two Chinese companies used Binance to launder those funds to Iran and its proxies.",
-          "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-61-million-crypto-proceeds-iranian-oil-sales-414768",
-          "published": "2026-09-15T04:01:48+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Strike-CEO-Jack-Mallers-Inflation-Outlook-Bond-Stress-and-BTC-vs-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a></p>\n<p>US debt-to-GDP has pushed past 120%, and Jack Mallers thinks the debate over whether the Fed hikes or cuts is beside the point, both roads lead to inflation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold\" rel=\"nofollow\">Strike CEO Jack Mallers: Inflation Outlook, Bond Stress and BTC vs Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/strike-ceo-jack-mallers-inflation-outlook-bond-stress-and-btc-vs-gold",
+          "published": "2026-09-15T13:08:05+00:00",
           "coins": [
-            "BNB"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.9186,
+          "label": "BEARISH",
+          "confidence": 0.9186
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Why the Clarity Act Could Decide America\u2019s Financial Future w/ John Deaton",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Why-the-Clarity-Act-Could-Decide-Americas-Financial-Future-w-John-Deaton-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/why-the-clarity-act-could-decide-americas-financial-future\" rel=\"nofollow\">Why the Clarity Act Could Decide America\u2019s Financial Future w/ John Deaton</a></p>\n<p>John Deaton joins Grace Remington and Sean Hagan to break down why the Clarity Act cloture vote is really a vote on whether to even debate the bill.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/why-the-clarity-act-could-decide-americas-financial-future\" rel=\"nofollow\">Why the Clarity Act Could Decide America\u2019s Financial Future w/ John Deaton</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/why-the-clarity-act-could-decide-americas-financial-future",
+          "published": "2026-09-15T19:51:41+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8658,
+          "label": "BULLISH",
+          "confidence": 0.8658
         }
       ],
       "no_news": false
@@ -412,6 +400,17 @@
       "confidence": 0.8481
     },
     {
+      "source": "TheBlock",
+      "title": "\u2018This one stings\u2019: Clarity Act fails procedural Senate vote \u2014 is crypto\u2019s biggest regulatory push dead?",
+      "summary": "A procedural vote to advance landmark digital asset legislation failed spectacularly on Tuesday, leaving the crypto industry crushed.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
+      "published": "2026-09-15T21:24:18+00:00",
+      "coins": [],
+      "compound": -0.8271,
+      "label": "BEARISH",
+      "confidence": 0.8271
+    },
+    {
       "source": "Decrypt",
       "title": "Morning Minute: Clarity Act Odds Slump After Democrat Pushback",
       "summary": "The odds of the Clarity Act passing have fully reversed their recent move, and crypto majors have reversed alongside. Is there any hope left for the bill to pass?",
@@ -456,28 +455,6 @@
       "confidence": 0.6705
     },
     {
-      "source": "TheBlock",
-      "title": "Where the Clarity Act stands ahead of Tuesday\u2019s Senate vote",
-      "summary": "The Senate heads into a consequential vote Tuesday on sweeping cryptocurrency legislation, but does it have enough support to pass?",
-      "url": "https://www.theblock.co/news/regulation/2026-09-14-where-the-clarity-act-stands-ahead-of-tuesdays-senate-vote-414720",
-      "published": "2026-09-14T21:32:37+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "Decrypt",
-      "title": "Banks Want More: Trade Groups Demand Stricter Stablecoin Limits in Clarity Act",
-      "summary": "Eight trade associations say exceptions for interest-like rewards could pull deposits from banks and reduce lending.",
-      "url": "https://decrypt.co/378181/banks-senate-clarity-act-stablecoin-rules-key-vote",
-      "published": "2026-09-14T21:46:04+00:00",
-      "coins": [],
-      "compound": 0.6527,
-      "label": "BULLISH",
-      "confidence": 0.6527
-    },
-    {
       "source": "CoinDesk",
       "title": "Why banks should stop worrying and learn to love the Clarity Act",
       "summary": "",
@@ -512,14 +489,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "How a simple coding mistake let a hacker drain $7.8 million from a crypto wallet",
+      "title": "Inside the last-minute political breakdown that doomed the Clarity Act vote",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/15/how-a-simple-coding-mistake-let-a-hacker-drain-usd7-8-million-from-a-crypto-wallet",
-      "published": "2026-09-15T10:27:55+00:00",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/15/there-were-many-conductors-in-the-derailment-of-the-crypto-industry-s-clarity-act",
+      "published": "2026-09-15T21:58:48+00:00",
       "coins": [],
-      "compound": -0.34,
+      "compound": -0.3612,
       "label": "BEARISH",
-      "confidence": 0.34
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -588,6 +565,17 @@
       "confidence": 0.2732
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto longs worth $570 million wiped out as Clarity Act fails",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/16/crypto-bulls-take-a-usd570-million-liquidation-hit-as-clarity-act-fails",
+      "published": "2026-09-16T04:07:27+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "Decrypt",
       "title": "Clarity Act Stalls in Senate as Crypto Bill Fails to Clear Key Vote",
       "summary": "The crypto market structure bill failed to receive enough votes to advance in the Senate.",
@@ -597,17 +585,6 @@
       "compound": -0.2023,
       "label": "BEARISH",
       "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI\u2019s Sam Altman Warns Humans Could Lose Control of AI",
-      "summary": "The OpenAI chief called for safeguards during training and shared industry standards, saying developers can act before legislation arrives.",
-      "url": "https://decrypt.co/378179/openai-sam-altman-humans-lose-control-ai",
-      "published": "2026-09-14T21:16:04+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -637,6 +614,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
       "published": "2026-09-15T20:03:17+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+      "summary": "The Coinbase-backed Stand With Crypto will add senators\u2019 votes to its scorecards as it rallies crypto voters ahead of November\u2019s elections.",
+      "url": "https://decrypt.co/378303/coinbase-crypto-group-midterms-vote-clarity-act",
+      "published": "2026-09-15T21:10:06+00:00",
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
