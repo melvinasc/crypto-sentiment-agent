@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-17T04:39:05.468471+00:00",
+  "generated_at": "2026-09-17T11:28:18.704304+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.6908,
+      "article_count": 2,
+      "avg_compound": -0.3454,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -24,6 +24,19 @@
           "compound": -0.6908,
           "label": "BEARISH",
           "confidence": 0.6908
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple adds XRP payments to Stripe and Tempo\u2019s AI standard in new developer kit",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/17/ripple-adds-xrp-payments-to-stripe-and-tempo-s-ai-standard-in-new-developer-kit",
+          "published": "2026-09-17T07:54:33+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -54,11 +67,11 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.0457,
+      "avg_compound": -0.0335,
       "overall": "NEUTRAL",
       "bullish": 7,
-      "bearish": 10,
-      "neutral": 5,
+      "bearish": 9,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -158,31 +171,17 @@
       ],
       "no_news": false
     },
-    "AVAX": {
-      "article_count": 1,
+    "ADA": {
+      "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "A LatAm telecom operator is putting part of its finances on Avalanche",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
-          "published": "2026-09-16T14:00:00+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
-    "ADA": {
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -337,14 +336,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Clarity Act preliminary vote falls short in Senate amid ethics fight over Trump\u2019s crypto wealth",
-      "summary": "An initial vote to try to push the Clarity Act closer to becoming law fell flat amid opposition to President Trump's crypto wealth.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-15-clarity-act-preliminary-vote-falls-short-in-senate-amid-ethics-fight-over-trumps-crypto-wealth-415010",
-      "published": "2026-09-15T18:57:00+00:00",
+      "title": "South Korean police charge 26 Polymarket users for illegal gambling: report",
+      "summary": "The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
+      "published": "2026-09-17T06:12:50+00:00",
       "coins": [],
-      "compound": 0.8481,
-      "label": "BULLISH",
-      "confidence": 0.8481
+      "compound": -0.8519,
+      "label": "BEARISH",
+      "confidence": 0.8519
     },
     {
       "source": "TheBlock",
@@ -380,17 +379,6 @@
       "confidence": 0.743
     },
     {
-      "source": "CoinDesk",
-      "title": "A stolen coin can be returned. A leaked identity cannot.",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/16/a-stolen-coin-can-be-returned-a-leaked-identity-cannot",
-      "published": "2026-09-16T13:00:00+00:00",
-      "coins": [],
-      "compound": -0.6705,
-      "label": "BEARISH",
-      "confidence": 0.6705
-    },
-    {
       "source": "TheBlock",
       "title": "House panel approves first federal crypto tax framework, one day after Senate\u2019s Clarity Act stumbles",
       "summary": "The House Ways and Means Committee voted to advance crypto tax legislation, sending it to the House to consider.",
@@ -422,6 +410,17 @@
       "compound": 0.5859,
       "label": "BULLISH",
       "confidence": 0.5859
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
+      "published": "2026-09-17T11:19:09+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
     },
     {
       "source": "CoinDesk",
@@ -469,17 +468,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Blockchain finance platform Theo launches tokenized silver backed by $40 million in active leases",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/16/blockchain-finance-platform-theo-launches-tokenized-silver-backed-by-usd40-million-in-active-leases",
-      "published": "2026-09-16T14:00:00+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
       "title": "Celsius sues BitMEX for $495 million over 2020 crash liquidations",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/16/celsius-sues-bitmex-for-usd495-million-over-2020-crash-liquidations",
@@ -512,6 +500,17 @@
       "confidence": 0.34
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto rallies through the Fed's first rate increase since 2023",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
+      "published": "2026-09-17T10:40:01+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "Decrypt",
       "title": "Zuckerberg Pushes Back on Coordinated AI Slowdown, Says Labs Can Act Alone",
       "summary": "Meta\u2019s CEO says competition and potential liability give AI developers reasons to prioritize safety, citing the company\u2019s decision to delay Muse.",
@@ -521,17 +520,6 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "TheBlock",
-      "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
-      "summary": "According to prosecutors, the two took positions in tokens ahead of Robinhood\u2019s public listing announcements between 2025 and 2026.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865",
-      "published": "2026-09-15T17:50:23+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -612,7 +600,18 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Goldman pivots, now forecasts Fed hike in October",
+      "title": "Live updates: Zcash jumps 17% as $345 million of liquidations hit crypto traders",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/17/live-updates-zcash-jumps-17-as-usd345-million-of-liquidations-hit-crypto-traders",
+      "published": "2026-09-17T10:41:15+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman pivots, now forecasts Fed rate hike in October",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
       "published": "2026-09-17T04:17:55+00:00",
