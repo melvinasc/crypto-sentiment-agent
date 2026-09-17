@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:11:38.163918+00:00",
+  "generated_at": "2026-09-17T04:39:05.468471+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -28,32 +28,6 @@
       ],
       "no_news": false
     },
-    "TRX": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-          "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
-          "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-          "published": "2026-09-16T09:01:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "TRX"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 1,
       "avg_compound": -0.296,
@@ -78,68 +52,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0927,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
-          "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
-          "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
-          "published": "2026-09-16T15:50:07+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": -0.6908,
-          "label": "BEARISH",
-          "confidence": 0.6908
-        },
-        {
-          "source": "TheBlock",
-          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
-          "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
-          "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
-          "published": "2026-09-16T10:05:28+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.6597,
-          "label": "BULLISH",
-          "confidence": 0.6597
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tonkeeper Becomes Keeper as Wallet Adds Bitcoin, Ethereum, and Tron",
-          "summary": "The self-custodial wallet is expanding beyond The Open Network, with support for seven blockchains and more financial products planned.",
-          "url": "https://decrypt.co/378265/tonkeeper-keeper-adds-bitcoin-ethereum-tron",
-          "published": "2026-09-16T09:01:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "TRX"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0461,
+      "article_count": 22,
+      "avg_compound": -0.0457,
       "overall": "NEUTRAL",
       "bullish": 7,
       "bearish": 10,
-      "neutral": 7,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -181,6 +100,60 @@
           "compound": -0.6908,
           "label": "BEARISH",
           "confidence": 0.6908
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.0104,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+          "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+          "url": "https://decrypt.co/378382/bitcoin-etfs-clarity-act-vote",
+          "published": "2026-09-16T15:50:07+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": -0.6908,
+          "label": "BEARISH",
+          "confidence": 0.6908
+        },
+        {
+          "source": "TheBlock",
+          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+          "summary": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
+          "url": "https://www.theblock.co/news/business/2026-09-16-deutsche-bank-plans-bitcoin-ether-custody-for-institutional-clients-in-europe-415251",
+          "published": "2026-09-16T10:05:28+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.6597,
+          "label": "BULLISH",
+          "confidence": 0.6597
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin, ether swing after unanimous quarter-point Fed rate hike as Warsh takes aim at inflation",
+          "summary": "Bitcoin and ether whipsawed as the Federal Reserve delivered its first rate hike in more than three years.",
+          "url": "https://www.theblock.co/news/markets/2026-09-16-bitcoin-ether-swing-unanimous-quarter-point-fed-rate-hike-warsh-aim-inflation-415307",
+          "published": "2026-09-16T20:02:16+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -309,6 +282,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "TRX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -341,17 +324,6 @@
     }
   },
   "uncategorised": [
-    {
-      "source": "TheBlock",
-      "title": "Sen. Elizabeth Warren says she wants a crypto bill, but the Clarity Act just isn\u2019t it",
-      "summary": "Sen. Elizabeth Warren says she remains determined to get a crypto bill signed into law \u2014 even if she doesn\u2019t support the current Clarity Act.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-15-sen-elizabeth-warren-says-she-wants-a-crypto-bill-but-the-clarity-act-just-isnt-it-414869",
-      "published": "2026-09-15T17:49:30+00:00",
-      "coins": [],
-      "compound": 0.9294,
-      "label": "BULLISH",
-      "confidence": 0.9294
-    },
     {
       "source": "TheBlock",
       "title": "JPMorgan says Clarity Act \u2018not fully dead,\u2019 but passage window \u2018extremely narrow\u2019",
@@ -441,15 +413,15 @@
       "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "UK Backs Money Laundering Crackdown With $676M and 500 New Officers",
-      "summary": "The Home Office names crypto alongside fintech and AI as drivers of a threat the NCA puts at \u00a3100 billion a year in the UK.",
-      "url": "https://decrypt.co/378337/uk-backs-money-laundering-crackdown-with-676m-and-500-new-officers",
-      "published": "2026-09-16T09:41:53+00:00",
+      "source": "TheBlock",
+      "title": "\u2018Not the end\u2019: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
+      "summary": "Industry analysts say it is highly unlikely for the bill to pass this Congress, and instead pointed to the SEC and CFTC's rulemaking efforts.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
+      "published": "2026-09-17T02:09:31+00:00",
       "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "CoinDesk",
@@ -585,6 +557,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Crypto Tax Bill Clears House Committee After Clarity Act Setback",
+      "summary": "The bill would exempt qualifying crypto fees from gain-or-loss calculations and restrict tax-loss deductions on tokens sold and quickly repurchased.",
+      "url": "https://decrypt.co/378449/crypto-tax-bill-clears-house-committee",
+      "published": "2026-09-16T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
       "title": "Fed Chair Implies Trump Is Only Half Right on the Economy Following Rate Hike",
       "summary": "Chair Kevin Warsh credited Trump's economy, then ignored his rate-cut wishes entirely.",
       "url": "https://decrypt.co/378433/fed-hikes-rates-warsh-implies-trump-only-half-right",
@@ -593,6 +576,17 @@
       "compound": 0.2023,
       "label": "BULLISH",
       "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta May Have Found a Fix for Its 'Pervert Glasses'",
+      "summary": "Meta is reportedly developing a version of its smart glasses without a camera, potentially addressing one of the biggest privacy objections to AI wearables.",
+      "url": "https://decrypt.co/378448/meta-fix-pervert-glasses",
+      "published": "2026-09-16T21:16:03+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
@@ -615,6 +609,17 @@
       "compound": -0.0572,
       "label": "BEARISH",
       "confidence": 0.0572
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman pivots, now forecasts Fed hike in October",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/17/goldman-expects-another-fed-rate-hike-in-october",
+      "published": "2026-09-17T04:17:55+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
