@@ -1,7 +1,58 @@
 {
-  "generated_at": "2026-09-18T04:24:30.698662+00:00",
+  "generated_at": "2026-09-18T11:01:27.945735+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.2625,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum confirms Glamsterdam dates, but warns 'fake' builders could stall the chain",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/18/ethereum-confirms-glamsterdam-dates-but-warns-fake-builders-could-stall-the-chain",
+          "published": "2026-09-18T05:23:29+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7876,
+          "label": "BEARISH",
+          "confidence": 0.7876
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+          "published": "2026-09-18T04:49:17+00:00",
+          "coins": [
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
+          "summary": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
+          "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
+          "published": "2026-09-17T19:01:05+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": 0.2023,
@@ -27,11 +78,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.1495,
+      "article_count": 21,
+      "avg_compound": 0.1242,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 6,
+      "bullish": 11,
+      "bearish": 7,
       "neutral": 3,
       "top_articles": [
         {
@@ -76,58 +127,31 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0193,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 3,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.1154,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Ethereum\u2019s upcoming Glamsterdam upgrade clears rehearsal for a big jump in capacity",
+          "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity",
-          "published": "2026-09-17T12:37:21+00:00",
+          "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+          "published": "2026-09-18T06:16:57+00:00",
           "coins": [
-            "ETH"
+            "SOL"
           ],
-          "compound": 0.0772,
-          "label": "BULLISH",
-          "confidence": 0.0772
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Crypto for Advisors: Beyond bitcoin and ether",
-          "summary": "",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
-          "published": "2026-09-17T14:57:11+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
-          "summary": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-          "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-          "published": "2026-09-17T19:01:05+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.1154,
+          "label": "BEARISH",
+          "confidence": 0.1154
         }
       ],
       "no_news": false
     },
-    "USDC": {
+    "XRP": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -136,13 +160,14 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
-          "summary": "Arc is a new layer-1 blockchain developed by USDC issuer Circle, designed specifically for stablecoin-native finance.",
-          "url": "https://decrypt.co/resources/what-is-arc-the-stablecoin-blockchain-from-usdc-issuer-circle",
-          "published": "2026-09-17T14:40:07+00:00",
+          "source": "CoinDesk",
+          "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/18/ether-and-xrp-etfs-post-outflows-as-bitcoin-moves-above-usd77-000",
+          "published": "2026-09-18T04:49:17+00:00",
           "coins": [
-            "USDC"
+            "ETH",
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -251,16 +276,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -281,7 +296,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -291,7 +306,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -313,6 +328,17 @@
       "compound": 0.9337,
       "label": "BULLISH",
       "confidence": 0.9337
+    },
+    {
+      "source": "Decrypt",
+      "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+      "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
+      "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+      "published": "2026-09-18T09:57:33+00:00",
+      "coins": [],
+      "compound": -0.8934,
+      "label": "BEARISH",
+      "confidence": 0.8934
     },
     {
       "source": "TheBlock",
@@ -392,17 +418,6 @@
       "confidence": 0.5994
     },
     {
-      "source": "CoinDesk",
-      "title": "SEC rolls out long-awaited 'innovation exemption' for tokenized securities venues",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues",
-      "published": "2026-09-17T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
-    },
-    {
       "source": "TheBlock",
       "title": "\u2018Not the end\u2019: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
       "summary": "Industry analysts say it is highly unlikely for the bill to pass this Congress, and instead pointed to the SEC and CFTC's rulemaking efforts.",
@@ -423,17 +438,6 @@
       "compound": 0.5574,
       "label": "BULLISH",
       "confidence": 0.5574
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Optimism creeps back into crypto, with the 2022 test still to come",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/17/optimism-creeps-back-into-crypto-with-the-2022-test-still-to-come",
-      "published": "2026-09-17T11:19:09+00:00",
-      "coins": [],
-      "compound": 0.5423,
-      "label": "BULLISH",
-      "confidence": 0.5423
     },
     {
       "source": "TheBlock",
@@ -491,37 +495,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "published": "2026-09-17T14:50:58+00:00",
+      "source": "TheBlock",
+      "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
+      "summary": "The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
+      "url": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
+      "published": "2026-09-18T05:29:10+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "Decrypt",
-      "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
-      "summary": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
-      "url": "https://decrypt.co/378472/revolut-hackers-demand-3m-monero-ransom-threaten-to-sell-customer-data-report",
-      "published": "2026-09-17T12:53:01+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ratings giant S&P Global acquires OpenZeppelin in tokenized finance risk push",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push",
-      "published": "2026-09-17T13:15:21+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -558,6 +540,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Kevin O\u2019Leary is buying crypto again, says major stock exchange adoption is the \u2018watershed moment\u2019 to watch",
+      "summary": "Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.",
+      "url": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
+      "published": "2026-09-18T10:08:42+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "TheBlock",
       "title": "As RWA trading surges on Hyperliquid, Dragonfly\u2019s Qureshi makes the case for a multichain future",
       "summary": "Dragonfly's Haseeb Qureshi said the shift reflects crypto's broader maturation toward tokenized stocks, bonds, and other real-world assets.",
       "url": "https://www.theblock.co/news/ecosystems/2026-09-17-as-rwa-trading-surges-hyperliquid-dragonflys-qureshi-makes-case-multichain-future-415406",
@@ -566,6 +559,28 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
+      "published": "2026-09-18T10:33:05+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
+      "published": "2026-09-18T07:37:32+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
     },
     {
       "source": "CoinDesk",
@@ -584,39 +599,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
       "published": "2026-09-17T15:08:24+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/17/u-s-sec-begins-prepping-for-round-the-clock-trading-that-crypto-treats-as-the-norm",
-      "published": "2026-09-17T15:03:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash miner Fortitude names former Hut 8 chief Jaime Leverton CEO ahead of Nasdaq deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/zcash-miner-fortitude-names-former-hut-8-chief-jaime-leverton-ceo-ahead-of-nasdaq-deal",
-      "published": "2026-09-17T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How Circle\u2019s institutional Arc blockchain got taken over by memecoins on day one",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/circle-launched-a-corporate-l2-backed-by-blackrock-but-traders-immediately-turned-it-into-a-memecoin-casino",
-      "published": "2026-09-17T11:42:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
