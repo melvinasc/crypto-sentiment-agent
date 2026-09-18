@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:13:40.614572+00:00",
+  "generated_at": "2026-09-18T04:24:30.698662+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -27,12 +27,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": 0.0374,
-      "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 7,
-      "neutral": 7,
+      "article_count": 19,
+      "avg_compound": 0.1495,
+      "overall": "BULLISH",
+      "bullish": 10,
+      "bearish": 6,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -327,6 +327,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
+      "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
+      "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
+      "published": "2026-09-17T22:31:03+00:00",
+      "coins": [],
+      "compound": -0.8316,
+      "label": "BEARISH",
+      "confidence": 0.8316
+    },
+    {
+      "source": "Decrypt",
       "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
       "summary": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
       "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
@@ -335,6 +346,28 @@
       "compound": -0.8271,
       "label": "BEARISH",
       "confidence": 0.8271
+    },
+    {
+      "source": "Decrypt",
+      "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
+      "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
+      "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
+      "published": "2026-09-17T21:16:03+00:00",
+      "coins": [],
+      "compound": -0.7579,
+      "label": "BEARISH",
+      "confidence": 0.7579
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman\u2019s daughter alleges \u2018dementia\u2019, alcoholism and reckless spending",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
+      "published": "2026-09-17T21:28:35+00:00",
+      "coins": [],
+      "compound": -0.7184,
+      "label": "BEARISH",
+      "confidence": 0.7184
     },
     {
       "source": "Decrypt",
@@ -379,6 +412,17 @@
       "compound": 0.5859,
       "label": "BULLISH",
       "confidence": 0.5859
+    },
+    {
+      "source": "Decrypt",
+      "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
+      "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
+      "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
+      "published": "2026-09-17T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
     },
     {
       "source": "CoinDesk",
@@ -458,17 +502,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto rallies through the Fed's first rate increase since 2023",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-      "published": "2026-09-17T10:40:01+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
       "title": "Revolut Hackers Demand $3M Monero Ransom, Threaten to Sell Customer Data: Report",
       "summary": "The group says it chose whom to target by scanning the blockchain for Revolut accounts holding significant crypto.",
@@ -535,15 +568,15 @@
       "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Crypto Rebounds After The Fed\u2019s First Hike Since 2023",
-      "summary": "The Clarity Act failed to pass and FOMC hiked rates, and yet, crypto majors are green and alt leaders are flying. What does it mean?",
-      "url": "https://decrypt.co/378462/morning-minute-crypto-rebounds-after-the-feds-first-hike-since-2023",
-      "published": "2026-09-17T12:13:20+00:00",
+      "source": "CoinDesk",
+      "title": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
+      "published": "2026-09-17T21:47:22+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
