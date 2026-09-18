@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-18T11:01:27.945735+00:00",
+  "generated_at": "2026-09-18T16:16:11.158953+00:00",
   "total_articles": 55,
   "coins": {
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "ECB President Christine Lagarde intervened to block Binance\u2019s EU MiCA license: WSJ",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+          "published": "2026-09-18T12:57:06+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 3,
       "avg_compound": -0.2625,
@@ -53,13 +77,51 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": -0.1037,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
+          "published": "2026-09-18T06:16:57+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.1154,
+          "label": "BEARISH",
+          "confidence": 0.1154
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
+          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
+          "published": "2026-09-18T15:27:41+00:00",
+          "coins": [
+            "BTC",
+            "SOL"
+          ],
+          "compound": -0.092,
+          "label": "BEARISH",
+          "confidence": 0.092
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
+      "article_count": 2,
+      "avg_compound": 0.1012,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -73,16 +135,29 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
+          "summary": "Cooper described a close working relationship with NYSE parent ICE but did not say the exchange had selected Avalanche.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
+          "published": "2026-09-18T13:40:15+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.1242,
-      "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 7,
+      "article_count": 19,
+      "avg_compound": 0.0318,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 8,
       "neutral": 3,
       "top_articles": [
         {
@@ -127,38 +202,27 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.1154,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana speeds up blocks by 17%, but transaction capacity stays the same",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/18/solana-speeds-up-blocks-by-17-but-transaction-capacity-stays-the-same",
-          "published": "2026-09-18T06:16:57+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.1154,
-          "label": "BEARISH",
-          "confidence": 0.1154
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
-      "article_count": 1,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP on the brink of a golden cross as focus switches to altcoins",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
+          "published": "2026-09-18T11:15:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "CoinDesk",
           "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
@@ -177,16 +241,6 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -341,17 +395,6 @@
       "confidence": 0.8934
     },
     {
-      "source": "TheBlock",
-      "title": "South Korean police charge 26 Polymarket users for illegal gambling: report",
-      "summary": "The country blocked local access to Polymarket last month after its media regulator ruled that the platform offers illegal gambling.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-17-south-korean-police-charge-polymarket-users-415333",
-      "published": "2026-09-17T06:12:50+00:00",
-      "coins": [],
-      "compound": -0.8519,
-      "label": "BEARISH",
-      "confidence": 0.8519
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
       "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
@@ -375,6 +418,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
+      "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
+      "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
+      "published": "2026-09-18T12:52:03+00:00",
+      "coins": [],
+      "compound": -0.802,
+      "label": "BEARISH",
+      "confidence": 0.802
+    },
+    {
+      "source": "Decrypt",
       "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
       "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
       "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
@@ -383,17 +437,6 @@
       "compound": -0.7579,
       "label": "BEARISH",
       "confidence": 0.7579
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The Ondo Finance succession crisis gets messier as Kathleen Allman\u2019s daughter alleges \u2018dementia\u2019, alcoholism and reckless spending",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/the-ondo-finance-succession-crisis-gets-messier-as-kathleen-allman-s-daughter-alleges-dementia-alcoholism-and-reckless-spending",
-      "published": "2026-09-17T21:28:35+00:00",
-      "coins": [],
-      "compound": -0.7184,
-      "label": "BEARISH",
-      "confidence": 0.7184
     },
     {
       "source": "Decrypt",
@@ -405,28 +448,6 @@
       "compound": 0.6808,
       "label": "BULLISH",
       "confidence": 0.6808
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Clears a Path for Tokenized Stocks After Clarity Act Stumbles",
-      "summary": "The \"innovation exemption\" lets qualifying venues trade tokenized versions of U.S. stocks on public blockchains without registering as exchanges\u2014though it excludes price-tracking \"synthetics\" and lets companies block tokenization of their shares.",
-      "url": "https://decrypt.co/378492/sec-innovation-exemption-tokenized-stocks-clarity-act",
-      "published": "2026-09-17T14:52:03+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "TheBlock",
-      "title": "\u2018Not the end\u2019: Sen. Gillibrand says Democrats still committed to passing Clarity Act",
-      "summary": "Industry analysts say it is highly unlikely for the bill to pass this Congress, and instead pointed to the SEC and CFTC's rulemaking efforts.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-16-sen-gillibrand-still-committed-to-clarity-415326",
-      "published": "2026-09-17T02:09:31+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
-      "confidence": 0.5859
     },
     {
       "source": "Decrypt",
@@ -449,17 +470,6 @@
       "compound": 0.4939,
       "label": "BULLISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC opens door to tokenized U.S. stock trading. Here\u2019s who could benefit",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/sec-opens-door-to-tokenized-u-s-stock-trading-here-s-who-could-benefit",
-      "published": "2026-09-17T18:38:10+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -485,14 +495,47 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kevin O\u2019Leary says Congress will revisit Clarity early next year as crypto tax bill advances",
+      "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/17/kevin-o-leary-says-congress-will-revisit-clarity-by-second-quarter-as-crypto-tax-bill-advances",
-      "published": "2026-09-17T18:40:38+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/18/cftc-sends-crypto-rules-to-white-house-to-review-as-congress-stalls-on-clarity-act",
+      "published": "2026-09-18T15:16:37+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: SEC Approves \u2018Innovation Exemption\u2019 Moving Tokenized Stocks Forward",
+      "summary": "It came just hours after S&#038;P Global announced its acquisition of OpenZeppelin, as everything TradFi moves onchain.",
+      "url": "https://decrypt.co/378619/morning-minute-sec-approves-innovation-exemption-moving-tokenized-stocks-forward",
+      "published": "2026-09-18T12:34:50+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
+      "summary": "The Commodity Futures Trading Commission isn't sitting idle \u2014 the agency has sent its crypto rulemaking to the White House for review.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
+      "published": "2026-09-18T13:33:40+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
+      "published": "2026-09-18T15:06:31+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -517,15 +560,15 @@
       "confidence": 0.2732
     },
     {
-      "source": "Decrypt",
-      "title": "Financial Data Giant S&#038;P Global Moves Deeper Into Crypto With OpenZeppelin Deal",
-      "summary": "S&#038;P Global is expanding into the technology risks underpinning stablecoins, tokenized funds, and other onchain financial products.",
-      "url": "https://decrypt.co/378505/sp-global-acquire-crypto-openzeppelin",
-      "published": "2026-09-17T16:33:12+00:00",
+      "source": "CoinDesk",
+      "title": "DHS\u2019s predictive policing is unconstitutional, un-American and should be stopped",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "published": "2026-09-18T13:00:00+00:00",
       "coins": [],
-      "compound": -0.2732,
+      "compound": -0.2263,
       "label": "BEARISH",
-      "confidence": 0.2732
+      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -537,6 +580,17 @@
       "compound": 0.2263,
       "label": "BULLISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
+      "summary": "The Grayscale Zcash ETF (ZCSH) nears $890 million in assets as ZEC\u2019s rally pushes mining competition to record highs.",
+      "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
+      "published": "2026-09-18T15:09:09+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -559,6 +613,17 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
+      "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
+      "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
+      "published": "2026-09-18T16:08:13+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -584,32 +649,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Real stocks are finally coming on blockchain. Here\u2019s how the SEC wants it to work",
+      "title": "Zcash targets November upgrade to make private payments up to three times faster",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/17/real-stocks-are-finally-coming-on-blockchain-here-s-how-the-sec-wants-it-to-work",
-      "published": "2026-09-17T21:47:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/17/uk-signals-end-of-light-touch-era-with-multi-agency-raid-on-peer-to-peer-crypto-hubs",
-      "published": "2026-09-17T15:08:24+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "FCA Targets Three More London Sites Over Unregistered P2P Crypto Trading",
-      "summary": "\"Anyone running an unregistered peer-to-peer crypto business should assume we are looking at them,\" the FCA's enforcement chief said.",
-      "url": "https://decrypt.co/378495/fca-targets-three-more-london-sites-over-unregistered-p2p-crypto-trading",
-      "published": "2026-09-17T15:21:19+00:00",
+      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
+      "published": "2026-09-18T12:50:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
