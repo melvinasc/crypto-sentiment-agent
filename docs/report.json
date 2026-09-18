@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:16:11.158953+00:00",
+  "generated_at": "2026-09-18T20:47:51.177175+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -28,11 +28,11 @@
     },
     "ETH": {
       "article_count": 3,
-      "avg_compound": -0.2625,
+      "avg_compound": -0.3965,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
+      "bearish": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -48,6 +48,20 @@
           "confidence": 0.7876
         },
         {
+          "source": "Decrypt",
+          "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
+          "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+          "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+          "published": "2026-09-18T18:35:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        },
+        {
           "source": "CoinDesk",
           "title": "Ether and XRP ETFs post outflows as crypto majors move higher",
           "summary": "",
@@ -56,19 +70,6 @@
           "coins": [
             "ETH",
             "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Founder Vitalik Buterin Says AI Won\u2019t Doom Crypto Security",
-          "summary": "The Ethereum co-founder said AI could help developers mathematically verify entire software systems, turning the same technology powering new attacks into a tool for defense.",
-          "url": "https://decrypt.co/378544/ethereum-vitalik-buterin-ai-crypto-security",
-          "published": "2026-09-17T19:01:05+00:00",
-          "coins": [
-            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -153,25 +154,25 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0318,
-      "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 8,
-      "neutral": 3,
+      "article_count": 21,
+      "avg_compound": 0.0916,
+      "overall": "BULLISH",
+      "bullish": 10,
+      "bearish": 9,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Peter Schiff: \u201cThe Fed Has Already Lost The Battle Against Inflation\u201d & BTC vs GOLD Debate",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Peter-Schiff-22The-Fed-Has-Already-Lost-The-Battle-Against-Inflation22-BTC-vs-GOLD-Debate-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle\" rel=\"nofollow\">Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate</a></p>\n<p>Peter Schiff says the bond market didn't break recently, it broke in 2020, and everything since has been a slow unwind.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle\" rel=\"nofollow\">Peter Schiff: &#8220;The Fed Has Already Lost The Battle Against Inflation&#8221; &#038; BTC vs GOLD Debate</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/peter-schiff-the-fed-has-already-lost-the-battle",
-          "published": "2026-09-16T20:28:50+00:00",
+          "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000\" rel=\"nofollow\">Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike</a></p>\n<p>Bitcoin&#8217;s price on Friday shot above $81,000 \u2014 despite a week of setbacks for the crypto industry.&#160; The biggest coin was recently trading for $80,982, after jumping as high as $81,055 at one point Friday morning in New York. Over the past 24 hours, it has risen by nearly 6%.&#160; Its surge comes after lawmakers [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000\" rel=\"nofollow\">Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
+          "published": "2026-09-18T16:46:48+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9545,
-          "label": "BEARISH",
-          "confidence": 0.9545
+          "compound": 0.8349,
+          "label": "BULLISH",
+          "confidence": 0.8349
         },
         {
           "source": "Bitcoin Magazine",
@@ -203,12 +204,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
+      "article_count": 3,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -232,6 +233,20 @@
           "coins": [
             "ETH",
             "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
+          "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
+          "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
+          "published": "2026-09-18T16:42:32+00:00",
+          "coins": [
+            "XRP",
+            "BTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -407,17 +422,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Andrew Yang Calls for AI Kill Switch as Safety Fears Mount",
-      "summary": "The former presidential candidate said lawmakers should impose liability rules and waiting periods on frontier AI firms as autonomous agents raise new cyber and labor concerns.",
-      "url": "https://decrypt.co/378522/andrew-yang-ai-kill-switch-safety-fears",
-      "published": "2026-09-17T18:06:03+00:00",
-      "coins": [],
-      "compound": -0.8271,
-      "label": "BEARISH",
-      "confidence": 0.8271
-    },
-    {
-      "source": "Decrypt",
       "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
       "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
       "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
@@ -483,17 +487,6 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "King Charles Convenes OpenAI, Anthropic, Nvidia and Google for AI Safety Summit",
-      "summary": "King Charles hosted senior AI executives at his Scottish estate to discuss keeping the technology \"in the service of humanity,\" days after industry leaders called for a slowdown.",
-      "url": "https://decrypt.co/378504/king-charles-openai-anthropic-nvidia-google-deepmind-ai-safety",
-      "published": "2026-09-17T17:36:02+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "CoinDesk",
       "title": "CFTC sends crypto rules to White House to review as Congress stalls on Clarity Act",
       "summary": "",
@@ -532,6 +525,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/18/crypto-tech-provider-haruko-hit-by-cyberattack-affecting-15-clients-some-funds-lost",
       "published": "2026-09-18T15:06:31+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
+      "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
+      "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
+      "published": "2026-09-18T19:16:03+00:00",
       "coins": [],
       "compound": -0.3182,
       "label": "BEARISH",
