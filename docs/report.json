@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:46:53.276038+00:00",
+  "generated_at": "2026-09-19T20:28:33.587861+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -36,31 +36,6 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.4019,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
-          "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-          "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
-          "published": "2026-09-18T18:35:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -191,11 +166,50 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.0778,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+          "summary": "Fidelity's FBTC accounted for $310.7 million of Friday\u2019s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
+          "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+          "published": "2026-09-19T18:01:09+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.5574,
+          "label": "BULLISH",
+          "confidence": 0.5574
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
+          "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
+          "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
+          "published": "2026-09-18T18:35:54+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4019,
+          "label": "BEARISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0311,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 22,
+      "avg_compound": 0.0719,
+      "overall": "BULLISH",
+      "bullish": 11,
       "bearish": 9,
       "neutral": 2,
       "top_articles": [
@@ -420,17 +434,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Your Data Could Outlive the Startup You Gave It To. Elon Musk Wants to Buy What's Left",
-      "summary": "SpaceX's AI division has held internal talks about buying customer records from dead startups\u2014cheap fuel for Grok, no questions asked, because there's nobody left to ask them.",
-      "url": "https://decrypt.co/378573/elon-musk-spacex-buy-startup-data-train-ai",
-      "published": "2026-09-17T21:16:03+00:00",
-      "coins": [],
-      "compound": -0.7579,
-      "label": "BEARISH",
-      "confidence": 0.7579
-    },
-    {
-      "source": "Decrypt",
       "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
       "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
@@ -450,17 +453,6 @@
       "compound": -0.6486,
       "label": "BEARISH",
       "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
-      "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-      "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
-      "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-      "published": "2026-09-17T21:46:03+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
     },
     {
       "source": "CoinDesk",
@@ -494,6 +486,17 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Clarity Act, we hardly knew ye: We look at what was in the bill and what's replacing it",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/18/clarity-act-we-hardly-knew-ye-we-look-at-what-was-in-the-bill-and-what-s-replacing-it",
+      "published": "2026-09-19T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -584,14 +587,14 @@
       "confidence": 0.2263
     },
     {
-      "source": "TheBlock",
-      "title": "It\u2019s here \u2014 SEC releases long-awaited innovation exemption to \u2018bring America\u2019s capital markets into the digital age\u2019",
-      "summary": "The SEC released its 'innovation exemption,' positioning the measure as a response to the Senate's failure to advance crypto legislation.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-17-sec-releases-innovation-exemption-415324",
-      "published": "2026-09-17T13:00:00+00:00",
+      "source": "Decrypt",
+      "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
+      "summary": "The Clarity Act failed to advance in the Senate, shifting the industry\u2019s focus to a new wave of action from the SEC and CFTC.",
+      "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
+      "published": "2026-09-19T17:01:03+00:00",
       "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
+      "compound": -0.2263,
+      "label": "BEARISH",
       "confidence": 0.2263
     },
     {
@@ -648,17 +651,6 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SBI Group backs payments firm dtcpay in $25 million funding round",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/18/sbi-group-backs-payments-firm-dtcpay-in-usd25-million-funding-round",
-      "published": "2026-09-18T07:37:32+00:00",
-      "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
     },
     {
       "source": "CoinDesk",
