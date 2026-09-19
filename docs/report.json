@@ -1,15 +1,29 @@
 {
-  "generated_at": "2026-09-18T20:47:51.177175+00:00",
+  "generated_at": "2026-09-19T04:21:41.643625+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
+      "article_count": 2,
+      "avg_compound": -0.6423,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a></p>\n<p>A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+          "published": "2026-09-18T21:48:01+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.8442,
+          "label": "BEARISH",
+          "confidence": 0.8442
+        },
         {
           "source": "CoinDesk",
           "title": "ECB President Christine Lagarde intervened to block Binance\u2019s EU MiCA license: WSJ",
@@ -155,12 +169,26 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": 0.0916,
-      "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 9,
+      "avg_compound": 0.0125,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 10,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a></p>\n<p>A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
+          "published": "2026-09-18T21:48:01+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.8442,
+          "label": "BEARISH",
+          "confidence": 0.8442
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
@@ -173,19 +201,6 @@
           "compound": 0.8349,
           "label": "BULLISH",
           "confidence": 0.8349
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ric Edelman: Buying Bitcoin Today Is Like Buying Amazon in 1999",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Ric-Edelman-Buying-Bitcoin-Today-Is-Like-Buying-Amazon-in-1999.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon\" rel=\"nofollow\">Ric Edelman: Buying Bitcoin Today Is Like Buying Amazon in 1999</a></p>\n<p>The top financial advisor also thinks bitcoin's price will hit at least $500,000 by 2030. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon\" rel=\"nofollow\">Ric Edelman: Buying Bitcoin Today Is Like Buying Amazon in 1999</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ric-edelman-says-bitcoin-is-like-amazon",
-          "published": "2026-09-17T15:54:50+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8176,
-          "label": "BULLISH",
-          "confidence": 0.8176
         },
         {
           "source": "TheBlock",
@@ -444,14 +459,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Says It's Made Progress on a Second $1 Million Math Problem",
-      "summary": "Days after its disputed Navier-Stokes claim, OpenAI says it's made \"substantial progress\" on another Millennium Prize math problem\u2014and won't say which one yet.",
-      "url": "https://decrypt.co/378551/openai-progress-second-millennium-prize-math-problem",
-      "published": "2026-09-17T19:32:22+00:00",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
+      "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
+      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
+      "published": "2026-09-18T21:01:30+00:00",
       "coins": [],
-      "compound": 0.6808,
+      "compound": 0.6705,
       "label": "BULLISH",
-      "confidence": 0.6808
+      "confidence": 0.6705
     },
     {
       "source": "Decrypt",
