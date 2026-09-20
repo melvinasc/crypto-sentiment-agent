@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:55:11.550761+00:00",
+  "generated_at": "2026-09-20T20:40:31.370580+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -36,44 +36,6 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.1651,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-          "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-          "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-          "published": "2026-09-19T13:01:04+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.2382,
-          "label": "BEARISH",
-          "confidence": 0.2382
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
-          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-          "published": "2026-09-18T15:27:41+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": -0.092,
-          "label": "BEARISH",
-          "confidence": 0.092
         }
       ],
       "no_news": false
@@ -121,6 +83,57 @@
           "coins": [
             "XRP",
             "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": -0.1101,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+          "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+          "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+          "published": "2026-09-19T13:01:04+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.2382,
+          "label": "BEARISH",
+          "confidence": 0.2382
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
+          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
+          "published": "2026-09-18T15:27:41+00:00",
+          "coins": [
+            "BTC",
+            "SOL"
+          ],
+          "compound": -0.092,
+          "label": "BEARISH",
+          "confidence": 0.092
+        },
+        {
+          "source": "TheBlock",
+          "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+          "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
+          "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+          "published": "2026-09-20T20:11:49+00:00",
+          "coins": [
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -206,10 +219,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0318,
+      "article_count": 21,
+      "avg_compound": -0.043,
       "overall": "NEUTRAL",
-      "bullish": 8,
+      "bullish": 7,
       "bearish": 10,
       "neutral": 4,
       "top_articles": [
@@ -389,17 +402,6 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "World launches \u2018World Money\u2019 super app with stablecoins, Stripe integration and boosted rewards",
-      "summary": "The self-custody app also plugs into Stripe, Kalshi, and Morpho, with World ID verification unlocking boosted rewards.",
-      "url": "https://www.theblock.co/news/business/2026-09-17-world-launches-world-money-super-app-stablecoins-stripe-integration-boosted-rewards-415394",
-      "published": "2026-09-17T15:06:58+00:00",
-      "coins": [],
-      "compound": 0.9337,
-      "label": "BULLISH",
-      "confidence": 0.9337
-    },
-    {
       "source": "Decrypt",
       "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
       "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
@@ -409,6 +411,28 @@
       "compound": -0.8934,
       "label": "BEARISH",
       "confidence": 0.8934
+    },
+    {
+      "source": "Decrypt",
+      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
+      "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
+      "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
+      "published": "2026-09-20T16:01:03+00:00",
+      "coins": [],
+      "compound": 0.876,
+      "label": "BULLISH",
+      "confidence": 0.876
+    },
+    {
+      "source": "TheBlock",
+      "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
+      "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
+      "published": "2026-09-20T16:07:19+00:00",
+      "coins": [],
+      "compound": -0.8176,
+      "label": "BEARISH",
+      "confidence": 0.8176
     },
     {
       "source": "Decrypt",
@@ -452,17 +476,6 @@
       "coins": [],
       "compound": -0.4939,
       "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
-      "title": "S&P Global agrees to acquire OpenZeppelin in onchain security push",
-      "summary": "OpenZeppelin will continue operating as a standalone business unit under S&amp;P Global, with financial terms of the deal not disclosed.",
-      "url": "https://www.theblock.co/news/business/2026-09-17-sp-global-agrees-to-acquire-openzeppelin-in-onchain-security-push-415360",
-      "published": "2026-09-17T13:32:01+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
       "confidence": 0.4939
     },
     {
