@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:07:56.644511+00:00",
+  "generated_at": "2026-09-20T15:55:11.550761+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -207,12 +207,25 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": 0.0719,
-      "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 9,
-      "neutral": 2,
+      "avg_compound": -0.0318,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 10,
+      "neutral": 4,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset\" rel=\"nofollow\">Move Over Housing &#8211; Bitcoin is Gen Z\u2019s New Wealth Building Asset</a></p>\n<p>Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset\" rel=\"nofollow\">Move Over Housing &#8211; Bitcoin is Gen Z\u2019s New Wealth Building Asset</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
+          "published": "2026-09-20T13:34:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9201,
+          "label": "BULLISH",
+          "confidence": 0.9201
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
@@ -239,19 +252,6 @@
           "compound": 0.8349,
           "label": "BULLISH",
           "confidence": 0.8349
-        },
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says bitcoin could get more support than gold if ETF hedging eases",
-          "summary": "Bitcoin could get more support than gold if investors reduce their ETF hedges, according to JPMorgan analysts.",
-          "url": "https://www.theblock.co/news/markets/2026-09-17-jpmorgan-bitcoin-gold-415421",
-          "published": "2026-09-17T17:48:51+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8067,
-          "label": "BULLISH",
-          "confidence": 0.8067
         }
       ],
       "no_news": false
@@ -412,17 +412,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
-      "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
-      "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-      "published": "2026-09-17T22:31:03+00:00",
-      "coins": [],
-      "compound": -0.8316,
-      "label": "BEARISH",
-      "confidence": 0.8316
-    },
-    {
-      "source": "Decrypt",
       "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
       "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
       "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
@@ -475,6 +464,17 @@
       "compound": 0.4939,
       "label": "BULLISH",
       "confidence": 0.4939
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "published": "2026-09-20T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
     },
     {
       "source": "TheBlock",
@@ -643,14 +643,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+      "title": "Crypto platform Gemini\u2019s stock is down 80% from its IPO. That\u2019s reviving takeover speculation",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/18/layer-2-and-defi-tokens-lead-broad-crypto-advance-as-post-fed-hike-nerves-fade",
-      "published": "2026-09-18T10:33:05+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "published": "2026-09-20T14:54:48+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
