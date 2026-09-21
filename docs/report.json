@@ -1,53 +1,66 @@
 {
-  "generated_at": "2026-09-21T12:36:57.093925+00:00",
+  "generated_at": "2026-09-21T21:54:51.796059+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.8442,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.1394,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a></p>\n<p>A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
-          "published": "2026-09-18T21:48:01+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
+          "summary": "Fidelity's FBTC accounted for $310.7 million of Friday\u2019s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
+          "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
+          "published": "2026-09-19T18:01:09+00:00",
           "coins": [
-            "BNB",
-            "BTC"
+            "BTC",
+            "ETH"
           ],
-          "compound": -0.8442,
-          "label": "BEARISH",
-          "confidence": 0.8442
+          "compound": 0.5574,
+          "label": "BULLISH",
+          "confidence": 0.5574
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
+          "published": "2026-09-21T13:11:15+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
+          "summary": "The purchase lifts Bitmine's stash to nearly 5.99 million ETH\u20144.9% of supply\u2014as chairman Tom Lee argues Ethereum's outperformance signals a stronger move ahead and institutions remain underweight.",
+          "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
+          "published": "2026-09-21T15:00:49+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.1101,
-      "overall": "BEARISH",
+      "article_count": 2,
+      "avg_compound": -0.046,
+      "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
-          "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
-          "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
-          "published": "2026-09-19T13:01:04+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.2382,
-          "label": "BEARISH",
-          "confidence": 0.2382
-        },
         {
           "source": "TheBlock",
           "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
@@ -78,52 +91,13 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.0778,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-          "summary": "Fidelity's FBTC accounted for $310.7 million of Friday\u2019s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
-          "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-          "published": "2026-09-19T18:01:09+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.5574,
-          "label": "BULLISH",
-          "confidence": 0.5574
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Will Hit $1 Million, Says Kevin O\u2019Leary\u2014But There\u2019s a Quantum Catch",
-          "summary": "Kevin O'Leary believes Bitcoin could hit $1 million if crypto beats its quantum computing problem, and explained why he's ditching Ethereum.",
-          "url": "https://decrypt.co/378664/kevin-oleary-bitcoin-1-million-quantum-catch",
-          "published": "2026-09-18T18:35:54+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4019,
-          "label": "BEARISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 30,
-      "avg_compound": -0.0544,
-      "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 12,
-      "neutral": 8,
+      "article_count": 27,
+      "avg_compound": 0.0355,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 11,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -140,30 +114,29 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image14_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a></p>\n<p>A Wall Street Journal report says that the central bank's boss, Christine Lagarde, who has previously bashed Bitcoin and is pro-CBDCs, stopped Binance getting a foothold in the European Union. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance\" rel=\"nofollow\">European Central Bank President Blocked Binance&#8217;s EU Entry: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/eu-central-bank-president-blocked-binance",
-          "published": "2026-09-18T21:48:01+00:00",
+          "title": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Bull-Market-Engaged-50-Week-Moving-Average-Flips-Bullish.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish\" rel=\"nofollow\">Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish</a></p>\n<p>Bitcoin just closed a weekly candle above its 50-week simple moving average for the first time this cycle, and Sean Hagan puts roughly 80% confidence on this being a genuine regime change.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish\" rel=\"nofollow\">Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish",
+          "published": "2026-09-21T21:49:17+00:00",
           "coins": [
-            "BNB",
             "BTC"
           ],
-          "compound": -0.8442,
-          "label": "BEARISH",
-          "confidence": 0.8442
+          "compound": 0.8418,
+          "label": "BULLISH",
+          "confidence": 0.8418
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-9.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000\" rel=\"nofollow\">Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike</a></p>\n<p>Bitcoin&#8217;s price on Friday shot above $81,000 \u2014 despite a week of setbacks for the crypto industry.&#160; The biggest coin was recently trading for $80,982, after jumping as high as $81,055 at one point Friday morning in New York. Over the past 24 hours, it has risen by nearly 6%.&#160; Its surge comes after lawmakers [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000\" rel=\"nofollow\">Bitcoin Price Surges Over $81,000 Despite Clarity Act Fail and Interest Rate Hike</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-81000",
-          "published": "2026-09-18T16:46:48+00:00",
+          "title": "Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Michael-Saylor-talks-Bitcoin-Strategy-at-Bitcoin-MENA-Conference.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win\" rel=\"nofollow\">Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win</a></p>\n<p>Saylor has argued that the digital asset industry can work well with regulators alone. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win\" rel=\"nofollow\">Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win",
+          "published": "2026-09-21T00:52:50+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8349,
-          "label": "BULLISH",
-          "confidence": 0.8349
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
         }
       ],
       "no_news": false
@@ -192,32 +165,17 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
+    "ADA": {
+      "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Surges 6.9% as Bitcoin Rebound Reopens Door to Golden Cross",
-          "summary": "XRP is roaring back as Bitcoin claws its way above $800,000 again, but the charts continue to give traders mixed signals.",
-          "url": "https://decrypt.co/378641/xrp-surges-bitcoin-rebound-reopens-golden-cross",
-          "published": "2026-09-18T16:42:32+00:00",
-          "coins": [
-            "XRP",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
-    "ADA": {
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -346,19 +304,29 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Visa Moves to Close Meme Coin Credit Card Rewards Loophole",
-      "summary": "After banks lost their push for tighter stablecoin rules in the failed Clarity Act, JP Morgan scored a narrower win as Visa moves to stop meme coin purchases from being coded as ordinary \"digital media\" and earning card rewards.",
-      "url": "https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole",
-      "published": "2026-09-20T16:01:03+00:00",
+      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
+      "summary": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
+      "url": "https://decrypt.co/378824/xai-launches-grok-4-7",
+      "published": "2026-09-21T17:16:03+00:00",
       "coins": [],
-      "compound": 0.876,
+      "compound": 0.8201,
       "label": "BULLISH",
-      "confidence": 0.876
+      "confidence": 0.8201
     },
     {
       "source": "TheBlock",
@@ -372,17 +340,6 @@
       "confidence": 0.8176
     },
     {
-      "source": "Decrypt",
-      "title": "Microsoft Staff Asked If AI Scraping Was 'Largest Theft of Labor in Human History'",
-      "summary": "Internal memos warned of a \"doom loop\" threatening the quality of the very models it was building with OpenAI.",
-      "url": "https://decrypt.co/378622/microsoft-staff-asked-if-ai-scraping-was-largest-theft-of-labor-in-human-history",
-      "published": "2026-09-18T12:52:03+00:00",
-      "coins": [],
-      "compound": -0.802,
-      "label": "BEARISH",
-      "confidence": 0.802
-    },
-    {
       "source": "TheBlock",
       "title": "X sues UK duo over alleged $277K crypto account payout fraud",
       "summary": "X alleges two UK users manipulated crypto-focused accounts to obtain $277,000 through its creator revenue-sharing program.",
@@ -394,15 +351,15 @@
       "confidence": 0.7506
     },
     {
-      "source": "Decrypt",
-      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-      "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-      "url": "https://decrypt.co/378681/coinbase-single-stock-perps-apple-tesla-nvidia",
-      "published": "2026-09-18T21:01:30+00:00",
+      "source": "CoinDesk",
+      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
+      "published": "2026-09-21T12:44:33+00:00",
       "coins": [],
-      "compound": 0.6705,
+      "compound": 0.7184,
       "label": "BULLISH",
-      "confidence": 0.6705
+      "confidence": 0.7184
     },
     {
       "source": "CoinDesk",
@@ -416,17 +373,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
-      "published": "2026-09-20T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
       "source": "TheBlock",
       "title": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
       "summary": "Though the Crossmint-powered memecoin sales are still live on both apps, Visa's grace period is expected to end next week, per the report.",
@@ -436,6 +382,17 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
+      "published": "2026-09-21T14:53:52+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -460,6 +417,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "Decrypt",
+      "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+      "summary": "The senior roles cover Apple\u2019s consumer payment products and Google Cloud\u2019s institutional blockchain business in Asia.",
+      "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
+      "published": "2026-09-21T16:16:03+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
       "source": "TheBlock",
       "title": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
       "summary": "The Commodity Futures Trading Commission isn't sitting idle \u2014 the agency has sent its crypto rulemaking to the White House for review.",
@@ -472,58 +440,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
-      "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-      "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-      "published": "2026-09-18T19:16:03+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "TheBlock",
-      "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
-      "summary": "The fresh capital enables it to scale product suite and merchant network, including a revamped business portal for enterprise clients.",
-      "url": "https://www.theblock.co/news/business/2026-09-18-dtcpay-series-a-sbi-group-415483",
-      "published": "2026-09-18T05:29:10+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Grayscale Is Making Its Red-Hot Zcash ETF More Affordable",
-      "summary": "The Zcash ETF is splitting its shares three ways after pulling in more than $233 million in under a month, as Wall Street piles into crypto's hottest privacy trade.",
-      "url": "https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split",
-      "published": "2026-09-19T15:01:03+00:00",
+      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
+      "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
+      "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
+      "published": "2026-09-21T19:26:49+00:00",
       "coins": [],
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kalshi faces \u2018fake crypto volume\u2019 allegations as critic flags identical $5,500 trades",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/21/kalshi-s-crypto-chief-responds-to-fake-crypto-volume-allegations-as-critic-flags-identical-usd5-500-trades",
-      "published": "2026-09-21T06:20:47+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "How the Clarity Act's Defeat Handed the SEC and CFTC the Wheel on Crypto",
-      "summary": "The Clarity Act failed to advance in the Senate, shifting the industry\u2019s focus to a new wave of action from the SEC and CFTC.",
-      "url": "https://decrypt.co/378688/how-clarity-act-defeat-sec-cftc-wheel-crypto",
-      "published": "2026-09-19T17:01:03+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -534,6 +458,28 @@
       "coins": [],
       "compound": 0.1779,
       "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is VVV? The Privacy-Obsessed AI Token That\u2019s Up 3,000% in 2026",
+      "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
+      "url": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
+      "published": "2026-09-21T18:31:03+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
+      "summary": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
+      "url": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
+      "published": "2026-09-21T16:46:03+00:00",
+      "coins": [],
+      "compound": -0.1779,
+      "label": "BEARISH",
       "confidence": 0.1779
     },
     {
@@ -549,32 +495,54 @@
     },
     {
       "source": "TheBlock",
-      "title": "Kevin O\u2019Leary is buying crypto again, says major stock exchange adoption is the \u2018watershed moment\u2019 to watch",
-      "summary": "Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.",
-      "url": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
-      "published": "2026-09-18T10:08:42+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "CFTC Kicks Off Crypto Rulemaking, Bypassing a Stalled Congress",
-      "summary": "The agency submitted a prerule on crypto asset transactions and markets to the White House for review, signaling it will build a derivatives framework on its own authority after the Clarity Act's collapse.",
-      "url": "https://decrypt.co/378638/cftc-crypto-rules-white-house-congress-clarity-act",
-      "published": "2026-09-18T16:08:13+00:00",
+      "title": "Clarity Act fallout: crypto\u2019s Fairshake PAC commits $30 million against Sherrod Brown",
+      "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
+      "published": "2026-09-21T16:35:43+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
     },
     {
+      "source": "TheBlock",
+      "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
+      "summary": "This expands Coinbase's push beyond secondary-market stock trading into the primary market, following its\u00a0rollout of pre-IPO derivatives.",
+      "url": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
+      "published": "2026-09-21T14:47:12+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
+      "title": "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
+      "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
+      "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
+      "published": "2026-09-21T19:00:04+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
       "source": "CoinDesk",
-      "title": "Hana Bank issues South Korea\u2019s first digital bond using Euroclear\u2019s blockchain",
+      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC\u2019s new trading rules",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/21/hana-bank-issues-south-korea-s-first-digital-bond-using-euroclear-s-blockchain",
-      "published": "2026-09-21T08:49:59+00:00",
+      "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+      "published": "2026-09-21T19:08:40+00:00",
+      "coins": [],
+      "compound": -0.0534,
+      "label": "BEARISH",
+      "confidence": 0.0534
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+      "published": "2026-09-21T16:01:36+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -582,10 +550,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto platform Gemini\u2019s stock is down 80% from its IPO. That\u2019s reviving takeover speculation",
+      "title": "ECB plans to buy tokenized bonds with its own funds",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
-      "published": "2026-09-20T14:54:48+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+      "published": "2026-09-21T15:00:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
+      "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
+      "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
+      "published": "2026-09-21T21:46:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
