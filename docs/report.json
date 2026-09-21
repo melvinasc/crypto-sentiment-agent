@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:40:31.370580+00:00",
+  "generated_at": "2026-09-21T04:38:27.487988+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -41,12 +41,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.1204,
+      "article_count": 2,
+      "avg_compound": 0.1806,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -60,19 +60,6 @@
           "compound": 0.3612,
           "label": "BULLISH",
           "confidence": 0.3612
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP on the brink of a golden cross as focus switches to altcoins",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/09/18/xrp-on-the-brink-of-a-golden-cross-as-focus-switches-to-altcoins",
-          "published": "2026-09-18T11:15:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -219,12 +206,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.043,
-      "overall": "NEUTRAL",
-      "bullish": 7,
+      "article_count": 23,
+      "avg_compound": -0.0507,
+      "overall": "BEARISH",
+      "bullish": 8,
       "bearish": 10,
-      "neutral": 4,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -671,17 +658,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
       "published": "2026-09-19T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash targets November upgrade to make private payments up to three times faster",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/18/zcash-targets-november-upgrade-to-make-private-payments-up-to-three-times-faster",
-      "published": "2026-09-18T12:50:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
