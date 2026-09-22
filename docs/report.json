@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-09-22T04:34:31.797379+00:00",
+  "generated_at": "2026-09-22T11:23:45.626850+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
       "article_count": 4,
-      "avg_compound": 0.1394,
+      "avg_compound": 0.3588,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes \u2018ethical\u2019 market contender",
+          "summary": "Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'",
+          "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
+          "published": "2026-09-22T06:01:24+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.8779,
+          "label": "BULLISH",
+          "confidence": 0.8779
+        },
         {
           "source": "TheBlock",
           "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
@@ -23,19 +36,6 @@
           "compound": 0.5574,
           "label": "BULLISH",
           "confidence": 0.5574
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitmine bought $75 million ether as Tom Lee says institutions are still underweight crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/21/bitmine-bought-usd75-million-ether-as-tom-lee-says-institutions-are-still-underweight-crypto",
-          "published": "2026-09-21T13:11:15+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -53,13 +53,64 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.3511,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
+          "published": "2026-09-22T10:07:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "Decrypt",
+          "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
+          "summary": "Binance says it has a \"zero-tolerance policy\" for sanctions violations. Prosecutors are asking whether its 2023 compliance fixes held.",
+          "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
+          "published": "2026-09-22T09:47:47+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:07:23+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
       "article_count": 26,
-      "avg_compound": 0.0749,
+      "avg_compound": 0.1104,
       "overall": "BULLISH",
-      "bullish": 9,
+      "bullish": 10,
       "bearish": 9,
-      "neutral": 8,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -103,28 +154,65 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.0307,
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
-          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-          "published": "2026-09-18T15:27:41+00:00",
+          "source": "CoinDesk",
+          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+          "published": "2026-09-22T04:15:45+00:00",
           "coins": [
-            "BTC",
-            "SOL"
+            "ADA",
+            "SOL",
+            "XRP"
           ],
-          "compound": -0.092,
-          "label": "BEARISH",
-          "confidence": 0.092
-        },
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+          "published": "2026-09-22T04:33:11+00:00",
+          "coins": [
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
         {
           "source": "CoinDesk",
           "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
@@ -156,7 +244,7 @@
       ],
       "no_news": false
     },
-    "ADA": {
+    "USDC": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -166,63 +254,13 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-          "published": "2026-09-22T04:15:45+00:00",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:07:23+00:00",
           "coins": [
-            "ADA",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ava Labs president says NYSE spent a year testing Avalanche technology for tokenization plans",
-          "summary": "Cooper described a close working relationship with NYSE parent ICE but did not say the exchange had selected Avalanche.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-18-ava-labs-president-says-nyse-spent-a-year-testing-avalanche-technology-tokenization-plans-415509",
-          "published": "2026-09-18T13:40:15+00:00",
-          "coins": [
-            "AVAX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-          "published": "2026-09-22T04:33:11+00:00",
-          "coins": [
-            "DOGE",
-            "BTC"
+            "BNB",
+            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -257,7 +295,7 @@
       ],
       "no_news": false
     },
-    "BNB": {
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -357,16 +395,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -413,17 +441,6 @@
       "confidence": 0.7506
     },
     {
-      "source": "CoinDesk",
-      "title": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "published": "2026-09-21T12:44:33+00:00",
-      "coins": [],
-      "compound": 0.7184,
-      "label": "BULLISH",
-      "confidence": 0.7184
-    },
-    {
       "source": "Decrypt",
       "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
       "summary": "The Ohio spending comes days after the Senate blocked the crypto industry\u2019s Clarity Act.",
@@ -457,17 +474,6 @@
       "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "published": "2026-09-21T12:17:48+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "Decrypt",
       "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
       "summary": "The senior roles cover Apple\u2019s consumer payment products and Google Cloud\u2019s institutional blockchain business in Asia.",
@@ -479,6 +485,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "TheBlock",
+      "title": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
+      "summary": "Bernstein projects global prediction market volume will hit $10 trillion by 2035, driven by expanding financial assets.",
+      "url": "https://www.theblock.co/news/business/2026-09-22-bernstein-sees-annual-prediction-market-volumes-hitting-10-trillion-by-2035-as-financial-assets-overtake-sports-416030",
+      "published": "2026-09-22T10:56:05+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
       "source": "Decrypt",
       "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
       "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
@@ -488,17 +505,6 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "published": "2026-09-21T11:18:55+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
@@ -520,17 +526,6 @@
       "coins": [],
       "compound": -0.1779,
       "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "TheBlock",
-      "title": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
-      "summary": "The Grayscale Zcash ETF (ZCSH) nears $890 million in assets as ZEC\u2019s rally pushes mining competition to record highs.",
-      "url": "https://www.theblock.co/news/markets/2026-09-18-grayscales-zcash-etf-plans-3-for-1-split-233-million-inflow-surge-415520",
-      "published": "2026-09-18T15:09:09+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
       "confidence": 0.1779
     },
     {
@@ -587,6 +582,17 @@
       "compound": -0.0534,
       "label": "BEARISH",
       "confidence": 0.0534
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
+      "published": "2026-09-22T09:47:15+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
