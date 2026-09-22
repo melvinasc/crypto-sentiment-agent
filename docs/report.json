@@ -1,12 +1,64 @@
 {
-  "generated_at": "2026-09-22T16:45:53.360912+00:00",
+  "generated_at": "2026-09-22T21:10:38.735200+00:00",
   "total_articles": 55,
   "coins": {
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.34,
+    "USDC": {
+      "article_count": 5,
+      "avg_compound": 0.2768,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Coinbase, Circle shares positioned for crypto recovery as estimates stabilize: William Blair",
+          "summary": "Blair says COIN offers an attractive entry after a 31% rise, trims its EBITDA estimate and sees USDC growth driving Circle's next leg.",
+          "url": "https://www.theblock.co/news/markets/2026-09-22-coinbase-circle-shares-positioned-crypto-recovery-estimates-stabilize-william-blair-416083",
+          "published": "2026-09-22T18:44:53+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.7717,
+          "label": "BULLISH",
+          "confidence": 0.7717
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
+          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+          "published": "2026-09-22T12:53:52+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:07:23+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "UNI": {
+      "article_count": 2,
+      "avg_compound": 0.2214,
+      "overall": "BULLISH",
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -23,6 +75,23 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
+        },
+        {
+          "source": "Decrypt",
+          "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+          "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+          "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+          "published": "2026-09-22T20:46:03+00:00",
+          "coins": [
+            "BTC",
+            "UNI",
+            "ADA",
+            "LINK",
+            "AVAX"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -78,67 +147,28 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 4,
-      "avg_compound": 0.1531,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
-          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
-          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
-          "published": "2026-09-22T12:53:52+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:07:23+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
-          "summary": "The two sides closed an equity placement and a five-year commercial deal on the same day, with money moving in both directions.",
-          "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:39:37+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
-      "article_count": 5,
-      "avg_compound": -0.0882,
+      "article_count": 6,
+      "avg_compound": -0.1973,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 3,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a></p>\n<p>Feds are trying to work out whether Binance violated US sanctions on Iran. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+          "published": "2026-09-22T16:52:26+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.743,
+          "label": "BEARISH",
+          "confidence": 0.743
+        },
         {
           "source": "TheBlock",
           "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
@@ -165,29 +195,124 @@
           "compound": -0.5267,
           "label": "BEARISH",
           "confidence": 0.5267
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.1779,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "Decrypt",
-          "title": "US Probes Whether Binance 'Knowingly' Let Iran-Linked Trades Through: Report",
-          "summary": "Binance says it has a \"zero-tolerance policy\" for sanctions violations. Prosecutors are asking whether its 2023 compliance fixes held.",
-          "url": "https://decrypt.co/378902/us-probes-whether-binance-knowingly-let-iran-linked-trades-through-report",
-          "published": "2026-09-22T09:47:47+00:00",
+          "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+          "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
+          "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+          "published": "2026-09-22T19:00:38+00:00",
           "coins": [
-            "BNB"
+            "SOL"
           ],
-          "compound": -0.5267,
+          "compound": -0.1779,
           "label": "BEARISH",
-          "confidence": 0.5267
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+          "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+          "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+          "published": "2026-09-22T20:46:03+00:00",
+          "coins": [
+            "BTC",
+            "UNI",
+            "ADA",
+            "LINK",
+            "AVAX"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+          "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+          "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+          "published": "2026-09-22T20:46:03+00:00",
+          "coins": [
+            "BTC",
+            "UNI",
+            "ADA",
+            "LINK",
+            "AVAX"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+          "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+          "url": "https://decrypt.co/379004/cme-crypto-bitcoin-cash-uniswap-futures",
+          "published": "2026-09-22T20:46:03+00:00",
+          "coins": [
+            "BTC",
+            "UNI",
+            "ADA",
+            "LINK",
+            "AVAX"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": 0.0734,
+      "article_count": 25,
+      "avg_compound": 0.0747,
       "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 10,
+      "bullish": 12,
+      "bearish": 8,
       "neutral": 5,
       "top_articles": [
         {
@@ -204,56 +329,31 @@
           "confidence": 0.8418
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Price-Shrugs-Off-Clarity-Act-Fail-Blasts-Past-86000.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000\" rel=\"nofollow\">Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000\u00a0</a></p>\n<p>The price of Bitcoin is surging, despite key crypto legislation taking a hit. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000\" rel=\"nofollow\">Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000",
-          "published": "2026-09-21T15:34:20+00:00",
+          "source": "Decrypt",
+          "title": "White-Hat Hackers Route Coldcard Exploit Bitcoin Into 'Recovery Trust'",
+          "summary": "Galaxy Research says white-hat actors consolidated coins tied to the exploit into a fresh address tagged for a \"Crypto Recovery Trust,\" though the funds represent just 2.8% of the total haul.",
+          "url": "https://decrypt.co/378978/white-hat-hackers-coldcard-exploit-bitcoin-recovery-trust",
+          "published": "2026-09-22T19:31:03+00:00",
           "coins": [
+            "BTC"
+          ],
+          "compound": 0.7964,
+          "label": "BULLISH",
+          "confidence": 0.7964
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a></p>\n<p>Feds are trying to work out whether Binance violated US sanctions on Iran. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+          "published": "2026-09-22T16:52:26+00:00",
+          "coins": [
+            "BNB",
             "BTC"
           ],
           "compound": -0.743,
           "label": "BEARISH",
           "confidence": 0.743
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-31.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-advances-digital-ruble\" rel=\"nofollow\">No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business</a></p>\n<p>Russia's digital ruble is part of developing a \"fast and independent\" payment infrastructure, according to the country's prime minister. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-advances-digital-ruble\" rel=\"nofollow\">No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/russia-advances-digital-ruble",
-          "published": "2026-09-22T16:10:27+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.6652,
-          "label": "BEARISH",
-          "confidence": 0.6652
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-          "published": "2026-09-22T04:15:45+00:00",
-          "coins": [
-            "ADA",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -267,14 +367,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
-          "published": "2026-09-22T04:33:11+00:00",
+          "source": "Decrypt",
+          "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
+          "summary": "Dogecoin is rallying, and once again, Elon Musk may have something to do with it.",
+          "url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
+          "published": "2026-09-22T17:09:30+00:00",
           "coins": [
-            "DOGE",
-            "BTC"
+            "DOGE"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -282,68 +381,6 @@
         }
       ],
       "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-          "published": "2026-09-22T04:15:45+00:00",
-          "coins": [
-            "ADA",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
-          "published": "2026-09-22T04:15:45+00:00",
-          "coins": [
-            "ADA",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "DAI": {
       "article_count": 0,
@@ -356,16 +393,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -434,20 +461,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "Decrypt",
-      "title": "xAI Launches Grok 4.7. It's Bigger, But Late to the AI Frontier Party",
-      "summary": "xAI says the new model is a \"notable improvement\" over Grok 4.6 at the same price. The benchmarks say it's still in second place.",
-      "url": "https://decrypt.co/378824/xai-launches-grok-4-7",
-      "published": "2026-09-21T17:16:03+00:00",
-      "coins": [],
-      "compound": 0.8201,
-      "label": "BULLISH",
-      "confidence": 0.8201
-    },
     {
       "source": "Decrypt",
       "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
@@ -471,15 +497,15 @@
       "confidence": 0.5574
     },
     {
-      "source": "Decrypt",
-      "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-      "summary": "The senior roles cover Apple\u2019s consumer payment products and Google Cloud\u2019s institutional blockchain business in Asia.",
-      "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
-      "published": "2026-09-21T16:16:03+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
+      "published": "2026-09-22T20:31:02+00:00",
       "coins": [],
-      "compound": 0.4215,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4215
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -516,36 +542,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Coinbase Brings IPO Shares to US Retail Traders, With Oura Up First",
-      "summary": "Eligible customers can request shares at the offering price, but allocations are not guaranteed.",
-      "url": "https://decrypt.co/378874/coinbase-ipo-shares-us-traders-oura",
-      "published": "2026-09-21T19:26:49+00:00",
+      "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035\u201410X Its Original Forecast",
+      "summary": "Bernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.",
+      "url": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
+      "published": "2026-09-22T18:16:03+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is VVV? The Privacy-Obsessed AI Token That\u2019s Up 3,000% in 2026",
-      "summary": "Venice (VVV) has clawed back from under a dollar to a record $34, and the pitch behind it is simple: an AI chatbot that promises to forget you the moment you close the tab.",
-      "url": "https://decrypt.co/378840/what-is-vvv-privacy-ai-token-up-3000-percent-2026",
-      "published": "2026-09-21T18:31:03+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
-      "summary": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
-      "url": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-      "published": "2026-09-21T16:46:03+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -582,14 +586,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
-      "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
-      "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
-      "published": "2026-09-21T19:00:04+00:00",
+      "title": "Anthropic\u2019s New Claude Opus 5.5 Matches Fable at 60% the Price",
+      "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost\u2014but GPT-6 Astra still beats it on two published benchmarks.",
+      "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
+      "published": "2026-09-22T17:49:07+00:00",
       "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
+      "published": "2026-09-22T17:34:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -641,6 +656,17 @@
       "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
       "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
       "published": "2026-09-21T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC Chairman Selig says markets must prepare for \u2018mass tokenization\u2019",
+      "summary": "The Trump administration is preparing for a financial market overhaul as tokenization  and 24/7 trading move into the spotlight.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-selig-mass-tokenization-24-7-trading-416111",
+      "published": "2026-09-22T21:08:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
