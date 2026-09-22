@@ -1,14 +1,39 @@
 {
-  "generated_at": "2026-09-22T11:23:45.626850+00:00",
+  "generated_at": "2026-09-22T16:45:53.360912+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3588,
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.34,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows",
+          "summary": "The exchange will offer standard and Micro contracts, covering 250 BCH and 25 BCH, and 10,000 UNI and 1,000 UNI, respectively.",
+          "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
+          "published": "2026-09-22T13:56:11+00:00",
+          "coins": [
+            "BTC",
+            "UNI"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.2093,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -24,25 +49,25 @@
           "confidence": 0.8779
         },
         {
-          "source": "TheBlock",
-          "title": "Bitcoin ETFs eke out positive week with $433 million Friday inflow as ether funds snap four-week inflow streak",
-          "summary": "Fidelity's FBTC accounted for $310.7 million of Friday\u2019s overall $433 million net inflow, a notable sum that helped offset earlier withdrawals.",
-          "url": "https://www.theblock.co/news/markets/2026-09-19-bitcoin-etfs-eke-out-positive-week-with-433-million-friday-inflow-as-ether-funds-snap-four-week-inflow-streak-415871",
-          "published": "2026-09-19T18:01:09+00:00",
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+          "published": "2026-09-22T12:32:15+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": 0.5574,
-          "label": "BULLISH",
-          "confidence": 0.5574
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
         },
         {
-          "source": "Decrypt",
-          "title": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-          "summary": "The purchase lifts Bitmine's stash to nearly 5.99 million ETH\u20144.9% of supply\u2014as chairman Tom Lee argues Ethereum's outperformance signals a stronger move ahead and institutions remain underweight.",
-          "url": "https://decrypt.co/378754/tom-lee-bitmine-adds-ethereum-crypto-bull-market",
-          "published": "2026-09-21T15:00:49+00:00",
+          "source": "TheBlock",
+          "title": "\u2018Crypto bull market is underway,\u2019 Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
+          "summary": "Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply.",
+          "url": "https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923",
+          "published": "2026-09-21T13:14:39+00:00",
           "coins": [
             "ETH"
           ],
@@ -53,14 +78,81 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.3511,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 1,
+    "USDC": {
+      "article_count": 4,
+      "avg_compound": 0.1531,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
+          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+          "published": "2026-09-22T12:53:52+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:07:23+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+          "summary": "The two sides closed an equity placement and a five-year commercial deal on the same day, with money moving in both directions.",
+          "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:39:37+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 5,
+      "avg_compound": -0.0882,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
+          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+          "published": "2026-09-22T12:53:52+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
         {
           "source": "CoinDesk",
           "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
@@ -86,45 +178,18 @@
           "compound": -0.5267,
           "label": "BEARISH",
           "confidence": 0.5267
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:07:23+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 26,
-      "avg_compound": 0.1104,
+      "avg_compound": 0.0734,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 9,
-      "neutral": 7,
+      "bullish": 11,
+      "bearish": 10,
+      "neutral": 5,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Move Over Housing \u2013 Bitcoin is Gen Z\u2019s New Wealth Building Asset",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Move-Over-Housing-Bitcoin-is-Gen-Zs-New-Wealth-Building-Asset-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset\" rel=\"nofollow\">Move Over Housing &#8211; Bitcoin is Gen Z\u2019s New Wealth Building Asset</a></p>\n<p>Gen Z now makes up less than 5% of the new home market and Hunter Albright of SALT Lending thinks that changes what assets an entire generation chooses to build wealth with.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset\" rel=\"nofollow\">Move Over Housing &#8211; Bitcoin is Gen Z\u2019s New Wealth Building Asset</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/move-over-housing-bitcoin-is-gen-zs-new-wealth-building-asset",
-          "published": "2026-09-20T13:34:01+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9201,
-          "label": "BULLISH",
-          "confidence": 0.9201
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish",
@@ -140,16 +205,29 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Michael-Saylor-talks-Bitcoin-Strategy-at-Bitcoin-MENA-Conference.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win\" rel=\"nofollow\">Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win</a></p>\n<p>Saylor has argued that the digital asset industry can work well with regulators alone. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win\" rel=\"nofollow\">Strategy Founder Michael Saylor Argues Clarity Act Collapse Is a Win</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/saylor-argues-clarity-act-failure-is-a-win",
-          "published": "2026-09-21T00:52:50+00:00",
+          "title": "Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Price-Shrugs-Off-Clarity-Act-Fail-Blasts-Past-86000.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000\" rel=\"nofollow\">Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000\u00a0</a></p>\n<p>The price of Bitcoin is surging, despite key crypto legislation taking a hit. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000\" rel=\"nofollow\">Bitcoin Price Shrugs Off Clarity Act Fail, Blasts Past $86,000\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-blasts-past-86000",
+          "published": "2026-09-21T15:34:20+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8074,
+          "compound": -0.743,
           "label": "BEARISH",
-          "confidence": 0.8074
+          "confidence": 0.743
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-31.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-advances-digital-ruble\" rel=\"nofollow\">No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business</a></p>\n<p>Russia's digital ruble is part of developing a \"fast and independent\" payment infrastructure, according to the country's prime minister. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-advances-digital-ruble\" rel=\"nofollow\">No Bitcoin Payments in Russia \u2014 But the Digital Ruble Is Open for Business</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/russia-advances-digital-ruble",
+          "published": "2026-09-22T16:10:27+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.6652,
+          "label": "BEARISH",
+          "confidence": 0.6652
         }
       ],
       "no_news": false
@@ -206,12 +284,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -223,44 +301,6 @@
             "ADA",
             "SOL",
             "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
-          "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
-          "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-          "published": "2026-09-20T20:11:49+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:07:23+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -385,16 +425,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -419,28 +449,6 @@
       "confidence": 0.8201
     },
     {
-      "source": "TheBlock",
-      "title": "Polymarket faced $10 million fraud attempt as its CEO pushed growth over compliance concerns: WSJ",
-      "summary": "In a separate attack, hackers compromised nearly 500 users' accounts using stolen personal information, according to the report.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-20-polymarket-faced-10-million-fraud-attempt-as-its-ceo-pushed-growth-over-compliance-concerns-wsj-415875",
-      "published": "2026-09-20T16:07:19+00:00",
-      "coins": [],
-      "compound": -0.8176,
-      "label": "BEARISH",
-      "confidence": 0.8176
-    },
-    {
-      "source": "TheBlock",
-      "title": "X sues UK duo over alleged $277K crypto account payout fraud",
-      "summary": "X alleges two UK users manipulated crypto-focused accounts to obtain $277,000 through its creator revenue-sharing program.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-21-x-sues-uk-duo-over-alleged-277k-crypto-account-payout-fraud-415889",
-      "published": "2026-09-21T09:24:27+00:00",
-      "coins": [],
-      "compound": -0.7506,
-      "label": "BEARISH",
-      "confidence": 0.7506
-    },
-    {
       "source": "Decrypt",
       "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
       "summary": "The Ohio spending comes days after the Senate blocked the crypto industry\u2019s Clarity Act.",
@@ -453,25 +461,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Visa to close Crossmint memecoin rewards loophole following The Block investigation: report",
-      "summary": "Though the Crossmint-powered memecoin sales are still live on both apps, Visa's grace period is expected to end next week, per the report.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-19-visa-to-close-crossmint-memecoin-rewards-loophole-following-the-block-investigation-report-415866",
-      "published": "2026-09-19T15:11:22+00:00",
+      "title": "Solo GP Jed Breed raises $15 million for his second early-stage crypto fund",
+      "summary": "Breed VC has raised $15 million for its second crypto fund. Backers include FalconX, Nic Carter, Rob Hadick and Jake Brukhman.",
+      "url": "https://www.theblock.co/news/deals/2026-09-22-jed-breed-vc-second-crypto-fund-416075",
+      "published": "2026-09-22T16:15:02+00:00",
       "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why banks and offshore hubs like Dubai are winners of the Senate killing the Clarity Act",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/21/banks-overseas-crypto-hubs-gain-from-clarity-act-s-senate-defeat-critics-say",
-      "published": "2026-09-21T14:53:52+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
     },
     {
       "source": "Decrypt",
@@ -485,6 +482,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
+      "summary": "Crypto is interesting again and that means attention is flowing back to the sector. And it\u2019s starting to show in the data.",
+      "url": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
+      "published": "2026-09-22T12:15:44+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "TheBlock",
       "title": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
       "summary": "Bernstein projects global prediction market volume will hit $10 trillion by 2035, driven by expanding financial assets.",
@@ -494,6 +502,17 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "published": "2026-09-22T14:32:59+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -574,14 +593,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why this investment bank expects little demand for tokenized stocks despite SEC\u2019s new trading rules",
+      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
-      "published": "2026-09-21T19:08:40+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
+      "published": "2026-09-22T15:21:28+00:00",
       "coins": [],
-      "compound": -0.0534,
-      "label": "BEARISH",
-      "confidence": 0.0534
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "published": "2026-09-22T12:05:55+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -596,21 +626,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto political group plans to spend $30 million against Sherrod Brown's Senate bid",
+      "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
-      "published": "2026-09-21T16:01:36+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ECB plans to buy tokenized bonds with its own funds",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "published": "2026-09-21T15:00:47+00:00",
+      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
+      "published": "2026-09-22T05:26:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -622,6 +641,17 @@
       "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
       "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
       "published": "2026-09-21T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "SoFi begins stablecoin settlement on Mastercard network for program expected to exceed $25 billion in annualized volume",
+      "summary": "SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with its card program targeting $25 billion in annualized volume.",
+      "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
+      "published": "2026-09-22T12:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
