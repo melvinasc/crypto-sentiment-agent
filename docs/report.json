@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:54:51.796059+00:00",
+  "generated_at": "2026-09-22T04:34:31.797379+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -53,51 +53,13 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.046,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
-          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
-          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
-          "published": "2026-09-18T15:27:41+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": -0.092,
-          "label": "BEARISH",
-          "confidence": 0.092
-        },
-        {
-          "source": "TheBlock",
-          "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
-          "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
-          "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
-          "published": "2026-09-20T20:11:49+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": 0.0355,
-      "overall": "NEUTRAL",
+      "article_count": 26,
+      "avg_compound": 0.0749,
+      "overall": "BULLISH",
       "bullish": 9,
-      "bearish": 11,
-      "neutral": 7,
+      "bearish": 9,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -141,6 +103,85 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": -0.0307,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
+          "summary": "The moves comes as the SEC and CFTC advance crypto-related rulemaking despite the Clarity Act stalling in the Senate.",
+          "url": "https://www.theblock.co/news/markets/2026-09-18-bitcoin-reclaims-80000-solana-hyperliquid-rally-crypto-markets-shrug-off-clarity-setback-415523",
+          "published": "2026-09-18T15:27:41+00:00",
+          "coins": [
+            "BTC",
+            "SOL"
+          ],
+          "compound": -0.092,
+          "label": "BEARISH",
+          "confidence": 0.092
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+          "published": "2026-09-22T04:15:45+00:00",
+          "coins": [
+            "ADA",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "ZetaChain votes to shut down Layer 1 network and move ZETA to Solana",
+          "summary": "The team plans to focus instead on Anuma, its private AI app, though the migration will still take one more vote.",
+          "url": "https://www.theblock.co/news/defi/2026-09-20-zetachain-votes-to-shut-down-layer-1-network-and-move-zeta-to-solana-415878",
+          "published": "2026-09-20T20:11:49+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+          "published": "2026-09-22T04:15:45+00:00",
+          "coins": [
+            "ADA",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -165,15 +206,56 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 0,
+    "DOGE": {
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin leads market rebound with 15% pump, bitcoin steady above $85,000",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/22/dogecoin-leads-market-rebound-with-15-pump-bitcoin-steady-above-usd85-000",
+          "published": "2026-09-22T04:33:11+00:00",
+          "coins": [
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano joins Solana, XRP Ledger in race to power AI agent payments",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/21/cardano-joins-solana-xrp-ledger-in-race-to-power-ai-agent-payments",
+          "published": "2026-09-22T04:15:45+00:00",
+          "coins": [
+            "ADA",
+            "SOL",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "BNB": {
       "article_count": 0,
@@ -186,16 +268,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -304,16 +376,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -362,15 +424,15 @@
       "confidence": 0.7184
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto enjoys bullish bounce post-Fed rate hike: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/21/crypto-week-ahead",
-      "published": "2026-09-21T09:12:42+00:00",
+      "source": "Decrypt",
+      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
+      "summary": "The Ohio spending comes days after the Senate blocked the crypto industry\u2019s Clarity Act.",
+      "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
+      "published": "2026-09-21T22:16:03+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": 0.6597,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.6597
     },
     {
       "source": "TheBlock",
@@ -395,17 +457,6 @@
       "confidence": 0.4404
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto Worker's Children Held Hostage in Latest French \u2018Wrench Attack,\u2019 $46,000 Taken",
-      "summary": "France is the worst-hit country in the world for these attacks, with more than 70 logged in the first eight months of 2026.",
-      "url": "https://decrypt.co/378720/crypto-workers-children-held-hostage-in-latest-french-wrench-attack-46000-taken",
-      "published": "2026-09-21T09:51:24+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
       "source": "CoinDesk",
       "title": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
       "summary": "",
@@ -426,17 +477,6 @@
       "compound": 0.4215,
       "label": "BULLISH",
       "confidence": 0.4215
-    },
-    {
-      "source": "TheBlock",
-      "title": "CFTC files crypto asset rulemaking with White House, pressing ahead without Congress",
-      "summary": "The Commodity Futures Trading Commission isn't sitting idle \u2014 the agency has sent its crypto rulemaking to the White House for review.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510",
-      "published": "2026-09-18T13:33:40+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -517,6 +557,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
+      "summary": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
+      "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
+      "published": "2026-09-21T22:46:03+00:00",
+      "coins": [],
+      "compound": 0.1154,
+      "label": "BULLISH",
+      "confidence": 0.1154
+    },
+    {
+      "source": "Decrypt",
       "title": "Europe\u2019s Central Bank Prepares to Invest Own Funds in Tokenized Securities",
       "summary": "The central bank plans to buy euro-denominated public-sector debt and settle the transactions through its new Pontes service.",
       "url": "https://decrypt.co/378872/europe-central-bank-invest-funds-tokenized-securities",
@@ -565,6 +616,17 @@
       "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
       "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
       "published": "2026-09-21T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Animoca Brands suspends merger deal that would have taken it public",
+      "summary": "Animoca Chairman Yat Siu says that the 'corporate agility must take precedence' over pursuing the Currenc merger.",
+      "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
+      "published": "2026-09-22T02:46:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
