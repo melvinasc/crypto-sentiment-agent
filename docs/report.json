@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-23T04:30:36.426617+00:00",
+  "generated_at": "2026-09-23T11:20:32.245451+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
       "article_count": 2,
-      "avg_compound": 0.314,
+      "avg_compound": 0.439,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -25,17 +25,16 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+          "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-          "published": "2026-09-22T12:32:15+00:00",
+          "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
+          "published": "2026-09-23T09:57:24+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -77,17 +76,54 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Binance buys $100 million Circle stake in five-year USDC promotion deal",
+          "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
           "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:07:23+00:00",
+          "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
+          "published": "2026-09-23T07:49:23+00:00",
           "coins": [
-            "BNB",
-            "USDC"
+            "USDC",
+            "BTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": -0.2256,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana starts testing upgrade that could cut finality from 12.8 seconds to 150 milliseconds",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/23/solana-starts-testing-upgrade-that-could-cut-finality-from-12-8-seconds-to-150-milliseconds",
+          "published": "2026-09-23T05:16:22+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        },
+        {
+          "source": "Decrypt",
+          "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
+          "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
+          "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
+          "published": "2026-09-22T19:00:38+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -130,82 +166,6 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 6,
-      "avg_compound": -0.1973,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a></p>\n<p>Feds are trying to work out whether Binance violated US sanctions on Iran. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
-          "published": "2026-09-22T16:52:26+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.743,
-          "label": "BEARISH",
-          "confidence": 0.743
-        },
-        {
-          "source": "TheBlock",
-          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
-          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
-          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
-          "published": "2026-09-22T12:53:52+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Binance probed by U.S. federal prosecutors for sanctions violations: Bloomberg",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
-          "published": "2026-09-22T10:07:52+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.1779,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "OpenAI Launches GPT-6 Sol and Luna Minutes After Anthropic Drops Claude Opus 5.5",
-          "summary": "OpenAI cut prices 50% on its mid-tier models the same day Anthropic shipped a cheaper flagship, escalating a rivalry now measured in minutes.",
-          "url": "https://decrypt.co/378986/openai-launches-gpt-6-sol-luna-anthropic-claude-opus-5-5",
-          "published": "2026-09-22T19:00:38+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -295,12 +255,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": 0.0585,
+      "article_count": 23,
+      "avg_compound": 0.0617,
       "overall": "BULLISH",
-      "bullish": 11,
-      "bearish": 8,
-      "neutral": 6,
+      "bullish": 9,
+      "bearish": 6,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -345,6 +305,59 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.0435,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Feds Probing Binance Over Iran\u2019s Bitcoin Use: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-10.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a></p>\n<p>Feds are trying to work out whether Binance violated US sanctions on Iran. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance\" rel=\"nofollow\">Feds Probing Binance Over Iran&#8217;s Bitcoin Use: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/feds-probing-iran-use-of-binance",
+          "published": "2026-09-22T16:52:26+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.743,
+          "label": "BEARISH",
+          "confidence": 0.743
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance takes $100 million Circle stake alongside five-year USDC deal",
+          "summary": "The exchange also expanded its USDC partnership with Circle, agreeing to promote USDC on its platform under a five-year arrangement.",
+          "url": "https://www.theblock.co/news/business/2026-09-22-binance-takes-100-million-circle-stake-alongside-five-year-usdc-deal-416042",
+          "published": "2026-09-22T12:53:52+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
+          "summary": "The two sides closed an equity placement and a five-year commercial deal on the same day, with money moving in both directions.",
+          "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
+          "published": "2026-09-22T11:39:37+00:00",
+          "coins": [
+            "BNB",
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "DOGE": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -361,6 +374,30 @@
           "published": "2026-09-22T17:09:30+00:00",
           "coins": [
             "DOGE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
+          "published": "2026-09-23T07:37:46+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -448,16 +485,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -528,6 +555,17 @@
       "confidence": 0.4019
     },
     {
+      "source": "TheBlock",
+      "title": "Canada\u2019s big six banks explore tokenized deposit system to modernize payments",
+      "summary": "The banks said the first phase of the project involves moving tokenized deposits efficiently across financial institutions.",
+      "url": "https://www.theblock.co/news/business/2026-09-23-canada-banks-tokenized-deposit-system-416129",
+      "published": "2026-09-23T04:57:07+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "CoinDesk",
       "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
       "summary": "",
@@ -572,6 +610,28 @@
       "confidence": 0.3182
     },
     {
+      "source": "Decrypt",
+      "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
+      "summary": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
+      "url": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
+      "published": "2026-09-23T09:53:07+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
+      "summary": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
+      "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
+      "published": "2026-09-23T10:43:46+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
       "source": "TheBlock",
       "title": "Clarity Act fallout: crypto\u2019s Fairshake PAC commits $30 million against Sherrod Brown",
       "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
@@ -584,17 +644,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Google Admits Gemini AI Hacked Three Companies\u2014It Stayed Silent for 7 Weeks",
-      "summary": "Google learned in late July that Gemini had breached three real companies during a May security test, but said nothing publicly for seven weeks.",
-      "url": "https://decrypt.co/378900/google-gemini-ai-hacked-companies-stayed-silent",
-      "published": "2026-09-21T22:46:03+00:00",
-      "coins": [],
-      "compound": 0.1154,
-      "label": "BULLISH",
-      "confidence": 0.1154
-    },
-    {
-      "source": "Decrypt",
       "title": "Anthropic\u2019s New Claude Opus 5.5 Matches Fable at 60% the Price",
       "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost\u2014but GPT-6 Astra still beats it on two published benchmarks.",
       "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
@@ -603,6 +652,28 @@
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
+      "published": "2026-09-23T10:24:44+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+      "published": "2026-09-23T09:17:53+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -621,28 +692,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
       "published": "2026-09-22T15:21:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "published": "2026-09-22T12:05:55+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Animoca Brands delays IPO plans, suspends merger talks with Currenc",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/22/animoca-brands-delays-ipo-plans-suspends-merger-talks-with-currenc",
-      "published": "2026-09-22T09:47:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
