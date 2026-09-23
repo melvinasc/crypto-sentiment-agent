@@ -1,51 +1,14 @@
 {
-  "generated_at": "2026-09-23T11:20:32.245451+00:00",
+  "generated_at": "2026-09-23T16:42:36.877648+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.439,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes \u2018ethical\u2019 market contender",
-          "summary": "Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'",
-          "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
-          "published": "2026-09-22T06:01:24+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.8779,
-          "label": "BULLISH",
-          "confidence": 0.8779
-        },
-        {
-          "source": "CoinDesk",
-          "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-          "published": "2026-09-23T09:57:24+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
-      "article_count": 5,
-      "avg_compound": 0.2768,
+      "article_count": 4,
+      "avg_compound": 0.346,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -255,25 +218,25 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": 0.0617,
-      "overall": "BULLISH",
-      "bullish": 9,
-      "bearish": 6,
-      "neutral": 8,
+      "article_count": 25,
+      "avg_compound": -0.0943,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 10,
+      "neutral": 9,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Bull-Market-Engaged-50-Week-Moving-Average-Flips-Bullish.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish\" rel=\"nofollow\">Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish</a></p>\n<p>Bitcoin just closed a weekly candle above its 50-week simple moving average for the first time this cycle, and Sean Hagan puts roughly 80% confidence on this being a genuine regime change.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish\" rel=\"nofollow\">Bitcoin Bull Market Engaged? 50-Week Moving Average Flips Bullish</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/bitcoin-bull-market-flips-bullish",
-          "published": "2026-09-21T21:49:17+00:00",
+          "title": "Assessing the Quantum Threat to Bitcoin w/ Shinobi",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Assessing-the-Quantum-Threat-to-Bitcoin-w-Shinobi-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/assessing-the-quantum-threat-to-bitcoin-w-shinobi\" rel=\"nofollow\">Assessing the Quantum Threat to Bitcoin w/ Shinobi</a></p>\n<p>The quantum threat to Bitcoin is no longer purely theoretical, so what would an actual attack look like on chain?</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/assessing-the-quantum-threat-to-bitcoin-w-shinobi\" rel=\"nofollow\">Assessing the Quantum Threat to Bitcoin w/ Shinobi</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/assessing-the-quantum-threat-to-bitcoin-w-shinobi",
+          "published": "2026-09-23T13:37:38+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.8418,
-          "label": "BULLISH",
-          "confidence": 0.8418
+          "compound": -0.9601,
+          "label": "BEARISH",
+          "confidence": 0.9601
         },
         {
           "source": "Decrypt",
@@ -306,12 +269,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.0435,
-      "overall": "NEUTRAL",
+      "article_count": 2,
+      "avg_compound": -0.0653,
+      "overall": "BEARISH",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -340,25 +303,11 @@
           "compound": 0.6124,
           "label": "BULLISH",
           "confidence": 0.6124
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Takes $100M Stake in Circle Under Five-Year USDC Promotion Deal",
-          "summary": "The two sides closed an equity placement and a five-year commercial deal on the same day, with money moving in both directions.",
-          "url": "https://decrypt.co/378910/binance-takes-100m-stake-in-circle-under-five-year-usdc-promotion-deal",
-          "published": "2026-09-22T11:39:37+00:00",
-          "coins": [
-            "BNB",
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "DOGE": {
+    "ETH": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -367,13 +316,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Dogecoin Jumps to Highest Price in Months: Here's What's Going On",
-          "summary": "Dogecoin is rallying, and once again, Elon Musk may have something to do with it.",
-          "url": "https://decrypt.co/378934/dogecoin-price-jumps-highest-months",
-          "published": "2026-09-22T17:09:30+00:00",
+          "source": "CoinDesk",
+          "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
+          "published": "2026-09-23T09:57:24+00:00",
           "coins": [
-            "DOGE"
+            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -407,6 +356,16 @@
       "no_news": false
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -500,15 +459,37 @@
       "confidence": 0.8555
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
-      "published": "2026-09-23T00:00:45+00:00",
+      "source": "Decrypt",
+      "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
+      "summary": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
+      "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
+      "published": "2026-09-23T16:36:03+00:00",
       "coins": [],
-      "compound": -0.7269,
+      "compound": 0.7506,
+      "label": "BULLISH",
+      "confidence": 0.7506
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
+      "summary": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
+      "url": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
+      "published": "2026-09-23T12:15:18+00:00",
+      "coins": [],
+      "compound": -0.6808,
       "label": "BEARISH",
-      "confidence": 0.7269
+      "confidence": 0.6808
+    },
+    {
+      "source": "TheBlock",
+      "title": "Galaxy adds $100 million in Sky\u2019s sUSDS to treasury, buys SKY token as firms deepen lending ties",
+      "summary": "Galaxy added $100 million in sUSDS to its treasury and approved the Sky savings token as institutional loan collateral.",
+      "url": "https://www.theblock.co/news/business/2026-09-23-galaxy-adds-100-million-in-skys-susds-to-treasury-buys-sky-token-as-firms-deepen-lending-ties-416137",
+      "published": "2026-09-23T12:00:02+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
     },
     {
       "source": "TheBlock",
@@ -534,24 +515,46 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto market structure can't wait for shot at post-election Clarity Act surge: White House",
+      "title": "Inside the FBI\u2019s little-known annual crypto crime gathering",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/22/crypto-market-structure-can-t-wait-for-shot-at-post-election-clarity-act-surge-white-house",
-      "published": "2026-09-22T20:31:02+00:00",
+      "url": "https://www.coindesk.com/business/2026/09/23/inside-the-fbi-s-little-known-annual-crypto-crime-gathering",
+      "published": "2026-09-23T15:26:35+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
+      "source": "TheBlock",
+      "title": "Blockchain.com, NYSE plan access to tokenized US stocks and ETFs",
+      "summary": "Blockchain.com and NYSE have signed an agreement to explore tokenized stocks and ETFs, subject to regulatory approvals.",
+      "url": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
+      "published": "2026-09-23T15:36:10+00:00",
+      "coins": [],
+      "compound": 0.4939,
       "label": "BULLISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn\u2019t.",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
+      "published": "2026-09-23T11:28:50+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
       "confidence": 0.4019
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Robinhood CEO Bets Crypto Will Beat Sports at Prediction Markets",
-      "summary": "Crypto is interesting again and that means attention is flowing back to the sector. And it\u2019s starting to show in the data.",
-      "url": "https://decrypt.co/378918/morning-minute-robinhood-ceo-bets-crypto-will-beat-sports-at-prediction-markets",
-      "published": "2026-09-22T12:15:44+00:00",
+      "title": "Americans Would Use Stablecoins\u2014If They Came With Bank Protections, Visa Study Finds",
+      "summary": "A Visa survey found U.S. willingness to use stablecoins for cross-border transfers rises from 36% to 56% when paired with hypothetical bank-level fraud protection and deposit insurance.",
+      "url": "https://decrypt.co/379073/americans-stablecoins-bank-protections-visa",
+      "published": "2026-09-23T16:26:03+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
+      "compound": -0.4019,
+      "label": "BEARISH",
       "confidence": 0.4019
     },
     {
@@ -566,17 +569,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
-      "published": "2026-09-22T21:29:05+00:00",
-      "coins": [],
-      "compound": -0.3612,
-      "label": "BEARISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "TheBlock",
       "title": "Bernstein sees annual prediction market volumes hitting $10 trillion by 2035 as financial assets overtake sports",
       "summary": "Bernstein projects global prediction market volume will hit $10 trillion by 2035, driven by expanding financial assets.",
@@ -586,28 +578,6 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "published": "2026-09-22T14:32:59+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bernstein Predicts $10 Trillion Prediction Market by 2035\u201410X Its Original Forecast",
-      "summary": "Bernstein now projects prediction markets will handle $10 trillion a year by 2035, up from its own $1 trillion by 2030 forecast made just five months ago.",
-      "url": "https://decrypt.co/378963/bernstein-10-trillion-prediction-markets",
-      "published": "2026-09-22T18:16:03+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -622,6 +592,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+      "summary": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
+      "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+      "published": "2026-09-23T15:41:46+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
       "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
       "summary": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
       "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
@@ -632,26 +613,26 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "Clarity Act fallout: crypto\u2019s Fairshake PAC commits $30 million against Sherrod Brown",
-      "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
-      "published": "2026-09-21T16:35:43+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Inside the chain settling $150 billion of stablecoins a week",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
+      "published": "2026-09-23T15:07:21+00:00",
       "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Anthropic\u2019s New Claude Opus 5.5 Matches Fable at 60% the Price",
-      "summary": "Anthropic's new flagship claims Fable 5.1-level performance at a fraction of the cost\u2014but GPT-6 Astra still beats it on two published benchmarks.",
-      "url": "https://decrypt.co/378947/anthropic-claude-opus-5-5-fable-price-comparison",
-      "published": "2026-09-22T17:49:07+00:00",
+      "source": "CoinDesk",
+      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
+      "published": "2026-09-23T13:00:00+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -676,28 +657,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Canada's 'Big Six' banks to launch interbank tokenized deposit initiative",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/22/canada-s-big-six-banks-unite-to-launch-interbank-tokenized-deposit-initiative",
-      "published": "2026-09-22T17:34:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Next for the U.S. SEC: Agency's chief crypto counsel illuminates path for custody",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/22/next-for-the-u-s-sec-agency-s-chief-crypto-counsel-illuminates-path-for-custody",
-      "published": "2026-09-22T15:21:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
       "summary": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei\u2014who has spent a year calling China's government the industry's biggest threat.",
@@ -705,6 +664,28 @@
       "published": "2026-09-22T22:16:03+00:00",
       "coins": [],
       "compound": -0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Stablecoin adoption intent rises from 36% to 56% with bank-level protections, Visa says",
+      "summary": "A Visa study shows U.S. stablecoin adoption intent jumps to 56% when paired with hypothetical bank-level consumer protections.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-23-stablecoin-adoption-intent-rises-from-36-to-56-with-bank-level-protections-visa-says-416136",
+      "published": "2026-09-23T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto economy fell just 1.6% in 12 months despite $2.1 trillion market cap rout, Chainalysis says",
+      "summary": "Global crypto activity fell 1.6% to $9.4 trillion despite a massive $2.1 trillion market cap contraction, Chainalysis says.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-09-23-crypto-economy-fell-just-1-6-in-12-months-despite-2-1-trillion-market-cap-rout-chainalysis-says-416150",
+      "published": "2026-09-23T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
@@ -725,17 +706,6 @@
       "summary": "SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with its card program targeting $25 billion in annualized volume.",
       "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
       "published": "2026-09-22T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Animoca Brands suspends merger deal that would have taken it public",
-      "summary": "Animoca Chairman Yat Siu says that the 'corporate agility must take precedence' over pursuing the Currenc merger.",
-      "url": "https://www.theblock.co/news/business/2026-09-21-animoca-brands-suspends-merger-deal-415991",
-      "published": "2026-09-22T02:46:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
