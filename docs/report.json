@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-22T21:10:38.735200+00:00",
+  "generated_at": "2026-09-23T04:30:36.426617+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.314,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes \u2018ethical\u2019 market contender",
+          "summary": "Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'",
+          "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
+          "published": "2026-09-22T06:01:24+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.8779,
+          "label": "BULLISH",
+          "confidence": 0.8779
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
+          "published": "2026-09-22T12:32:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
       "article_count": 5,
       "avg_compound": 0.2768,
@@ -92,57 +130,6 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.2093,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Onchain prediction market Trueo migrates to Ethereum; Vitalik Buterin welcomes \u2018ethical\u2019 market contender",
-          "summary": "Vitalik Buterin touted Trueo as a strong prediction market contender that is decentralized, ethical, and 'not corposlop.'",
-          "url": "https://www.theblock.co/news/defi/2026-09-22-trueo-ethereum-migration-415999",
-          "published": "2026-09-22T06:01:24+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.8779,
-          "label": "BULLISH",
-          "confidence": 0.8779
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether perpetual volumes on Kalshi are dominated by an unusual, repetitive trade, data shows",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-ether-perpetual-volumes-on-kalshi-are-dominated-by-an-unusual-repetitive-trade-data-shows",
-          "published": "2026-09-22T12:32:15+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "TheBlock",
-          "title": "\u2018Crypto bull market is underway,\u2019 Tom Lee says as Bitmine nears 5% Ethereum supply target with 27,562 ETH buy",
-          "summary": "Bitmine's total investments currently stand at $17.1 billion, and the company owns over 4.9% of Ethereum's circulating supply.",
-          "url": "https://www.theblock.co/news/business/2026-09-21-crypto-bull-market-underway-tom-lee-says-bitmine-nears-5-ethereum-supply-target-with-27562-eth-buy-415923",
-          "published": "2026-09-21T13:14:39+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -309,11 +296,11 @@
     },
     "BTC": {
       "article_count": 25,
-      "avg_compound": 0.0747,
+      "avg_compound": 0.0585,
       "overall": "BULLISH",
-      "bullish": 12,
+      "bullish": 11,
       "bearish": 8,
-      "neutral": 5,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -475,15 +462,37 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "After Clarity Act Fails, Crypto Super PAC Fairshake Targets Sherrod Brown With $30 Million",
-      "summary": "The Ohio spending comes days after the Senate blocked the crypto industry\u2019s Clarity Act.",
-      "url": "https://decrypt.co/378891/clarity-act-crypto-super-pac-fairshake-sherrod-brown-30-million",
-      "published": "2026-09-21T22:16:03+00:00",
+      "source": "TheBlock",
+      "title": "CFTC warns \u2018mention market\u2019 prediction contracts carry heightened manipulation risk",
+      "summary": "The CFTC is warning that bets on prediction markets based on whether someone will \"mention\" specific words carries manipulation risks.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-22-cftc-advisory-mention-markets-manipulation-risk-416120",
+      "published": "2026-09-22T21:42:19+00:00",
       "coins": [],
-      "compound": 0.6597,
+      "compound": -0.8555,
+      "label": "BEARISH",
+      "confidence": 0.8555
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. regulator warns about cheating risks in 'mention markets' on prediction platforms",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/22/u-s-regulator-warns-about-cheating-risks-in-mention-markets-on-prediction-platforms",
+      "published": "2026-09-23T00:00:45+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto VC Hashed anchors new digital asset private credit fund targeting $300 million",
+      "summary": "The fund aims to address a critical financing bottleneck in the institutional digital asset sector by using 'covenant-based' underwriting.",
+      "url": "https://www.theblock.co/news/markets/2026-09-22-hashed-private-credit-fund-416013",
+      "published": "2026-09-22T22:30:00+00:00",
+      "coins": [],
+      "compound": 0.6486,
       "label": "BULLISH",
-      "confidence": 0.6597
+      "confidence": 0.6486
     },
     {
       "source": "TheBlock",
@@ -517,6 +526,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats 'chose visceral hatred for' Donald Trump over crypto Clarity Act, Lummis says",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/22/democrats-chose-visceral-hatred-for-donald-trump-over-crypto-clarity-act-lummis-says",
+      "published": "2026-09-22T21:29:05+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -557,17 +577,6 @@
       "summary": "Crypto PAC Fairshake is throwing $30 million into an Ohio race against former Sen. Sherrod Brown, who has been skeptical of crypto.",
       "url": "https://www.theblock.co/news/regulation/2026-09-21-clarity-act-fallout-cryptos-fairshake-pac-commits-30-million-against-sherrod-brown-415962",
       "published": "2026-09-21T16:35:43+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase opens IPO allocations to US customers, starting with Oura",
-      "summary": "This expands Coinbase's push beyond secondary-market stock trading into the primary market, following its\u00a0rollout of pre-IPO derivatives.",
-      "url": "https://www.theblock.co/news/business/2026-09-21-coinbase-opens-ipo-allocations-us-customers-starting-oura-415942",
-      "published": "2026-09-21T14:47:12+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
@@ -640,24 +649,13 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Elon Musk's X brings crypto and stock trading via Coinbase, Kraken and Interactive Brokers partnership",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/22/elon-musk-s-x-brings-bitcoin-and-stock-trading-closer-to-the-timeline",
-      "published": "2026-09-22T05:26:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "Robinhood CEO Says Crypto Will Beat Sports at Prediction Markets' Own Game",
-      "summary": "Robinhood CEO Vlad Tenev says crypto event contracts are already outpacing sports bets, and could become the platform's dominant category within a few years.",
-      "url": "https://decrypt.co/378889/robinhood-ceo-crypto-will-beat-sports-prediction-markets",
-      "published": "2026-09-21T21:46:03+00:00",
+      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
+      "summary": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei\u2014who has spent a year calling China's government the industry's biggest threat.",
+      "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
+      "published": "2026-09-22T22:16:03+00:00",
       "coins": [],
-      "compound": 0.0,
+      "compound": -0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
