@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-09-24T04:27:54.439535+00:00",
+  "generated_at": "2026-09-24T11:33:10.891430+00:00",
   "total_articles": 55,
   "coins": {
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "CME adds Bitcoin Cash and Uniswap futures as crypto derivatives push grows",
-          "summary": "The exchange will offer standard and Micro contracts, covering 250 BCH and 25 BCH, and 10,000 UNI and 1,000 UNI, respectively.",
-          "url": "https://www.theblock.co/news/markets/2026-09-22-cme-adds-bitcoin-cash-and-uniswap-futures-as-crypto-derivatives-push-grows-416049",
-          "published": "2026-09-22T13:56:11+00:00",
-          "coins": [
-            "BTC",
-            "UNI"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
-      "article_count": 4,
-      "avg_compound": 0.2186,
+      "article_count": 2,
+      "avg_compound": 0.4372,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -61,56 +36,17 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Coinbase users can now borrow USDC against bitcoin at a fixed rate",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/23/coinbase-users-can-now-borrow-usdc-against-bitcoin-at-a-fixed-rate",
-          "published": "2026-09-23T07:49:23+00:00",
-          "coins": [
-            "USDC",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
-          "published": "2026-09-24T04:13:01+00:00",
-          "coins": [
-            "DOGE",
-            "BTC"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1586,
+      "article_count": 21,
+      "avg_compound": -0.2279,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 11,
-      "neutral": 6,
+      "bullish": 4,
+      "bearish": 14,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -154,7 +90,32 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+          "published": "2026-09-24T04:13:01+00:00",
+          "coins": [
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "LTC": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -164,12 +125,12 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "FTX, Alameda-linked wallets send $75 million in ether to Wintermute, onchain data shows",
+          "title": "Litecoin token has its moment as network activity booms",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/23/ftx-alameda-linked-wallets-send-usd75-million-in-ether-to-wintermute-onchain-data-shows",
-          "published": "2026-09-23T09:57:24+00:00",
+          "url": "https://www.coindesk.com/daybook-us/2026/09/24/litecoin-token-has-its-moment-as-network-activity-booms",
+          "published": "2026-09-24T11:26:18+00:00",
           "coins": [
-            "ETH"
+            "LTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -228,7 +189,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "LINK": {
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -238,7 +199,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "LTC": {
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -298,6 +259,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -330,6 +301,17 @@
       "compound": -0.8555,
       "label": "BEARISH",
       "confidence": 0.8555
+    },
+    {
+      "source": "TheBlock",
+      "title": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
+      "summary": "IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.",
+      "url": "https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237",
+      "published": "2026-09-24T10:00:00+00:00",
+      "coins": [],
+      "compound": 0.802,
+      "label": "BULLISH",
+      "confidence": 0.802
     },
     {
       "source": "CoinDesk",
@@ -387,6 +369,28 @@
       "confidence": 0.6486
     },
     {
+      "source": "Decrypt",
+      "title": "Brooklyn Man Who Bragged About $16M Coinbase Scam Gets Up to 12 Years",
+      "summary": "He posed as support staff, emptied about 100 accounts, then lost $6 million of the proceeds gambling, according to his own messages.",
+      "url": "https://decrypt.co/379153/brooklyn-man-who-bragged-about-16m-coinbase-scam-gets-up-to-12-years",
+      "published": "2026-09-24T09:00:46+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
+      "published": "2026-09-24T09:32:48+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
+    },
+    {
       "source": "TheBlock",
       "title": "Hut 8 wins bidding for Poolin\u2019s Texas data centers with $140 million offer",
       "summary": "The proposed acquisition would add two Texas sites to Hut 8\u2019s expanding AI infrastructure portfolio.",
@@ -421,6 +425,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme",
+      "summary": "A court sentenced 23-year-old Ronald Spektor to four to 12 years in prison for a $15.9 million Coinbase phishing scheme.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231",
+      "published": "2026-09-24T08:21:32+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
       "title": "Blockchain.com, NYSE plan access to tokenized US stocks and ETFs",
       "summary": "Blockchain.com and NYSE have signed an agreement to explore tokenized stocks and ETFs, subject to regulatory approvals.",
       "url": "https://www.theblock.co/news/web3/2026-09-23-blockchain-com-nyse-tokenized-us-stocks-etfs-416176",
@@ -429,17 +444,6 @@
       "compound": 0.4939,
       "label": "BULLISH",
       "confidence": 0.4939
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The S&P 500 has a 'breadth' problem. Crypto doesn\u2019t.",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/09/23/the-s-and-p-500-has-a-breadth-problem-crypto-doesn-t",
-      "published": "2026-09-23T11:28:50+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -520,14 +524,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-      "summary": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
-      "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
-      "published": "2026-09-23T15:41:46+00:00",
+      "title": "Q-Day Could Arrive Before Quantum Computers Are Commercially Useful, EU Warns",
+      "summary": "The threat could arrive before quantum computers are commercially useful, and member states have until the end of 2026 to plan for it.",
+      "url": "https://decrypt.co/379167/q-day-could-arrive-before-quantum-computers-are-commercially-useful-eu-warns",
+      "published": "2026-09-24T11:05:19+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "published": "2026-09-24T06:33:23+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -579,39 +594,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/23/crypto-long-and-short-inside-the-chain-settling-usd150-billion-of-stablecoins-a-week",
       "published": "2026-09-23T15:07:21+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "MoonPay to acquire SEC-registered North Capital in $60 million all-stock deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/23/moonpay-to-acquire-sec-registered-north-capital-in-usd60-million-all-stock-deal",
-      "published": "2026-09-23T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BitMEX shuts down: perpetuals pioneer officially closes it doors after 11 years",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/23/bitmex-shuts-down-trading-after-11-years-leaves-withdrawals-open",
-      "published": "2026-09-23T10:24:44+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock says AI agents could drive stablecoin and crypto adoption",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
-      "published": "2026-09-23T09:17:53+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
