@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:24:26.040606+00:00",
+  "generated_at": "2026-09-24T04:27:54.439535+00:00",
   "total_articles": 55,
   "coins": {
     "UNI": {
@@ -79,11 +79,36 @@
       ],
       "no_news": false
     },
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Dogecoin down 8%, bitcoin under $84,000 as Treasury yields hit highest level since 2007",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/24/dogecoin-down-8-bitcoin-under-usd84-000-as-treasury-yields-hit-highest-level-since-2007",
+          "published": "2026-09-24T04:13:01+00:00",
+          "coins": [
+            "DOGE",
+            "BTC"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1758,
+      "article_count": 22,
+      "avg_compound": -0.1586,
       "overall": "BEARISH",
-      "bullish": 4,
+      "bullish": 5,
       "bearish": 11,
       "neutral": 6,
       "top_articles": [
@@ -153,30 +178,6 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger retries upgrade that lets banks split payment and compliance duties",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/23/xrp-ledger-retries-upgrade-that-lets-banks-split-payment-and-compliance-duties",
-          "published": "2026-09-23T07:37:46+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -208,16 +209,6 @@
       "no_news": true
     },
     "DAI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -316,6 +307,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -343,6 +344,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "An AI Agent Just Hacked a Government Website for the First Time, Australia PM Says",
+      "summary": "Anthony Albanese said the agent accessed public and non-public files on a Medicare statistics portal in June, calling OpenAI's three-month delay in disclosing the breach \"unacceptable.\"",
+      "url": "https://decrypt.co/379134/an-ai-agent-just-hacked-a-government-website-for-the-first-time-australia-pm-says",
+      "published": "2026-09-23T22:31:45+00:00",
+      "coins": [],
+      "compound": -0.7906,
+      "label": "BEARISH",
+      "confidence": 0.7906
+    },
+    {
+      "source": "Decrypt",
       "title": "NYSE Taps Blockchain.com to Reach Crypto Investors With Tokenized Stocks",
       "summary": "Blockchain.com and NYSE Group signed a preliminary agreement to give the crypto exchange's users access to tokenized U.S. stocks and ETFs, pending regulatory approval.",
       "url": "https://decrypt.co/379080/nyse-taps-blockchain-com-to-reach-crypto-investors-with-tokenized-stocks-etfs",
@@ -351,17 +363,6 @@
       "compound": 0.7506,
       "label": "BULLISH",
       "confidence": 0.7506
-    },
-    {
-      "source": "Decrypt",
-      "title": "North Korea's Fake Job Interviews Drained $11M From 7,000 Crypto Wallets",
-      "summary": "A seven-agency advisory ties the WaterPlum hacking crew and Pyongyang's remote IT worker scheme to the same bureau.",
-      "url": "https://decrypt.co/379032/north-koreas-fake-job-interviews-drained-11m-from-7000-crypto-wallets",
-      "published": "2026-09-23T12:15:18+00:00",
-      "coins": [],
-      "compound": -0.6808,
-      "label": "BEARISH",
-      "confidence": 0.6808
     },
     {
       "source": "TheBlock",
@@ -486,6 +487,28 @@
     },
     {
       "source": "Decrypt",
+      "title": "Anthropic Says Claude Found Something Big in DNA. It Just Doesn't Know What",
+      "summary": "Anthropic says Claude autonomously found a new CRISPR-like enzyme system. Even Dario Amodei admits nobody knows what it actually does.",
+      "url": "https://decrypt.co/379128/anthropic-claude-found-something-big-dna-doesnt-know-what",
+      "published": "2026-09-23T22:56:03+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "China Probes DeepSeek and Moonshot Over Alleged Data Leaks to Anthropic's Claude",
+      "summary": "China's internet regulator is investigating DeepSeek and Moonshot AI after Anthropic accused both of secretly routing millions of user exchanges through Claude to train their own models.",
+      "url": "https://decrypt.co/379120/china-probes-deepseek-moonshot-data-leaks-anthropic-claude",
+      "published": "2026-09-23T21:31:03+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
       "title": "Crypto Exchange That Invented 100x Leverage Is No More: Here\u2019s What BitMEX Users Need to Know",
       "summary": "BitMEX ended trading at 04:00 UTC Wednesday and is urging users to withdraw their remaining funds, as fees now apply to balances left on the exchange.",
       "url": "https://decrypt.co/379089/crypto-exchange-that-invented-100x-leverage-is-no-more-heres-what-bitmex-users-need-to-know",
@@ -497,32 +520,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Former Polish Police Officer Charged as Zondacrypto Probe Searches Fuel Depot",
-      "summary": "Investigators are combing the site where the exchange's founder was last seen in 2022, using experts and forensic equipment.",
-      "url": "https://decrypt.co/379021/former-polish-police-officer-charged-as-zondacrypto-probe-searches-fuel-depot",
-      "published": "2026-09-23T09:53:07+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
-    },
-    {
-      "source": "Decrypt",
       "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
       "summary": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
       "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
       "published": "2026-09-23T15:41:46+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "Decrypt",
-      "title": "CFTC Staff Advisory Says Prediction Market 'Mention' Contracts Invite Manipulation",
-      "summary": "Three weeks after fining a teleprompter operator who traded on speeches he had already read, regulators set out what exchanges must show.",
-      "url": "https://decrypt.co/379030/cftc-staff-advisory-says-prediction-market-mention-contracts-invite-manipulation",
-      "published": "2026-09-23T10:43:46+00:00",
       "coins": [],
       "compound": -0.1531,
       "label": "BEARISH",
@@ -538,6 +539,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Gives Ukraine Access to Daybreak AI Cyber-Defense Tool",
+      "summary": "OpenAI is giving Ukraine's government access to Daybreak, its AI vulnerability-hunting system, as the country's cyber defenders face a record wave of attacks on hospitals, power grids, and government networks.",
+      "url": "https://decrypt.co/379126/openai-ukraine-access-daybreak-ai-cyber-defense-tool",
+      "published": "2026-09-23T22:06:04+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
     },
     {
       "source": "Decrypt",
@@ -602,17 +614,6 @@
       "published": "2026-09-23T09:17:53+00:00",
       "coins": [],
       "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "UN Security Council Will Get Advice on AI Risks From Tech Giants Building It",
-      "summary": "DeepSeek will address the UN Security Council on AI risks this week, sharing a stage with Dario Amodei\u2014who has spent a year calling China's government the industry's biggest threat.",
-      "url": "https://decrypt.co/379008/un-security-council-ai-risks-anthropic-openai-deepseek",
-      "published": "2026-09-22T22:16:03+00:00",
-      "coins": [],
-      "compound": -0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
