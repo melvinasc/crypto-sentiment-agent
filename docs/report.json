@@ -1,102 +1,93 @@
 {
-  "generated_at": "2026-09-25T17:01:49.527689+00:00",
+  "generated_at": "2026-09-25T21:26:17.643802+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
+    "USDC": {
       "article_count": 2,
-      "avg_compound": 0.2064,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
+      "avg_compound": -0.2712,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-          "published": "2026-09-25T14:32:48+00:00",
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
           "coins": [
-            "USDT"
+            "USDT",
+            "USDC",
+            "ETH"
           ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
         },
         {
-          "source": "CoinDesk",
-          "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
-          "published": "2026-09-25T14:41:53+00:00",
+          "source": "TheBlock",
+          "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+          "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
+          "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+          "published": "2026-09-25T14:00:00+00:00",
           "coins": [
-            "USDT"
+            "USDC"
           ],
-          "compound": 0.0516,
-          "label": "BULLISH",
-          "confidence": 0.0516
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.1453,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 9,
-      "neutral": 2,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.1531,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-Study-Found.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a></p>\n<p>Attorney General Letitia James and Governor Kathy Hochul allege Polymarket operates without a license in a new complaint. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
-          "published": "2026-09-24T22:09:02+00:00",
+          "source": "TheBlock",
+          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
+          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+          "published": "2026-09-25T11:00:00+00:00",
           "coins": [
-            "BTC"
+            "BNB"
           ],
-          "compound": -0.9423,
-          "label": "BEARISH",
-          "confidence": 0.9423
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-34.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam\" rel=\"nofollow\">Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam</a></p>\n<p>Ronald Spektor, 23, who lived with his father, used social engineering to steal funds from Coinbase customers. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam\" rel=\"nofollow\">Brooklyn Man Sentenced to 12 Years for $16M Coinbase Phishing Scam</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/man-gets-12-years-for-coinbase-scam",
-          "published": "2026-09-24T19:15:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8779,
-          "label": "BEARISH",
-          "confidence": 0.8779
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-36.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack\" rel=\"nofollow\">Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack</a></p>\n<p>Crypto exchange Bitget detected unauthorized transfers and has temporarily halted withdrawals. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack\" rel=\"nofollow\">Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
-          "published": "2026-09-24T22:53:59+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.765,
-          "label": "BEARISH",
-          "confidence": 0.765
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.0895,
-      "overall": "BULLISH",
+      "article_count": 3,
+      "avg_compound": -0.1211,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
+          "coins": [
+            "USDT",
+            "USDC",
+            "ETH"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        },
         {
           "source": "TheBlock",
           "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
@@ -126,52 +117,13 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.0766,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-          "published": "2026-09-25T11:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        },
-        {
-          "source": "TheBlock",
-          "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-          "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-          "published": "2026-09-24T13:00:00+00:00",
-          "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": -0.0593,
+      "article_count": 2,
+      "avg_compound": -0.089,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -200,71 +152,108 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 4,
+      "avg_compound": -0.089,
+      "overall": "BEARISH",
+      "bullish": 2,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
+          "coins": [
+            "USDT",
+            "USDC",
+            "ETH"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
         },
         {
-          "source": "TheBlock",
-          "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-          "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-          "published": "2026-09-24T13:00:00+00:00",
+          "source": "CoinDesk",
+          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+          "published": "2026-09-25T14:32:48+00:00",
           "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
+            "USDT"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "Decrypt",
+          "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
+          "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
+          "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
+          "published": "2026-09-25T21:25:35+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
         }
       ],
       "no_news": false
     },
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": -0.0365,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-          "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-          "published": "2026-09-24T13:00:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-Study-Found.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a></p>\n<p>Attorney General Letitia James and Governor Kathy Hochul allege Polymarket operates without a license in a new complaint. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
+          "published": "2026-09-24T22:09:02+00:00",
           "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+          "compound": -0.9423,
+          "label": "BEARISH",
+          "confidence": 0.9423
+        },
         {
-          "source": "TheBlock",
-          "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-          "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
-          "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-          "published": "2026-09-25T14:00:00+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs-Extend-Winning-Streak-With-Nearly-3B-in-Inflows.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a></p>\n<p>Over six days, investors have spent $2.8 billion buying shares in bitcoin exchange-traded funds. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
+          "published": "2026-09-25T19:55:01+00:00",
           "coins": [
-            "USDC"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.9118,
+          "label": "BULLISH",
+          "confidence": 0.9118
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-36.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack\" rel=\"nofollow\">Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack</a></p>\n<p>Crypto exchange Bitget detected unauthorized transfers and has temporarily halted withdrawals. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack\" rel=\"nofollow\">Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack",
+          "published": "2026-09-24T22:53:59+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.765,
+          "label": "BEARISH",
+          "confidence": 0.765
         }
       ],
       "no_news": false
@@ -365,6 +354,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "MATIC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -419,26 +418,37 @@
       "confidence": 0.9287
     },
     {
-      "source": "Decrypt",
-      "title": "New York Wants to Ban Polymarket, Lawsuit Calls It 'Illegal Gambling Operation'",
-      "summary": "Attorney General Letitia James and Governor Kathy Hochul allege the prediction market operates without a license and exposes New Yorkers to gambling harms.",
-      "url": "https://decrypt.co/379244/new-york-ban-polymarket-lawsuit",
-      "published": "2026-09-24T17:51:31+00:00",
+      "source": "TheBlock",
+      "title": "Man charged in $16 million crypto \u2018massive pig butchering\u2019 scam",
+      "summary": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
+      "published": "2026-09-25T17:48:16+00:00",
       "coins": [],
-      "compound": -0.9153,
+      "compound": -0.8442,
       "label": "BEARISH",
-      "confidence": 0.9153
+      "confidence": 0.8442
     },
     {
       "source": "TheBlock",
-      "title": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
-      "summary": "IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.",
-      "url": "https://www.theblock.co/news/business/2026-09-24-ibm-connects-digital-asset-haven-to-swift-blockchain-ledger-for-tokenized-deposit-transactions-416237",
-      "published": "2026-09-24T10:00:00+00:00",
+      "title": "SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit",
+      "summary": "Promoting a network\u2019s current uses generally would not create an expectation of profit, SEC staff said.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914",
+      "published": "2026-09-25T20:32:40+00:00",
       "coins": [],
-      "compound": 0.802,
+      "compound": 0.8437,
       "label": "BULLISH",
-      "confidence": 0.802
+      "confidence": 0.8437
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
+      "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score\u2014and tricking coding assistants into running unauthorized network attacks.",
+      "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
+      "published": "2026-09-25T19:45:39+00:00",
+      "coins": [],
+      "compound": -0.7845,
+      "label": "BEARISH",
+      "confidence": 0.7845
     },
     {
       "source": "Decrypt",
@@ -453,17 +463,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
-      "summary": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect\u2014as recent KYC leaks expose crypto holders to phishing and physical attacks.",
-      "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
-      "published": "2026-09-24T17:31:03+00:00",
-      "coins": [],
-      "compound": -0.7184,
-      "label": "BEARISH",
-      "confidence": 0.7184
-    },
-    {
-      "source": "Decrypt",
       "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
       "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
       "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
@@ -474,15 +473,15 @@
       "confidence": 0.6887
     },
     {
-      "source": "CoinDesk",
-      "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/23/someone-was-trying-to-sell-ondo-finance-after-founder-nathan-allman-s-death",
-      "published": "2026-09-24T20:13:25+00:00",
+      "source": "Decrypt",
+      "title": "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect",
+      "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
+      "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
+      "published": "2026-09-25T17:08:57+00:00",
       "coins": [],
-      "compound": -0.5994,
+      "compound": -0.6369,
       "label": "BEARISH",
-      "confidence": 0.5994
+      "confidence": 0.6369
     },
     {
       "source": "CoinDesk",
@@ -507,37 +506,15 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "Humans Are Reading Your ChatGPT Chats, New Lawsuit Claims",
-      "summary": "A proposed class action accuses OpenAI of quietly routing real conversations to outside contractors through a program called Project Lily\u2014without telling users first.",
-      "url": "https://decrypt.co/379272/humans-reading-chatgpt-chats-lawsuit",
-      "published": "2026-09-24T20:01:03+00:00",
+      "source": "CoinDesk",
+      "title": "Blockchain Association sees leadership shift shortly after crypto Clarity Act fizzles",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/25/blockchain-association-sees-leadership-shift-shortly-after-crypto-clarity-act-fizzles",
+      "published": "2026-09-25T20:01:05+00:00",
       "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitget Hacked as $350 Million Vanishes From Crypto Exchange Wallets",
-      "summary": "A newly created wallet drained hot and cold reserves labeled as belonging to Bitget across multiple blockchains in under an hour.",
-      "url": "https://decrypt.co/379275/bitget-hack-183-million-crypto-exchange-wallets",
-      "published": "2026-09-24T21:15:38+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
-      "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
-      "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
-      "published": "2026-09-24T18:31:03+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -562,37 +539,15 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe",
-      "published": "2026-09-24T21:59:32+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "TheBlock",
-      "title": "HIFI raises $37 million Series A to expand tokenized capital markets infrastructure",
-      "summary": "HIFI raised $37 million in Series A funding led by Left Lane Capital to scale tokenized settlement infrastructure.",
-      "url": "https://www.theblock.co/news/business/2026-09-24-hifi-raises-37-million-series-a-to-expand-tokenized-capital-markets-infrastructure-416242",
-      "published": "2026-09-24T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
-      "title": "Meta's New AI Toy Is a Keychain That Watches, Listens, and Never Blinks",
-      "summary": "Muse Charm is Meta's palm-sized gadget for talking to its Muse AI agent on the go. It has cameras, a fingerprint sensor, and its own cell connection.",
-      "url": "https://decrypt.co/379253/meta-ai-toy-muse-charm-keychain-watches-listens",
-      "published": "2026-09-24T19:16:03+00:00",
+      "title": "OpenAI Is Building a $500 per Month ChatGPT Pro Max Plan, Leaks Suggest",
+      "summary": "Leaked code strings and screenshots point to a new tier that would cost 25 times more than ChatGPT Plus, aimed at people who need the bot to work faster, not just longer.",
+      "url": "https://decrypt.co/379359/openai-500-per-month-chatgpt-pro-max-plan",
+      "published": "2026-09-25T17:46:05+00:00",
       "coins": [],
-      "compound": -0.3089,
+      "compound": -0.3182,
       "label": "BEARISH",
-      "confidence": 0.3089
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -604,6 +559,17 @@
       "compound": 0.296,
       "label": "BULLISH",
       "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Built an AI That Hunts Its Own Security Bugs",
+      "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
+      "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+      "published": "2026-09-25T19:16:04+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -648,6 +614,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
+      "published": "2026-09-25T21:17:30+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -699,6 +676,17 @@
       "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
       "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
       "published": "2026-09-25T13:04:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
+      "summary": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
+      "published": "2026-09-25T19:48:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
