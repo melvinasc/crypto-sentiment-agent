@@ -1,14 +1,51 @@
 {
-  "generated_at": "2026-09-25T11:39:29.570087+00:00",
+  "generated_at": "2026-09-25T17:01:49.527689+00:00",
   "total_articles": 55,
   "coins": {
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.2064,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+          "published": "2026-09-25T14:32:48+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist",
+          "published": "2026-09-25T14:41:53+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0516,
+          "label": "BULLISH",
+          "confidence": 0.0516
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": -0.2201,
+      "article_count": 19,
+      "avg_compound": -0.1453,
       "overall": "BEARISH",
-      "bullish": 3,
+      "bullish": 8,
       "bearish": 9,
-      "neutral": 6,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -53,12 +90,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 1,
-      "avg_compound": 0.1531,
+      "article_count": 2,
+      "avg_compound": 0.0895,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -72,6 +109,58 @@
           "compound": 0.1531,
           "label": "BULLISH",
           "confidence": 0.1531
+        },
+        {
+          "source": "Decrypt",
+          "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+          "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+          "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+          "published": "2026-09-25T16:17:19+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": 0.0766,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
+          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+          "published": "2026-09-25T11:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
+        },
+        {
+          "source": "TheBlock",
+          "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
+          "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
+          "published": "2026-09-24T13:00:00+00:00",
+          "coins": [
+            "SOL",
+            "BNB",
+            "MATIC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -99,68 +188,14 @@
         },
         {
           "source": "Decrypt",
-          "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-          "summary": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
-          "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
-          "published": "2026-09-24T13:03:03+00:00",
+          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+          "published": "2026-09-25T16:06:23+00:00",
           "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
-          "summary": "Solana Foundation appointed Rachel Conlan as chief strategy officer and former Polygon Labs exec Jamal Raees as GM of payments.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254",
-          "published": "2026-09-24T13:00:00+00:00",
-          "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.051,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-          "published": "2026-09-25T11:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-          "summary": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
-          "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
-          "published": "2026-09-24T13:03:03+00:00",
-          "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
+            "BTC",
+            "XRP",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -185,28 +220,13 @@
       "no_news": false
     },
     "MATIC": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Foundation Hires Binance's Former Global CMO for Institutional Push",
-          "summary": "Rachel Conlan arrives as chief strategy officer and Polygon Labs' Jamal Raees takes over payments, both recruited from elsewhere in crypto.",
-          "url": "https://decrypt.co/379179/solana-foundation-hires-binances-former-global-cmo-for-institutional-push",
-          "published": "2026-09-24T13:03:03+00:00",
-          "coins": [
-            "SOL",
-            "BNB",
-            "MATIC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "TheBlock",
           "title": "Solana Foundation taps Binance, Polygon vets to drive institutional adoption and payments",
@@ -217,6 +237,56 @@
             "SOL",
             "BNB",
             "MATIC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
+          "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
+          "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
+          "published": "2026-09-25T14:00:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+          "published": "2026-09-25T16:06:23+00:00",
+          "coins": [
+            "BTC",
+            "XRP",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -334,36 +404,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -423,6 +463,17 @@
       "confidence": 0.7184
     },
     {
+      "source": "Decrypt",
+      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
+      "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+      "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
+      "published": "2026-09-25T13:16:03+00:00",
+      "coins": [],
+      "compound": 0.6887,
+      "label": "BULLISH",
+      "confidence": 0.6887
+    },
+    {
       "source": "CoinDesk",
       "title": "Someone was trying to sell Ondo Finance after founder Nathan Allman's death",
       "summary": "",
@@ -432,17 +483,6 @@
       "compound": -0.5994,
       "label": "BEARISH",
       "confidence": 0.5994
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hut 8 wins bidding for Poolin\u2019s Texas data centers with $140 million offer",
-      "summary": "The proposed acquisition would add two Texas sites to Hut 8\u2019s expanding AI infrastructure portfolio.",
-      "url": "https://www.theblock.co/news/business/2026-09-23-hut-8-wins-bidding-poolin-texas-data-centers-140-million-offer-416190",
-      "published": "2026-09-23T18:01:58+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
@@ -457,14 +497,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Brooklyn man gets up to 12 years over $16 million Coinbase social engineering scheme",
-      "summary": "A court sentenced 23-year-old Ronald Spektor to four to 12 years in prison for a $15.9 million Coinbase phishing scheme.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-24-brooklyn-man-12-years-scheme-416231",
-      "published": "2026-09-24T08:21:32+00:00",
+      "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
+      "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
+      "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
+      "published": "2026-09-25T14:09:15+00:00",
       "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -490,17 +530,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "\u00a310K Reward Offered After UK Couple Attacked in Crypto Home Invasion",
-      "summary": "Police believe the robbery was planned and targeted, with instructions relayed to the three attackers by a fourth man on a video call.",
-      "url": "https://decrypt.co/379186/10k-reward-offered-after-uk-couple-attacked-in-crypto-home-invasion",
-      "published": "2026-09-24T15:08:26+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
       "title": "AI Can Now Doxx Your Anonymous Accounts? Here's What\u2019s Going On",
       "summary": "A February research paper showing AI can unmask pseudonymous internet users is freaking everyone out again this week. Here's what the paper actually says.",
       "url": "https://decrypt.co/379228/ai-can-now-doxx-your-anonymous-accounts-heres-whats-going-on",
@@ -511,15 +540,26 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "US Aims to Turn Stablecoins Into a Weapon for Dollar Dominance",
-      "summary": "Washington may fund private stablecoin ventures abroad to protect the dollar's reserve status and prop up Treasury demand.",
-      "url": "https://decrypt.co/379219/us-stablecoins-weapon-dollar-dominance",
-      "published": "2026-09-24T16:55:43+00:00",
+      "source": "TheBlock",
+      "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
+      "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
+      "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
+      "published": "2026-09-25T13:48:57+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.3612
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
+      "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
+      "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
+      "published": "2026-09-25T13:22:00+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -566,39 +606,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "The stock token debate, and the gap nobody can close alone",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/24/the-stock-token-debate-and-the-gap-nobody-can-close-alone",
-      "published": "2026-09-24T20:03:21+00:00",
-      "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. commodities firms can invest in tokenized assets, use blockchain records: CFTC",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-commodities-firms-can-invest-in-tokenized-assets-use-blockchain-records-cftc",
-      "published": "2026-09-24T20:04:46+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack",
-      "published": "2026-09-24T15:48:20+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
       "source": "TheBlock",
       "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
       "summary": "Ondo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.",
@@ -633,7 +640,7 @@
     },
     {
       "source": "TheBlock",
-      "title": "Bitget confirms $351.6 million security breach affecting exchange hot wallets",
+      "title": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
       "summary": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
       "url": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
       "published": "2026-09-24T21:20:47+00:00",
@@ -641,6 +648,28 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization is moving faster than Washington",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
+      "published": "2026-09-25T14:37:32+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
+      "published": "2026-09-25T14:22:07+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -665,33 +694,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Bullish, Alpaca and Apex Fintech form coalition to push issuer-backed tokenized stocks",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/24/bullish-alpaca-and-apex-fintech-form-coalition-to-push-issuer-backed-tokenized-stocks",
-      "published": "2026-09-24T20:05:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "Decrypt Media and FOMO Hour\u2019s Thought Leader Farokh Sarmad to Take Main Stage at NEXTPredict NY Conference",
-      "summary": "Premier Partnership will livestream the Main Stage through Decrypt Media and bring Rug Radio and FOMO HOUR programming onsite.",
-      "url": "https://decrypt.co/379042/decrypt-media-and-fomo-hours-thought-leader-farokh-sarmad-to-take-main-stage-at-nextpredict-ny-conference",
-      "published": "2026-09-24T13:01:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Elliptic Wants Every Cop to Read a Crypto Wallet in Seconds\u2014With AI",
-      "summary": "Elliptic\u2019s new AI-assisted tool, called Pulse, lets any officer input a wallet address or transaction hash and get a plain-language summary in seconds, aiming to bring crypto tracing beyond specialized units.",
-      "url": "https://decrypt.co/379113/elliptic-crypto-wallet-ai-pulse",
-      "published": "2026-09-24T13:01:03+00:00",
+      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+      "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+      "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
+      "published": "2026-09-25T13:04:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -703,17 +710,6 @@
       "summary": "The Federal Reserve proposed new measures for stablecoin issuers, including reserve-asset limits and standardized capital requirements.",
       "url": "https://www.theblock.co/news/regulation/2026-09-24-fed-proposes-reserve-limits-capital-standards-stablecoin-issuers-genius-act-416336",
       "published": "2026-09-24T20:19:46+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "\u2018Not behind closed doors\u2019: Senate Banking Democrats call for prediction markets hearing as GOP meets privately with Kalshi",
-      "summary": "Every Democrat on the Senate Banking Committee is urging its chair, Sen. Tim Scott, to hold a congressional hearing on prediction markets.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-23-senate-banking-democrats-prediction-markets-hearing-kalshi-416193",
-      "published": "2026-09-23T17:36:11+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
