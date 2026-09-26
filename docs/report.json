@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T04:42:21.758498+00:00",
+  "generated_at": "2026-09-26T11:13:24.034138+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -156,45 +156,6 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.089,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
-          "summary": "SkyAI\u2019s board survived a shareholder protest, but its proposed equity pay plan fell by a wide margin.",
-          "url": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
-          "published": "2026-09-24T19:17:47+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
-          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
-          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-          "published": "2026-09-25T16:06:23+00:00",
-          "coins": [
-            "BTC",
-            "XRP",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
       "article_count": 4,
       "avg_compound": -0.089,
@@ -248,10 +209,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0347,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 19,
+      "avg_compound": -0.0587,
+      "overall": "BEARISH",
+      "bullish": 8,
       "bearish": 8,
       "neutral": 3,
       "top_articles": [
@@ -293,6 +254,58 @@
           "compound": -0.765,
           "label": "BEARISH",
           "confidence": 0.765
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": -0.0421,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Solana treasury firm SkyAI keeps board after shareholder protest, loses equity plan vote",
+          "summary": "SkyAI\u2019s board survived a shareholder protest, but its proposed equity pay plan fell by a wide margin.",
+          "url": "https://www.theblock.co/news/business/2026-09-24-solana-treasury-skyai-keeps-board-shareholder-protest-loses-equity-plan-vote-416298",
+          "published": "2026-09-24T19:17:47+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana\u2019s 150-millisecond settlement upgrade reaches second public test network",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
+          "published": "2026-09-26T05:00:00+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0516,
+          "label": "BULLISH",
+          "confidence": 0.0516
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+          "published": "2026-09-25T16:06:23+00:00",
+          "coins": [
+            "BTC",
+            "XRP",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
