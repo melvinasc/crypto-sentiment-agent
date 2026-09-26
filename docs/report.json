@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-09-26T11:13:24.034138+00:00",
+  "generated_at": "2026-09-26T16:14:53.243142+00:00",
   "total_articles": 55,
   "coins": {
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": 0.2775,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+          "published": "2026-09-26T13:00:00+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
+          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
+          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
+          "published": "2026-09-25T11:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
       "article_count": 2,
       "avg_compound": -0.2712,
@@ -37,69 +75,6 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.2009,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger\u2019s Batch upgrade slips to Oct. 9 after validator support resets",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-          "published": "2026-09-26T04:30:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
-          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
-          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
-          "published": "2026-09-25T16:06:23+00:00",
-          "coins": [
-            "BTC",
-            "XRP",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.1531,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-          "published": "2026-09-25T11:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -156,79 +131,14 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 4,
-      "avg_compound": -0.089,
-      "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
-          "coins": [
-            "USDT",
-            "USDC",
-            "ETH"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
-          "published": "2026-09-25T14:32:48+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        },
-        {
-          "source": "Decrypt",
-          "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-          "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
-          "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-          "published": "2026-09-25T21:25:35+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.0587,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 8,
+      "article_count": 17,
+      "avg_compound": 0.1026,
+      "overall": "BULLISH",
+      "bullish": 9,
+      "bearish": 5,
       "neutral": 3,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/Traders-Took-8.2-Million-From-Polymarkets-Five-Minute-Bitcoin-Bets-Study-Found.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a></p>\n<p>Attorney General Letitia James and Governor Kathy Hochul allege Polymarket operates without a license in a new complaint. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-york-sues-polymarket\" rel=\"nofollow\">New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/new-york-sues-polymarket",
-          "published": "2026-09-24T22:09:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9423,
-          "label": "BEARISH",
-          "confidence": 0.9423
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
@@ -241,6 +151,19 @@
           "compound": 0.9118,
           "label": "BULLISH",
           "confidence": 0.9118
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Grant Cardone: Real Estate \u201cArmageddon\u201d Is Here \u2013 Why BITCOIN is the Hedge",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Grant-Cardone-Real-Estate-22Armageddon22-Is-Here-\u2013-Why-BITCOIN-is-the-Hedge-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a></p>\n<p>Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
+          "published": "2026-09-26T15:23:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8402,
+          "label": "BULLISH",
+          "confidence": 0.8402
         },
         {
           "source": "Bitcoin Magazine",
@@ -306,6 +229,111 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": -0.0388,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+          "published": "2026-09-26T12:56:41+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.5184,
+          "label": "BEARISH",
+          "confidence": 0.5184
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger\u2019s Batch upgrade slips to Oct. 9 after validator support resets",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
+          "published": "2026-09-26T04:30:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Rally Slows as $15.6 Billion Options Expiry Hits\u2014XRP and Solana Keep Climbing",
+          "summary": "Pullback or reversal? Here's what the charts suggest for BTC.",
+          "url": "https://decrypt.co/379319/bitcoin-slows-billion-options-expiry-xrp-solana",
+          "published": "2026-09-25T16:06:23+00:00",
+          "coins": [
+            "BTC",
+            "XRP",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 5,
+      "avg_compound": 0.0092,
+      "overall": "NEUTRAL",
+      "bullish": 3,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
+          "coins": [
+            "USDT",
+            "USDC",
+            "ETH"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+          "published": "2026-09-26T13:00:00+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tether confirms minimal EQIBank exposure following $89M US asset seizure",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/25/tether-confirms-minimal-eqibank-exposure-following-usd89m-us-asset-seizure",
+          "published": "2026-09-25T14:32:48+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
         }
       ],
       "no_news": false
@@ -478,14 +506,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
-      "summary": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
-      "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
-      "published": "2026-09-24T21:56:03+00:00",
+      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
+      "summary": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
+      "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
+      "published": "2026-09-26T13:01:03+00:00",
       "coins": [],
-      "compound": 0.7463,
+      "compound": 0.765,
       "label": "BULLISH",
-      "confidence": 0.7463
+      "confidence": 0.765
     },
     {
       "source": "Decrypt",
@@ -532,6 +560,17 @@
       "confidence": 0.4019
     },
     {
+      "source": "Decrypt",
+      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+      "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+      "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+      "published": "2026-09-26T16:06:03+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "TheBlock",
       "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
       "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
@@ -566,6 +605,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
+      "summary": "A federal appeals court ruled on Friday that Kalshi has not adequately shown its sports event contracts are swaps under the Commodity Exchange Act.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937",
+      "published": "2026-09-26T15:17:34+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "TheBlock",
       "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
       "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
       "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
@@ -588,39 +638,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Ondo launches onchain portfolio tokens based on BlackRock-developed strategies",
-      "summary": "Ondo has launched three onchain portfolio tokens based on model portfolio strategies developed by BlackRock.",
-      "url": "https://www.theblock.co/news/markets/2026-09-24-ondo-launches-onchain-portfolio-tokens-based-blackrock-developed-strategies-416260",
-      "published": "2026-09-24T14:27:45+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "CoinDesk",
-      "title": "KelpDAO sues LayerZero for the largest exploit 2026 has seen so far",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far",
-      "published": "2026-09-25T08:58:03+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "Decrypt",
-      "title": "KelpDAO Developer Sues LayerZero Over $292M Bridge Exploit",
-      "summary": "Evercrest says LayerZero approved the single-verifier configuration in writing multiple times, then warned a different developer about it.",
-      "url": "https://decrypt.co/379288/kelpdao-developer-sues-layerzero-over-292m-bridge-exploit",
-      "published": "2026-09-25T11:09:52+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "TheBlock",
       "title": "Bitget confirms $387.5 million security breach affecting exchange hot wallets",
       "summary": "Bitget said private keys were not compromised and that losses from the incident will be covered by its User Protection Fund.",
       "url": "https://www.theblock.co/news/markets/2026-09-24-more-than-170-million-in-crypto-moves-from-bitget-wallets-unidentified-address-416345",
@@ -629,6 +646,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "published": "2026-09-26T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
