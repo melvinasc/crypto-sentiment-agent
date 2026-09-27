@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T11:52:16.698907+00:00",
+  "generated_at": "2026-09-27T16:50:41.175174+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -80,11 +80,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.1546,
+      "article_count": 16,
+      "avg_compound": 0.0707,
       "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 5,
+      "bullish": 7,
+      "bearish": 6,
       "neutral": 3,
       "top_articles": [
         {
@@ -125,58 +125,6 @@
           "compound": 0.8402,
           "label": "BULLISH",
           "confidence": 0.8402
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.1211,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
-          "coins": [
-            "USDT",
-            "USDC",
-            "ETH"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "TheBlock",
-          "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
-          "summary": "ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, Anthropic and Stripe, onchain via Securitize on Ethereum.",
-          "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
-          "published": "2026-09-24T18:37:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        },
-        {
-          "source": "Decrypt",
-          "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
-          "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
-          "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
-          "published": "2026-09-25T16:17:19+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -281,6 +229,58 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": -0.0227,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
+          "coins": [
+            "USDT",
+            "USDC",
+            "ETH"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+          "published": "2026-09-27T14:29:13+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "TheBlock",
+          "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
+          "summary": "ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, Anthropic and Stripe, onchain via Securitize on Ethereum.",
+          "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
+          "published": "2026-09-24T18:37:22+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -506,17 +506,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-      "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
-      "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-      "published": "2026-09-25T13:16:03+00:00",
-      "coins": [],
-      "compound": 0.6887,
-      "label": "BULLISH",
-      "confidence": 0.6887
-    },
-    {
-      "source": "Decrypt",
       "title": "Bitget Hack Losses Climb to $387M: Here\u2019s What Happened, and Why North Korea Is a Suspect",
       "summary": "An attacker faked internal transfer requests to drain $387.5 million from Bitget's hot and warm wallets, and the exchange's CEO says the fingerprints look like Pyongyang's.",
       "url": "https://decrypt.co/379350/bitget-hack-387m-what-happened-why-north-korea-suspect",
@@ -536,6 +525,17 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
+    },
+    {
+      "source": "CoinDesk",
+      "title": "How months of work on the Clarity Act all fell apart",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "published": "2026-09-27T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -572,14 +572,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-      "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
-      "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-      "published": "2026-09-25T13:22:00+00:00",
+      "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
+      "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
+      "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
+      "published": "2026-09-27T13:01:03+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.3895,
       "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.3895
     },
     {
       "source": "Decrypt",
@@ -637,6 +637,17 @@
       "confidence": 0.0772
     },
     {
+      "source": "Decrypt",
+      "title": "AI Agents Keep Escaping Their Creators' Control\u2014Here's What We Know",
+      "summary": "An OpenAI agent's breach of an Australian government website is the starkest example yet of a pattern building for months\u2014and of how hard autonomous AI is to contain.",
+      "url": "https://decrypt.co/379402/ai-agents-keep-escaping-creators-control",
+      "published": "2026-09-27T16:01:03+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
       "source": "CoinDesk",
       "title": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
       "summary": "",
@@ -686,17 +697,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
       "published": "2026-09-25T14:22:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-      "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-      "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-      "published": "2026-09-25T13:04:06+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
