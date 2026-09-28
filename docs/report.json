@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:14:15.403169+00:00",
+  "generated_at": "2026-09-28T05:05:49.473954+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -79,52 +79,54 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 16,
-      "avg_compound": 0.0707,
-      "overall": "BULLISH",
-      "bullish": 7,
-      "bearish": 6,
-      "neutral": 3,
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.0666,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs-Extend-Winning-Streak-With-Nearly-3B-in-Inflows.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a></p>\n<p>Over six days, investors have spent $2.8 billion buying shares in bitcoin exchange-traded funds. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
-          "published": "2026-09-25T19:55:01+00:00",
+          "source": "Decrypt",
+          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
+          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+          "published": "2026-09-25T18:42:51+00:00",
           "coins": [
-            "BTC"
+            "USDT",
+            "USDC",
+            "ETH"
           ],
-          "compound": 0.9118,
-          "label": "BULLISH",
-          "confidence": 0.9118
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Samourai Letter #7: Notes From The Inside",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Rage-Letters-7.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a></p>\n<p>Syndicated from The Rage: Samourai Wallet developer Keonne Rodriguez documents \"the absolute worst 30 days of my life.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/keonne-rodriguez\" rel=\"nofollow\">Keonne Rodriguez</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
-          "published": "2026-09-26T17:06:47+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.891,
+          "compound": -0.5423,
           "label": "BEARISH",
-          "confidence": 0.891
+          "confidence": 0.5423
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Grant Cardone: Real Estate \u201cArmageddon\u201d Is Here \u2013 Why BITCOIN is the Hedge",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Grant-Cardone-Real-Estate-22Armageddon22-Is-Here-\u2013-Why-BITCOIN-is-the-Hedge-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a></p>\n<p>Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
-          "published": "2026-09-26T15:23:26+00:00",
+          "source": "CoinDesk",
+          "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+          "published": "2026-09-27T14:29:13+00:00",
           "coins": [
-            "BTC"
+            "ETH"
           ],
-          "compound": 0.8402,
+          "compound": 0.25,
           "label": "BULLISH",
-          "confidence": 0.8402
+          "confidence": 0.25
+        },
+        {
+          "source": "Decrypt",
+          "title": "Magic Eden Warns Old Ethereum NFT Listings Are Exposed to Payment Processor Exploit",
+          "summary": "A flaw in Limit Break's Payment Processor V2 put old Magic Eden Ethereum listings at risk, prompting a whitehat rescue of more than 23,000 NFTs.",
+          "url": "https://decrypt.co/379342/magic-eden-old-ethereum-nft-listings-exposed-exploit",
+          "published": "2026-09-25T16:17:19+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -181,9 +183,59 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 17,
+      "avg_compound": 0.042,
+      "overall": "NEUTRAL",
+      "bullish": 7,
+      "bearish": 7,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs-Extend-Winning-Streak-With-Nearly-3B-in-Inflows.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a></p>\n<p>Over six days, investors have spent $2.8 billion buying shares in bitcoin exchange-traded funds. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
+          "published": "2026-09-25T19:55:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9118,
+          "label": "BULLISH",
+          "confidence": 0.9118
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Samourai Letter #7: Notes From The Inside",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Rage-Letters-7.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a></p>\n<p>Syndicated from The Rage: Samourai Wallet developer Keonne Rodriguez documents \"the absolute worst 30 days of my life.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/keonne-rodriguez\" rel=\"nofollow\">Keonne Rodriguez</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
+          "published": "2026-09-26T17:06:47+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.891,
+          "label": "BEARISH",
+          "confidence": 0.891
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Grant Cardone: Real Estate \u201cArmageddon\u201d Is Here \u2013 Why BITCOIN is the Hedge",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Grant-Cardone-Real-Estate-22Armageddon22-Is-Here-\u2013-Why-BITCOIN-is-the-Hedge-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a></p>\n<p>Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
+          "published": "2026-09-26T15:23:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8402,
+          "label": "BULLISH",
+          "confidence": 0.8402
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 3,
-      "avg_compound": -0.0388,
+      "avg_compound": -0.0128,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
@@ -191,16 +243,16 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+          "title": "Bitget hacker moves $83 million in stolen XRP beyond reach of freeze controls",
           "summary": "",
           "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
           "published": "2026-09-26T12:56:41+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": -0.5184,
+          "compound": -0.4404,
           "label": "BEARISH",
-          "confidence": 0.5184
+          "confidence": 0.4404
         },
         {
           "source": "CoinDesk",
@@ -229,58 +281,6 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0227,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
-          "coins": [
-            "USDT",
-            "USDC",
-            "ETH"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-          "published": "2026-09-27T14:29:13+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.25,
-          "label": "BULLISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "TheBlock",
-          "title": "ARK Invest brings $1.3 billion venture fund onchain through Securitize",
-          "summary": "ARK Invest is bringing its $1.3B ARK Venture Fund (ARKVX), which holds OpenAI, Anthropic and Stripe, onchain via Securitize on Ethereum.",
-          "url": "https://www.theblock.co/news/markets/2026-09-24-ark-invest-tokenizes-arkvx-venture-fund-securitize-416294",
-          "published": "2026-09-24T18:37:22+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -692,11 +692,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy proposes daily dividends to bring STRC back toward $100",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100",
-      "published": "2026-09-25T14:22:07+00:00",
+      "source": "TheBlock",
+      "title": "Onchain analyst links $18.4 million in Robinhood Chain memecoin extractions to single rug-pull operation",
+      "summary": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
+      "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
+      "published": "2026-09-27T22:02:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
