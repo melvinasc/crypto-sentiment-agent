@@ -1,205 +1,64 @@
 {
-  "generated_at": "2026-09-28T13:38:11.166195+00:00",
+  "generated_at": "2026-09-28T23:10:05.564634+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.3843,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
-          "coins": [
-            "USDT",
-            "USDC",
-            "ETH"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "Decrypt",
-          "title": "US Prosecutors Want $84.2 Million From a Bank Tied to Tether",
-          "summary": "Federal prosecutors are targeting a Montana payments firm and a Caribbean bank accused of moving money without a license.",
-          "url": "https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex",
-          "published": "2026-09-25T21:25:35+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
     "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "article_count": 2,
+      "avg_compound": 0.1829,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Chainlink updates its crypto bridge tech months after a $292 million hack at a rival exposed risks",
+          "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
           "summary": "",
           "url": "https://www.coindesk.com/business/2026/09/28/chainlink-updates-its-crypto-bridge-tech-months-after-a-usd292-million-hack-shook-the-industry",
           "published": "2026-09-28T12:30:00+00:00",
           "coins": [
             "LINK"
           ],
-          "compound": -0.34,
-          "label": "BEARISH",
+          "compound": 0.34,
+          "label": "BULLISH",
           "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": -0.2712,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
+        },
         {
           "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
+          "title": "Months After the $292M Kelp Hack, Chainlink Lets Institutions Add Their Own Bridge Checks",
+          "summary": "Chainlink's CCIP 2.0 lets banks run their own security checks on cross-chain transfers, five months after a rival's setup lost $292 million to hackers.",
+          "url": "https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack",
+          "published": "2026-09-28T17:51:14+00:00",
           "coins": [
-            "USDT",
-            "USDC",
-            "ETH"
+            "LINK"
           ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "TheBlock",
-          "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-          "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
-          "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-          "published": "2026-09-25T14:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
+          "compound": 0.0258,
           "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.1531,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethena expands USDe backing strategy into bStocks and equity perpetuals on Binance",
-          "summary": "Ethena is adding Binance bStocks and equity perpetuals to the basis trade used for USDe's backing strategy.",
-          "url": "https://www.theblock.co/news/deals/2026-09-25-ethena-expands-usde-backing-strategy-into-bstocks-and-equity-perpetuals-on-binance-416367",
-          "published": "2026-09-25T11:00:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.0471,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 9,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-ETFs-Extend-Winning-Streak-With-Nearly-3B-in-Inflows.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a></p>\n<p>Over six days, investors have spent $2.8 billion buying shares in bitcoin exchange-traded funds. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion\" rel=\"nofollow\">Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
-          "published": "2026-09-25T19:55:01+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9118,
-          "label": "BULLISH",
-          "confidence": 0.9118
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Samourai Letter #7: Notes From The Inside",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Rage-Letters-7.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a></p>\n<p>Syndicated from The Rage: Samourai Wallet developer Keonne Rodriguez documents \"the absolute worst 30 days of my life.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/keonne-rodriguez\" rel=\"nofollow\">Keonne Rodriguez</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
-          "published": "2026-09-26T17:06:47+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.891,
-          "label": "BEARISH",
-          "confidence": 0.891
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Grant Cardone: Real Estate \u201cArmageddon\u201d Is Here \u2013 Why BITCOIN is the Hedge",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Grant-Cardone-Real-Estate-22Armageddon22-Is-Here-\u2013-Why-BITCOIN-is-the-Hedge-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a></p>\n<p>Grant Cardone explains how a massive shift in commercial real estate created the perfect opportunity to aggressively accumulate and store wealth in Bitcoin.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge\" rel=\"nofollow\">Grant Cardone: Real Estate &#8220;Armageddon&#8221; Is Here \u2013 Why BITCOIN is the Hedge</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge",
-          "published": "2026-09-26T15:23:26+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8402,
-          "label": "BULLISH",
-          "confidence": 0.8402
+          "confidence": 0.0258
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 4,
-      "avg_compound": 0.0461,
-      "overall": "NEUTRAL",
+      "avg_compound": 0.1514,
+      "overall": "BULLISH",
       "bullish": 2,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
-          "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
-          "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
-          "published": "2026-09-25T18:42:51+00:00",
+          "source": "TheBlock",
+          "title": "Tom Lee\u2019s Bitmine tops 6 million ETH after buying another 17,362 ether",
+          "summary": "Bitmine's total crypto, cash and other investments currently stand at $17.2B, and the company owns over 4.9% of ether's circulating supply.",
+          "url": "https://www.theblock.co/news/business/2026-09-28-tom-lees-bitmine-tops-6-million-eth-after-buying-another-17362-ether-416989",
+          "published": "2026-09-28T13:39:06+00:00",
           "coins": [
-            "USDT",
-            "USDC",
             "ETH"
           ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
         },
         {
           "source": "Decrypt",
@@ -215,17 +74,67 @@
           "confidence": 0.4767
         },
         {
-          "source": "CoinDesk",
-          "title": "Vitalik Buterin maps Ethereum\u2019s shift beyond a blockchain in sweeping 2030 vision",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
-          "published": "2026-09-27T14:29:13+00:00",
+          "source": "Decrypt",
+          "title": "Vitalik Buterin Outlines 'Cryptographic World Computer' Plan for Ethereum",
+          "summary": "Hegota will be Ethereum's last 'normal' fork, he argues, with everything after built on recursive STARKs and formal verification.",
+          "url": "https://decrypt.co/379461/vitalik-buterin-outlines-cryptographic-world-computer-plan-for-ethereum",
+          "published": "2026-09-28T16:29:42+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.25,
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": 0.0052,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 7,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Samourai Letter #7: Notes From The Inside",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Rage-Letters-7.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a></p>\n<p>Syndicated from The Rage: Samourai Wallet developer Keonne Rodriguez documents \"the absolute worst 30 days of my life.\"</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside\" rel=\"nofollow\">Samourai Letter #7: Notes From The Inside</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/keonne-rodriguez\" rel=\"nofollow\">Keonne Rodriguez</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside",
+          "published": "2026-09-26T17:06:47+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.891,
+          "label": "BEARISH",
+          "confidence": 0.891
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Trezor Safe 7 Review: The FOSS Self Custody Hardware Wallet",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/tn-3.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/trezor-safe-7-review-the-foss-self-custody-hardware-wallet\" rel=\"nofollow\">Trezor Safe 7 Review: The FOSS Self Custody Hardware Wallet</a></p>\n<p>Trezor\u2019s $249 Safe 7 pairs a 20-word SLIP-39 Shamir backup with TROPIC01, Optiga, and STM32 entropy \u2014 and Bluetooth that the review treats as warm storage, not cold.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/trezor-safe-7-review-the-foss-self-custody-hardware-wallet\" rel=\"nofollow\">Trezor Safe 7 Review: The FOSS Self Custody Hardware Wallet</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/trezor-safe-7-review-the-foss-self-custody-hardware-wallet",
+          "published": "2026-09-28T14:32:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8625,
           "label": "BULLISH",
-          "confidence": 0.25
+          "confidence": 0.8625
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Falls Lower as Trump's Iran Snub Sends Oil, Yields Higher",
+          "summary": "Bitcoin extends last week's pullback as Trump rejects Iran's ceasefire plan, sending oil above $100 and yields higher ahead of Wednesday's PCE report.",
+          "url": "https://decrypt.co/379438/bitcoin-price-falls-trump-iran-oil-yields",
+          "published": "2026-09-28T15:26:28+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7717,
+          "label": "BEARISH",
+          "confidence": 0.7717
         }
       ],
       "no_news": false
@@ -254,6 +163,43 @@
       ],
       "no_news": false
     },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether is a \u2018lifeline\u2019 for Iranian regime, Senate Dems say in new report",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/09/28/tether-is-a-lifeline-for-iranian-regime-senate-dems-say-in-new-report",
+          "published": "2026-09-28T16:16:40+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
+          "summary": "Tether and its stablecoin have become central in \"Iran's shadow banking system,\" according to a new Senate investigation.",
+          "url": "https://www.theblock.co/news/regulation/2026-09-28-tethers-usdt-center-iran-shadow-banking-network-new-senate-report-says-417094",
+          "published": "2026-09-28T19:10:42+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -265,6 +211,16 @@
       "no_news": true
     },
     "AVAX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -364,6 +320,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -378,14 +344,14 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Man charged in $16 million crypto \u2018massive pig butchering\u2019 scam",
-      "summary": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
-      "published": "2026-09-25T17:48:16+00:00",
+      "title": "Bitget attacker tested risk controls with small transfers before $388 million theft, CEO says",
+      "summary": "Bitget's attacker ran two small test transfers half an hour before draining $388 million, CEO Gracy Chen says.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-bitget-attacker-tested-risk-controls-small-transfers-388-million-theft-ceo-says-417045",
+      "published": "2026-09-28T15:30:51+00:00",
       "coins": [],
-      "compound": -0.8442,
+      "compound": -0.8591,
       "label": "BEARISH",
-      "confidence": 0.8442
+      "confidence": 0.8591
     },
     {
       "source": "TheBlock",
@@ -399,28 +365,6 @@
       "confidence": 0.8437
     },
     {
-      "source": "Decrypt",
-      "title": "AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds",
-      "summary": "Darktrace's new Signal Labs found AI agents hacking their own evaluation environment to fake a perfect score\u2014and tricking coding assistants into running unauthorized network attacks.",
-      "url": "https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace",
-      "published": "2026-09-25T19:45:39+00:00",
-      "coins": [],
-      "compound": -0.7845,
-      "label": "BEARISH",
-      "confidence": 0.7845
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Just Made Free 1080p AI Video Generation Available to Anyone",
-      "summary": "Google Vids now lets any Google account holder generate free HD AI video using Gemini Omni 1.1 Flash, with new scene, timing, and watermark controls.",
-      "url": "https://decrypt.co/379353/google-free-1080p-ai-video-generation",
-      "published": "2026-09-26T13:01:03+00:00",
-      "coins": [],
-      "compound": 0.765,
-      "label": "BULLISH",
-      "confidence": 0.765
-    },
-    {
       "source": "TheBlock",
       "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
       "summary": "Newsom signed several other bills, including one intended to set clearer rules for restitution when investors lose money in crypto scams.",
@@ -430,6 +374,17 @@
       "compound": -0.7579,
       "label": "BEARISH",
       "confidence": 0.7579
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
+      "summary": "OpenAI says its agents keep landing on government websites because they treat them as reliable sources, but it's pausing training while it adds safeguards.",
+      "url": "https://decrypt.co/379508/openai-ai-agents-target-us-government-sites",
+      "published": "2026-09-28T21:46:03+00:00",
+      "coins": [],
+      "compound": 0.6059,
+      "label": "BULLISH",
+      "confidence": 0.6059
     },
     {
       "source": "TheBlock",
@@ -454,15 +409,26 @@
       "confidence": 0.5574
     },
     {
-      "source": "TheBlock",
-      "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
-      "summary": "Magic Eden legacy approvals exposed $5.7 million in NFTs to an exploit before whitehats rescued 23,155 tokens.",
-      "url": "https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874",
-      "published": "2026-09-25T14:09:15+00:00",
+      "source": "CoinDesk",
+      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
+      "published": "2026-09-28T16:24:51+00:00",
       "coins": [],
-      "compound": 0.5423,
+      "compound": 0.5325,
       "label": "BULLISH",
-      "confidence": 0.5423
+      "confidence": 0.5325
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Built a Kill Switch for AI Agents Because They Keep Getting Out",
+      "summary": "OpenShell and Sentry give AI agents a hardware-enforced leash, arriving after a summer of agents breaching a government site, hacking their own tests, and going rogue during a security evaluation.",
+      "url": "https://decrypt.co/379468/nvidia-kill-switch-ai-agents",
+      "published": "2026-09-28T18:46:03+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -476,48 +442,26 @@
       "confidence": 0.4588
     },
     {
-      "source": "CoinDesk",
-      "title": "How months of work on the Clarity Act all fell apart",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
-      "published": "2026-09-27T12:00:00+00:00",
+      "source": "Decrypt",
+      "title": "After AI Agent Hacked Its Government, Australia Calls Altman and Amodei to Testify",
+      "summary": "Senator Sarah Hanson-Young has invited the OpenAI and Anthropic CEOs to a Canberra hearing on October 1, after an OpenAI agent quietly accessed Australia's Medicare data and nobody said a word for months.",
+      "url": "https://decrypt.co/379481/australia-sam-altman-dario-amodei-ai-hack",
+      "published": "2026-09-28T19:36:21+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
+      "compound": -0.4019,
+      "label": "BEARISH",
       "confidence": 0.4019
     },
     {
       "source": "Decrypt",
-      "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-      "summary": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
-      "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-      "published": "2026-09-26T16:06:03+00:00",
+      "title": "Citi Clients Can Now Take Stablecoin Payments Through Coinbase\u2014Without Touching Crypto",
+      "summary": "Coinbase and Citi expanded an existing deal so Citi's institutional clients can accept stablecoin payments, while Coinbase business accounts run on Citi's banking rails.",
+      "url": "https://decrypt.co/379497/citi-stablecoin-payments-coinbase-without-touching-crypto",
+      "published": "2026-09-28T20:36:03+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-      "summary": "Strategy is seeking shareholder approval to pay daily dividends across its four U.S.-listed preferred stocks.",
-      "url": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869",
-      "published": "2026-09-25T13:48:57+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Staff Says Token Buybacks Don't Make Crypto a Security\u2014If the Network Works",
-      "summary": "New SEC staff guidance says announcing a token buyback on a functional network isn't a promise that turns the token into a security, a shift one attorney says makes securities laws look \"opt-in.\"",
-      "url": "https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security",
-      "published": "2026-09-27T13:01:03+00:00",
-      "coins": [],
-      "compound": 0.3895,
-      "label": "BULLISH",
-      "confidence": 0.3895
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -531,6 +475,17 @@
       "confidence": 0.3412
     },
     {
+      "source": "Decrypt",
+      "title": "Anthropic's Claude Sonnet 5.5 Is Out, Beats Opus 5.5 at Coding for Half the Price",
+      "summary": "Anthropic's mid-tier model tops its own flagship on Terminal-Bench 4.0 and costs half as much per token, but an independent tester found it burns more tokens than any model it has measured.",
+      "url": "https://decrypt.co/379482/anthropic-claude-sonnet-5-5-release",
+      "published": "2026-09-28T20:06:03+00:00",
+      "coins": [],
+      "compound": 0.3291,
+      "label": "BULLISH",
+      "confidence": 0.3291
+    },
+    {
       "source": "TheBlock",
       "title": "Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split",
       "summary": "A federal appeals court ruled on Friday that Kalshi has not adequately shown its sports event contracts are swaps under the Commodity Exchange Act.",
@@ -542,26 +497,15 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "KelpDAO sues LayerZero, claims it endorsed setup used in $292 million rsETH exploit",
-      "summary": "KelpDAO sued LayerZero and Bryan Pellegrino over the April 18 rsETH exploit, alleging the bridge setup was endorsed in writing.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-25-kelpdao-sues-layerzero-claims-it-endorsed-setup-used-in-292-million-rseth-exploit-416361",
-      "published": "2026-09-25T09:13:08+00:00",
+      "source": "CoinDesk",
+      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto\u2019s institutional plumbing",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
+      "published": "2026-09-28T18:00:00+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.2023,
       "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Built an AI That Hunts Its Own Security Bugs",
-      "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
-      "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
-      "published": "2026-09-25T19:16:04+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
+      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -573,6 +517,39 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
+      "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
+      "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
+      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+      "published": "2026-09-28T17:22:06+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
+      "summary": "A UC San Diego-led team impersonated a hardware security module without extracting its key.",
+      "url": "https://decrypt.co/379505/rsa-attack-without-stealing-key-what-it-means-crypto",
+      "published": "2026-09-28T21:16:03+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "SEC Commissioner Hester Peirce reflects on her time at the agency, what she still wanted to get done: \u2018There\u2019s no good time to leave\u2019",
+      "summary": "After nearly a decade at the Securities and Exchange Commission,\u00a0Hester Peirce is wrapping up her last week at the agency.",
+      "url": "https://www.theblock.co/news/regulation/2026-09-28-sec-commissioner-hester-peirce-reflects-what-she-wanted-get-done-no-good-time-to-leave-417075",
+      "published": "2026-09-28T16:35:29+00:00",
+      "coins": [],
+      "compound": -0.0531,
+      "label": "BEARISH",
+      "confidence": 0.0531
     },
     {
       "source": "Decrypt",
