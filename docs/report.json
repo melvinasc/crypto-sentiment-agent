@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:10:05.564634+00:00",
+  "generated_at": "2026-09-29T05:29:31.875317+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -90,12 +90,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0052,
+      "article_count": 21,
+      "avg_compound": 0.005,
       "overall": "NEUTRAL",
       "bullish": 9,
       "bearish": 7,
-      "neutral": 4,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -135,30 +135,6 @@
           "compound": -0.7717,
           "label": "BEARISH",
           "confidence": 0.7717
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana ETFs draw record $188 million in a week as Bitwise takes two-thirds of inflows",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/28/solana-etfs-draw-record-usd188-million-in-a-week-as-bitwise-takes-two-thirds-of-inflows",
-          "published": "2026-09-28T06:21:06+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -300,6 +276,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -374,6 +360,17 @@
       "compound": -0.7579,
       "label": "BEARISH",
       "confidence": 0.7579
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+      "summary": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
+      "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+      "published": "2026-09-29T02:02:36+00:00",
+      "coins": [],
+      "compound": 0.6908,
+      "label": "BULLISH",
+      "confidence": 0.6908
     },
     {
       "source": "Decrypt",
@@ -612,17 +609,6 @@
       "summary": "The creators of 10 Pons V2 launches exempted a set of wallets from Pons' anti-sniping tax; those wallets went on to buy most of each token's supply, per onchain data.",
       "url": "https://www.theblock.co/news/defi/2026-09-27-onchain-analyst-links-18-4-million-in-robinhood-chain-memecoin-extractions-to-single-rug-pull-operation-416960",
       "published": "2026-09-27T22:02:57+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO",
-      "summary": "The Blockchain Association is switching up its leadership with CEO Summer Mersinger set to step down next month.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913",
-      "published": "2026-09-25T19:48:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
