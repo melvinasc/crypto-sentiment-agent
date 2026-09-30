@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:08:51.829150+00:00",
+  "generated_at": "2026-09-30T05:17:32.748745+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -77,10 +77,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": 0.14,
+      "article_count": 24,
+      "avg_compound": 0.158,
       "overall": "BULLISH",
-      "bullish": 12,
+      "bullish": 13,
       "bearish": 8,
       "neutral": 3,
       "top_articles": [
@@ -339,14 +339,14 @@
       "confidence": 0.7845
     },
     {
-      "source": "TheBlock",
-      "title": "California Gov. Gavin Newsom bans public officials from launching memecoins, takes aim at Trump",
-      "summary": "Newsom signed several other bills, including one intended to set clearer rules for restitution when investors lose money in crypto scams.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-28-california-gov-gavin-newsom-bans-public-officials-from-launching-memecoins-takes-aim-at-trump-416970",
-      "published": "2026-09-28T09:32:57+00:00",
+      "source": "CoinDesk",
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "published": "2026-09-29T23:00:00+00:00",
       "coins": [],
-      "compound": -0.7579,
-      "label": "BEARISH",
+      "compound": 0.7579,
+      "label": "BULLISH",
       "confidence": 0.7579
     },
     {
@@ -428,17 +428,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The restaking gold rush is over, and top protocols are barely making a profit",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/28/the-restaking-gold-rush-is-over-and-top-protocols-are-barely-making-a-profit",
-      "published": "2026-09-28T16:24:51+00:00",
-      "coins": [],
-      "compound": 0.5325,
-      "label": "BULLISH",
-      "confidence": 0.5325
-    },
-    {
-      "source": "CoinDesk",
       "title": "Democrats killed the Clarity Act",
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/09/29/democrats-killed-the-clarity-act",
@@ -480,17 +469,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Goldman Sachs brings $100 billion Treasury fund into crypto\u2019s institutional plumbing",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/28/goldman-sachs-brings-usd100-billion-treasury-fund-into-crypto-s-institutional-plumbing",
-      "published": "2026-09-28T18:00:00+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -575,6 +553,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/09/29/anthropic-plans-to-spend-usd518-billion-on-ai-infrastructure-pre-ipo-perps-barely-blink",
       "published": "2026-09-29T05:31:44+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood to launch perps, weekend stock trading for US users",
+      "summary": "The trading platform also introduced Robinhood Agents, which allows users to build their own AI agents within the app.",
+      "url": "https://www.theblock.co/news/business/2026-09-29-robinhood-perps-trading-417242",
+      "published": "2026-09-30T02:58:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
