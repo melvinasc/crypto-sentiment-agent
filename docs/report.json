@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T22:08:13.894164+00:00",
+  "generated_at": "2026-10-01T05:32:34.564394+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -41,10 +41,10 @@
       "no_news": false
     },
     "DOGE": {
-      "article_count": 2,
-      "avg_compound": 0.456,
+      "article_count": 3,
+      "avg_compound": 0.4173,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -62,6 +62,19 @@
           "confidence": 0.7096
         },
         {
+          "source": "CoinDesk",
+          "title": "Dogecoin gets DeFi testnet as DogeOS bets miners will eventually secure its apps",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/01/dogecoin-gets-defi-testnet-as-dogeos-bets-miners-will-eventually-secure-its-apps",
+          "published": "2026-10-01T04:58:52+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        },
+        {
           "source": "Decrypt",
           "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
           "summary": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
@@ -73,93 +86,6 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.3185,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "US Senator Blumenthal Calls Tether's USDT a 'Superhighway' for Iranian Sanctions Evasion",
-          "summary": "The Connecticut Senator's subcommittee released its report on Monday and referred the findings to Treasury and the Justice Department.",
-          "url": "https://decrypt.co/379624/us-senator-blumenthal-calls-tethers-usdt-a-superhighway-for-iranian-sanctions-evasion",
-          "published": "2026-09-30T10:32:01+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.6369,
-          "label": "BULLISH",
-          "confidence": 0.6369
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-          "published": "2026-09-30T15:34:50+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 18,
-      "avg_compound": 0.1972,
-      "overall": "BULLISH",
-      "bullish": 9,
-      "bearish": 7,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-11.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024\" rel=\"nofollow\">Bitcoin Surges 40% in Its Best Quarter Since Late 2024</a></p>\n<p>The price of bitcoin has surged \u2014 mostly since the Treasury announced its debt buyback program \u2014 putting it on course for one of its best quarters ever. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024\" rel=\"nofollow\">Bitcoin Surges 40% in Its Best Quarter Since Late 2024</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024",
-          "published": "2026-09-30T20:10:24+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9349,
-          "label": "BULLISH",
-          "confidence": 0.9349
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Tracy Shuchart: BTC & the Commodities Supercycle",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Tracy-Shuchart-BTC-the-Commodities-Supercycle-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle\" rel=\"nofollow\">Tracy Shuchart: BTC &#038; the Commodities Supercycle</a></p>\n<p>Tracy Shuchart breaks down Strait of Hormuz oil disruptions, warning that GCC output losses and crack spreads signal a worsening winter energy pinch.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle\" rel=\"nofollow\">Tracy Shuchart: BTC &#038; the Commodities Supercycle</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/tracy-shuchart-btc-the-commodities-supercycle",
-          "published": "2026-09-29T20:49:46+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8834,
-          "label": "BEARISH",
-          "confidence": 0.8834
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-42.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains\" rel=\"nofollow\">Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028</a></p>\n<p>The Dutch government plans to impose a capital gains levy from 2028 on major assets.<br />\nBitcoin may be included. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains\" rel=\"nofollow\">Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains",
-          "published": "2026-09-30T16:02:33+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8818,
-          "label": "BULLISH",
-          "confidence": 0.8818
         }
       ],
       "no_news": false
@@ -188,6 +114,56 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.1479,
+      "overall": "BULLISH",
+      "bullish": 9,
+      "bearish": 8,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Privacy-Breakthrough-a-Zcash-Killer-Misha-Komorov-Alloc-Innit-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit\" rel=\"nofollow\">Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit</a></p>\n<p>Misha Komarov explains Shielded Bitcoin\u2014a proposed ZK privacy protocol using Bitcoin PIPEs to hide transactions with no soft fork needed.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit\" rel=\"nofollow\">Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
+          "published": "2026-10-01T00:57:35+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9649,
+          "label": "BEARISH",
+          "confidence": 0.9649
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-1-11.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024\" rel=\"nofollow\">Bitcoin Surges 40% in Its Best Quarter Since Late 2024</a></p>\n<p>The price of bitcoin has surged \u2014 mostly since the Treasury announced its debt buyback program \u2014 putting it on course for one of its best quarters ever. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024\" rel=\"nofollow\">Bitcoin Surges 40% in Its Best Quarter Since Late 2024</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024",
+          "published": "2026-09-30T20:10:24+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9349,
+          "label": "BULLISH",
+          "confidence": 0.9349
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Pics-42.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains\" rel=\"nofollow\">Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028</a></p>\n<p>The Dutch government plans to impose a capital gains levy from 2028 on major assets.<br />\nBitcoin may be included. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains\" rel=\"nofollow\">Tax on Bitcoin Gains? Dutch Government to Introduce Capital Gains Tax From 2028</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/dutch-government-introduce-capital-gains",
+          "published": "2026-09-30T16:02:33+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8818,
+          "label": "BULLISH",
+          "confidence": 0.8818
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -204,6 +180,30 @@
           "published": "2026-09-30T16:36:10+00:00",
           "coins": [
             "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+          "published": "2026-09-30T15:34:50+00:00",
+          "coins": [
+            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -344,6 +344,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "Gemini 4 Is Here, and Google\u2019s Flagship Tops All Other AI Models on Cybersecurity",
+      "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off.",
+      "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
+      "published": "2026-09-30T23:20:59+00:00",
+      "coins": [],
+      "compound": 0.91,
+      "label": "BULLISH",
+      "confidence": 0.91
+    },
     {
       "source": "Decrypt",
       "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
@@ -510,17 +521,6 @@
       "confidence": 0.25
     },
     {
-      "source": "CoinDesk",
-      "title": "Winklevoss-owned Gemini switches Zcash software ahead of faster 25-second blocks",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/30/winklevoss-owned-gemini-switches-zcash-software-ahead-of-faster-25-second-blocks",
-      "published": "2026-09-30T08:27:00+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
       "source": "Decrypt",
       "title": "US Government's New AI Chatbot Has a Weird Minecraft Secret",
       "summary": "Ask the U.S. government's new AI chatbot about Minecraft and it produces a roughly 1,800-word bureaucratic remix of the game's ending poem. It's an easter egg, not a hallucination.",
@@ -647,17 +647,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
       "published": "2026-09-30T11:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI seeks $30 billion in funding at whopping $1.4 trillion valuation after delaying IPO",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/30/openai-targets-usd1-4-trillion-valuation-and-unveils-dots-ai-agent",
-      "published": "2026-09-30T08:50:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
