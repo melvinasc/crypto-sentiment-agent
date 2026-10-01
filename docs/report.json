@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-10-01T05:32:34.564394+00:00",
+  "generated_at": "2026-10-01T12:58:25.231722+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.5868,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings",
-          "published": "2026-09-30T10:18:34+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.8555,
-          "label": "BULLISH",
-          "confidence": 0.8555
-        },
-        {
-          "source": "TheBlock",
-          "title": "Aztec relaunches zk.money privacy wallet on its Ethereum Layer 2",
-          "summary": "Aztec Labs has relaunched zk.money, a self-custodial privacy wallet, on Aztec Network after discontinuing the original product in 2023.",
-          "url": "https://www.theblock.co/news/defi/2026-09-29-aztec-zk-money-privacy-wallet-ethereum-layer-2-417174",
-          "published": "2026-09-29T16:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.3182,
-          "label": "BULLISH",
-          "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
     "DOGE": {
       "article_count": 3,
       "avg_compound": 0.4173,
@@ -90,6 +52,30 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.3182,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "EU Presses Binance Over \u2018Reverse Solicitation\u2019 Exemption for Users: Report",
+          "summary": "Regulators are probing how the exchange keeps serving EU customers from Abu Dhabi, months after it lost its MiCA registrations.",
+          "url": "https://decrypt.co/379792/eu-presses-binance-over-reverse-solicitation-exemption-for-users-report",
+          "published": "2026-10-01T08:56:02+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 1,
       "avg_compound": 0.1779,
@@ -115,12 +101,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.1479,
+      "article_count": 21,
+      "avg_compound": 0.1346,
       "overall": "BULLISH",
       "bullish": 9,
-      "bearish": 8,
-      "neutral": 2,
+      "bearish": 7,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -164,6 +150,57 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.038,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+          "published": "2026-10-01T07:06:30+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "Decrypt",
+          "title": "MetaMask Exits Lido Validators Amid Infrastructure \u2018Security Incident\u2019",
+          "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return.",
+          "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
+          "published": "2026-10-01T09:38:06+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0742,
+          "label": "BULLISH",
+          "confidence": 0.0742
+        },
+        {
+          "source": "Decrypt",
+          "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
+          "summary": "The bank has revised its 12-month target for BTC up from $82K, though it remains about 10% below Bitcoin's October 2025 record.",
+          "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
+          "published": "2026-10-01T12:23:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -180,6 +217,30 @@
           "published": "2026-09-30T16:36:10+00:00",
           "coins": [
             "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
+          "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot.",
+          "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
+          "published": "2026-10-01T11:13:46+00:00",
+          "coins": [
+            "USDC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -213,16 +274,6 @@
       "no_news": false
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -322,16 +373,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -367,17 +408,6 @@
       "confidence": 0.8442
     },
     {
-      "source": "CoinDesk",
-      "title": "Metaplanet directors push back against shareholder fury over a controversial executive payout plan",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/30/metaplanet-directors-push-back-against-shareholder-fury-over-a-controversial-executive-payout-plan",
-      "published": "2026-09-30T10:28:24+00:00",
-      "coins": [],
-      "compound": -0.6705,
-      "label": "BEARISH",
-      "confidence": 0.6705
-    },
-    {
       "source": "TheBlock",
       "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
       "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
@@ -386,17 +416,6 @@
       "coins": [],
       "compound": 0.6124,
       "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Comer presses Crypto.com, Hyperliquid and PredictIt on identity checks and suspicious trades",
-      "summary": "Comer\u2019s expanded probe seeks records on government insiders, employee trades and suspicious activity referrals.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-29-comer-presses-crypto-com-hyperliquid-predictit-identity-checks-suspicious-trades-417192",
-      "published": "2026-09-29T17:40:37+00:00",
-      "coins": [],
-      "compound": -0.6124,
-      "label": "BEARISH",
       "confidence": 0.6124
     },
     {
@@ -444,6 +463,17 @@
       "confidence": 0.5574
     },
     {
+      "source": "CoinDesk",
+      "title": "Synthetic tokenized stocks are bad for American investors",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "published": "2026-10-01T11:00:00+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
+    },
+    {
       "source": "Decrypt",
       "title": "Trump Unveils 'Morally Binding' AI Accord Signed by OpenAI, Google and Nvidia",
       "summary": "The one-page pact, which Trump called \"morally binding,\" asks companies to adopt internal controls, independent audits and board oversight\u2014but carries no penalties and drew criticism for its thin detail.",
@@ -453,6 +483,17 @@
       "compound": -0.5267,
       "label": "BEARISH",
       "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
+      "published": "2026-10-01T11:58:00+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
     },
     {
       "source": "TheBlock",
@@ -467,17 +508,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/09/30/openai-google-and-meta-pledge-outside-ai-audits-under-voluntary-white-house-deal",
-      "published": "2026-09-30T10:43:43+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
       "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
       "summary": "",
       "url": "https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal",
@@ -486,6 +516,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
+      "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "published": "2026-10-01T12:29:00+00:00",
+      "coins": [],
+      "compound": 0.3976,
+      "label": "BULLISH",
+      "confidence": 0.3976
     },
     {
       "source": "TheBlock",
@@ -497,28 +538,6 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "McDonald's AI \u2018Pricing Engine\u2019 Gauges What Customers Will Pay for a Big Mac: Report",
-      "summary": "Machine-learning models set an 'optimal price' per item per restaurant, and have widened the gap between branches two miles apart.",
-      "url": "https://decrypt.co/379632/mcdonalds-ai-pricing-engine-gauges-what-customers-will-pay-for-a-big-mac-report",
-      "published": "2026-09-30T11:06:59+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-      "summary": "Robinhood is leaning deeper into crypto as they look to unlock their \u201ceverything app\u201d vision.",
-      "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-      "published": "2026-09-30T11:54:22+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "Decrypt",
@@ -576,17 +595,6 @@
       "confidence": 0.0433
     },
     {
-      "source": "Decrypt",
-      "title": "CFTC Investigating Adam Kinzinger Over Kalshi Bets on His Own Pardon: Report",
-      "summary": "The former congressman says he made $823 on the trades, had no inside information, and had checked the platform's rules first.",
-      "url": "https://decrypt.co/379639/cftc-investigating-adam-kinzinger-over-kalshi-bets-on-his-own-pardon-report",
-      "published": "2026-09-30T11:46:16+00:00",
-      "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
       "source": "TheBlock",
       "title": "Clarity Act\u2019s failure gave crypto \u2018faster\u2019 regulatory wins, Bitwise CIO says",
       "summary": "Bitwise\u2019s Matt Hougan says Clarity\u2019s defeat left crypto with fewer restrictions and faster SEC action.",
@@ -625,28 +633,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/09/30/the-clock-s-ticking-uk-s-crypto-regulatory-application-window-opens-with-february-deadline",
       "published": "2026-09-30T14:04:19+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitget hackers move $4 million into Zcash\u2019s private pool, making funds harder to trace",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
-      "published": "2026-09-30T11:04:09+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The SEC Is finally modernizing transfer-agent rules. Wall Street must not repeat the \u2018paperwork crisis\u2019",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/09/30/the-sec-is-finally-modernizing-transfer-agent-rules-wall-street-must-not-repeat-the-paperwork-crisis",
-      "published": "2026-09-30T11:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
