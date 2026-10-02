@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:35:18.012189+00:00",
+  "generated_at": "2026-10-02T05:19:53.439264+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -100,12 +100,37 @@
       ],
       "no_news": false
     },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "published": "2026-10-02T00:22:58+00:00",
+          "coins": [
+            "ETH",
+            "LINK"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.0136,
+      "article_count": 7,
+      "avg_compound": -0.0264,
       "overall": "NEUTRAL",
       "bullish": 2,
-      "bearish": 2,
+      "bearish": 3,
       "neutral": 2,
       "top_articles": [
         {
@@ -152,10 +177,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0122,
+      "article_count": 18,
+      "avg_compound": -0.0126,
       "overall": "NEUTRAL",
-      "bullish": 8,
+      "bullish": 7,
       "bearish": 7,
       "neutral": 4,
       "top_articles": [
@@ -280,16 +305,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -526,6 +541,17 @@
       "confidence": 0.34
     },
     {
+      "source": "TheBlock",
+      "title": "SEC\u2019s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
+      "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
+      "published": "2026-10-02T05:04:41+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "Decrypt",
       "title": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
       "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
@@ -590,17 +616,6 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hyperliquid Co-founder Jeff Yan says 24-hour clock is not onchain finance\u2019s true differentiator",
-      "summary": "Hyperliquid (HYPE) Co-founder Jeff Yan said at Korea Blockchain Week that around-the-clock trading is not what sets onchain venues apart from traditional exchanges. Speaking in a fireside chat at Korea Blockchain Week 2026, Yan pointed out that crypto never needed conventional market hours because the asset class is inherently international, and that traditional exchanges have [\u2026]",
-      "url": "https://www.theblock.co/news/defi/2026-09-30-hyperliquid-co-founder-jeff-yan-24-hour-clock-not-onchain-finances-true-differentiator-417286",
-      "published": "2026-09-30T13:33:30+00:00",
-      "coins": [],
-      "compound": 0.0433,
-      "label": "NEUTRAL",
-      "confidence": 0.0433
     },
     {
       "source": "TheBlock",
