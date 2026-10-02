@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-02T12:20:41.030892+00:00",
+  "generated_at": "2026-10-02T22:04:37.510055+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.6085,
+      "article_count": 1,
+      "avg_compound": 0.6597,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -22,19 +22,44 @@
           "compound": 0.6597,
           "label": "BULLISH",
           "confidence": 0.6597
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": -0.2024,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+          "published": "2026-10-02T20:16:04+00:00",
+          "coins": [
+            "ETH",
+            "USDC"
+          ],
+          "compound": -0.6992,
+          "label": "BEARISH",
+          "confidence": 0.6992
         },
         {
           "source": "Decrypt",
-          "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
-          "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.",
-          "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
-          "published": "2026-10-01T18:46:03+00:00",
+          "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
+          "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter\u2014siding with the ECB in calling for more flexible rules.",
+          "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+          "published": "2026-10-02T19:46:03+00:00",
           "coins": [
-            "XRP"
+            "USDC"
           ],
-          "compound": 0.5574,
+          "compound": 0.2944,
           "label": "BULLISH",
-          "confidence": 0.5574
+          "confidence": 0.2944
         }
       ],
       "no_news": false
@@ -64,64 +89,28 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": 0.0493,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 7,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a></p>\n<p>Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/bitcoin-magazine\" rel=\"nofollow\">Bitcoin Magazine</a>.</p>",
-          "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
-          "published": "2026-10-01T21:05:32+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8934,
-          "label": "BULLISH",
-          "confidence": 0.8934
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/screenshot_281_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a></p>\n<p>Block has launched a campaign to get people on a Bitcoin standard. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
-          "published": "2026-10-01T20:15:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8779,
-          "label": "BEARISH",
-          "confidence": 0.8779
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/21bitcoin-Now-Pays-Interest-on-Idle-Euros-Payable-in-BTC.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros\" rel=\"nofollow\">21bitcoin Now Pays Interest on Idle Euros, Payable in BTC\u00a0</a></p>\n<p>Austrian Bitcoin platform 21bitcoin will pay customers interest on their euro balances \u2014 in bitcoin if they want. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros\" rel=\"nofollow\">21bitcoin Now Pays Interest on Idle Euros, Payable in BTC\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
-          "published": "2026-10-01T16:25:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8402,
-          "label": "BULLISH",
-          "confidence": 0.8402
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.0081,
+      "article_count": 8,
+      "avg_compound": -0.047,
       "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 1,
+      "bullish": 3,
+      "bearish": 3,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+          "published": "2026-10-02T20:16:04+00:00",
+          "coins": [
+            "ETH",
+            "USDC"
+          ],
+          "compound": -0.6992,
+          "label": "BEARISH",
+          "confidence": 0.6992
+        },
         {
           "source": "TheBlock",
           "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
@@ -148,44 +137,56 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-          "published": "2026-10-02T00:22:58+00:00",
-          "coins": [
-            "ETH",
-            "LINK"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": 0.0326,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
+      "bullish": 7,
+      "bearish": 8,
+      "neutral": 5,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
-          "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa during a seven-day live cross-border pilot.",
-          "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-          "published": "2026-10-01T11:13:46+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/El-Salvador-Drops-Another-100M-on-Bitcoin-as-Market-Crashes-Below-90K.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin\" rel=\"nofollow\">IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project</a></p>\n<p>The International Monetary Fund approved a $139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin\" rel=\"nofollow\">IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
+          "published": "2026-10-02T22:01:18+00:00",
           "coins": [
-            "USDC"
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.9052,
+          "label": "BULLISH",
+          "confidence": 0.9052
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a></p>\n<p>Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/bitcoin-magazine\" rel=\"nofollow\">Bitcoin Magazine</a>.</p>",
+          "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
+          "published": "2026-10-01T21:05:32+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8934,
+          "label": "BULLISH",
+          "confidence": 0.8934
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data\" rel=\"nofollow\">Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data</a></p>\n<p>The price of bitcoin surged above $87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up.&#160; Bitcoin\u2019s price recently stood at $85,990 after a 2% jump over a 24-hour period. Over the past week, it has also risen by [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data\" rel=\"nofollow\">Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
+          "published": "2026-10-02T15:09:38+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8225,
+          "label": "BEARISH",
+          "confidence": 0.8225
         }
       ],
       "no_news": false
@@ -200,7 +201,7 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Tether's USDT is 'coming home' to Bitcoin this month over a decade after debut there",
+          "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
           "summary": "",
           "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
           "published": "2026-10-02T08:28:19+00:00",
@@ -348,6 +349,17 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "BitGo CEO says Clarity\u2019s failure left capital markets exposed to risk potentially worse than Lehman",
+      "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
+      "published": "2026-10-02T12:28:54+00:00",
+      "coins": [],
+      "compound": -0.936,
+      "label": "BEARISH",
+      "confidence": 0.936
+    },
+    {
       "source": "Decrypt",
       "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
       "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
@@ -381,15 +393,26 @@
       "confidence": 0.7717
     },
     {
-      "source": "Decrypt",
-      "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-      "summary": "Near Intents froze its cross-chain swaps after a bug let an attacker drain about $3.8 million. The company promised to repay every user.",
-      "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
-      "published": "2026-10-01T15:43:27+00:00",
+      "source": "CoinDesk",
+      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
+      "published": "2026-10-02T21:23:20+00:00",
       "coins": [],
-      "compound": -0.743,
+      "compound": 0.6808,
+      "label": "BULLISH",
+      "confidence": 0.6808
+    },
+    {
+      "source": "TheBlock",
+      "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
+      "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
+      "published": "2026-10-02T17:10:40+00:00",
+      "coins": [],
+      "compound": -0.6771,
       "label": "BEARISH",
-      "confidence": 0.743
+      "confidence": 0.6771
     },
     {
       "source": "Decrypt",
@@ -404,61 +427,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "CFTC secures over $30 million judgment against defendants in Fundsz fraud case",
-      "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back.",
-      "url": "https://www.theblock.co/news/regulation/2026-09-30-cftc-secures-over-30-million-judgment-against-defendants-in-fundsz-fraud-case-417365",
-      "published": "2026-09-30T20:37:08+00:00",
-      "coins": [],
-      "compound": 0.6124,
-      "label": "BULLISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-      "summary": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-      "published": "2026-09-30T19:00:00+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Synthetic tokenized stocks are bad for American investors",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-      "published": "2026-10-01T11:00:00+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
-    },
-    {
-      "source": "Decrypt",
-      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
-      "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.",
-      "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
-      "published": "2026-10-01T19:16:03+00:00",
-      "coins": [],
-      "compound": -0.5213,
-      "label": "BEARISH",
-      "confidence": 0.5213
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Fires Three Safety Researchers Over Alleged Leak to Outside Group",
-      "summary": "OpenAI says the three broke its rules on handling sensitive information. The exits land after months of rogue-agent incidents, a trail of safety-team departures, and a new lawsuit.",
-      "url": "https://decrypt.co/379857/openai-fires-researchers-alledged-leak-safety-group",
-      "published": "2026-10-01T18:12:04+00:00",
-      "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "TheBlock",
       "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
       "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
       "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
@@ -470,36 +438,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
+      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-      "published": "2026-10-01T11:58:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
+      "published": "2026-10-02T12:31:53+00:00",
       "coins": [],
-      "compound": -0.4767,
+      "compound": -0.4404,
       "label": "BEARISH",
-      "confidence": 0.4767
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-      "summary": "Plus, a major MetaMask security event has crypto natives on edge as details trickle out.",
-      "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-      "published": "2026-10-01T12:29:00+00:00",
+      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
+      "summary": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
+      "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
+      "published": "2026-10-02T19:05:35+00:00",
       "coins": [],
-      "compound": 0.3976,
-      "label": "BULLISH",
-      "confidence": 0.3976
-    },
-    {
-      "source": "Decrypt",
-      "title": "Minecraft, Candy Crush Among 11 Games in EU Virtual Currency Crackdown",
-      "summary": "The guidelines exclude cryptocurrencies, leaving tokens outside a regime written for currencies bought with real money inside games.",
-      "url": "https://decrypt.co/379813/minecraft-candy-crush-among-11-games-in-eu-virtual-currency-crackdown",
-      "published": "2026-10-01T13:22:58+00:00",
-      "coins": [],
-      "compound": -0.3612,
+      "compound": -0.4019,
       "label": "BEARISH",
-      "confidence": 0.3612
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -525,6 +482,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
+      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face\u2014and whether the company can be held legally accountable.",
+      "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
+      "published": "2026-10-02T21:16:04+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
       "title": "Zcash Drops 21% From Recent High\u2014Here\u2019s Why the Rally May Not Be Over",
       "summary": "ZEC is 21% off its $1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?",
       "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
@@ -546,17 +514,6 @@
       "confidence": 0.2023
     },
     {
-      "source": "Decrypt",
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "summary": "Illinois officials and crypto groups jointly asked a state court to delay the 0.2% Digital Asset Tax from Jan. 1 to July 1, 2027, while a legal challenge continues.",
-      "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
-      "published": "2026-10-01T16:16:03+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "TheBlock",
       "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
       "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted.",
@@ -566,17 +523,6 @@
       "compound": 0.1531,
       "label": "BULLISH",
       "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-      "published": "2026-10-01T14:18:14+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -590,15 +536,26 @@
       "confidence": 0.0908
     },
     {
-      "source": "TheBlock",
-      "title": "Clarity Act\u2019s failure gave crypto \u2018faster\u2019 regulatory wins, Bitwise CIO says",
-      "summary": "Bitwise\u2019s Matt Hougan says Clarity\u2019s defeat left crypto with fewer restrictions and faster SEC action.",
-      "url": "https://www.theblock.co/news/markets/2026-09-30-clarity-acts-failure-gave-crypto-faster-regulatory-wins-bitwise-says-417362",
-      "published": "2026-09-30T21:53:05+00:00",
+      "source": "CoinDesk",
+      "title": "America at a crossroads: Commissioner Peirce\u2019s parting challenge",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
+      "published": "2026-10-02T13:22:19+00:00",
       "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
+      "summary": "The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.",
+      "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
+      "published": "2026-10-02T17:30:40+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
@@ -610,6 +567,28 @@
       "compound": 0.0172,
       "label": "NEUTRAL",
       "confidence": 0.0172
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
+      "published": "2026-10-02T17:34:40+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump\u2019s potential AI czar, Jay Clayton, helped pioneer the SEC\u2019s crypto crackdown",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
+      "published": "2026-10-02T17:12:48+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
