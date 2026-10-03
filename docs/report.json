@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T11:30:55.288487+00:00",
+  "generated_at": "2026-10-03T16:06:42.177492+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -142,12 +142,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0326,
+      "article_count": 18,
+      "avg_compound": 0.0079,
       "overall": "NEUTRAL",
-      "bullish": 7,
+      "bullish": 6,
       "bearish": 8,
-      "neutral": 5,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -187,31 +187,6 @@
           "compound": -0.8225,
           "label": "BEARISH",
           "confidence": 0.8225
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether's USDT is 'coming home' to Bitcoin after more than a decade",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/09/29/tether-s-usdt-is-coming-home-to-bitcoin-this-month-after-more-than-a-decade",
-          "published": "2026-10-02T08:28:19+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -345,6 +320,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -361,28 +346,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
-      "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.",
-      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
-      "published": "2026-10-01T20:31:03+00:00",
-      "coins": [],
-      "compound": -0.9081,
-      "label": "BEARISH",
-      "confidence": 0.9081
-    },
-    {
-      "source": "Decrypt",
-      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
-      "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.",
-      "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
-      "published": "2026-10-01T20:46:03+00:00",
-      "coins": [],
-      "compound": 0.8625,
-      "label": "BULLISH",
-      "confidence": 0.8625
-    },
-    {
-      "source": "Decrypt",
       "title": "Spanish Police Arrest 16-Year-Old Accused of Running KillSec Ransomware Group",
       "summary": "A second suspect faces extradition to Puerto Rico, while Investigators are tracing the proceeds of ransoms the group demanded in crypto.",
       "url": "https://decrypt.co/379913/spanish-police-arrest-16-year-old-accused-of-running-killsec-ransomware-group",
@@ -391,6 +354,17 @@
       "compound": -0.7717,
       "label": "BEARISH",
       "confidence": 0.7717
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
+      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
+      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
+      "published": "2026-10-03T16:01:03+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
     },
     {
       "source": "CoinDesk",
@@ -426,6 +400,17 @@
       "confidence": 0.6705
     },
     {
+      "source": "Decrypt",
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
+      "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
+      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
+      "published": "2026-10-03T15:01:03+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "TheBlock",
       "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
       "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
@@ -448,6 +433,17 @@
       "confidence": 0.4404
     },
     {
+      "source": "CoinDesk",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "published": "2026-10-03T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "Decrypt",
       "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
       "summary": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
@@ -468,6 +464,17 @@
       "compound": 0.34,
       "label": "BULLISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's Sisyphean struggle",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
+      "published": "2026-10-03T13:00:00+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -501,17 +508,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "published": "2026-10-01T18:45:29+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -558,15 +554,48 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "published": "2026-10-01T15:00:00+00:00",
+      "source": "Decrypt",
+      "title": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
+      "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.",
+      "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
+      "published": "2026-10-03T13:01:04+00:00",
       "coins": [],
-      "compound": 0.0172,
+      "compound": 0.0613,
+      "label": "BULLISH",
+      "confidence": 0.0613
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
+      "published": "2026-10-03T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0172
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
+      "published": "2026-10-03T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
+      "published": "2026-10-03T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -596,28 +625,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
       "published": "2026-10-02T11:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
-      "published": "2026-10-01T20:20:04+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
-      "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.",
-      "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
-      "published": "2026-10-01T19:46:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
