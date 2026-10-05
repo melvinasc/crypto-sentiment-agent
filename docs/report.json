@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T21:12:10.280523+00:00",
+  "generated_at": "2026-10-05T05:18:58.323071+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -77,38 +77,13 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-          "published": "2026-10-02T00:22:58+00:00",
-          "coins": [
-            "ETH",
-            "LINK"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 15,
-      "avg_compound": -0.0815,
+      "article_count": 17,
+      "avg_compound": -0.1236,
       "overall": "BEARISH",
       "bullish": 3,
-      "bearish": 9,
-      "neutral": 3,
+      "bearish": 10,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -138,27 +113,52 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data\" rel=\"nofollow\">Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data</a></p>\n<p>The price of bitcoin surged above $87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up.&#160; Bitcoin\u2019s price recently stood at $85,990 after a 2% jump over a 24-hour period. Over the past week, it has also risen by [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data\" rel=\"nofollow\">Bitcoin Price Surges Above $87,000 on Softer-Than-Expected Jobs Data</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
-          "published": "2026-10-02T15:09:38+00:00",
+          "title": "Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/screenshot_281_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a></p>\n<p>Block has launched a campaign to get people on a Bitcoin standard. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
+          "published": "2026-10-01T20:15:36+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8225,
+          "compound": -0.8779,
           "label": "BEARISH",
-          "confidence": 0.8225
+          "confidence": 0.8779
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "published": "2026-10-02T00:22:58+00:00",
+          "coins": [
+            "ETH",
+            "LINK"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 8,
-      "avg_compound": -0.047,
+      "article_count": 9,
+      "avg_compound": -0.0418,
       "overall": "NEUTRAL",
       "bullish": 3,
       "bearish": 3,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -447,17 +447,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. added just 29,000 jobs in September, with unemployment rate rising to 4.2%",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/02/u-s-added-just-29-000-jobs-in-september-with-unemployment-rate-rising-to-4-2",
-      "published": "2026-10-02T12:31:53+00:00",
-      "coins": [],
-      "compound": -0.4404,
-      "label": "BEARISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "CoinDesk",
       "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
@@ -524,6 +513,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Zcash\u2019s 25-second blocks go live on public testnet ahead of schedule",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "published": "2026-10-05T04:41:35+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
       "title": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
@@ -556,17 +556,6 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "America at a crossroads: Commissioner Peirce\u2019s parting challenge",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
-      "published": "2026-10-02T13:22:19+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "Decrypt",
       "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
       "summary": "The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.",
@@ -587,6 +576,17 @@
       "compound": 0.0613,
       "label": "BULLISH",
       "confidence": 0.0613
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "published": "2026-10-05T04:45:03+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -638,28 +638,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
       "published": "2026-10-02T17:34:40+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Trump\u2019s potential AI czar, Jay Clayton, helped pioneer the SEC\u2019s crypto crackdown",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
-      "published": "2026-10-02T17:12:48+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cboe wants to turn VIX into a never-ending trade",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/02/wall-street-s-fear-gauge-vix-could-get-a-crypto-style-makeover",
-      "published": "2026-10-02T11:30:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
