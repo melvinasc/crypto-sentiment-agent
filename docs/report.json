@@ -1,10 +1,35 @@
 {
-  "generated_at": "2026-10-05T05:18:58.323071+00:00",
+  "generated_at": "2026-10-05T14:21:47.527013+00:00",
   "total_articles": 55,
   "coins": {
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.6992,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
+          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
+          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
+          "published": "2026-10-02T20:16:04+00:00",
+          "coins": [
+            "ETH",
+            "USDC"
+          ],
+          "compound": -0.6992,
+          "label": "BEARISH",
+          "confidence": 0.6992
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 2,
-      "avg_compound": 0.7673,
+      "avg_compound": 0.5386,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
@@ -24,28 +49,52 @@
           "confidence": 0.875
         },
         {
-          "source": "TheBlock",
-          "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-          "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.",
-          "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-          "published": "2026-10-01T15:17:11+00:00",
+          "source": "CoinDesk",
+          "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+          "published": "2026-10-05T12:28:35+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.6597,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.6597
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": -0.2024,
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.34,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano's ADA leads gains in narrow range-bound market",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+          "published": "2026-10-05T10:37:30+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 8,
+      "avg_compound": -0.1524,
       "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
+      "bearish": 4,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -62,28 +111,68 @@
           "confidence": 0.6992
         },
         {
-          "source": "Decrypt",
-          "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
-          "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter\u2014siding with the ECB in calling for more flexible rules.",
-          "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-          "published": "2026-10-02T19:46:03+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Frank Holmes: They Will Print $100 Trillion \u2013 Why to Buy Bitcoin & Gold",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Frank-Holmes-They-Will-Print-100-Trillion-Why-to-Buy-Bitcoin-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a></p>\n<p>Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
+          "published": "2026-10-01T21:34:00+00:00",
           "coins": [
-            "USDC"
+            "BTC",
+            "ETH"
           ],
-          "compound": 0.2944,
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "CoinDesk",
+          "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+          "summary": "",
+          "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+          "published": "2026-10-05T11:14:35+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.2732,
           "label": "BULLISH",
-          "confidence": 0.2944
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
+          "published": "2026-10-02T00:22:58+00:00",
+          "coins": [
+            "ETH",
+            "LINK"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.1236,
-      "overall": "BEARISH",
-      "bullish": 3,
-      "bearish": 10,
-      "neutral": 4,
+      "article_count": 24,
+      "avg_compound": -0.0113,
+      "overall": "NEUTRAL",
+      "bullish": 7,
+      "bearish": 9,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -126,93 +215,6 @@
         }
       ],
       "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-          "published": "2026-10-02T00:22:58+00:00",
-          "coins": [
-            "ETH",
-            "LINK"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 9,
-      "avg_compound": -0.0418,
-      "overall": "NEUTRAL",
-      "bullish": 3,
-      "bearish": 3,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-          "published": "2026-10-02T20:16:04+00:00",
-          "coins": [
-            "ETH",
-            "USDC"
-          ],
-          "compound": -0.6992,
-          "label": "BEARISH",
-          "confidence": 0.6992
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
-          "summary": "Co-author J\u00e9r\u00f4me de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
-          "published": "2026-10-01T16:17:23+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Frank Holmes: They Will Print $100 Trillion \u2013 Why to Buy Bitcoin & Gold",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Frank-Holmes-They-Will-Print-100-Trillion-Why-to-Buy-Bitcoin-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a></p>\n<p>Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
-          "published": "2026-10-01T21:34:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -358,6 +360,17 @@
       "confidence": 0.936
     },
     {
+      "source": "TheBlock",
+      "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
+      "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
+      "published": "2026-10-05T12:01:06+00:00",
+      "coins": [],
+      "compound": 0.7906,
+      "label": "BULLISH",
+      "confidence": 0.7906
+    },
+    {
       "source": "Decrypt",
       "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
       "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
@@ -391,17 +404,6 @@
       "confidence": 0.7269
     },
     {
-      "source": "CoinDesk",
-      "title": "Bank group sues U.S. regulator over granting crypto trust charters",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/02/bank-group-sues-u-s-regulator-over-granting-crypto-trust-charters",
-      "published": "2026-10-02T21:23:20+00:00",
-      "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
-    },
-    {
       "source": "TheBlock",
       "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
       "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
@@ -422,6 +424,17 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
+    },
+    {
+      "source": "TheBlock",
+      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+      "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+      "published": "2026-10-05T06:38:24+00:00",
+      "coins": [],
+      "compound": 0.5859,
+      "label": "BULLISH",
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -446,33 +459,22 @@
       "confidence": 0.5
     },
     {
-      "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "published": "2026-10-03T15:00:00+00:00",
+      "source": "Decrypt",
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
+      "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+      "published": "2026-10-05T10:22:27+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.4019
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
-      "title": "This AI Is Already Fooling People on Video Calls Into Thinking It's Human, Company Says",
-      "summary": "Tavus says 26 of 54 people on a one-minute video call thought its new Griffin model was human. The results are the company's own, and the model isn't going to retail customers yet.",
-      "url": "https://decrypt.co/379975/tavus-griffin-ai-fools-people-video-thinking-human",
-      "published": "2026-10-02T19:05:35+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
-      "summary": "Robinhood Wallet adds Arcus as a routing provider for Stock Token swaps, giving eligible users access to more than 190 tokens.",
-      "url": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
-      "published": "2026-10-01T13:00:00+00:00",
+      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
+      "summary": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
+      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+      "published": "2026-10-05T11:18:01+00:00",
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
@@ -480,13 +482,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's Sisyphean struggle",
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
       "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "published": "2026-10-03T13:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "published": "2026-10-05T13:46:31+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
+      "compound": 0.3182,
+      "label": "BULLISH",
       "confidence": 0.3182
     },
     {
@@ -524,46 +526,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The Clarity Act stalled. Bankers aren\u2019t hitting the brakes yet on crypto dealmaking",
+      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-      "published": "2026-10-04T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
-    },
-    {
-      "source": "TheBlock",
-      "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
-      "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
-      "published": "2026-10-01T14:18:12+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto poured years into new products. The next challenge is keeping users",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-      "published": "2026-10-04T14:00:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "published": "2026-10-05T11:08:03+00:00",
       "coins": [],
       "compound": 0.0772,
       "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia Hits Record High as Market Value Reaches $5.7 Trillion",
-      "summary": "The AI chipmaker's stock topped its May peak on Friday, helped by a record $150 billion buyback and a weak jobs report that cooled bets on Fed rate hikes.",
-      "url": "https://decrypt.co/379959/nvidia-hits-record-high-market-value-5-7-trillion",
-      "published": "2026-10-02T17:30:40+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
       "confidence": 0.0772
     },
     {
@@ -579,6 +548,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+      "published": "2026-10-05T09:26:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
@@ -589,55 +569,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "There's an election next month: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-      "published": "2026-10-04T18:30:00+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Uptober Off to a Green Start",
+      "summary": "Crypto majors and alts are rallying to start October. What\u2019s driving the early action and will it continue?",
+      "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+      "published": "2026-10-05T11:39:08+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "published": "2026-10-03T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "published": "2026-10-03T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "published": "2026-10-03T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BNY in talks with Kraken parent Payward over infrastructure partnership",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/09/30/bny-in-talks-with-kraken-parent-payward-over-infrastructure-partnership",
-      "published": "2026-10-02T17:34:40+00:00",
+      "source": "TheBlock",
+      "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
+      "summary": "There are currently two ETF applications tied to INJ \u2014 the 21Shares Injective ETF and the Canary Staked INJ ETF.",
+      "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
+      "published": "2026-10-05T08:42:20+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -649,17 +596,6 @@
       "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
       "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
       "published": "2026-10-02T10:17:39+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "published": "2026-10-01T19:10:36+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
