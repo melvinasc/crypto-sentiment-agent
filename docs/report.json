@@ -1,69 +1,7 @@
 {
-  "generated_at": "2026-10-05T14:21:47.527013+00:00",
+  "generated_at": "2026-10-06T06:09:23.413115+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.6992,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-          "published": "2026-10-02T20:16:04+00:00",
-          "coins": [
-            "ETH",
-            "USDC"
-          ],
-          "compound": -0.6992,
-          "label": "BEARISH",
-          "confidence": 0.6992
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.5386,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
-          "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple.",
-          "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
-          "published": "2026-10-04T17:01:03+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.875,
-          "label": "BULLISH",
-          "confidence": 0.875
-        },
-        {
-          "source": "CoinDesk",
-          "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-          "published": "2026-10-05T12:28:35+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 1,
       "avg_compound": 0.34,
@@ -88,41 +26,90 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 4,
+      "avg_compound": 0.3268,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
+          "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents\u2014roughly half the prior week's gain and well below mid-September's pace.",
+          "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
+          "published": "2026-10-05T21:48:03+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.6705,
+          "label": "BULLISH",
+          "confidence": 0.6705
+        },
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
+          "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
+          "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+          "published": "2026-10-05T14:33:14+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
+          "published": "2026-10-06T04:23:45+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 8,
-      "avg_compound": -0.1524,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 4,
+      "article_count": 6,
+      "avg_compound": 0.2448,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 0,
       "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-          "summary": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-          "published": "2026-10-02T20:16:04+00:00",
-          "coins": [
-            "ETH",
-            "USDC"
-          ],
-          "compound": -0.6992,
-          "label": "BEARISH",
-          "confidence": 0.6992
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Frank Holmes: They Will Print $100 Trillion \u2013 Why to Buy Bitcoin & Gold",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Frank-Holmes-They-Will-Print-100-Trillion-Why-to-Buy-Bitcoin-Gold-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a></p>\n<p>Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold\" rel=\"nofollow\">Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &amp; Gold</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
-          "published": "2026-10-01T21:34:00+00:00",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
+          "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+          "published": "2026-10-05T18:12:28+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
+          "compound": 0.7783,
+          "label": "BULLISH",
+          "confidence": 0.7783
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+          "summary": "The purchase lifts Bitmine's stash past 6 million ETH\u20144.9% of supply and 99% of the way to its \"Alchemy of 5%\" goal\u2014as chairman Tom Lee says Ethereum is \"dwarfing\" other macro assets.",
+          "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+          "published": "2026-10-05T14:54:17+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4173,
+          "label": "BULLISH",
+          "confidence": 0.4173
         },
         {
           "source": "CoinDesk",
@@ -141,77 +128,77 @@
       ],
       "no_news": false
     },
-    "LINK": {
+    "XRP": {
       "article_count": 1,
-      "avg_compound": -0.1027,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-          "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-          "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-          "published": "2026-10-02T00:22:58+00:00",
+          "source": "CoinDesk",
+          "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+          "published": "2026-10-05T12:28:35+00:00",
           "coins": [
-            "ETH",
-            "LINK"
+            "XRP"
           ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0113,
-      "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 9,
-      "neutral": 8,
+      "article_count": 25,
+      "avg_compound": 0.1054,
+      "overall": "BULLISH",
+      "bullish": 13,
+      "bearish": 8,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin\" rel=\"nofollow\">IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project</a></p>\n<p>The International Monetary Fund approved a $139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin\" rel=\"nofollow\">IMF Praises El Salvador \u2014 But Still Tries To Scale Back Its Bitcoin Project</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
-          "published": "2026-10-02T22:01:18+00:00",
+          "title": "Coinbase\u2019s Ryan VanGrack: CFTC Approval \u201cOpens Many Doors\u201d for Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin\" rel=\"nofollow\">Coinbase&#8217;s Ryan VanGrack: CFTC Approval &#8220;Opens Many Doors&#8221; for Bitcoin</a></p>\n<p>Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin\" rel=\"nofollow\">Coinbase&#8217;s Ryan VanGrack: CFTC Approval &#8220;Opens Many Doors&#8221; for Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
+          "published": "2026-10-05T21:14:01+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9052,
+          "compound": 0.8442,
           "label": "BULLISH",
-          "confidence": 0.9052
+          "confidence": 0.8442
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Release-1988-image-safe.jpeg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a></p>\n<p>Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder Kent Halliburton, today launched the Wild Sats Club, a loyalty program with four tiers that lowers the management fee customers pay as their petahash under management grows. The program is open to existing and new customers starting today. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows\" rel=\"nofollow\">Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/bitcoin-magazine\" rel=\"nofollow\">Bitcoin Magazine</a>.</p>",
-          "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
-          "published": "2026-10-01T21:05:32+00:00",
+          "source": "Decrypt",
+          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+          "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
+          "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+          "published": "2026-10-05T18:12:28+00:00",
           "coins": [
-            "BTC"
+            "BTC",
+            "ETH"
           ],
-          "compound": 0.8934,
+          "compound": 0.7783,
           "label": "BULLISH",
-          "confidence": 0.8934
+          "confidence": 0.7783
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/screenshot_281_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a></p>\n<p>Block has launched a campaign to get people on a Bitcoin standard. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign\" rel=\"nofollow\">Jack Dorsey\u2019s Block Launches Campaign To Get People Spending Bitcoin\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
-          "published": "2026-10-01T20:15:36+00:00",
+          "source": "Decrypt",
+          "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
+          "summary": "The firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax.",
+          "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
+          "published": "2026-10-05T12:51:42+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8779,
-          "label": "BEARISH",
-          "confidence": 0.8779
+          "compound": 0.7783,
+          "label": "BULLISH",
+          "confidence": 0.7783
         }
       ],
       "no_news": false
@@ -266,6 +253,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "LINK": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -306,16 +303,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -327,6 +314,16 @@
       "no_news": true
     },
     "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -371,39 +368,6 @@
       "confidence": 0.7906
     },
     {
-      "source": "Decrypt",
-      "title": "Chainalysis Used AI to Trace the $387M Bitget Hack Back to North Korea",
-      "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past $1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers.",
-      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-      "published": "2026-10-03T17:01:03+00:00",
-      "coins": [],
-      "compound": -0.7845,
-      "label": "BEARISH",
-      "confidence": 0.7845
-    },
-    {
-      "source": "Decrypt",
-      "title": "'We Have Identified You, Sir': Near Intents Recovers $3.8 Million After 48-Hour Ultimatum",
-      "summary": "Near Intents said the roughly $3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds.",
-      "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-      "published": "2026-10-04T13:01:03+00:00",
-      "coins": [],
-      "compound": -0.765,
-      "label": "BEARISH",
-      "confidence": 0.765
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer.",
-      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-      "published": "2026-10-03T16:01:03+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
       "source": "TheBlock",
       "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
       "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
@@ -413,17 +377,6 @@
       "compound": -0.6771,
       "label": "BEARISH",
       "confidence": 0.6771
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
-      "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate.",
-      "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
-      "published": "2026-10-03T15:01:03+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
     },
     {
       "source": "TheBlock",
@@ -437,48 +390,70 @@
       "confidence": 0.5859
     },
     {
-      "source": "TheBlock",
-      "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
-      "summary": "SEC proposed a crypto framework for investment advisers &amp; funds, allowing self-custody in some cases &amp; state trust companies as custodians.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
-      "published": "2026-10-01T21:00:53+00:00",
+      "source": "Decrypt",
+      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
+      "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
+      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
+      "published": "2026-10-05T21:16:03+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
-      "title": "Banking Group Sues to Block Crypto's 'Side Door' Into the Banking System",
-      "summary": "The Independent Community Bankers of America argues the OCC's national trust charters give crypto firms a \"side door into the banking system\" without the safeguards that bind traditional banks.",
-      "url": "https://decrypt.co/380017/banking-group-sues-block-crypto-side-door-banking",
-      "published": "2026-10-04T16:01:03+00:00",
+      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+      "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
+      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+      "published": "2026-10-05T18:46:02+00:00",
       "coins": [],
-      "compound": -0.5,
+      "compound": -0.5423,
       "label": "BEARISH",
-      "confidence": 0.5
+      "confidence": 0.5423
+    },
+    {
+      "source": "TheBlock",
+      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+      "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
+      "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+      "published": "2026-10-05T16:09:02+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
+      "published": "2026-10-05T19:21:06+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
     },
     {
       "source": "Decrypt",
-      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
-      "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins.",
-      "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
-      "published": "2026-10-05T10:22:27+00:00",
+      "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
+      "summary": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money laundering concern.",
+      "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
+      "published": "2026-10-05T20:19:38+00:00",
       "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
     },
     {
-      "source": "Decrypt",
-      "title": "Greek Soldiers Among Alleged Leaders of $8M Crypto Pyramid Scheme",
-      "summary": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case.",
-      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
-      "published": "2026-10-05T11:18:01+00:00",
+      "source": "TheBlock",
+      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+      "summary": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
+      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+      "published": "2026-10-05T16:49:15+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -492,37 +467,26 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "SEC\u2019s innovation exemption poses constraint on bringing stock tokens to US, Robinhood crypto chief says",
-      "summary": "Robinhood's Johann Kerbrat told The Block that Robinhood is still working through the SEC's latest innovation exemption on tokenized stocks.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-secs-innovation-exemption-robinhood-417538",
-      "published": "2026-10-02T05:04:41+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
       "source": "Decrypt",
-      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
-      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face\u2014and whether the company can be held legally accountable.",
-      "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
-      "published": "2026-10-02T21:16:04+00:00",
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "summary": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
+      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+      "published": "2026-10-05T16:46:03+00:00",
       "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
     },
     {
-      "source": "CoinDesk",
-      "title": "Zcash\u2019s 25-second blocks go live on public testnet ahead of schedule",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
-      "published": "2026-10-05T04:41:35+00:00",
+      "source": "TheBlock",
+      "title": "Treasury withdraws crypto mixing rule, citing concerns over \u2018chilling effect on legitimate activity\u2019",
+      "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+      "published": "2026-10-05T17:22:37+00:00",
       "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -536,22 +500,11 @@
       "confidence": 0.0772
     },
     {
-      "source": "Decrypt",
-      "title": "The Pope Has Thoughts on AI Art\u2014And They're Not Flattering",
-      "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it.",
-      "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
-      "published": "2026-10-03T13:01:04+00:00",
-      "coins": [],
-      "compound": 0.0613,
-      "label": "BULLISH",
-      "confidence": 0.0613
-    },
-    {
       "source": "CoinDesk",
-      "title": "Kraken operator Payward and Singapore Gulf Bank partner for 24/7 institutional crypto settlement",
+      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-      "published": "2026-10-05T09:26:24+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
+      "published": "2026-10-06T04:55:36+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -559,10 +512,32 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here\u2019s how it works",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
-      "published": "2026-10-05T04:45:03+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "published": "2026-10-05T17:18:14+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+      "published": "2026-10-05T15:54:23+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+      "summary": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
+      "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+      "published": "2026-10-05T16:03:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -582,20 +557,9 @@
     {
       "source": "TheBlock",
       "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
-      "summary": "There are currently two ETF applications tied to INJ \u2014 the 21Shares Injective ETF and the Canary Staked INJ ETF.",
+      "summary": "There are currently three INJ ETF applications: the 21Shares Injective ETF, the Canary Staked INJ ETF, and the REX-Osprey INJ Staking ETF.",
       "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
       "published": "2026-10-05T08:42:20+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "ECB outlines three models for putting central bank money onchain",
-      "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-      "published": "2026-10-02T10:17:39+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
