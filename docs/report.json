@@ -1,39 +1,28 @@
 {
-  "generated_at": "2026-10-06T06:09:23.413115+00:00",
+  "generated_at": "2026-10-06T18:15:36.612252+00:00",
   "total_articles": 55,
   "coins": {
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano's ADA leads gains in narrow range-bound market",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
-          "published": "2026-10-05T10:37:30+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 4,
-      "avg_compound": 0.3268,
+      "article_count": 5,
+      "avg_compound": 0.4171,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program",
+          "summary": "Solana treasury firm DeFi Development approved an open-ended program to repurchase CHAD preferred stock if it trades below its $10 par value.",
+          "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
+          "published": "2026-10-06T15:09:41+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.7783,
+          "label": "BULLISH",
+          "confidence": 0.7783
+        },
         {
           "source": "Decrypt",
           "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
@@ -59,30 +48,17 @@
           "compound": 0.6369,
           "label": "BULLISH",
           "confidence": 0.6369
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Solana Foundation unveils a program to settle institutional trades in seconds. JPMorgan gave input",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/06/solana-foundation-unveils-a-program-to-settle-institutional-trades-in-seconds-with-jpmorgan-s-inputs",
-          "published": "2026-10-06T04:23:45+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.2448,
+      "article_count": 3,
+      "avg_compound": 0.2594,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -99,66 +75,42 @@
           "confidence": 0.7783
         },
         {
-          "source": "Decrypt",
-          "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
-          "summary": "The purchase lifts Bitmine's stash past 6 million ETH\u20144.9% of supply and 99% of the way to its \"Alchemy of 5%\" goal\u2014as chairman Tom Lee says Ethereum is \"dwarfing\" other macro assets.",
-          "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
-          "published": "2026-10-05T14:54:17+00:00",
+          "source": "CoinDesk",
+          "title": "Ethereum\u2019s Glamsterdam test gets last-minute fix before major capacity jump",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
+          "published": "2026-10-06T04:49:05+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.4173,
-          "label": "BULLISH",
-          "confidence": 0.4173
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
-          "source": "CoinDesk",
-          "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
-          "summary": "",
-          "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
-          "published": "2026-10-05T11:14:35+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+          "summary": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours.",
+          "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+          "published": "2026-10-06T16:38:15+00:00",
           "coins": [
             "BTC",
             "ETH"
           ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
-          "published": "2026-10-05T12:28:35+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": 0.1054,
+      "article_count": 20,
+      "avg_compound": 0.1355,
       "overall": "BULLISH",
-      "bullish": 13,
-      "bearish": 8,
-      "neutral": 4,
+      "bullish": 10,
+      "bearish": 4,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -188,20 +140,104 @@
           "confidence": 0.7783
         },
         {
-          "source": "Decrypt",
-          "title": "Strategy Posts $21B Q3 Gain, Buys $29M in BTC, Repurchases $176M in STRC",
-          "summary": "The firm's Bitcoin holdings hit a record 848,000 BTC, while the quarterly gain is a fair-value mark carrying $1.88 billion in deferred tax.",
-          "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-          "published": "2026-10-05T12:51:42+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-10.44.16-PM.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants\" rel=\"nofollow\">Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants</a></p>\n<p>Old Major Market, a Central Indiana bitcoin<br />\nbutcher holding 100% of new bitcoin payments on its balance sheet.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants\" rel=\"nofollow\">Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/vagabond\" rel=\"nofollow\">Vagabond</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
+          "published": "2026-10-06T11:30:00+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7783,
+          "compound": 0.5994,
           "label": "BULLISH",
-          "confidence": 0.7783
+          "confidence": 0.5994
         }
       ],
       "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.1027,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Conduit sues Tether over $2.76 million freeze, says it has \u2018no legal entitlement\u2019 to funds",
+          "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
+          "published": "2026-10-06T17:54:00+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.1027,
+          "label": "BEARISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
+          "published": "2026-10-06T15:20:30+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+          "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
+          "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+          "published": "2026-10-06T12:53:04+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
+          "summary": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.",
+          "url": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
+          "published": "2026-10-06T14:36:08+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -332,61 +368,40 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "BitGo CEO says Clarity\u2019s failure left capital markets exposed to risk potentially worse than Lehman",
-      "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
-      "published": "2026-10-02T12:28:54+00:00",
+      "source": "CoinDesk",
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "published": "2026-10-06T12:31:51+00:00",
       "coins": [],
-      "compound": -0.936,
+      "compound": -0.7964,
       "label": "BEARISH",
-      "confidence": 0.936
+      "confidence": 0.7964
     },
     {
       "source": "TheBlock",
-      "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
-      "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors.",
-      "url": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
-      "published": "2026-10-05T12:01:06+00:00",
+      "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
+      "summary": "Fortitude secured priority access to BITMAIN\u2019s next-generation Zcash miners as it expands capacity and increases financing from DCG.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+      "published": "2026-10-06T13:00:48+00:00",
       "coins": [],
-      "compound": 0.7906,
+      "compound": 0.7269,
       "label": "BULLISH",
-      "confidence": 0.7906
+      "confidence": 0.7269
     },
     {
-      "source": "TheBlock",
-      "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
-      "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
-      "published": "2026-10-02T17:10:40+00:00",
+      "source": "Decrypt",
+      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+      "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
+      "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+      "published": "2026-10-06T10:36:57+00:00",
       "coins": [],
-      "compound": -0.6771,
+      "compound": -0.5859,
       "label": "BEARISH",
-      "confidence": 0.6771
-    },
-    {
-      "source": "TheBlock",
-      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
-      "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
-      "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
-      "published": "2026-10-05T06:38:24+00:00",
-      "coins": [],
-      "compound": 0.5859,
-      "label": "BULLISH",
       "confidence": 0.5859
     },
     {
@@ -401,6 +416,28 @@
       "confidence": 0.5719
     },
     {
+      "source": "TheBlock",
+      "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
+      "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
+      "published": "2026-10-06T10:58:29+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ondo launches onchain private-company exposure, starting with AI",
+      "summary": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
+      "published": "2026-10-06T09:38:28+00:00",
+      "coins": [],
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "Decrypt",
       "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
       "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
@@ -412,6 +449,39 @@
       "confidence": 0.5423
     },
     {
+      "source": "Decrypt",
+      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
+      "summary": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
+      "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
+      "published": "2026-10-06T15:26:41+00:00",
+      "coins": [],
+      "compound": -0.5279,
+      "label": "BEARISH",
+      "confidence": 0.5279
+    },
+    {
+      "source": "TheBlock",
+      "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
+      "summary": "Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.",
+      "url": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+      "published": "2026-10-06T09:51:47+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+      "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.",
+      "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
+      "published": "2026-10-06T17:22:54+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
       "source": "TheBlock",
       "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
       "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
@@ -421,17 +491,6 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/05/crypto-s-campaign-arm-fairshake-sets-lists-of-u-s-house-favorites-it-ll-spend-on",
-      "published": "2026-10-05T19:21:06+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
     },
     {
       "source": "Decrypt",
@@ -457,25 +516,58 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "published": "2026-10-05T13:46:31+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "published": "2026-10-06T13:02:33+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
-      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
-      "summary": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight.",
-      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-      "published": "2026-10-05T16:46:03+00:00",
+      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+      "summary": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
+      "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+      "published": "2026-10-06T12:27:11+00:00",
       "coins": [],
-      "compound": 0.2732,
+      "compound": 0.3818,
       "label": "BULLISH",
-      "confidence": 0.2732
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
+      "summary": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH.",
+      "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
+      "published": "2026-10-06T16:43:41+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+      "published": "2026-10-06T09:25:36+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "TheBlock",
+      "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
+      "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
+      "published": "2026-10-06T11:36:15+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -489,15 +581,48 @@
       "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
-      "published": "2026-10-05T11:08:03+00:00",
+      "source": "Decrypt",
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "summary": "The No Betting on Your Own Race Act also gives prediction markets cover to close accounts and report candidates to regulators.",
+      "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
+      "published": "2026-10-06T12:11:50+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+      "published": "2026-10-06T17:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is expanding the boundaries of what can be priced",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+      "published": "2026-10-06T16:50:26+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "published": "2026-10-06T09:02:01+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -511,55 +636,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here\u2019s how it works",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-      "published": "2026-10-05T17:18:14+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-      "published": "2026-10-05T15:54:23+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
-      "summary": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air.",
-      "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
-      "published": "2026-10-05T16:03:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Uptober Off to a Green Start",
-      "summary": "Crypto majors and alts are rallying to start October. What\u2019s driving the early action and will it continue?",
-      "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
-      "published": "2026-10-05T11:39:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "TheBlock",
-      "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
-      "summary": "There are currently three INJ ETF applications: the 21Shares Injective ETF, the Canary Staked INJ ETF, and the REX-Osprey INJ Staking ETF.",
-      "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
-      "published": "2026-10-05T08:42:20+00:00",
+      "title": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
+      "summary": "Polymarket rolls out Protocol V2, replacing its legacy Gnosis-based setup with a single ERC-1155 positions contract and pUSD collateral.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
+      "published": "2026-10-06T14:35:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
