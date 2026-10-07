@@ -1,14 +1,38 @@
 {
-  "generated_at": "2026-10-06T18:15:36.612252+00:00",
+  "generated_at": "2026-10-07T05:38:10.775380+00:00",
   "total_articles": 55,
   "coins": {
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.4588,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+          "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
+          "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+          "published": "2026-10-06T22:16:03+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.4588,
+          "label": "BEARISH",
+          "confidence": 0.4588
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
-      "article_count": 5,
-      "avg_compound": 0.4171,
+      "article_count": 2,
+      "avg_compound": 0.3891,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -25,144 +49,41 @@
         },
         {
           "source": "Decrypt",
-          "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-          "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents\u2014roughly half the prior week's gain and well below mid-September's pace.",
-          "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-          "published": "2026-10-05T21:48:03+00:00",
+          "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+          "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
+          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+          "published": "2026-10-06T02:01:03+00:00",
           "coins": [
             "SOL"
-          ],
-          "compound": 0.6705,
-          "label": "BULLISH",
-          "confidence": 0.6705
-        },
-        {
-          "source": "TheBlock",
-          "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
-          "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL.",
-          "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
-          "published": "2026-10-05T14:33:14+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.6369,
-          "label": "BULLISH",
-          "confidence": 0.6369
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.2594,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
-          "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-          "published": "2026-10-05T18:12:28+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum\u2019s Glamsterdam test gets last-minute fix before major capacity jump",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/06/ethereum-s-glamsterdam-test-gets-last-minute-fix-before-major-capacity-jump",
-          "published": "2026-10-06T04:49:05+00:00",
-          "coins": [
-            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
-          "summary": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours.",
-          "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
-          "published": "2026-10-06T16:38:15+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.1355,
-      "overall": "BULLISH",
-      "bullish": 10,
-      "bearish": 4,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Coinbase\u2019s Ryan VanGrack: CFTC Approval \u201cOpens Many Doors\u201d for Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Coinbases-Ryan-VanGrack-CFTC-Approval-22Opens-Many-Doors22-for-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin\" rel=\"nofollow\">Coinbase&#8217;s Ryan VanGrack: CFTC Approval &#8220;Opens Many Doors&#8221; for Bitcoin</a></p>\n<p>Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase\u2019s Ryan VanGrack explains why ETFs and direct holding can both thrive.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin\" rel=\"nofollow\">Coinbase&#8217;s Ryan VanGrack: CFTC Approval &#8220;Opens Many Doors&#8221; for Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-          "published": "2026-10-05T21:14:01+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8442,
-          "label": "BULLISH",
-          "confidence": 0.8442
-        },
-        {
-          "source": "Decrypt",
-          "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
-          "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange.",
-          "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
-          "published": "2026-10-05T18:12:28+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-10.44.16-PM.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants\" rel=\"nofollow\">Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants</a></p>\n<p>Old Major Market, a Central Indiana bitcoin<br />\nbutcher holding 100% of new bitcoin payments on its balance sheet.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants\" rel=\"nofollow\">Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/vagabond\" rel=\"nofollow\">Vagabond</a>.</p>",
-          "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
-          "published": "2026-10-06T11:30:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.5994,
-          "label": "BULLISH",
-          "confidence": 0.5994
         }
       ],
       "no_news": false
     },
     "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.1027,
+      "article_count": 2,
+      "avg_compound": -0.232,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+          "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to\u2014and has profited from the reserves while refusing to release the funds for more than a year.",
+          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+          "published": "2026-10-06T19:46:04+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        },
         {
           "source": "TheBlock",
           "title": "Conduit sues Tether over $2.76 million freeze, says it has \u2018no legal entitlement\u2019 to funds",
@@ -175,6 +96,130 @@
           "compound": -0.1027,
           "label": "BEARISH",
           "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": -0.1779,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+          "published": "2026-10-07T04:11:33+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 17,
+      "avg_compound": -0.0924,
+      "overall": "BEARISH",
+      "bullish": 4,
+      "bearish": 7,
+      "neutral": 6,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/spain.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin\" rel=\"nofollow\">The Real Estate Market Is Dead in Spain. Long Live Bitcoin.</a></p>\n<p>A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin\" rel=\"nofollow\">The Real Estate Market Is Dead in Spain. Long Live Bitcoin.</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/kristyna-mazankova\" rel=\"nofollow\">Kristyna Mazankova</a>.</p>",
+          "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
+          "published": "2026-10-06T20:13:35+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9612,
+          "label": "BEARISH",
+          "confidence": 0.9612
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/350M-St-Cloud-CEO-The-First-Credit-Union-to-Put-Bitcoin-on-Core-Ledger-Jed-Meyer-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer\" rel=\"nofollow\">$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer</a></p>\n<p>A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and quiet path to over 20 BTC.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer\" rel=\"nofollow\">$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+          "published": "2026-10-06T21:34:32+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.7579,
+          "label": "BULLISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/selfie_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore\" rel=\"nofollow\">Bitcoin Privacy Legend Amir Taaki Deported From Singapore\u00a0</a></p>\n<p>The early Bitcoin contributor says he was questioned for hours before being deported \u2014 something which keeps happening. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore\" rel=\"nofollow\">Bitcoin Privacy Legend Amir Taaki Deported From Singapore\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+          "published": "2026-10-06T21:07:23+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.5106,
+          "label": "BEARISH",
+          "confidence": 0.5106
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.0711,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+          "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+          "published": "2026-10-06T20:28:53+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        },
+        {
+          "source": "TheBlock",
+          "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing \u2018tens of millions\u2019",
+          "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
+          "published": "2026-10-06T20:11:30+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Pudgy Penguins\u2019 Abstract becomes second Ethereum layer 2 to shut in a week",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+          "published": "2026-10-07T04:31:14+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -228,16 +273,6 @@
         }
       ],
       "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -358,19 +393,20 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+      "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
+      "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+      "published": "2026-10-06T22:00:19+00:00",
+      "coins": [],
+      "compound": 0.8555,
+      "label": "BULLISH",
+      "confidence": 0.8555
+    },
     {
       "source": "CoinDesk",
       "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
@@ -395,6 +431,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
+      "summary": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.",
+      "url": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
+      "published": "2026-10-06T19:15:04+00:00",
+      "coins": [],
+      "compound": 0.7224,
+      "label": "BULLISH",
+      "confidence": 0.7224
+    },
+    {
+      "source": "Decrypt",
       "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
       "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
       "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
@@ -403,17 +450,6 @@
       "compound": -0.5859,
       "label": "BEARISH",
       "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
-      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that.",
-      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-      "published": "2026-10-05T21:16:03+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -439,17 +475,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
-      "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time.",
-      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
-      "published": "2026-10-05T18:46:02+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
-    },
-    {
-      "source": "Decrypt",
       "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
       "summary": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
       "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
@@ -458,6 +483,17 @@
       "compound": -0.5279,
       "label": "BEARISH",
       "confidence": 0.5279
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+      "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+      "published": "2026-10-07T03:00:00+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "TheBlock",
@@ -472,6 +508,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
+      "summary": "The proposed fund would hold ZEC directly, trade on Nasdaq under \"WINK\" with Gemini as custodian, and add the Winklevoss twins to a wave of institutional interest in the privacy coin.",
+      "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
+      "published": "2026-10-06T18:42:34+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
       "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
       "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.",
       "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
@@ -480,28 +527,6 @@
       "compound": 0.4588,
       "label": "BULLISH",
       "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
-      "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new \"crypto asset market\" exchange.",
-      "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
-      "published": "2026-10-05T16:09:02+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Treasury Kills Crypto 'Unhosted Wallet' and Mixer Surveillance Rules",
-      "summary": "FinCEN withdrew a 2020 proposal to track transactions with self-custodial crypto wallets and a 2023 plan to designate crypto mixing as a primary money laundering concern.",
-      "url": "https://decrypt.co/380120/treasury-kills-crypto-unhosted-wallet-mixer-surveillance-rules",
-      "published": "2026-10-05T20:19:38+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -568,6 +593,17 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+      "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+      "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+      "published": "2026-10-06T22:46:03+00:00",
+      "coins": [],
+      "compound": 0.2382,
+      "label": "BULLISH",
+      "confidence": 0.2382
     },
     {
       "source": "TheBlock",
