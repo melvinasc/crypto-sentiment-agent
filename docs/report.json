@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:38:10.775380+00:00",
+  "generated_at": "2026-10-07T13:08:23.945745+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -28,11 +28,11 @@
     },
     "SOL": {
       "article_count": 2,
-      "avg_compound": 0.3891,
+      "avg_compound": 0.4405,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -48,17 +48,17 @@
           "confidence": 0.7783
         },
         {
-          "source": "Decrypt",
-          "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-          "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days.",
-          "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-          "published": "2026-10-06T02:01:03+00:00",
+          "source": "TheBlock",
+          "title": "Jito\u2019s JTX plans mobile app this fall, eyes perps integration later this winter",
+          "summary": "Jito\u2019s JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana.",
+          "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+          "published": "2026-10-07T09:51:29+00:00",
           "coins": [
             "SOL"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -125,11 +125,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.0924,
+      "article_count": 22,
+      "avg_compound": -0.0624,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 7,
+      "bullish": 7,
+      "bearish": 9,
       "neutral": 6,
       "top_articles": [
         {
@@ -159,29 +159,42 @@
           "confidence": 0.7579
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/selfie_1920x1080-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore\" rel=\"nofollow\">Bitcoin Privacy Legend Amir Taaki Deported From Singapore\u00a0</a></p>\n<p>The early Bitcoin contributor says he was questioned for hours before being deported \u2014 something which keeps happening. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore\" rel=\"nofollow\">Bitcoin Privacy Legend Amir Taaki Deported From Singapore\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
-          "published": "2026-10-06T21:07:23+00:00",
+          "source": "TheBlock",
+          "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+          "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
+          "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+          "published": "2026-10-07T07:08:36+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
+          "compound": 0.5423,
+          "label": "BULLISH",
+          "confidence": 0.5423
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.0711,
-      "overall": "BULLISH",
+      "article_count": 6,
+      "avg_compound": -0.0525,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
+      "bearish": 2,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+          "published": "2026-10-07T12:40:31+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.5994,
+          "label": "BEARISH",
+          "confidence": 0.5994
+        },
         {
           "source": "Decrypt",
           "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
@@ -207,15 +220,27 @@
           "compound": -0.2263,
           "label": "BEARISH",
           "confidence": 0.2263
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "Pudgy Penguins\u2019 Abstract becomes second Ethereum layer 2 to shut in a week",
+          "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-          "published": "2026-10-07T04:31:14+00:00",
+          "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+          "published": "2026-10-07T05:58:25+00:00",
           "coins": [
-            "ETH"
+            "BTC",
+            "BNB"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -225,32 +250,19 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
-          "published": "2026-10-06T15:20:30+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
           "source": "Decrypt",
-          "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
-          "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price.",
-          "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
-          "published": "2026-10-06T12:53:04+00:00",
+          "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+          "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
+          "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
+          "published": "2026-10-07T12:18:43+00:00",
           "coins": [
             "XRP"
           ],
@@ -275,16 +287,6 @@
       "no_news": false
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -398,6 +400,17 @@
   "uncategorised": [
     {
       "source": "Decrypt",
+      "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+      "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.",
+      "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+      "published": "2026-10-07T10:49:16+00:00",
+      "coins": [],
+      "compound": -0.9201,
+      "label": "BEARISH",
+      "confidence": 0.9201
+    },
+    {
+      "source": "Decrypt",
       "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
       "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
       "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
@@ -406,17 +419,6 @@
       "compound": 0.8555,
       "label": "BULLISH",
       "confidence": 0.8555
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
-      "published": "2026-10-06T12:31:51+00:00",
-      "coins": [],
-      "compound": -0.7964,
-      "label": "BEARISH",
-      "confidence": 0.7964
     },
     {
       "source": "TheBlock",
@@ -441,33 +443,11 @@
       "confidence": 0.7224
     },
     {
-      "source": "Decrypt",
-      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-      "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians.",
-      "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
-      "published": "2026-10-06T10:36:57+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
       "source": "TheBlock",
       "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
       "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.",
       "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
       "published": "2026-10-06T10:58:29+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ondo launches onchain private-company exposure, starting with AI",
-      "summary": "Ondo Finance launched a private-markets platform with tokenized notes tied initially to a pre-IPO artificial intelligence company.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
-      "published": "2026-10-06T09:38:28+00:00",
       "coins": [],
       "compound": 0.5574,
       "label": "BULLISH",
@@ -485,11 +465,11 @@
       "confidence": 0.5279
     },
     {
-      "source": "TheBlock",
-      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
-      "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
-      "published": "2026-10-07T03:00:00+00:00",
+      "source": "CoinDesk",
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "published": "2026-10-07T09:09:06+00:00",
       "coins": [],
       "compound": 0.5106,
       "label": "BULLISH",
@@ -497,10 +477,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "ZachXBT says he fronted $349,700 to infiltrate alleged Chinese launderers tied to Lazarus, Bybit hack",
-      "summary": "Posing as a client, ZachXBT said he gathered intelligence that helped freeze funds tied to the $1.5 billion Bybit hack.",
-      "url": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
-      "published": "2026-10-06T09:51:47+00:00",
+      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+      "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
+      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+      "published": "2026-10-07T03:00:00+00:00",
       "coins": [],
       "compound": 0.5106,
       "label": "BULLISH",
@@ -529,33 +509,11 @@
       "confidence": 0.4588
     },
     {
-      "source": "TheBlock",
-      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
-      "summary": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part.",
-      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-      "published": "2026-10-05T16:49:15+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "CoinDesk",
-      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "published": "2026-10-06T13:02:33+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-      "summary": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
-      "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-      "published": "2026-10-06T12:27:11+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+      "published": "2026-10-07T12:34:13+00:00",
       "coins": [],
       "compound": 0.3818,
       "label": "BULLISH",
@@ -571,17 +529,6 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-      "published": "2026-10-06T09:25:36+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -607,25 +554,47 @@
     },
     {
       "source": "TheBlock",
-      "title": "Treasury withdraws crypto mixing rule, citing concerns over \u2018chilling effect on legitimate activity\u2019",
-      "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-      "published": "2026-10-05T17:22:37+00:00",
+      "title": "\u2018Every single exchange\u2019 will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+      "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
+      "published": "2026-10-07T08:30:01+00:00",
       "coins": [],
-      "compound": 0.2023,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.2023
+      "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
-      "summary": "The No Betting on Your Own Race Act also gives prediction markets cover to close accounts and report candidates to regulators.",
-      "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
-      "published": "2026-10-06T12:11:50+00:00",
+      "source": "CoinDesk",
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "published": "2026-10-07T11:59:24+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
+      "compound": 0.1027,
+      "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
+      "title": "NEAR\u2019s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
+      "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for \"a lot\" of crypto activity.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912",
+      "published": "2026-10-07T11:15:16+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "published": "2026-10-07T10:35:09+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -633,39 +602,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
       "published": "2026-10-06T17:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto is expanding the boundaries of what can be priced",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
-      "published": "2026-10-06T16:50:26+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX looks to abstract blockchain mechanics to bring stablecoin balances to everyday consumers",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "published": "2026-10-06T09:02:01+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/06/u-s-scraps-proposed-usd10-000-reporting-rule-for-for-crypto-sent-to-private-wallets",
-      "published": "2026-10-06T04:55:36+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
