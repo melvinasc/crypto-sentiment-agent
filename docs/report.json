@@ -1,36 +1,12 @@
 {
-  "generated_at": "2026-10-07T13:08:23.945745+00:00",
+  "generated_at": "2026-10-07T22:59:03.632354+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.4588,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
-          "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
-          "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
-          "published": "2026-10-06T22:16:03+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.4588,
-          "label": "BEARISH",
-          "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.4405,
+      "article_count": 3,
+      "avg_compound": 0.4526,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -49,6 +25,19 @@
         },
         {
           "source": "TheBlock",
+          "title": "Solana\u2019s Orca merges with Loopscale in push to finance AI, robotics and defense",
+          "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
+          "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+          "published": "2026-10-07T22:01:02+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        },
+        {
+          "source": "TheBlock",
           "title": "Jito\u2019s JTX plans mobile app this fall, eyes perps integration later this winter",
           "summary": "Jito\u2019s JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana.",
           "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
@@ -63,26 +52,51 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.232,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4215,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
-          "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to\u2014and has profited from the reserves while refusing to release the funds for more than a year.",
-          "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
-          "published": "2026-10-06T19:46:04+00:00",
+          "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+          "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
+          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+          "published": "2026-10-07T16:56:56+00:00",
+          "coins": [
+            "BTC",
+            "BNB"
+          ],
+          "compound": -0.4215,
+          "label": "BEARISH",
+          "confidence": 0.4215
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": 0.1741,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+          "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
+          "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+          "published": "2026-10-07T19:46:04+00:00",
           "coins": [
             "USDT"
           ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
         },
         {
           "source": "TheBlock",
@@ -96,54 +110,43 @@
           "compound": -0.1027,
           "label": "BEARISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": -0.1779,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
+        },
         {
           "source": "CoinDesk",
-          "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+          "title": "Tether tapped by Kazakhstan\u2019s central bank to explore stablecoin and tokenization",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
-          "published": "2026-10-07T04:11:33+00:00",
+          "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+          "published": "2026-10-07T14:27:37+00:00",
           "coins": [
-            "ADA"
+            "USDT"
           ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.0624,
+      "avg_compound": -0.1413,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 9,
-      "neutral": 6,
+      "bullish": 6,
+      "bearish": 12,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/spain.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin\" rel=\"nofollow\">The Real Estate Market Is Dead in Spain. Long Live Bitcoin.</a></p>\n<p>A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin\" rel=\"nofollow\">The Real Estate Market Is Dead in Spain. Long Live Bitcoin.</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/kristyna-mazankova\" rel=\"nofollow\">Kristyna Mazankova</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
-          "published": "2026-10-06T20:13:35+00:00",
+          "title": "The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Quantum-Issue-Article-Header-2400x1400-Quantum-Exposure.png\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000\" rel=\"nofollow\">The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000\u00a0</a></p>\n<p>From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000\" rel=\"nofollow\">The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/wickedbtc\" rel=\"nofollow\">Wicked</a>.</p>",
+          "url": "https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000",
+          "published": "2026-10-07T16:46:41+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9612,
+          "compound": -0.9393,
           "label": "BEARISH",
-          "confidence": 0.9612
+          "confidence": 0.9393
         },
         {
           "source": "Bitcoin Magazine",
@@ -159,28 +162,28 @@
           "confidence": 0.7579
         },
         {
-          "source": "TheBlock",
-          "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
-          "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
-          "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-          "published": "2026-10-07T07:08:36+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/image13_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx\" rel=\"nofollow\">CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse</a></p>\n<p>CFTC Chair Mike Selig has said that the regulator wants to bring stringent regulations to the crypto world. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx\" rel=\"nofollow\">CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx",
+          "published": "2026-10-07T20:21:22+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.5423,
-          "label": "BULLISH",
-          "confidence": 0.5423
+          "compound": -0.7003,
+          "label": "BEARISH",
+          "confidence": 0.7003
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 6,
-      "avg_compound": -0.0525,
-      "overall": "BEARISH",
-      "bullish": 1,
+      "avg_compound": 0.0518,
+      "overall": "BULLISH",
+      "bullish": 3,
       "bearish": 2,
-      "neutral": 3,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -196,12 +199,13 @@
           "confidence": 0.5994
         },
         {
-          "source": "Decrypt",
-          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
-          "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
-          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
-          "published": "2026-10-06T20:28:53+00:00",
+          "source": "TheBlock",
+          "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+          "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+          "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+          "published": "2026-10-07T18:37:17+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
           "compound": 0.5106,
@@ -210,21 +214,21 @@
         },
         {
           "source": "TheBlock",
-          "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing \u2018tens of millions\u2019",
-          "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
-          "published": "2026-10-06T20:11:30+00:00",
+          "title": "Ethereum researcher Justin Drake calls for \u2018bunker mode\u2019 planning over private key recovery risk",
+          "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+          "published": "2026-10-07T17:23:02+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
     },
-    "BNB": {
+    "MATIC": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -234,13 +238,38 @@
       "top_articles": [
         {
           "source": "CoinDesk",
-          "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+          "title": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-          "published": "2026-10-07T05:58:25+00:00",
+          "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+          "published": "2026-10-07T16:30:00+00:00",
           "coins": [
-            "BTC",
-            "BNB"
+            "MATIC",
+            "TRX"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+          "published": "2026-10-07T16:30:00+00:00",
+          "coins": [
+            "MATIC",
+            "TRX"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -250,12 +279,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -269,22 +298,19 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing",
-          "summary": "Ripple Prime will provide prime brokerage, clearing and financing to Brevan Howard, deepening a tie that began with its Ripple investment.",
-          "url": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801",
-          "published": "2026-10-06T14:36:08+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -346,16 +372,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "MATIC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -376,7 +392,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
+    "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -386,7 +402,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "UNI": {
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -411,58 +427,47 @@
     },
     {
       "source": "Decrypt",
-      "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
-      "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
-      "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
-      "published": "2026-10-06T22:00:19+00:00",
+      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
+      "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+      "published": "2026-10-07T20:16:04+00:00",
       "coins": [],
-      "compound": 0.8555,
+      "compound": 0.6652,
       "label": "BULLISH",
-      "confidence": 0.8555
-    },
-    {
-      "source": "TheBlock",
-      "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
-      "summary": "Fortitude secured priority access to BITMAIN\u2019s next-generation Zcash miners as it expands capacity and increases financing from DCG.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
-      "published": "2026-10-06T13:00:48+00:00",
-      "coins": [],
-      "compound": 0.7269,
-      "label": "BULLISH",
-      "confidence": 0.7269
+      "confidence": 0.6652
     },
     {
       "source": "Decrypt",
-      "title": "Bryan Johnson Spent Millions to Reverse Aging. He Says a Filter Works Better",
-      "summary": "The face of the \"Don't Die\" movement now says retouching beats therapy for looking young. His transformation over the summer may explain why.",
-      "url": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
-      "published": "2026-10-06T19:15:04+00:00",
+      "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+      "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+      "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+      "published": "2026-10-07T20:46:03+00:00",
       "coins": [],
-      "compound": 0.7224,
+      "compound": 0.6369,
       "label": "BULLISH",
-      "confidence": 0.7224
+      "confidence": 0.6369
     },
     {
       "source": "TheBlock",
-      "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
-      "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
-      "published": "2026-10-06T10:58:29+00:00",
+      "title": "Moody\u2019s gives Sky Protocol B3 rating as institutional interest in USDS grows",
+      "summary": "Moody's assigned Sky a B3 issuer rating with a stable outlook, its first rating of a stablecoin protocol. Sky is also rated B- by S&amp;P.",
+      "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+      "published": "2026-10-07T14:20:01+00:00",
       "coins": [],
-      "compound": 0.5574,
+      "compound": 0.6369,
       "label": "BULLISH",
-      "confidence": 0.5574
+      "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024: Study",
-      "summary": "Attacks grew more sophisticated and less predictable over the period, according to researchers who scanned more than 20 billion transactions.",
-      "url": "https://decrypt.co/380166/flash-loan-attacks-drained-1-2b-from-defi-between-2020-and-2024-study",
-      "published": "2026-10-06T15:26:41+00:00",
+      "source": "CoinDesk",
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+      "published": "2026-10-07T13:20:54+00:00",
       "coins": [],
-      "compound": -0.5279,
+      "compound": -0.5106,
       "label": "BEARISH",
-      "confidence": 0.5279
+      "confidence": 0.5106
     },
     {
       "source": "CoinDesk",
@@ -488,25 +493,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Another Zcash ETF Is Coming: Winklevoss Twins File for 'WINK'",
-      "summary": "The proposed fund would hold ZEC directly, trade on Nasdaq under \"WINK\" with Gemini as custodian, and add the Winklevoss twins to a wave of institutional interest in the privacy coin.",
-      "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-      "published": "2026-10-06T18:42:34+00:00",
+      "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+      "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+      "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+      "published": "2026-10-07T19:10:31+00:00",
       "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-      "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.",
-      "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
-      "published": "2026-10-06T17:22:54+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
     },
     {
       "source": "CoinDesk",
@@ -531,26 +525,37 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "Rep. Don Davis introduces bill to stop federal candidates trading prediction market contracts tied to their own elections",
-      "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-06-rep-don-davis-introduces-bill-to-stop-federal-candidates-trading-prediction-market-contracts-tied-to-their-own-elections-417781",
-      "published": "2026-10-06T11:36:15+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt\u2014Mathematicians Want Receipts",
+      "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+      "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+      "published": "2026-10-07T21:46:03+00:00",
       "coins": [],
-      "compound": -0.296,
+      "compound": -0.34,
       "label": "BEARISH",
-      "confidence": 0.296
+      "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
-      "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
-      "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
-      "published": "2026-10-06T22:46:03+00:00",
+      "source": "TheBlock",
+      "title": "Hunter Biden says LAPTOP market maker should \u2018buy it all back and burn it\u2019",
+      "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP\u2019s launch.",
+      "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
+      "published": "2026-10-07T16:40:51+00:00",
       "coins": [],
-      "compound": 0.2382,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.2382
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+      "published": "2026-10-07T18:59:32+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
     },
     {
       "source": "TheBlock",
@@ -575,6 +580,17 @@
       "confidence": 0.1027
     },
     {
+      "source": "Decrypt",
+      "title": "Google Lets You Build a Video Game by Typing a Description",
+      "summary": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
+      "url": "https://decrypt.co/380326/google-build-video-game-typing-description",
+      "published": "2026-10-07T18:08:51+00:00",
+      "coins": [],
+      "compound": -0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
       "source": "TheBlock",
       "title": "NEAR\u2019s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
       "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for \"a lot\" of crypto activity.",
@@ -587,10 +603,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "title": "Gate bets all-in-one money app is crypto\u2019s biggest consumer trend this year and next",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
-      "published": "2026-10-07T10:35:09+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+      "published": "2026-10-07T15:13:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -598,21 +614,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
-      "published": "2026-10-06T17:00:00+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+      "published": "2026-10-07T15:03:54+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "TheBlock",
-      "title": "Polymarket rolls out V2 upgrade with single ERC-1155 positions contract, pUSD collateral",
-      "summary": "Polymarket rolls out Protocol V2, replacing its legacy Gnosis-based setup with a single ERC-1155 positions contract and pUSD collateral.",
-      "url": "https://www.theblock.co/news/business/2026-10-06-polymarket-rolls-out-v2-upgrade-with-single-erc-1155-positions-contract-pusd-collateral-417804",
-      "published": "2026-10-06T14:35:03+00:00",
+      "source": "CoinDesk",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "published": "2026-10-07T10:35:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
