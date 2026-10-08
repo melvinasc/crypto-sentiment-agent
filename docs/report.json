@@ -1,28 +1,40 @@
 {
-  "generated_at": "2026-10-07T22:59:03.632354+00:00",
+  "generated_at": "2026-10-08T05:46:26.016470+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.4526,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.4215,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program",
-          "summary": "Solana treasury firm DeFi Development approved an open-ended program to repurchase CHAD preferred stock if it trades below its $10 par value.",
-          "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819",
-          "published": "2026-10-06T15:09:41+00:00",
+          "source": "Decrypt",
+          "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+          "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
+          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+          "published": "2026-10-07T16:56:56+00:00",
           "coins": [
-            "SOL"
+            "BTC",
+            "BNB"
           ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        },
+          "compound": -0.4215,
+          "label": "BEARISH",
+          "confidence": 0.4215
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.1931,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
         {
           "source": "TheBlock",
           "title": "Solana\u2019s Orca merges with Loopscale in push to finance AI, robotics and defense",
@@ -48,31 +60,20 @@
           "compound": 0.1027,
           "label": "BULLISH",
           "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": -0.4215,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
+        },
         {
-          "source": "Decrypt",
-          "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
-          "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
-          "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
-          "published": "2026-10-07T16:56:56+00:00",
+          "source": "TheBlock",
+          "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+          "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
+          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+          "published": "2026-10-08T02:50:01+00:00",
           "coins": [
-            "BTC",
-            "BNB"
+            "USDC",
+            "SOL"
           ],
-          "compound": -0.4215,
-          "label": "BEARISH",
-          "confidence": 0.4215
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -178,13 +179,26 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.0518,
-      "overall": "BULLISH",
+      "article_count": 8,
+      "avg_compound": -0.11,
+      "overall": "BEARISH",
       "bullish": 3,
-      "bearish": 2,
+      "bearish": 4,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "\u2018Don\u2019t rush anything\u2019: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+          "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
+          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+          "published": "2026-10-08T05:00:28+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7506,
+          "label": "BEARISH",
+          "confidence": 0.7506
+        },
         {
           "source": "CoinDesk",
           "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
@@ -211,19 +225,6 @@
           "compound": 0.5106,
           "label": "BULLISH",
           "confidence": 0.5106
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum researcher Justin Drake calls for \u2018bunker mode\u2019 planning over private key recovery risk",
-          "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
-          "published": "2026-10-07T17:23:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -270,6 +271,31 @@
           "coins": [
             "MATIC",
             "TRX"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+          "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
+          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+          "published": "2026-10-08T02:50:01+00:00",
+          "coins": [
+            "USDC",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -401,16 +427,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -470,17 +486,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "CoinDesk",
-      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
-      "published": "2026-10-07T09:09:06+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
       "source": "TheBlock",
       "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
       "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
@@ -512,17 +517,6 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
-      "summary": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH.",
-      "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
-      "published": "2026-10-06T16:43:41+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
@@ -603,6 +597,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "published": "2026-10-08T00:35:24+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Gate bets all-in-one money app is crypto\u2019s biggest consumer trend this year and next",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
@@ -618,17 +623,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
       "published": "2026-10-07T15:03:54+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
-      "published": "2026-10-07T10:35:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
