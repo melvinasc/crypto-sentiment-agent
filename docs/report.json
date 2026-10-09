@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T13:02:38.461175+00:00",
+  "generated_at": "2026-10-09T22:31:53.805893+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -27,26 +27,13 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 6,
-      "avg_compound": 0.2554,
+      "article_count": 1,
+      "avg_compound": 0.4927,
       "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 1,
-      "neutral": 1,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
-          "summary": "Solana DEX Orca and lending platform Loopscale will operate as Formation, a New York company aiming to finance AI, energy, robotics and defense assets and eventually reach regulated U.S. markets.",
-          "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
-          "published": "2026-10-08T18:16:05+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        },
         {
           "source": "TheBlock",
           "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
@@ -60,30 +47,17 @@
           "compound": 0.4927,
           "label": "BULLISH",
           "confidence": 0.4927
-        },
-        {
-          "source": "Decrypt",
-          "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
-          "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
-          "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
-          "published": "2026-10-08T15:42:16+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
         }
       ],
       "no_news": false
     },
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.2464,
+      "article_count": 1,
+      "avg_compound": 0.4927,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -98,155 +72,142 @@
           "compound": 0.4927,
           "label": "BULLISH",
           "confidence": 0.4927
-        },
-        {
-          "source": "TheBlock",
-          "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
-          "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
-          "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
-          "published": "2026-10-08T02:50:01+00:00",
-          "coins": [
-            "USDC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 7,
-      "avg_compound": -0.1212,
-      "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 3,
-      "neutral": 2,
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.1436,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "\u2018Don\u2019t rush anything\u2019: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
-          "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
-          "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
-          "published": "2026-10-08T05:00:28+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7506,
-          "label": "BEARISH",
-          "confidence": 0.7506
-        },
-        {
           "source": "Decrypt",
-          "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
-          "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
-          "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
-          "published": "2026-10-08T20:16:03+00:00",
+          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "published": "2026-10-09T18:46:03+00:00",
           "coins": [
-            "ETH"
+            "USDT"
           ],
-          "compound": -0.7003,
-          "label": "BEARISH",
-          "confidence": 0.7003
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
         },
         {
-          "source": "TheBlock",
-          "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
-          "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
-          "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-          "published": "2026-10-07T18:37:17+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+          "published": "2026-10-09T13:33:09+00:00",
           "coins": [
             "BTC",
-            "ETH"
+            "USDT"
           ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 30,
-      "avg_compound": 0.0019,
-      "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 8,
-      "neutral": 11,
+      "article_count": 25,
+      "avg_compound": -0.1049,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 11,
+      "neutral": 6,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
-          "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed isn't done hiking.",
-          "url": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-          "published": "2026-10-08T17:46:05+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a></p>\n<p>Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+          "published": "2026-10-09T16:43:45+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.872,
+          "compound": -0.8519,
           "label": "BEARISH",
-          "confidence": 0.872
+          "confidence": 0.8519
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Greece Plans Crypto Capital Gains Tax: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-2-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains\" rel=\"nofollow\">Greece Plans Crypto Capital Gains Tax: Report</a></p>\n<p>Greece is planning a law to tax crypto investors\u2019 capital gains at a rate of 15%, according to reports. According to Reuters and local media, the country\u2019s Finance Ministry has drafted a bill with the proposal. Greece currently has no legal framework for taxing crypto. Under the draft, the first \u20ac500 (about $580) of crypto [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains\" rel=\"nofollow\">Greece Plans Crypto Capital Gains Tax: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
-          "published": "2026-10-08T18:39:39+00:00",
+          "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Core-developer-responds-to-AI-Quantum-Risk-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a></p>\n<p>Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+          "published": "2026-10-09T13:38:38+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.652,
-          "label": "BULLISH",
-          "confidence": 0.652
+          "compound": -0.5719,
+          "label": "BEARISH",
+          "confidence": 0.5719
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000\" rel=\"nofollow\">Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough</a></p>\n<p>The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000\" rel=\"nofollow\">Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-          "published": "2026-10-08T17:14:58+00:00",
+          "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-3.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration\" rel=\"nofollow\">AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez</a></p>\n<p>Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as developers, and increasingly the agents they deploy, look to add bitcoin payments to their apps. In a company blog post, it tied the jump directly to Anthropic\u2019s Claude Code, which [&#8230;]</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration\" rel=\"nofollow\">AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+          "published": "2026-10-08T19:17:12+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.6486,
+          "compound": -0.5267,
           "label": "BEARISH",
-          "confidence": 0.6486
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.0,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.0306,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 2,
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
-          "published": "2026-10-09T06:51:32+00:00",
+          "source": "Decrypt",
+          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+          "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
+          "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+          "published": "2026-10-09T16:36:03+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "TheBlock",
+          "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+          "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+          "published": "2026-10-09T10:40:59+00:00",
           "coins": [
             "BTC",
-            "XRP"
+            "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
         },
         {
           "source": "CoinDesk",
-          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-          "published": "2026-10-09T04:21:36+00:00",
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "published": "2026-10-09T10:16:55+00:00",
           "coins": [
-            "XRP"
+            "BTC",
+            "ETH"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -375,7 +336,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -400,13 +361,24 @@
     },
     {
       "source": "Decrypt",
-      "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
-      "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps.",
-      "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
-      "published": "2026-10-08T19:31:03+00:00",
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+      "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+      "published": "2026-10-09T19:47:01+00:00",
       "coins": [],
-      "compound": 0.6369,
-      "label": "BULLISH",
+      "compound": -0.6597,
+      "label": "BEARISH",
+      "confidence": 0.6597
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+      "published": "2026-10-09T21:21:54+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
       "confidence": 0.6369
     },
     {
@@ -421,15 +393,15 @@
       "confidence": 0.6369
     },
     {
-      "source": "TheBlock",
-      "title": "Crypto industry split over Justin Drake\u2019s AI warning",
-      "summary": "Crypto players disagree over Justin Drake\u2019s AI cryptography warning, with some dismissing it while others urge proactive preparation.",
-      "url": "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021",
-      "published": "2026-10-08T10:20:00+00:00",
+      "source": "Decrypt",
+      "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+      "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
+      "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+      "published": "2026-10-09T16:07:07+00:00",
       "coins": [],
-      "compound": -0.5574,
+      "compound": -0.5859,
       "label": "BEARISH",
-      "confidence": 0.5574
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -444,6 +416,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Ledger investigates potential wallet tampering after reports of $86 million in crypto stolen",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
+      "published": "2026-10-09T14:47:27+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "CoinDesk",
       "title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
@@ -454,15 +437,48 @@
       "confidence": 0.4939
     },
     {
-      "source": "TheBlock",
-      "title": "Standard Chartered to expand crypto custody services in Singapore",
-      "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
-      "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
-      "published": "2026-10-08T07:55:14+00:00",
+      "source": "Decrypt",
+      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
+      "summary": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-contract venue instead of relying on overseas partners.",
+      "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
+      "published": "2026-10-09T18:06:03+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+      "summary": "The DWF Labs-linked firms allege in London\u2019s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
+      "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+      "published": "2026-10-09T16:08:23+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+      "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
+      "published": "2026-10-09T14:16:15+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius\u2019 Alex Mashinsky",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
+      "published": "2026-10-09T14:55:23+00:00",
+      "coins": [],
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -488,6 +504,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
+      "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+      "published": "2026-10-09T14:52:55+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
       "title": "The Block GCCI 2026 Country Profile: Inside Korea\u2019s Crypto Market",
       "summary": "Section 1: The Block\u2019s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto companies and capital can operate. A country can have large trading volume while having a restrictive domestic [\u2026]",
       "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
@@ -496,6 +523,28 @@
       "compound": -0.2732,
       "label": "BEARISH",
       "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
+      "title": "Former FTX COO says Netflix\u2019s \u2018Altruists\u2019 trailer \u2018made me physically throw up\u2019",
+      "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story.",
+      "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+      "published": "2026-10-09T18:51:45+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
+      "summary": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts.",
+      "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+      "published": "2026-10-09T15:30:36+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
@@ -507,6 +556,39 @@
       "compound": -0.2168,
       "label": "BEARISH",
       "confidence": 0.2168
+    },
+    {
+      "source": "TheBlock",
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says \u2018we know where it is\u2019",
+      "summary": "Bessent\u2019s latest crypto seizure plan follows months of sanctions and freezes targeting Iranian assets.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
+      "published": "2026-10-09T14:41:09+00:00",
+      "coins": [],
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
+      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
+      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+      "published": "2026-10-09T13:12:57+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain considers technology that gives paying traders priority",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
+      "published": "2026-10-09T18:11:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -536,6 +618,17 @@
       "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia\u2019s A7 network, the UK government said.",
       "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
       "published": "2026-10-09T12:04:07+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+      "summary": "Blockchain.com has applied for DCM and FCM licenses to offer ahead of a planned $500 million IPO.",
+      "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+      "published": "2026-10-09T16:05:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
