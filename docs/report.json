@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T05:50:46.283620+00:00",
+  "generated_at": "2026-10-09T13:02:38.461175+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -27,11 +27,11 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 7,
-      "avg_compound": 0.3414,
+      "article_count": 6,
+      "avg_compound": 0.2554,
       "overall": "BULLISH",
-      "bullish": 6,
-      "bearish": 0,
+      "bullish": 4,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -77,30 +77,6 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.296,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
-          "published": "2026-10-08T14:24:24+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
     "USDC": {
       "article_count": 2,
       "avg_compound": 0.2464,
@@ -140,37 +116,13 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
-          "published": "2026-10-08T21:22:58+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 9,
-      "avg_compound": 0.0415,
-      "overall": "NEUTRAL",
-      "bullish": 5,
+      "article_count": 7,
+      "avg_compound": -0.1212,
+      "overall": "BEARISH",
+      "bullish": 2,
       "bearish": 3,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -199,28 +151,29 @@
           "confidence": 0.7003
         },
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: AI Could Break Crypto Encryption Before Quantum, Says Ethereum Researcher",
-          "summary": "Justin Drake is calling for crypto holders to start calmly planning for \u201cBunker Mode.\" But reactions so far haven\u2019t been too calm.",
-          "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
-          "published": "2026-10-08T11:48:13+00:00",
+          "source": "TheBlock",
+          "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+          "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+          "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+          "published": "2026-10-07T18:37:17+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": 0.5574,
+          "compound": 0.5106,
           "label": "BULLISH",
-          "confidence": 0.5574
+          "confidence": 0.5106
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0395,
+      "article_count": 30,
+      "avg_compound": 0.0019,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 9,
-      "neutral": 6,
+      "bullish": 11,
+      "bearish": 8,
+      "neutral": 11,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -265,13 +218,27 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Live updates: Bitcoin climbs back above $83,000; XRP ETFs only crypto funds with inflows Thursday",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+          "published": "2026-10-09T06:51:32+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "CoinDesk",
           "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
@@ -287,6 +254,16 @@
         }
       ],
       "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -397,19 +374,29 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Uranium Finance Hacker Who Bought Pok\u00e9mon and Magic Cards Convicted Over $50M Theft",
-      "summary": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric.",
-      "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
-      "published": "2026-10-08T11:37:17+00:00",
+      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+      "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
+      "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+      "published": "2026-10-09T08:59:31+00:00",
       "coins": [],
-      "compound": -0.7964,
+      "compound": -0.9501,
       "label": "BEARISH",
-      "confidence": 0.7964
+      "confidence": 0.9501
     },
     {
       "source": "Decrypt",
@@ -434,17 +421,6 @@
       "confidence": 0.6369
     },
     {
-      "source": "CoinDesk",
-      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
-      "published": "2026-10-08T18:06:41+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
       "source": "TheBlock",
       "title": "Crypto industry split over Justin Drake\u2019s AI warning",
       "summary": "Crypto players disagree over Justin Drake\u2019s AI cryptography warning, with some dismissing it while others urge proactive preparation.",
@@ -467,6 +443,17 @@
       "confidence": 0.5423
     },
     {
+      "source": "CoinDesk",
+      "title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+      "published": "2026-10-09T11:39:05+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
       "source": "TheBlock",
       "title": "Standard Chartered to expand crypto custody services in Singapore",
       "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong.",
@@ -478,39 +465,6 @@
       "confidence": 0.4588
     },
     {
-      "source": "CoinDesk",
-      "title": "\u2018Bunker mode\u2019 is a far greater challenge for institutions than individual crypto holders",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
-      "published": "2026-10-08T14:39:48+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto crumbles as anniversary of flash crash nears",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
-      "published": "2026-10-08T18:14:39+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hunter Biden says LAPTOP market maker should \u2018buy it all back and burn it\u2019",
-      "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP\u2019s launch.",
-      "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
-      "published": "2026-10-07T16:40:51+00:00",
-      "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
       "source": "Decrypt",
       "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
       "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million.",
@@ -520,17 +474,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-      "published": "2026-10-08T15:23:26+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -555,26 +498,48 @@
       "confidence": 0.2732
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
-      "published": "2026-10-08T15:11:15+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+      "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
+      "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+      "published": "2026-10-09T11:41:15+00:00",
       "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
+      "compound": -0.2168,
+      "label": "BEARISH",
+      "confidence": 0.2168
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+      "published": "2026-10-09T12:23:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+      "published": "2026-10-09T10:14:59+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "Decrypt",
-      "title": "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",
-      "summary": "Minecraft in Elden Ring, Skate in Call of Duty, and Spider-Man in Gotham. AI vibe coders are creating crazy video game mashup mods.",
-      "url": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
-      "published": "2026-10-08T12:15:51+00:00",
+      "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+      "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia\u2019s A7 network, the UK government said.",
+      "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+      "published": "2026-10-09T12:04:07+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     }
   ]
 }
