@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:13:37.492290+00:00",
+  "generated_at": "2026-10-09T05:50:46.283620+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -165,12 +165,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 8,
-      "avg_compound": 0.0467,
+      "article_count": 9,
+      "avg_compound": 0.0415,
       "overall": "NEUTRAL",
       "bullish": 5,
       "bearish": 3,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -216,10 +216,10 @@
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.0139,
+      "avg_compound": -0.0395,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 8,
+      "bullish": 8,
+      "bearish": 9,
       "neutral": 6,
       "top_articles": [
         {
@@ -260,6 +260,30 @@
           "compound": -0.6486,
           "label": "BEARISH",
           "confidence": 0.6486
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+          "published": "2026-10-09T04:21:36+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -373,16 +397,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -484,17 +498,6 @@
       "compound": -0.4019,
       "label": "BEARISH",
       "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
-      "published": "2026-10-08T11:36:25+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
