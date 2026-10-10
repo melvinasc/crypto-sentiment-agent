@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:19:21.281469+00:00",
+  "generated_at": "2026-10-10T21:30:09.170603+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -22,56 +22,6 @@
           "compound": -0.5106,
           "label": "BEARISH",
           "confidence": 0.5106
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.4927,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
-          "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
-          "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-          "published": "2026-10-08T14:04:39+00:00",
-          "coins": [
-            "SOL",
-            "USDC"
-          ],
-          "compound": 0.4927,
-          "label": "BULLISH",
-          "confidence": 0.4927
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.4927,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
-          "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
-          "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
-          "published": "2026-10-08T14:04:39+00:00",
-          "coins": [
-            "SOL",
-            "USDC"
-          ],
-          "compound": 0.4927,
-          "label": "BULLISH",
-          "confidence": 0.4927
         }
       ],
       "no_news": false
@@ -100,13 +50,39 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+          "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "published": "2026-10-10T15:10:37+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "BTC"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.1559,
+      "avg_compound": -0.1467,
       "overall": "BEARISH",
-      "bullish": 6,
+      "bullish": 7,
       "bearish": 12,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -150,11 +126,49 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.1501,
-      "overall": "BEARISH",
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.1436,
+      "overall": "BULLISH",
       "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "published": "2026-10-09T18:46:03+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+          "published": "2026-10-09T13:33:09+00:00",
+          "coins": [
+            "BTC",
+            "USDT"
+          ],
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.0681,
+      "overall": "BEARISH",
+      "bullish": 2,
       "bearish": 2,
       "neutral": 0,
       "top_articles": [
@@ -198,44 +212,6 @@
           "compound": -0.2263,
           "label": "BEARISH",
           "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.1436,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
-          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-          "published": "2026-10-09T18:46:03+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.4404,
-          "label": "BULLISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
-          "published": "2026-10-09T13:33:09+00:00",
-          "coins": [
-            "BTC",
-            "USDT"
-          ],
-          "compound": -0.1531,
-          "label": "BEARISH",
-          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -359,20 +335,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "Decrypt",
-      "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
-      "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
-      "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
-      "published": "2026-10-09T08:59:31+00:00",
-      "coins": [],
-      "compound": -0.9501,
-      "label": "BEARISH",
-      "confidence": 0.9501
-    },
     {
       "source": "Decrypt",
       "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
@@ -396,6 +371,17 @@
       "confidence": 0.6369
     },
     {
+      "source": "Decrypt",
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
+      "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
+      "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+      "published": "2026-10-10T13:01:03+00:00",
+      "coins": [],
+      "compound": -0.6369,
+      "label": "BEARISH",
+      "confidence": 0.6369
+    },
+    {
       "source": "TheBlock",
       "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
       "summary": "The NFL filed an amicus brief urging the Supreme Court to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not CFTC-regulated swaps.",
@@ -405,6 +391,17 @@
       "compound": 0.6369,
       "label": "BULLISH",
       "confidence": 0.6369
+    },
+    {
+      "source": "Decrypt",
+      "title": "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
+      "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+      "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "published": "2026-10-10T15:01:03+00:00",
+      "coins": [],
+      "compound": -0.6249,
+      "label": "BEARISH",
+      "confidence": 0.6249
     },
     {
       "source": "Decrypt",
@@ -495,28 +492,6 @@
       "confidence": 0.3182
     },
     {
-      "source": "Decrypt",
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
-      "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million.",
-      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-      "published": "2026-10-08T21:46:03+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "Decrypt",
-      "title": "Google Wants Gemini to Be Your Next Coworker\u2014Complete With Its Own Email Address",
-      "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar.",
-      "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "published": "2026-10-08T21:16:03+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
       "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
@@ -583,6 +558,17 @@
       "confidence": 0.1531
     },
     {
+      "source": "Decrypt",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agency\u2019s claim to exclusive jurisdiction.",
+      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "published": "2026-10-10T17:01:03+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
       "source": "TheBlock",
       "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
       "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
@@ -592,6 +578,17 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
+      "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "published": "2026-10-10T18:35:25+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
