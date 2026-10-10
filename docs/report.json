@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:33:38.079740+00:00",
+  "generated_at": "2026-10-10T12:19:21.281469+00:00",
   "total_articles": 55,
   "coins": {
     "DOGE": {
@@ -100,51 +100,13 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.1436,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
-          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-          "published": "2026-10-09T18:46:03+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.4404,
-          "label": "BULLISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
-          "published": "2026-10-09T13:33:09+00:00",
-          "coins": [
-            "BTC",
-            "USDT"
-          ],
-          "compound": -0.1531,
-          "label": "BEARISH",
-          "confidence": 0.1531
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.1142,
+      "avg_compound": -0.1559,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 10,
-      "neutral": 6,
+      "bearish": 12,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -190,12 +152,26 @@
     },
     "ETH": {
       "article_count": 3,
-      "avg_compound": 0.0306,
-      "overall": "NEUTRAL",
+      "avg_compound": -0.1501,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 2,
+      "neutral": 0,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+          "published": "2026-10-10T12:00:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        },
         {
           "source": "Decrypt",
           "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
@@ -222,20 +198,44 @@
           "compound": -0.2263,
           "label": "BEARISH",
           "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.1436,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+          "published": "2026-10-09T18:46:03+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
         },
         {
-          "source": "CoinDesk",
-          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "published": "2026-10-09T10:16:55+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+          "published": "2026-10-09T13:33:09+00:00",
           "coins": [
             "BTC",
-            "ETH"
+            "USDT"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -595,6 +595,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "published": "2026-10-10T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
@@ -632,17 +643,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
       "published": "2026-10-09T12:23:54+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
-      "published": "2026-10-09T10:14:59+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
