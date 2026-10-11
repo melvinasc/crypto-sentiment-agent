@@ -1,86 +1,12 @@
 {
-  "generated_at": "2026-10-11T12:35:50.280308+00:00",
+  "generated_at": "2026-10-11T21:45:13.016034+00:00",
   "total_articles": 55,
   "coins": {
-    "DOGE": {
-      "article_count": 1,
-      "avg_compound": -0.5106,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitwise CEO says \u2018tragic\u2019 Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
-          "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.",
-          "url": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
-          "published": "2026-10-08T16:43:47+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": -0.5106,
-          "label": "BEARISH",
-          "confidence": 0.5106
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2732,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-          "published": "2026-10-10T04:20:07+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-          "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
-          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-          "published": "2026-10-10T15:10:37+00:00",
-          "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1467,
+      "article_count": 20,
+      "avg_compound": -0.1907,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 5,
       "bearish": 12,
       "neutral": 3,
       "top_articles": [
@@ -126,6 +52,43 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.1493,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+          "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+          "published": "2026-10-11T18:07:41+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.5719,
+          "label": "BEARISH",
+          "confidence": 0.5719
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+          "published": "2026-10-10T04:20:07+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
       "article_count": 2,
       "avg_compound": 0.1436,
@@ -165,11 +128,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.0681,
+      "article_count": 5,
+      "avg_compound": -0.095,
       "overall": "BEARISH",
       "bullish": 2,
-      "bearish": 2,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
         {
@@ -216,6 +179,47 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": -0.0122,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+          "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+          "published": "2026-10-11T16:01:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+          "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+          "published": "2026-10-10T15:10:37+00:00",
+          "coins": [
+            "ETH",
+            "SOL",
+            "BTC"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -247,6 +251,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -415,6 +429,17 @@
       "confidence": 0.5859
     },
     {
+      "source": "Decrypt",
+      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+      "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
+      "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+      "published": "2026-10-11T13:00:03+00:00",
+      "coins": [],
+      "compound": -0.5574,
+      "label": "BEARISH",
+      "confidence": 0.5574
+    },
+    {
       "source": "TheBlock",
       "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
       "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
@@ -431,17 +456,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/09/ledger-investigates-potential-wallet-tampering-after-reports-of-usd86-million-in-crypto-stolen",
       "published": "2026-10-09T14:47:27+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-      "published": "2026-10-09T11:39:05+00:00",
       "coins": [],
       "compound": -0.4939,
       "label": "BEARISH",
@@ -492,6 +506,17 @@
       "confidence": 0.3182
     },
     {
+      "source": "CoinDesk",
+      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+      "published": "2026-10-11T15:40:47+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
       "source": "TheBlock",
       "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
       "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
@@ -536,15 +561,15 @@
       "confidence": 0.2263
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-      "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
-      "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-      "published": "2026-10-09T11:41:15+00:00",
+      "source": "CoinDesk",
+      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+      "published": "2026-10-11T16:00:00+00:00",
       "coins": [],
-      "compound": -0.2168,
+      "compound": -0.1779,
       "label": "BEARISH",
-      "confidence": 0.2168
+      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -556,6 +581,17 @@
       "compound": 0.1531,
       "label": "BULLISH",
       "confidence": 0.1531
+    },
+    {
+      "source": "CoinDesk",
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "published": "2026-10-11T13:00:00+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
     },
     {
       "source": "Decrypt",
@@ -589,6 +625,28 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+      "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
+      "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+      "published": "2026-10-11T17:11:03+00:00",
+      "coins": [],
+      "compound": -0.0644,
+      "label": "BEARISH",
+      "confidence": 0.0644
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+      "published": "2026-10-11T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -629,28 +687,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
       "published": "2026-10-09T18:11:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-      "published": "2026-10-09T12:23:54+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
-      "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia\u2019s A7 network, the UK government said.",
-      "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
-      "published": "2026-10-09T12:04:07+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
