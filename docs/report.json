@@ -1,94 +1,7 @@
 {
-  "generated_at": "2026-10-12T05:39:56.565802+00:00",
+  "generated_at": "2026-10-12T15:08:57.739589+00:00",
   "total_articles": 55,
   "coins": {
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.1896,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 12,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a></p>\n<p>Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
-          "published": "2026-10-09T16:43:45+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8519,
-          "label": "BEARISH",
-          "confidence": 0.8519
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Core developer responds to AI & Quantum Risk",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Core-developer-responds-to-AI-Quantum-Risk-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a></p>\n<p>Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
-          "published": "2026-10-09T13:38:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million\" rel=\"nofollow\">Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC</a></p>\n<p>The Bermuda-regulated startup, whose backers include Bain Capital Crypto and Sam Altman, has now raised more than $180 million.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million\" rel=\"nofollow\">Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-          "published": "2026-10-10T00:53:09+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.5574,
-          "label": "BULLISH",
-          "confidence": 0.5574
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.1493,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-          "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-          "published": "2026-10-11T18:07:41+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
-        },
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-          "published": "2026-10-10T04:20:07+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
       "article_count": 2,
       "avg_compound": 0.1436,
@@ -127,41 +40,114 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.1322,
+    "XRP": {
+      "article_count": 4,
+      "avg_compound": -0.1388,
       "overall": "BEARISH",
       "bullish": 2,
-      "bearish": 4,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-          "published": "2026-10-10T12:00:00+00:00",
+          "source": "TheBlock",
+          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+          "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+          "published": "2026-10-11T18:07:41+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "XRP"
           ],
-          "compound": -0.5423,
+          "compound": -0.5719,
           "label": "BEARISH",
-          "confidence": 0.5423
+          "confidence": 0.5719
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+          "published": "2026-10-12T08:32:17+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.4588,
+          "label": "BEARISH",
+          "confidence": 0.4588
+        },
+        {
+          "source": "TheBlock",
+          "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
+          "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
+          "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+          "published": "2026-10-12T09:35:21+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.0927,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 10,
+      "neutral": 6,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a></p>\n<p>Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+          "published": "2026-10-09T16:43:45+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8519,
+          "label": "BEARISH",
+          "confidence": 0.8519
         },
         {
           "source": "Decrypt",
-          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
-          "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
-          "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
-          "published": "2026-10-09T16:36:03+00:00",
+          "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+          "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
+          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+          "published": "2026-10-12T10:12:48+00:00",
           "coins": [
-            "ETH"
+            "BTC"
           ],
-          "compound": 0.3182,
-          "label": "BULLISH",
-          "confidence": 0.3182
+          "compound": -0.7184,
+          "label": "BEARISH",
+          "confidence": 0.7184
         },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Core-developer-responds-to-AI-Quantum-Risk-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a></p>\n<p>Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+          "published": "2026-10-09T13:38:38+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.5719,
+          "label": "BEARISH",
+          "confidence": 0.5719
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.0103,
+      "overall": "NEUTRAL",
+      "bullish": 3,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
         {
           "source": "TheBlock",
           "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
@@ -174,17 +160,45 @@
           "compound": -0.3182,
           "label": "BEARISH",
           "confidence": 0.3182
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
+          "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
+          "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
+          "published": "2026-10-12T13:33:28+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+          "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+          "published": "2026-10-11T16:01:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.2023,
+          "label": "BEARISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.0122,
+      "article_count": 3,
+      "avg_compound": -0.0081,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -215,6 +229,43 @@
           "compound": 0.1779,
           "label": "BULLISH",
           "confidence": 0.1779
+        },
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
+          "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff.",
+          "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
+          "published": "2026-10-12T14:53:25+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+          "published": "2026-10-12T12:09:09+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -270,16 +321,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -362,6 +403,28 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
+      "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+      "published": "2026-10-12T10:10:13+00:00",
+      "coins": [],
+      "compound": 0.7579,
+      "label": "BULLISH",
+      "confidence": 0.7579
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "published": "2026-10-12T15:00:00+00:00",
+      "coins": [],
+      "compound": -0.6597,
+      "label": "BEARISH",
+      "confidence": 0.6597
+    },
+    {
       "source": "Decrypt",
       "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
       "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
@@ -371,17 +434,6 @@
       "compound": -0.6597,
       "label": "BEARISH",
       "confidence": 0.6597
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-      "published": "2026-10-09T21:21:54+00:00",
-      "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
     },
     {
       "source": "Decrypt",
@@ -407,17 +459,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
-      "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence.",
-      "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-      "published": "2026-10-09T16:07:07+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
       "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
       "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
       "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
@@ -426,17 +467,6 @@
       "compound": -0.5574,
       "label": "BEARISH",
       "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
-      "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
-      "url": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
-      "published": "2026-10-08T18:46:59+00:00",
-      "coins": [],
-      "compound": 0.5423,
-      "label": "BULLISH",
-      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -461,33 +491,11 @@
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
-      "summary": "The DWF Labs-linked firms allege in London\u2019s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
-      "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
-      "published": "2026-10-09T16:08:23+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
-      "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
-      "published": "2026-10-09T14:16:15+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
       "source": "CoinDesk",
-      "title": "New York AG secures up to $35 million and lifetime crypto ban from Celsius\u2019 Alex Mashinsky",
+      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
-      "published": "2026-10-09T14:55:23+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "published": "2026-10-12T11:02:38+00:00",
       "coins": [],
       "compound": -0.3182,
       "label": "BEARISH",
@@ -527,11 +535,11 @@
       "confidence": 0.25
     },
     {
-      "source": "Decrypt",
-      "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
-      "summary": "Ledger asked reseller CryptoBilis to pause sales and urged recent buyers not to set up their devices, as an onchain investigator tracked more than $86 million in suspected thefts.",
-      "url": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-      "published": "2026-10-09T15:30:36+00:00",
+      "source": "CoinDesk",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "published": "2026-10-12T12:01:53+00:00",
       "coins": [],
       "compound": -0.2263,
       "label": "BEARISH",
@@ -549,44 +557,11 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says \u2018we know where it is\u2019",
-      "summary": "Bessent\u2019s latest crypto seizure plan follows months of sanctions and freezes targeting Iranian assets.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-bessent-says-we-know-where-it-is-418151",
-      "published": "2026-10-09T14:41:09+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "CoinDesk",
-      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "published": "2026-10-11T13:00:00+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
       "source": "Decrypt",
       "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
       "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agency\u2019s claim to exclusive jurisdiction.",
       "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
       "published": "2026-10-10T17:01:03+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
-      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "published": "2026-10-09T13:12:57+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
@@ -616,54 +591,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "published": "2026-10-12T07:49:40+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
       "published": "2026-10-11T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "published": "2026-10-10T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "published": "2026-10-10T04:44:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
-      "published": "2026-10-10T03:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Robinhood Chain considers technology that gives paying traders priority",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority",
-      "published": "2026-10-09T18:11:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
