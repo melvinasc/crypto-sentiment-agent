@@ -1,53 +1,102 @@
 {
-  "generated_at": "2026-10-12T15:08:57.739589+00:00",
+  "generated_at": "2026-10-13T00:30:12.244207+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.1436,
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.5106,
       "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
-          "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
-          "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
-          "published": "2026-10-09T18:46:03+00:00",
+          "source": "TheBlock",
+          "title": "Binance launches AI trading tool after 150,000-user beta",
+          "summary": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers.",
+          "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+          "published": "2026-10-12T18:44:10+00:00",
           "coins": [
-            "USDT"
+            "BNB"
           ],
-          "compound": 0.4404,
+          "compound": 0.5106,
           "label": "BULLISH",
-          "confidence": 0.4404
+          "confidence": 0.5106
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": -0.1228,
+      "overall": "BEARISH",
+      "bullish": 5,
+      "bearish": 9,
+      "neutral": 6,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+          "summary": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October.",
+          "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+          "published": "2026-10-12T16:41:34+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9118,
+          "label": "BEARISH",
+          "confidence": 0.9118
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Building-the-Berkshire-Hathaway-of-Bitcoin-Twenty-One-Capital-CEO-Rapha-Zagury-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a></p>\n<p>Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury\" rel=\"nofollow\">Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
-          "published": "2026-10-09T13:33:09+00:00",
+          "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-investigates-fund-losses\" rel=\"nofollow\">Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device</a></p>\n<p>Ledger has reassured users after people who bought signing devices from a Malaysia-based reseller reported losing funds.  </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-investigates-fund-losses\" rel=\"nofollow\">Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+          "published": "2026-10-12T17:19:33+00:00",
           "coins": [
-            "BTC",
-            "USDT"
+            "BTC"
           ],
-          "compound": -0.1531,
+          "compound": -0.872,
           "label": "BEARISH",
-          "confidence": 0.1531
+          "confidence": 0.872
+        },
+        {
+          "source": "Decrypt",
+          "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+          "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
+          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+          "published": "2026-10-12T10:12:48+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7184,
+          "label": "BEARISH",
+          "confidence": 0.7184
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 4,
-      "avg_compound": -0.1388,
+      "article_count": 7,
+      "avg_compound": -0.1054,
       "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 0,
+      "bullish": 3,
+      "bearish": 3,
+      "neutral": 1,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+          "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply.",
+          "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+          "published": "2026-10-12T15:56:35+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
+        },
         {
           "source": "TheBlock",
           "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
@@ -62,92 +111,42 @@
           "confidence": 0.5719
         },
         {
-          "source": "CoinDesk",
-          "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-          "published": "2026-10-12T08:32:17+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.4588,
-          "label": "BEARISH",
-          "confidence": 0.4588
-        },
-        {
-          "source": "TheBlock",
-          "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
-          "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
-          "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-          "published": "2026-10-12T09:35:21+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0927,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 10,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/laptop_ledger_1920x1080.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a></p>\n<p>Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported\" rel=\"nofollow\">Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
-          "published": "2026-10-09T16:43:45+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8519,
-          "label": "BEARISH",
-          "confidence": 0.8519
-        },
-        {
           "source": "Decrypt",
-          "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-          "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
-          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-          "published": "2026-10-12T10:12:48+00:00",
+          "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+          "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
+          "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+          "published": "2026-10-12T18:09:15+00:00",
           "coins": [
-            "BTC"
+            "XRP"
           ],
-          "compound": -0.7184,
-          "label": "BEARISH",
-          "confidence": 0.7184
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Core developer responds to AI & Quantum Risk",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Core-developer-responds-to-AI-Quantum-Risk-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a></p>\n<p>Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk\" rel=\"nofollow\">Bitcoin Core developer responds to AI &amp; Quantum Risk</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
-          "published": "2026-10-09T13:38:38+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.0103,
-      "overall": "NEUTRAL",
+      "article_count": 5,
+      "avg_compound": 0.0977,
+      "overall": "BULLISH",
       "bullish": 3,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+          "published": "2026-10-12T15:27:09+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
         {
           "source": "TheBlock",
           "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
@@ -173,62 +172,43 @@
           "compound": 0.2023,
           "label": "BULLISH",
           "confidence": 0.2023
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-          "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
-          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-          "published": "2026-10-11T16:01:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.2023,
-          "label": "BEARISH",
-          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "SOL": {
       "article_count": 3,
-      "avg_compound": -0.0081,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
+      "avg_compound": 0.0853,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
-          "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
-          "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
-          "published": "2026-10-11T16:01:03+00:00",
+          "source": "TheBlock",
+          "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+          "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+          "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+          "published": "2026-10-12T17:06:25+00:00",
           "coins": [
-            "BTC",
-            "ETH",
             "SOL"
           ],
-          "compound": -0.2023,
-          "label": "BEARISH",
-          "confidence": 0.2023
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
         },
         {
-          "source": "TheBlock",
-          "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
-          "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
-          "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-          "published": "2026-10-10T15:10:37+00:00",
+          "source": "Decrypt",
+          "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+          "summary": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
+          "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+          "published": "2026-10-12T19:07:30+00:00",
           "coins": [
-            "ETH",
-            "SOL",
-            "BTC"
+            "SOL"
           ],
-          "compound": 0.1779,
+          "compound": 0.1027,
           "label": "BULLISH",
-          "confidence": 0.1779
+          "confidence": 0.1027
         },
         {
           "source": "TheBlock",
@@ -247,12 +227,12 @@
       "no_news": false
     },
     "LINK": {
-      "article_count": 1,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -261,6 +241,20 @@
           "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
           "published": "2026-10-12T12:09:09+00:00",
           "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "Decrypt",
+          "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+          "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
+          "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+          "published": "2026-10-12T21:16:03+00:00",
+          "coins": [
+            "XRP",
             "LINK"
           ],
           "compound": 0.0,
@@ -281,16 +275,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -399,9 +383,30 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+      "summary": "REA, a free toolkit that hands AI agents the keys to reverse engineering, crossed 100,000 GitHub stars in a week as AI-decompiled game mods, console ports, and Adobe clones flood the internet.",
+      "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
+      "published": "2026-10-12T19:46:03+00:00",
+      "coins": [],
+      "compound": 0.765,
+      "label": "BULLISH",
+      "confidence": 0.765
+    },
     {
       "source": "TheBlock",
       "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
@@ -426,58 +431,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-      "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
-      "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-      "published": "2026-10-09T19:47:01+00:00",
+      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+      "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers.",
+      "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+      "published": "2026-10-12T21:46:03+00:00",
       "coins": [],
-      "compound": -0.6597,
-      "label": "BEARISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "Decrypt",
-      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
-      "summary": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
-      "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-      "published": "2026-10-10T13:01:03+00:00",
-      "coins": [],
-      "compound": -0.6369,
-      "label": "BEARISH",
-      "confidence": 0.6369
-    },
-    {
-      "source": "Decrypt",
-      "title": "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
-      "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
-      "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
-      "published": "2026-10-10T15:01:03+00:00",
-      "coins": [],
-      "compound": -0.6249,
-      "label": "BEARISH",
-      "confidence": 0.6249
-    },
-    {
-      "source": "Decrypt",
-      "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
-      "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
-      "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
-      "published": "2026-10-11T13:00:03+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "Decrypt",
-      "title": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-      "summary": "The crypto platform filed for designated contract market and futures commission merchant licenses, which would let it run its own regulated event-contract venue instead of relying on overseas partners.",
-      "url": "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-      "published": "2026-10-09T18:06:03+00:00",
-      "coins": [],
-      "compound": 0.4767,
+      "compound": 0.4939,
       "label": "BULLISH",
-      "confidence": 0.4767
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+      "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
+      "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+      "published": "2026-10-12T16:32:17+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
     },
     {
       "source": "TheBlock",
@@ -489,6 +461,28 @@
       "compound": 0.4215,
       "label": "BULLISH",
       "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+      "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top.",
+      "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+      "published": "2026-10-12T20:46:04+00:00",
+      "coins": [],
+      "compound": 0.3919,
+      "label": "BULLISH",
+      "confidence": 0.3919
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "published": "2026-10-12T16:18:03+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -503,39 +497,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
-      "published": "2026-10-11T15:40:47+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
-      "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis.",
-      "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
-      "published": "2026-10-09T14:52:55+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Former FTX COO says Netflix\u2019s \u2018Altruists\u2019 trailer \u2018made me physically throw up\u2019",
-      "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story.",
-      "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
-      "published": "2026-10-09T18:51:45+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
-      "source": "CoinDesk",
       "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
@@ -546,26 +507,15 @@
       "confidence": 0.2263
     },
     {
-      "source": "CoinDesk",
-      "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
-      "published": "2026-10-11T16:00:00+00:00",
+      "source": "TheBlock",
+      "title": "CFTC\u2019s new crypto framework could face 2028 election deadline, says TD Cowen",
+      "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+      "published": "2026-10-12T20:53:54+00:00",
       "coins": [],
-      "compound": -0.1779,
+      "compound": -0.1531,
       "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agency\u2019s claim to exclusive jurisdiction.",
-      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-      "published": "2026-10-10T17:01:03+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
+      "confidence": 0.1531
     },
     {
       "source": "TheBlock",
@@ -612,11 +562,11 @@
       "confidence": 0.0
     },
     {
-      "source": "TheBlock",
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-      "published": "2026-10-12T02:00:00+00:00",
+      "source": "Decrypt",
+      "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+      "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.",
+      "url": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
+      "published": "2026-10-12T16:01:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -624,10 +574,21 @@
     },
     {
       "source": "TheBlock",
-      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
-      "summary": "Blockchain.com has applied for DCM and FCM licenses to offer ahead of a planned $500 million IPO.",
-      "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
-      "published": "2026-10-09T16:05:22+00:00",
+      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+      "published": "2026-10-12T21:49:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+      "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+      "published": "2026-10-12T02:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
