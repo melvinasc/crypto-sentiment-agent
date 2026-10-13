@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-10-13T00:30:12.244207+00:00",
+  "generated_at": "2026-10-13T14:01:25.358984+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.5106,
+      "article_count": 3,
+      "avg_compound": 0.4795,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+          "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
+          "url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+          "published": "2026-10-13T05:44:14+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.9278,
+          "label": "BULLISH",
+          "confidence": 0.9278
+        },
         {
           "source": "TheBlock",
           "title": "Binance launches AI trading tool after 150,000-user beta",
@@ -22,17 +35,30 @@
           "compound": 0.5106,
           "label": "BULLISH",
           "confidence": 0.5106
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance to shut down mining pool, cloud mining and related services",
+          "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10.",
+          "url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
+          "published": "2026-10-13T11:40:56+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.1228,
+      "article_count": 25,
+      "avg_compound": -0.1901,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 9,
-      "neutral": 6,
+      "bearish": 13,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -62,116 +88,16 @@
         },
         {
           "source": "Decrypt",
-          "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
-          "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
-          "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
-          "published": "2026-10-12T10:12:48+00:00",
+          "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+          "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
+          "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+          "published": "2026-10-13T10:51:33+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.7184,
+          "compound": -0.7269,
           "label": "BEARISH",
-          "confidence": 0.7184
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 7,
-      "avg_compound": -0.1054,
-      "overall": "BEARISH",
-      "bullish": 3,
-      "bearish": 3,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-          "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply.",
-          "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-          "published": "2026-10-12T15:56:35+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.7096,
-          "label": "BEARISH",
-          "confidence": 0.7096
-        },
-        {
-          "source": "TheBlock",
-          "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
-          "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-          "published": "2026-10-11T18:07:41+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.5719,
-          "label": "BEARISH",
-          "confidence": 0.5719
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
-          "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
-          "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
-          "published": "2026-10-12T18:09:15+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.0977,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
-          "published": "2026-10-12T15:27:09+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "TheBlock",
-          "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
-          "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
-          "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
-          "published": "2026-10-11T22:26:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-          "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
-          "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-          "published": "2026-10-12T13:33:28+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.7269
         }
       ],
       "no_news": false
@@ -226,27 +152,114 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.0276,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+          "published": "2026-10-13T04:43:18+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.4939,
+          "label": "BEARISH",
+          "confidence": 0.4939
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+          "published": "2026-10-12T15:27:09+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential \u2018largest-ever\u2019 crypto bull market",
+          "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked.",
+          "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
+          "published": "2026-10-12T13:43:32+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 5,
+      "avg_compound": 0.0039,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+          "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply.",
+          "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+          "published": "2026-10-12T15:56:35+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+          "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
+          "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+          "published": "2026-10-12T18:09:15+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "TheBlock",
+          "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
+          "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
+          "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+          "published": "2026-10-12T12:01:02+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
     "LINK": {
-      "article_count": 2,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-          "published": "2026-10-12T12:09:09+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "Decrypt",
           "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
@@ -420,14 +433,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "title": "Russia\u2019s largest bank Sberbank secures approval to trade crypto",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
-      "published": "2026-10-12T15:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+      "published": "2026-10-13T11:02:47+00:00",
       "coins": [],
-      "compound": -0.6597,
-      "label": "BEARISH",
+      "compound": 0.6597,
+      "label": "BULLISH",
       "confidence": 0.6597
+    },
+    {
+      "source": "Decrypt",
+      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+      "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+      "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+      "published": "2026-10-13T09:12:45+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "Decrypt",
@@ -442,6 +466,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "\u2018Leave\u2019: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+      "summary": "The proposal would require crypto owners to report holdings over \u20ac100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
+      "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+      "published": "2026-10-13T10:30:37+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
+    },
+    {
+      "source": "Decrypt",
       "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
       "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
       "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
@@ -449,17 +484,6 @@
       "coins": [],
       "compound": -0.4215,
       "label": "BEARISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "TheBlock",
-      "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except \u2018onions and box office receipts\u2019",
-      "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
-      "published": "2026-10-12T04:33:57+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
       "confidence": 0.4215
     },
     {
@@ -486,21 +510,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-      "published": "2026-10-12T11:02:38+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "published": "2026-10-13T11:56:04+00:00",
       "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
-      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-      "published": "2026-10-12T12:01:53+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+      "published": "2026-10-13T11:58:04+00:00",
       "coins": [],
       "compound": -0.2263,
       "label": "BEARISH",
@@ -518,44 +542,22 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
-      "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-      "published": "2026-10-10T18:35:25+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "Decrypt",
-      "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
-      "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
-      "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
-      "published": "2026-10-11T17:11:03+00:00",
+      "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+      "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
+      "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+      "published": "2026-10-13T11:53:15+00:00",
       "coins": [],
-      "compound": -0.0644,
-      "label": "BEARISH",
-      "confidence": 0.0644
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
-      "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
-      "published": "2026-10-12T07:49:40+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "published": "2026-10-11T18:30:00+00:00",
+      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+      "published": "2026-10-13T09:27:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -578,17 +580,6 @@
       "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
       "published": "2026-10-12T21:49:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
-      "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
-      "published": "2026-10-12T02:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
