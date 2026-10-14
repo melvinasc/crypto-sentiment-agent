@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:36:59.018139+00:00",
+  "generated_at": "2026-10-14T11:38:04.643760+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -54,12 +54,12 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
+      "article_count": 2,
+      "avg_compound": 0.2009,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -73,39 +73,15 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.0766,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
-          "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
-          "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
-          "published": "2026-10-12T17:06:25+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
         },
         {
           "source": "CoinDesk",
-          "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+          "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-          "published": "2026-10-14T04:11:16+00:00",
+          "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+          "published": "2026-10-14T05:24:12+00:00",
           "coins": [
-            "SOL"
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -115,11 +91,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.0735,
+      "article_count": 29,
+      "avg_compound": -0.1017,
       "overall": "BEARISH",
       "bullish": 9,
-      "bearish": 11,
+      "bearish": 13,
       "neutral": 7,
       "top_articles": [
         {
@@ -164,6 +140,43 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.0766,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+          "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana.",
+          "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+          "published": "2026-10-12T17:06:25+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+          "published": "2026-10-14T04:11:16+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 2,
       "avg_compound": 0.0513,
@@ -187,10 +200,10 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+          "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
           "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
-          "published": "2026-10-13T11:06:39+00:00",
+          "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+          "published": "2026-10-14T08:10:07+00:00",
           "coins": [
             "BTC",
             "ETH"
@@ -345,17 +358,6 @@
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
-      "published": "2026-10-13T15:24:52+00:00",
-      "coins": [],
-      "compound": -0.8281,
-      "label": "BEARISH",
-      "confidence": 0.8281
-    },
-    {
       "source": "Decrypt",
       "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
       "summary": "AnyPS5 is working to get any PS5 game running natively on PC\u2014and gamers are hoping it'll work for the next instalment of Grand Theft Auto.",
@@ -365,17 +367,6 @@
       "compound": 0.802,
       "label": "BULLISH",
       "confidence": 0.802
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Russia\u2019s largest bank Sberbank secures approval to trade crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-      "published": "2026-10-13T11:02:47+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
@@ -389,17 +380,6 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
-      "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
-      "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
-      "published": "2026-10-13T09:12:45+00:00",
-      "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
-    },
-    {
       "source": "TheBlock",
       "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
       "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
@@ -411,17 +391,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "Decrypt",
-      "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
-      "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers.",
-      "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
-      "published": "2026-10-12T21:46:03+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
-    },
-    {
       "source": "CoinDesk",
       "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
       "summary": "",
@@ -431,6 +400,17 @@
       "compound": 0.4767,
       "label": "BULLISH",
       "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
+      "summary": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards.",
+      "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
+      "published": "2026-10-14T10:21:34+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
@@ -455,17 +435,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "CoinDesk",
-      "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-      "published": "2026-10-13T11:56:04+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
       "source": "Decrypt",
       "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
       "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
@@ -478,13 +447,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-      "published": "2026-10-13T11:58:04+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+      "published": "2026-10-14T11:12:36+00:00",
       "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
+      "compound": 0.2263,
+      "label": "BULLISH",
       "confidence": 0.2263
     },
     {
@@ -522,6 +491,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
+      "published": "2026-10-14T10:38:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+      "published": "2026-10-14T08:48:11+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
@@ -537,17 +528,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "published": "2026-10-13T15:52:09+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "published": "2026-10-13T09:27:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
