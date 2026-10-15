@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:31:43.939722+00:00",
+  "generated_at": "2026-10-15T04:19:24.195985+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -143,11 +143,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.0029,
+      "article_count": 26,
+      "avg_compound": -0.0159,
       "overall": "NEUTRAL",
       "bullish": 10,
-      "bearish": 11,
+      "bearish": 12,
       "neutral": 4,
       "top_articles": [
         {
@@ -493,6 +493,17 @@
       "confidence": 0.2263
     },
     {
+      "source": "Decrypt",
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "published": "2026-10-14T21:46:04+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "CoinDesk",
       "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
       "summary": "",
@@ -537,17 +548,6 @@
       "confidence": 0.09
     },
     {
-      "source": "Decrypt",
-      "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
-      "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
-      "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
-      "published": "2026-10-13T21:16:04+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "CoinDesk",
       "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
       "summary": "",
@@ -586,17 +586,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
       "published": "2026-10-14T10:38:47+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-      "published": "2026-10-14T08:48:11+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
