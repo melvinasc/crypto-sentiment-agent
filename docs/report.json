@@ -1,84 +1,53 @@
 {
-  "generated_at": "2026-10-15T16:47:40.153581+00:00",
+  "generated_at": "2026-10-15T21:14:03.274817+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.7783,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
+    "BTC": {
+      "article_count": 24,
+      "avg_compound": -0.2237,
+      "overall": "BEARISH",
+      "bullish": 4,
+      "bearish": 15,
+      "neutral": 5,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-          "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-          "published": "2026-10-14T19:46:03+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a></p>\n<p>Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+          "published": "2026-10-15T15:58:08+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "USDT"
+            "BTC"
           ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3352,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-          "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
-          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-          "published": "2026-10-14T17:46:05+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.8807,
-          "label": "BULLISH",
-          "confidence": 0.8807
-        },
-        {
-          "source": "Decrypt",
-          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-          "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-          "published": "2026-10-14T19:46:03+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "USDT"
-          ],
-          "compound": 0.7783,
-          "label": "BULLISH",
-          "confidence": 0.7783
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
-          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-          "published": "2026-10-15T14:27:18+00:00",
-          "coins": [
-            "ETH",
-            "XRP",
-            "SOL"
-          ],
-          "compound": -0.3182,
+          "compound": -0.9477,
           "label": "BEARISH",
-          "confidence": 0.3182
+          "confidence": 0.9477
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows\" rel=\"nofollow\">Bitcoin&#8217;s Volatility Has Fallen Within S&amp;P 500 Ranks, Study Shows</a></p>\n<p>Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&#038;P 500 stocks. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows\" rel=\"nofollow\">Bitcoin&#8217;s Volatility Has Fallen Within S&amp;P 500 Ranks, Study Shows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+          "published": "2026-10-15T20:30:46+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8442,
+          "label": "BEARISH",
+          "confidence": 0.8442
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a></p>\n<p>What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+          "published": "2026-10-15T13:28:48+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.802,
+          "label": "BEARISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -107,63 +76,12 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.1255,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 14,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a></p>\n<p>Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
-          "published": "2026-10-15T15:58:08+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9477,
-          "label": "BEARISH",
-          "confidence": 0.9477
-        },
-        {
-          "source": "Decrypt",
-          "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-          "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
-          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-          "published": "2026-10-14T17:46:05+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.8807,
-          "label": "BULLISH",
-          "confidence": 0.8807
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a></p>\n<p>What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
-          "published": "2026-10-15T13:28:48+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 6,
-      "avg_compound": 0.0785,
+      "article_count": 5,
+      "avg_compound": 0.1622,
       "overall": "BULLISH",
       "bullish": 3,
-      "bearish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -193,17 +111,58 @@
           "confidence": 0.4767
         },
         {
-          "source": "Decrypt",
-          "title": "Solana Sets a Date for Its Next Major Upgrade",
-          "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
-          "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
-          "published": "2026-10-14T19:16:04+00:00",
+          "source": "TheBlock",
+          "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+          "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
+          "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+          "published": "2026-10-15T12:00:00+00:00",
           "coins": [
             "SOL"
           ],
-          "compound": -0.34,
-          "label": "BEARISH",
+          "compound": 0.34,
+          "label": "BULLISH",
           "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.1591,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+          "published": "2026-10-15T14:27:18+00:00",
+          "coins": [
+            "ETH",
+            "XRP",
+            "SOL"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+          "published": "2026-10-15T04:25:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -391,6 +350,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -561,14 +530,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+      "title": "At the White House, crypto policy vacancy looms large",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
-      "published": "2026-10-14T15:35:36+00:00",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large",
+      "published": "2026-10-15T18:48:02+00:00",
       "coins": [],
-      "compound": 0.0516,
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
+      "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
+      "url": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
+      "published": "2026-10-15T17:36:05+00:00",
+      "coins": [],
+      "compound": 0.1531,
       "label": "BULLISH",
-      "confidence": 0.0516
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+      "summary": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as data centers become a midterm flashpoint.",
+      "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
+      "published": "2026-10-15T18:16:04+00:00",
+      "coins": [],
+      "compound": -0.0865,
+      "label": "BEARISH",
+      "confidence": 0.0865
     },
     {
       "source": "CoinDesk",
