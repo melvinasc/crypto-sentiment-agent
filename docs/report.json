@@ -1,14 +1,40 @@
 {
-  "generated_at": "2026-10-15T04:19:24.195985+00:00",
+  "generated_at": "2026-10-15T11:16:22.162114+00:00",
   "total_articles": 55,
   "coins": {
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.7783,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+          "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+          "published": "2026-10-14T19:46:03+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "USDT"
+          ],
+          "compound": 0.7783,
+          "label": "BULLISH",
+          "confidence": 0.7783
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.8295,
+      "article_count": 3,
+      "avg_compound": 0.553,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -38,32 +64,45 @@
           "compound": 0.7783,
           "label": "BULLISH",
           "confidence": 0.7783
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+          "published": "2026-10-15T04:25:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
-    "USDT": {
+    "USDC": {
       "article_count": 1,
-      "avg_compound": 0.7783,
+      "avg_compound": 0.2023,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
-          "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
-          "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
-          "published": "2026-10-14T19:46:03+00:00",
+          "source": "TheBlock",
+          "title": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
+          "summary": "The EBA classified Circle\u2019s USDC as the EU\u2019s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+          "published": "2026-10-15T11:10:07+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "USDT"
+            "USDC"
           ],
-          "compound": 0.7783,
+          "compound": 0.2023,
           "label": "BULLISH",
-          "confidence": 0.7783
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -105,50 +144,13 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.1012,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-          "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
-          "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
-          "published": "2026-10-14T12:00:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "TheBlock",
-          "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
-          "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
-          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-          "published": "2026-10-14T13:00:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 26,
-      "avg_compound": -0.0159,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 12,
-      "neutral": 4,
+      "avg_compound": -0.0774,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 13,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -189,6 +191,58 @@
           "compound": 0.8481,
           "label": "BULLISH",
           "confidence": 0.8481
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": 0.0674,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
+          "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+          "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+          "published": "2026-10-14T12:00:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+          "published": "2026-10-15T04:25:15+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
+          "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
+          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+          "published": "2026-10-14T13:00:00+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -336,19 +390,31 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+      "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+      "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+      "published": "2026-10-15T10:01:21+00:00",
+      "coins": [],
+      "compound": -0.8658,
+      "label": "BEARISH",
+      "confidence": 0.8658
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+      "published": "2026-10-15T06:17:58+00:00",
+      "coins": [],
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
+    },
     {
       "source": "TheBlock",
       "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
@@ -392,17 +458,6 @@
       "compound": -0.5719,
       "label": "BEARISH",
       "confidence": 0.5719
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
-      "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
-      "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
-      "published": "2026-10-13T21:46:04+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
     },
     {
       "source": "TheBlock",
@@ -472,14 +527,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+      "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
-      "published": "2026-10-14T11:12:36+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+      "published": "2026-10-15T09:20:57+00:00",
       "coins": [],
-      "compound": 0.2263,
+      "compound": 0.2732,
       "label": "BULLISH",
-      "confidence": 0.2263
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -504,17 +559,6 @@
       "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
-      "published": "2026-10-14T13:51:12+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Move Over, Saylor, There\u2019s a New Top Buyer in Town",
       "summary": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
@@ -524,17 +568,6 @@
       "compound": 0.1476,
       "label": "BULLISH",
       "confidence": 0.1476
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-      "published": "2026-10-14T13:07:45+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
     },
     {
       "source": "CoinDesk",
@@ -560,32 +593,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+      "published": "2026-10-15T10:00:56+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Australia\u2019s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+      "published": "2026-10-15T09:53:37+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
       "published": "2026-10-14T16:34:53+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "published": "2026-10-14T14:08:43+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "S&P 500 options are the hottest bet on this Hyperliquid exchange",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/14/s-and-p-500-options-are-the-hottest-bet-on-this-hyperliquid-exchange",
-      "published": "2026-10-14T10:38:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
