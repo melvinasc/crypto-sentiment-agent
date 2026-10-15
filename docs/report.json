@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:16:22.162114+00:00",
+  "generated_at": "2026-10-15T16:47:40.153581+00:00",
   "total_articles": 55,
   "coins": {
     "USDT": {
@@ -29,11 +29,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.553,
+      "article_count": 4,
+      "avg_compound": 0.3352,
       "overall": "BULLISH",
       "bullish": 2,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -66,19 +66,19 @@
           "confidence": 0.7783
         },
         {
-          "source": "CoinDesk",
-          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-          "published": "2026-10-15T04:25:15+00:00",
+          "source": "Decrypt",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+          "published": "2026-10-15T14:27:18+00:00",
           "coins": [
-            "BTC",
             "ETH",
-            "XRP"
+            "XRP",
+            "SOL"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
@@ -107,12 +107,63 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": -0.1255,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 14,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a></p>\n<p>Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+          "published": "2026-10-15T15:58:08+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9477,
+          "label": "BEARISH",
+          "confidence": 0.9477
+        },
+        {
+          "source": "Decrypt",
+          "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+          "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
+          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+          "published": "2026-10-14T17:46:05+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.8807,
+          "label": "BULLISH",
+          "confidence": 0.8807
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a></p>\n<p>What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+          "published": "2026-10-15T13:28:48+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.802,
+          "label": "BEARISH",
+          "confidence": 0.802
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1229,
+      "article_count": 6,
+      "avg_compound": 0.0785,
       "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
+      "bullish": 3,
+      "bearish": 3,
       "neutral": 0,
       "top_articles": [
         {
@@ -127,6 +178,19 @@
           "compound": 0.5859,
           "label": "BULLISH",
           "confidence": 0.5859
+        },
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+          "summary": "DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury.",
+          "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+          "published": "2026-10-15T15:48:32+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         },
         {
           "source": "Decrypt",
@@ -144,77 +208,41 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0774,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 13,
-      "neutral": 5,
+    "XRP": {
+      "article_count": 3,
+      "avg_compound": -0.015,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-          "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
-          "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
-          "published": "2026-10-14T17:46:05+00:00",
+          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+          "published": "2026-10-15T14:27:18+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "ETH",
+            "XRP",
+            "SOL"
           ],
-          "compound": 0.8807,
-          "label": "BULLISH",
-          "confidence": 0.8807
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Capitalism-is-Broken-and-Bitcoin-is-the-Great-Equalizer-Natalie-Brunell-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell\" rel=\"nofollow\">Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell</a></p>\n<p>Young people are angry at capitalism, but Natalie Brunell says they blame the wrong target. She explains how Bitcoin can fix a rigged bank-fiat system.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell\" rel=\"nofollow\">Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mark-masonbtcmedia-org\" rel=\"nofollow\">Mark Mason</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell",
-          "published": "2026-10-14T14:22:57+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8779,
+          "compound": -0.3182,
           "label": "BEARISH",
-          "confidence": 0.8779
+          "confidence": 0.3182
         },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/06/Kraken-Launches-Krak-a-No-Fee-App-to-Use-and-Store-Bitcoin-and-Crypto.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch\" rel=\"nofollow\">Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch</a></p>\n<p>Kraken currently has more than 100 licenses and registrations worldwide. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch\" rel=\"nofollow\">Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-          "published": "2026-10-13T22:52:10+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8481,
-          "label": "BULLISH",
-          "confidence": 0.8481
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.0674,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Evernorth taps Ripple, Kraken, Coinbase and BitGo to put $648 million XRP treasury to work",
-          "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
-          "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
-          "published": "2026-10-14T12:00:00+00:00",
+          "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+          "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
+          "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+          "published": "2026-10-15T14:43:35+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.2023,
+          "compound": 0.2732,
           "label": "BULLISH",
-          "confidence": 0.2023
+          "confidence": 0.2732
         },
         {
           "source": "CoinDesk",
@@ -226,43 +254,6 @@
             "BTC",
             "ETH",
             "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
-          "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
-          "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
-          "published": "2026-10-14T13:00:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
-          "summary": "Polygon Labs completed its Coinme acquisition, bringing 37 state money transmitter licenses into its stablecoin payments infrastructure.",
-          "url": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518",
-          "published": "2026-10-14T13:00:00+00:00",
-          "coins": [
-            "MATIC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -351,6 +342,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "MATIC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -417,28 +418,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
-      "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform.",
-      "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
-      "published": "2026-10-14T13:21:37+00:00",
-      "coins": [],
-      "compound": 0.7717,
-      "label": "BULLISH",
-      "confidence": 0.7717
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
-      "summary": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Be\u015fikta\u015f.",
-      "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
-      "published": "2026-10-14T14:03:20+00:00",
-      "coins": [],
-      "compound": 0.6808,
-      "label": "BULLISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "TheBlock",
       "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
       "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
       "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
@@ -449,15 +428,15 @@
       "confidence": 0.5994
     },
     {
-      "source": "Decrypt",
-      "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
-      "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
-      "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
-      "published": "2026-10-14T13:41:21+00:00",
+      "source": "CoinDesk",
+      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+      "published": "2026-10-15T12:35:24+00:00",
       "coins": [],
-      "compound": -0.5719,
+      "compound": -0.5859,
       "label": "BEARISH",
-      "confidence": 0.5719
+      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -469,17 +448,6 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
-    },
-    {
-      "source": "TheBlock",
-      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
-      "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
-      "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
-      "published": "2026-10-14T15:47:18+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
@@ -494,24 +462,24 @@
     },
     {
       "source": "Decrypt",
-      "title": "Kraken Owner Payward to Buy Lithuania's Saldo Bank in EU Push",
-      "summary": "Co-CEO Arjun Sethi says customers want cash, crypto, tokenized stocks and credit in one place, starting with lending and cards.",
-      "url": "https://decrypt.co/380912/kraken-owner-payward-to-buy-lithuanias-saldo-bank-in-eu-push",
-      "published": "2026-10-14T10:21:34+00:00",
+      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+      "summary": "The first major integration since Mastercard\u2019s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
+      "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+      "published": "2026-10-15T16:28:50+00:00",
       "coins": [],
-      "compound": 0.4404,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4404
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
-      "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
-      "published": "2026-10-14T14:49:32+00:00",
+      "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+      "published": "2026-10-15T12:00:00+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
+      "compound": -0.296,
+      "label": "BEARISH",
       "confidence": 0.296
     },
     {
@@ -537,15 +505,26 @@
       "confidence": 0.2732
     },
     {
-      "source": "Decrypt",
-      "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-      "summary": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant.",
-      "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-      "published": "2026-10-14T13:47:44+00:00",
+      "source": "TheBlock",
+      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+      "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+      "published": "2026-10-15T14:26:53+00:00",
       "coins": [],
-      "compound": -0.2263,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.2263
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
+      "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
+      "summary": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.",
+      "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+      "published": "2026-10-15T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.2716,
+      "label": "BULLISH",
+      "confidence": 0.2716
     },
     {
       "source": "Decrypt",
@@ -560,25 +539,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Move Over, Saylor, There\u2019s a New Top Buyer in Town",
-      "summary": "With Strategy's preferred stock STRC closing in on $100 par, Saylor might not be the number two buyer for long...",
-      "url": "https://decrypt.co/380920/morning-minute-move-over-saylor-theres-a-new-top-buyer-in-town",
-      "published": "2026-10-14T12:11:35+00:00",
+      "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
+      "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.",
+      "url": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
+      "published": "2026-10-15T12:42:30+00:00",
       "coins": [],
-      "compound": 0.1476,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.1476
+      "confidence": 0.1779
     },
     {
-      "source": "CoinDesk",
-      "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-      "published": "2026-10-14T14:31:14+00:00",
+      "source": "TheBlock",
+      "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+      "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
+      "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+      "published": "2026-10-15T16:00:02+00:00",
       "coins": [],
-      "compound": 0.09,
+      "compound": 0.1779,
       "label": "BULLISH",
-      "confidence": 0.09
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -590,6 +569,17 @@
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "published": "2026-10-15T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -625,11 +615,11 @@
       "confidence": 0.0
     },
     {
-      "source": "TheBlock",
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-      "published": "2026-10-14T15:53:15+00:00",
+      "source": "Decrypt",
+      "title": "Ledger Announces Atom Touchscreen Android Device",
+      "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
+      "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+      "published": "2026-10-15T13:32:21+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -637,10 +627,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
-      "summary": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
-      "published": "2026-10-14T15:00:00+00:00",
+      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+      "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+      "published": "2026-10-14T15:53:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
