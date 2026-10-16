@@ -1,15 +1,28 @@
 {
-  "generated_at": "2026-10-15T21:14:03.274817+00:00",
+  "generated_at": "2026-10-16T04:14:59.689743+00:00",
   "total_articles": 55,
   "coins": {
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.2237,
+      "avg_compound": -0.2785,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 15,
+      "bullish": 3,
+      "bearish": 16,
       "neutral": 5,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a></p>\n<p>112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+          "published": "2026-10-15T23:03:27+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9559,
+          "label": "BEARISH",
+          "confidence": 0.9559
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
@@ -35,19 +48,6 @@
           "compound": -0.8442,
           "label": "BEARISH",
           "confidence": 0.8442
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Charles-Edwards-Why-Quantum-Risk-Could-Be-MASSIVE-BTC-Upside-Catalyst-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a></p>\n<p>What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst\" rel=\"nofollow\">Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
-          "published": "2026-10-15T13:28:48+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -387,6 +387,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+      "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
+      "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+      "published": "2026-10-15T22:15:56+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
+    },
+    {
+      "source": "TheBlock",
       "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
       "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
       "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
@@ -419,15 +430,37 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-      "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
-      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-      "published": "2026-10-14T21:16:03+00:00",
+      "source": "TheBlock",
+      "title": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
+      "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+      "published": "2026-10-15T21:41:14+00:00",
       "coins": [],
-      "compound": 0.4854,
+      "compound": 0.5106,
       "label": "BULLISH",
-      "confidence": 0.4854
+      "confidence": 0.5106
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+      "summary": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption.",
+      "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+      "published": "2026-10-15T21:46:04+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+      "summary": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
+      "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+      "published": "2026-10-15T22:16:03+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
     },
     {
       "source": "Decrypt",
@@ -446,17 +479,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "published": "2026-10-15T12:00:00+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
-      "summary": "A new Chainalysis report found payments through Coinbase\u2019s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
-      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
-      "published": "2026-10-14T20:16:05+00:00",
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
@@ -595,33 +617,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
-      "published": "2026-10-14T16:34:53+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Ledger Announces Atom Touchscreen Android Device",
       "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
       "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
       "published": "2026-10-15T13:32:21+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-      "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-      "published": "2026-10-14T15:53:15+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
