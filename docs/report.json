@@ -1,14 +1,53 @@
 {
-  "generated_at": "2026-10-16T11:10:56.983919+00:00",
+  "generated_at": "2026-10-16T16:29:44.227711+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3473,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+          "published": "2026-10-16T05:53:58+00:00",
+          "coins": [
+            "XRP",
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+          "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
+          "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+          "published": "2026-10-15T14:43:35+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.2773,
+      "article_count": 25,
+      "avg_compound": -0.2574,
       "overall": "BEARISH",
-      "bullish": 5,
+      "bullish": 7,
       "bearish": 16,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -37,160 +76,27 @@
           "confidence": 0.9477
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-14.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows\" rel=\"nofollow\">Bitcoin&#8217;s Volatility Has Fallen Within S&amp;P 500 Ranks, Study Shows</a></p>\n<p>Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&#038;P 500 stocks. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows\" rel=\"nofollow\">Bitcoin&#8217;s Volatility Has Fallen Within S&amp;P 500 Ranks, Study Shows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
-          "published": "2026-10-15T20:30:46+00:00",
+          "source": "Decrypt",
+          "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+          "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
+          "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+          "published": "2026-10-16T12:22:18+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8442,
+          "compound": -0.886,
           "label": "BEARISH",
-          "confidence": 0.8442
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
-          "summary": "The EBA classified Circle\u2019s USDC as the EU\u2019s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
-          "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
-          "published": "2026-10-15T11:10:07+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.1255,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-          "published": "2026-10-16T05:53:58+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
-          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-          "published": "2026-10-15T14:27:18+00:00",
-          "coins": [
-            "ETH",
-            "XRP",
-            "SOL"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
-          "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
-          "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
-          "published": "2026-10-15T14:43:35+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.0753,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-          "published": "2026-10-16T05:53:58+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
-          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-          "published": "2026-10-15T14:27:18+00:00",
-          "coins": [
-            "ETH",
-            "XRP",
-            "SOL"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "Decrypt",
-          "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
-          "summary": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
-          "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
-          "published": "2026-10-16T09:10:48+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.2732,
-          "label": "BULLISH",
-          "confidence": 0.2732
+          "confidence": 0.886
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 5,
-      "avg_compound": 0.0451,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
+      "article_count": 2,
+      "avg_compound": 0.2384,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
@@ -207,32 +113,107 @@
           "confidence": 0.4767
         },
         {
-          "source": "TheBlock",
-          "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
-          "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
-          "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
-          "published": "2026-10-15T12:00:00+00:00",
+          "source": "Decrypt",
+          "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
+          "summary": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
+          "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
+          "published": "2026-10-16T10:16:06+00:00",
           "coins": [
             "SOL"
           ],
-          "compound": 0.34,
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.1158,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+          "published": "2026-10-16T05:53:58+00:00",
+          "coins": [
+            "XRP",
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4215,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.4215
         },
         {
           "source": "Decrypt",
-          "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
-          "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
-          "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
-          "published": "2026-10-15T14:27:18+00:00",
+          "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
+          "summary": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
+          "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
+          "published": "2026-10-16T09:10:48+00:00",
           "coins": [
-            "ETH",
-            "XRP",
-            "SOL"
+            "BTC",
+            "ETH"
           ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        },
+        {
+          "source": "CoinDesk",
+          "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+          "published": "2026-10-16T04:29:19+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 2,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+          "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
+          "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+          "published": "2026-10-16T14:58:29+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+          "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
+          "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+          "published": "2026-10-16T11:25:12+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -380,6 +361,17 @@
   },
   "uncategorised": [
     {
+      "source": "Decrypt",
+      "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+      "summary": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military.",
+      "url": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
+      "published": "2026-10-16T15:43:58+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
+    },
+    {
       "source": "TheBlock",
       "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
       "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
@@ -389,17 +381,6 @@
       "compound": -0.6124,
       "label": "BEARISH",
       "confidence": 0.6124
-    },
-    {
-      "source": "CoinDesk",
-      "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
-      "published": "2026-10-15T12:35:24+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
     },
     {
       "source": "TheBlock",
@@ -490,17 +471,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
-      "published": "2026-10-15T12:00:00+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
       "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
@@ -510,28 +480,6 @@
       "compound": -0.2732,
       "label": "BEARISH",
       "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
-      "summary": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.",
-      "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
-      "published": "2026-10-15T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.2716,
-      "label": "BULLISH",
-      "confidence": 0.2716
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
-      "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.",
-      "url": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
-      "published": "2026-10-15T12:42:30+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -590,6 +538,28 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "published": "2026-10-16T14:58:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+      "published": "2026-10-16T11:15:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
@@ -601,21 +571,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
       "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-      "published": "2026-10-15T15:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+      "published": "2026-10-16T09:48:14+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Ledger Announces Atom Touchscreen Android Device",
-      "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
-      "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
-      "published": "2026-10-15T13:32:21+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "published": "2026-10-15T15:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
