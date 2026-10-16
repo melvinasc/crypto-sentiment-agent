@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:29:44.227711+00:00",
+  "generated_at": "2026-10-16T20:53:03.491711+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -41,56 +41,6 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.2574,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 16,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a></p>\n<p>112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
-          "published": "2026-10-15T23:03:27+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9559,
-          "label": "BEARISH",
-          "confidence": 0.9559
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-4.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a></p>\n<p>Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions\" rel=\"nofollow\">Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
-          "published": "2026-10-15T15:58:08+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9477,
-          "label": "BEARISH",
-          "confidence": 0.9477
-        },
-        {
-          "source": "Decrypt",
-          "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-          "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-          "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-          "published": "2026-10-16T12:22:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.886,
-          "label": "BEARISH",
-          "confidence": 0.886
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.2384,
@@ -124,6 +74,56 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 24,
+      "avg_compound": -0.1896,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 14,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-5.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a></p>\n<p>112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam\" rel=\"nofollow\">Brooklyn DA Pulls the Plug on Crypto Scam Network</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+          "published": "2026-10-15T23:03:27+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9559,
+          "label": "BEARISH",
+          "confidence": 0.9559
+        },
+        {
+          "source": "Decrypt",
+          "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+          "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
+          "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+          "published": "2026-10-16T12:22:18+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.886,
+          "label": "BEARISH",
+          "confidence": 0.886
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares\" rel=\"nofollow\">Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares</a></p>\n<p>Bitcoin is still reacting to weekly data but long-term investors shouldn\u2019t be worried, according to the European asset manager. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares\" rel=\"nofollow\">Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+          "published": "2026-10-16T18:30:57+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8625,
+          "label": "BEARISH",
+          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -182,13 +182,26 @@
       "no_news": false
     },
     "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.0,
+      "article_count": 3,
+      "avg_compound": -0.0427,
       "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 0,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+          "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
+          "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+          "published": "2026-10-16T18:55:37+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.128,
+          "label": "BEARISH",
+          "confidence": 0.128
+        },
         {
           "source": "TheBlock",
           "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
@@ -383,6 +396,17 @@
       "confidence": 0.6124
     },
     {
+      "source": "Decrypt",
+      "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
+      "summary": "The judge ruled that a shift in the CFTC\u2019s enforcement priorities and misconduct allegations against its enforcement division weren\u2019t enough to reopen a deal Gemini signed weeks before trial.",
+      "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+      "published": "2026-10-16T16:36:04+00:00",
+      "coins": [],
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
+    },
+    {
       "source": "TheBlock",
       "title": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
       "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
@@ -460,28 +484,6 @@
       "confidence": 0.4019
     },
     {
-      "source": "Decrypt",
-      "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
-      "summary": "The first major integration since Mastercard\u2019s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
-      "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-      "published": "2026-10-15T16:28:50+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
-      "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-      "published": "2026-10-15T14:26:53+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "TheBlock",
       "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
       "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
@@ -491,6 +493,17 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+      "published": "2026-10-16T19:36:04+00:00",
+      "coins": [],
+      "compound": -0.1655,
+      "label": "BEARISH",
+      "confidence": 0.1655
     },
     {
       "source": "CoinDesk",
@@ -505,14 +518,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
-      "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
-      "url": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
-      "published": "2026-10-15T17:36:05+00:00",
+      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
+      "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
+      "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+      "published": "2026-10-16T20:16:04+00:00",
       "coins": [],
-      "compound": 0.1531,
+      "compound": 0.1451,
       "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.1451
     },
     {
       "source": "CoinDesk",
@@ -524,17 +537,6 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-      "summary": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as data centers become a midterm flashpoint.",
-      "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
-      "published": "2026-10-15T18:16:04+00:00",
-      "coins": [],
-      "compound": -0.0865,
-      "label": "BEARISH",
-      "confidence": 0.0865
     },
     {
       "source": "CoinDesk",
@@ -571,21 +573,32 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Crypto gives up some ground as AI selloff picks up steam",
+      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-      "published": "2026-10-16T09:48:14+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+      "published": "2026-10-15T15:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
-      "published": "2026-10-15T15:00:00+00:00",
+      "source": "Decrypt",
+      "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+      "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
+      "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
+      "published": "2026-10-16T17:48:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+      "summary": "The expanded partnership builds on Marqeta\u2019s work powering Coinbase\u2019s U.S. debit card offering in 2020.",
+      "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
+      "published": "2026-10-16T17:21:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
