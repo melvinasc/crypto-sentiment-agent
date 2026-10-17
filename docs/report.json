@@ -1,30 +1,15 @@
 {
-  "generated_at": "2026-10-17T10:30:07.313323+00:00",
+  "generated_at": "2026-10-17T15:24:25.817899+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3473,
+      "article_count": 1,
+      "avg_compound": 0.2732,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-          "published": "2026-10-16T05:53:58+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
         {
           "source": "TheBlock",
           "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
@@ -79,11 +64,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.1832,
+      "article_count": 23,
+      "avg_compound": -0.2056,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 15,
+      "bullish": 7,
+      "bearish": 14,
       "neutral": 2,
       "top_articles": [
         {
@@ -129,28 +114,13 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.1158,
+      "article_count": 4,
+      "avg_compound": 0.0683,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
-      "neutral": 4,
+      "neutral": 3,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-          "published": "2026-10-16T05:53:58+00:00",
-          "coins": [
-            "XRP",
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
         {
           "source": "Decrypt",
           "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
@@ -166,11 +136,24 @@
           "confidence": 0.2732
         },
         {
-          "source": "CoinDesk",
-          "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
-          "published": "2026-10-16T04:29:19+00:00",
+          "source": "Decrypt",
+          "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+          "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
+          "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+          "published": "2026-10-16T10:39:08+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "How Ethereum Works",
+          "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways.",
+          "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+          "published": "2026-10-16T13:31:07+00:00",
           "coins": [
             "ETH"
           ],
@@ -223,6 +206,30 @@
           "published": "2026-10-16T11:25:12+00:00",
           "coins": [
             "USDC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "MATIC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+          "published": "2026-10-17T14:00:00+00:00",
+          "coins": [
+            "MATIC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -302,16 +309,6 @@
       "no_news": true
     },
     "LTC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "MATIC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -440,26 +437,15 @@
       "confidence": 0.5063
     },
     {
-      "source": "Decrypt",
-      "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
-      "summary": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption.",
-      "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
-      "published": "2026-10-15T21:46:04+00:00",
+      "source": "CoinDesk",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "published": "2026-10-17T15:00:00+00:00",
       "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
-      "summary": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
-      "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
-      "published": "2026-10-15T22:16:03+00:00",
-      "coins": [],
-      "compound": -0.4767,
-      "label": "BEARISH",
-      "confidence": 0.4767
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "TheBlock",
@@ -482,6 +468,28 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "published": "2026-10-17T13:01:04+00:00",
+      "coins": [],
+      "compound": 0.3892,
+      "label": "BULLISH",
+      "confidence": 0.3892
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+      "published": "2026-10-17T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -566,6 +574,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
       "published": "2026-10-16T10:48:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
+      "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+      "published": "2026-10-17T15:01:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
