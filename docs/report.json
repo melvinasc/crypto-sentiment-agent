@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:26:39.735784+00:00",
+  "generated_at": "2026-10-18T04:12:53.376248+00:00",
   "total_articles": 55,
   "coins": {
     "BTC": {
@@ -53,13 +53,26 @@
       "no_news": false
     },
     "USDC": {
-      "article_count": 3,
-      "avg_compound": -0.0427,
-      "overall": "NEUTRAL",
+      "article_count": 4,
+      "avg_compound": -0.1003,
+      "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+          "published": "2026-10-18T01:06:35+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        },
         {
           "source": "Decrypt",
           "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
@@ -79,19 +92,6 @@
           "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
           "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
           "published": "2026-10-16T14:58:29+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
-          "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler.",
-          "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-          "published": "2026-10-16T11:25:12+00:00",
           "coins": [
             "USDC"
           ],
@@ -393,17 +393,6 @@
       "compound": 0.5095,
       "label": "BULLISH",
       "confidence": 0.5095
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. judge rejects Gemini\u2019s appeal to void $5 million settlement despite CFTC backing",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-      "published": "2026-10-16T09:36:21+00:00",
-      "coins": [],
-      "compound": -0.5063,
-      "label": "BEARISH",
-      "confidence": 0.5063
     },
     {
       "source": "CoinDesk",
