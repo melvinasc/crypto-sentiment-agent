@@ -1,14 +1,38 @@
 {
-  "generated_at": "2026-10-18T10:50:29.451651+00:00",
+  "generated_at": "2026-10-18T15:45:06.873168+00:00",
   "total_articles": 55,
   "coins": {
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": -0.3612,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+          "published": "2026-10-18T12:00:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.2513,
+      "article_count": 20,
+      "avg_compound": -0.2299,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 15,
-      "neutral": 1,
+      "bearish": 14,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -53,13 +77,26 @@
       "no_news": false
     },
     "USDC": {
-      "article_count": 4,
-      "avg_compound": -0.1003,
-      "overall": "BEARISH",
-      "bullish": 0,
+      "article_count": 5,
+      "avg_compound": -0.0039,
+      "overall": "NEUTRAL",
+      "bullish": 1,
       "bearish": 2,
       "neutral": 2,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+          "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle\u2019s USDC most sensitive.",
+          "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+          "published": "2026-10-18T13:01:04+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        },
         {
           "source": "CoinDesk",
           "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
@@ -85,44 +122,18 @@
           "compound": -0.128,
           "label": "BEARISH",
           "confidence": 0.128
-        },
-        {
-          "source": "TheBlock",
-          "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
-          "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
-          "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-          "published": "2026-10-16T14:58:29+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
-          "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
-          "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
-          "published": "2026-10-16T10:39:08+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "TheBlock",
           "title": "How Ethereum Works",
@@ -187,16 +198,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -439,6 +440,17 @@
       "confidence": 0.3818
     },
     {
+      "source": "CoinDesk",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "published": "2026-10-18T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
       "source": "TheBlock",
       "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
       "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
@@ -539,6 +551,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "published": "2026-10-18T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Big Tech's AI auditors will only see what they're shown",
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
@@ -554,17 +577,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
       "published": "2026-10-16T11:15:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "published": "2026-10-16T10:48:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
