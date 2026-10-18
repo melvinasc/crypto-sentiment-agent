@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:45:06.873168+00:00",
+  "generated_at": "2026-10-18T20:27:21.929699+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -26,27 +26,64 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.2299,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.2709,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 14,
-      "neutral": 0,
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
-          "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
-          "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
-          "published": "2026-10-16T12:22:18+00:00",
+          "source": "TheBlock",
+          "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+          "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
+          "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+          "published": "2026-10-18T16:07:43+00:00",
           "coins": [
-            "BTC"
+            "ETH"
           ],
-          "compound": -0.886,
+          "compound": -0.8126,
           "label": "BEARISH",
-          "confidence": 0.886
+          "confidence": 0.8126
         },
+        {
+          "source": "TheBlock",
+          "title": "How Ethereum Works",
+          "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways.",
+          "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+          "published": "2026-10-16T13:31:07+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "OpenAI says research model spent another wallet\u2019s testnet ETH without authorization on coding task",
+          "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.",
+          "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+          "published": "2026-10-16T11:34:54+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": -0.2121,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 13,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "Bitcoin Magazine",
           "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares",
@@ -72,6 +109,19 @@
           "compound": 0.836,
           "label": "BULLISH",
           "confidence": 0.836
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Math Professor Warns of Threat to Bitcoin from AI Pivot",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Math-Professor-Warns-of-Threat-to-Bitcoin-from-AI-Pivot-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot\" rel=\"nofollow\">Math Professor Warns of Threat to Bitcoin from AI Pivot</a></p>\n<p>Could anyone actually break Bitcoin? Math professor Micah Warren applies game theory to explain why miner incentives and strong security prevent attacks.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot\" rel=\"nofollow\">Math Professor Warns of Threat to Bitcoin from AI Pivot</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot",
+          "published": "2026-10-16T13:25:44+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.802,
+          "label": "BEARISH",
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -122,43 +172,6 @@
           "compound": -0.128,
           "label": "BEARISH",
           "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "How Ethereum Works",
-          "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways.",
-          "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
-          "published": "2026-10-16T13:31:07+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "OpenAI says research model spent another wallet\u2019s testnet ETH without authorization on coding task",
-          "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.",
-          "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
-          "published": "2026-10-16T11:34:54+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -407,6 +420,17 @@
       "confidence": 0.4404
     },
     {
+      "source": "Decrypt",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "summary": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
+      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "published": "2026-10-18T16:31:03+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
       "source": "TheBlock",
       "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",
       "summary": "The court noted that Gemini voluntarily settled three weeks before trial and that policy changes do not warrant reopening the judgment.",
@@ -484,17 +508,6 @@
       "confidence": 0.2551
     },
     {
-      "source": "TheBlock",
-      "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
-      "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
-      "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
-      "published": "2026-10-15T16:00:02+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "Decrypt",
       "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
       "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
@@ -515,17 +528,6 @@
       "compound": 0.1451,
       "label": "BULLISH",
       "confidence": 0.1451
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "published": "2026-10-16T10:54:35+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -551,32 +553,32 @@
     },
     {
       "source": "CoinDesk",
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "published": "2026-10-18T18:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "published": "2026-10-18T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
       "published": "2026-10-18T14:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "published": "2026-10-16T14:58:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "published": "2026-10-16T11:15:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -599,6 +601,17 @@
       "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
       "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
       "published": "2026-10-16T17:48:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "published": "2026-10-18T19:50:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
