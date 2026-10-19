@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:27:21.929699+00:00",
+  "generated_at": "2026-10-19T04:22:02.971265+00:00",
   "total_articles": 55,
   "coins": {
     "BNB": {
@@ -78,11 +78,11 @@
     },
     "BTC": {
       "article_count": 19,
-      "avg_compound": -0.2121,
+      "avg_compound": -0.1871,
       "overall": "BEARISH",
       "bullish": 6,
-      "bearish": 13,
-      "neutral": 0,
+      "bearish": 12,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -388,17 +388,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
-      "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
-      "published": "2026-10-15T21:41:14+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
-    },
-    {
-      "source": "TheBlock",
       "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
       "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks.",
       "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
@@ -451,17 +440,6 @@
       "compound": 0.3892,
       "label": "BULLISH",
       "confidence": 0.3892
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-      "published": "2026-10-17T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
     },
     {
       "source": "CoinDesk",
@@ -530,17 +508,6 @@
       "confidence": 0.1451
     },
     {
-      "source": "CoinDesk",
-      "title": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "published": "2026-10-17T06:39:48+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
       "source": "TheBlock",
       "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
       "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
@@ -550,6 +517,28 @@
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
+      "published": "2026-10-19T02:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "published": "2026-10-18T23:28:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -601,6 +590,17 @@
       "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
       "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
       "published": "2026-10-16T17:48:06+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+      "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+      "published": "2026-10-19T01:10:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
