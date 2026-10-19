@@ -1,38 +1,99 @@
 {
-  "generated_at": "2026-10-19T12:52:03.740365+00:00",
+  "generated_at": "2026-10-19T22:14:48.969717+00:00",
   "total_articles": 55,
   "coins": {
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.7096,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.3454,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
-          "summary": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
-          "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
-          "published": "2026-10-19T10:11:21+00:00",
+          "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+          "summary": "XRP developers published a second amendment to repair the ledger\u2019s new uncollateralized lending feature while the original still awaits validator approval.",
+          "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+          "published": "2026-10-19T20:46:05+00:00",
           "coins": [
-            "LINK"
+            "XRP"
           ],
-          "compound": -0.7096,
-          "label": "BEARISH",
-          "confidence": 0.7096
+          "compound": 0.6908,
+          "label": "BULLISH",
+          "confidence": 0.6908
+        },
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+          "published": "2026-10-19T04:54:31+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
+          "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.",
+          "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+          "published": "2026-10-19T15:28:43+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+          "published": "2026-10-19T20:21:13+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.1785,
+      "article_count": 25,
+      "avg_compound": -0.1038,
       "overall": "BEARISH",
-      "bullish": 5,
+      "bullish": 8,
       "bearish": 11,
-      "neutral": 5,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -49,40 +110,40 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-15.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares\" rel=\"nofollow\">Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares</a></p>\n<p>Bitcoin is still reacting to weekly data but long-term investors shouldn\u2019t be worried, according to the European asset manager. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares\" rel=\"nofollow\">Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
-          "published": "2026-10-16T18:30:57+00:00",
+          "title": "Jeff Park: What The AI Pain Trade Means For Bitcoin",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Jeff-Park-What-The-AI-Pain-Trade-Means-For-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/jeff-park-what-the-ai-pain-trade-means-for-bitcoin\" rel=\"nofollow\">Jeff Park: What The AI Pain Trade Means For Bitcoin</a></p>\n<p>From Strategy to Google, firms adopt preferred securities. Jeff Park explains why digital credit is the future of income and valuation.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/jeff-park-what-the-ai-pain-trade-means-for-bitcoin\" rel=\"nofollow\">Jeff Park: What The AI Pain Trade Means For Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/jeff-park-what-the-ai-pain-trade-means-for-bitcoin",
+          "published": "2026-10-19T12:30:46+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8625,
+          "compound": -0.8074,
           "label": "BEARISH",
-          "confidence": 0.8625
+          "confidence": 0.8074
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-1.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons\" rel=\"nofollow\">BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons</a></p>\n<p>CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons\" rel=\"nofollow\">BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
-          "published": "2026-10-16T19:44:29+00:00",
+          "title": "Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Richard-Byworth-Bitcoins-Next-Run-Just-a-Mater-of-Time-thanks-to-Seller-Exhaustion-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion\" rel=\"nofollow\">Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion</a></p>\n<p>Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion\" rel=\"nofollow\">Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
+          "published": "2026-10-19T12:41:42+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.836,
+          "compound": 0.7269,
           "label": "BULLISH",
-          "confidence": 0.836
+          "confidence": 0.7269
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0744,
-      "overall": "BEARISH",
-      "bullish": 1,
+      "article_count": 6,
+      "avg_compound": 0.0859,
+      "overall": "BULLISH",
+      "bullish": 3,
       "bearish": 1,
-      "neutral": 3,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -98,6 +159,19 @@
           "confidence": 0.8126
         },
         {
+          "source": "Decrypt",
+          "title": "Tom Lee\u2019s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+          "summary": "The purchase lifts Bitmine\u2019s stash to 6.04 million ETH\u20144.9% of supply and 99% of the way to its \u201cAlchemy of 5%\u201d goal\u2014as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
+          "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+          "published": "2026-10-19T15:13:42+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        },
+        {
           "source": "TheBlock",
           "title": "JPMorgan expands \u2018JPM Coin\u2019 deposit token to Ethereum for institutional clients",
           "summary": "The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base.",
@@ -109,69 +183,6 @@
           "compound": 0.4404,
           "label": "BULLISH",
           "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-          "published": "2026-10-19T10:03:47+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 4,
-      "avg_compound": 0.0634,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
-          "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle\u2019s USDC most sensitive.",
-          "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
-          "published": "2026-10-18T13:01:04+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "Decrypt",
-          "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
-          "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
-          "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-          "published": "2026-10-16T18:55:37+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.128,
-          "label": "BEARISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "TheBlock",
-          "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
-          "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
-          "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
-          "published": "2026-10-16T14:58:29+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -217,30 +228,6 @@
           "coins": [
             "BTC",
             "UNI"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger is set to fix its lending code before anyone can use it",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
-          "published": "2026-10-19T04:54:31+00:00",
-          "coins": [
-            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -299,6 +286,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "LINK": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -339,16 +336,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -359,7 +346,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -373,14 +360,14 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
-      "summary": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
-      "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
-      "published": "2026-10-19T10:31:09+00:00",
+      "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+      "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
+      "url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
+      "published": "2026-10-19T21:15:04+00:00",
       "coins": [],
-      "compound": -0.8934,
-      "label": "BEARISH",
-      "confidence": 0.8934
+      "compound": 0.9274,
+      "label": "BULLISH",
+      "confidence": 0.9274
     },
     {
       "source": "TheBlock",
@@ -405,15 +392,26 @@
       "confidence": 0.7096
     },
     {
-      "source": "TheBlock",
-      "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
-      "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks.",
-      "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
-      "published": "2026-10-16T10:13:32+00:00",
+      "source": "Decrypt",
+      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+      "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.",
+      "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+      "published": "2026-10-19T19:16:04+00:00",
       "coins": [],
-      "compound": 0.5095,
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
+      "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
+      "url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+      "published": "2026-10-19T18:46:05+00:00",
+      "coins": [],
+      "compound": 0.5267,
       "label": "BULLISH",
-      "confidence": 0.5095
+      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
@@ -427,48 +425,59 @@
       "confidence": 0.4939
     },
     {
-      "source": "Decrypt",
-      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
-      "summary": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
-      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
-      "published": "2026-10-18T16:31:03+00:00",
+      "source": "TheBlock",
+      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
+      "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
+      "url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
+      "published": "2026-10-19T16:00:00+00:00",
       "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+      "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
+      "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
+      "published": "2026-10-19T19:46:04+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
       "confidence": 0.4215
     },
     {
       "source": "Decrypt",
-      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
-      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-      "published": "2026-10-17T13:01:04+00:00",
+      "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+      "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
+      "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
+      "published": "2026-10-19T18:16:04+00:00",
       "coins": [],
-      "compound": 0.3892,
-      "label": "BULLISH",
-      "confidence": 0.3892
+      "compound": -0.2878,
+      "label": "BEARISH",
+      "confidence": 0.2878
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+      "published": "2026-10-19T16:47:00+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
-      "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
-      "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-      "published": "2026-10-17T18:14:43+00:00",
+      "title": "Galaxy\u2019s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
+      "summary": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.",
+      "url": "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045",
+      "published": "2026-10-19T15:53:42+00:00",
       "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
-      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million\u2014days after the PAC expanded its map to 32 House races.",
-      "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-      "published": "2026-10-17T17:01:03+00:00",
-      "coins": [],
-      "compound": 0.2551,
+      "compound": 0.2363,
       "label": "BULLISH",
-      "confidence": 0.2551
+      "confidence": 0.2363
     },
     {
       "source": "Decrypt",
@@ -482,26 +491,15 @@
       "confidence": 0.1779
     },
     {
-      "source": "Decrypt",
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
-      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "published": "2026-10-16T19:36:04+00:00",
+      "source": "TheBlock",
+      "title": "Mesh taps Visa to let users spend crypto without a separate card",
+      "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+      "url": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+      "published": "2026-10-19T16:10:02+00:00",
       "coins": [],
-      "compound": -0.1655,
+      "compound": -0.128,
       "label": "BEARISH",
-      "confidence": 0.1655
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
-      "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028.",
-      "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-      "published": "2026-10-16T20:16:04+00:00",
-      "coins": [],
-      "compound": 0.1451,
-      "label": "BULLISH",
-      "confidence": 0.1451
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -527,54 +525,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+      "published": "2026-10-19T14:58:40+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
       "published": "2026-10-19T05:23:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/18/deutsche-bank-targets-asia-crypto-custody-expansion-in-2027-as-german-launch-nears",
-      "published": "2026-10-19T02:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-      "published": "2026-10-18T23:28:06+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The White House's crypto chief departs: State of Crypto",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-      "published": "2026-10-18T18:30:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-      "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
-      "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-      "published": "2026-10-17T15:01:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -597,17 +562,6 @@
       "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
       "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
       "published": "2026-10-18T19:50:28+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-      "summary": "The expanded partnership builds on Marqeta\u2019s work powering Coinbase\u2019s U.S. debit card offering in 2020.",
-      "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
-      "published": "2026-10-16T17:21:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
