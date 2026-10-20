@@ -1,27 +1,41 @@
 {
-  "generated_at": "2026-10-20T16:45:51.535936+00:00",
+  "generated_at": "2026-10-20T21:29:18.304173+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3454,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": -0.2083,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-          "summary": "XRP developers published a second amendment to repair the ledger\u2019s new uncollateralized lending feature while the original still awaits validator approval.",
-          "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-          "published": "2026-10-19T20:46:05+00:00",
+          "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+          "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
+          "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+          "published": "2026-10-20T20:46:04+00:00",
           "coins": [
-            "XRP"
+            "ETH"
           ],
-          "compound": 0.6908,
-          "label": "BULLISH",
-          "confidence": 0.6908
+          "compound": -0.6249,
+          "label": "BEARISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+          "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+          "published": "2026-10-20T16:31:24+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "TheBlock",
@@ -68,70 +82,27 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0674,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
-          "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29.",
-          "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
-          "published": "2026-10-19T15:28:43+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-          "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-          "published": "2026-10-20T16:31:24+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-          "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-          "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-          "published": "2026-10-20T14:31:29+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "XRP",
-            "TRX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0119,
+      "article_count": 32,
+      "avg_compound": 0.0419,
       "overall": "NEUTRAL",
-      "bullish": 10,
+      "bullish": 13,
       "bearish": 11,
-      "neutral": 5,
+      "neutral": 8,
       "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/01/Morgan-Stanley-Seeks-SEC-Approval-for-Spot-Bitcoin-ETF.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform\" rel=\"nofollow\">Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It</a></p>\n<p>The bank has said bitcoin could do better than stocks and bonds over the next 10 years but says it is still too volatile. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform\" rel=\"nofollow\">Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
+          "published": "2026-10-20T17:27:14+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9352,
+          "label": "BULLISH",
+          "confidence": 0.9352
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
@@ -157,58 +128,18 @@
           "compound": -0.8225,
           "label": "BEARISH",
           "confidence": 0.8225
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Super League Stockholders Approve Metaplanet\u2019s 2,100 BTC Investment, Paving Way for \u2018Superplanet\u2019",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Metaplanet-Acquires-Siiibo-Securities-in-Push-to-Build-Bitcoin-Financial-Ecosystem.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved\" rel=\"nofollow\">Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217;</a></p>\n<p>Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved\" rel=\"nofollow\">Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-          "published": "2026-10-19T19:32:17+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.7096,
-          "label": "BULLISH",
-          "confidence": 0.7096
         }
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0086,
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 3,
+      "neutral": 1,
       "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-          "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
-          "url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-          "published": "2026-10-19T17:31:04+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-          "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-          "published": "2026-10-20T16:31:24+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
         {
           "source": "TheBlock",
           "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
@@ -230,38 +161,28 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 1,
+    "SOL": {
+      "article_count": 2,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
-          "published": "2026-10-19T12:16:58+00:00",
+          "source": "TheBlock",
+          "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+          "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+          "published": "2026-10-20T16:31:24+00:00",
           "coins": [
-            "ADA"
+            "ETH",
+            "SOL"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
+        },
         {
           "source": "TheBlock",
           "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
@@ -311,6 +232,45 @@
         }
       ],
       "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+          "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
+          "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
+          "published": "2026-10-20T14:31:29+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL",
+            "AVAX",
+            "XRP",
+            "TRX"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "BNB": {
       "article_count": 0,
@@ -425,33 +385,22 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
-      "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
-      "url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
-      "published": "2026-10-19T21:15:04+00:00",
-      "coins": [],
-      "compound": 0.9274,
-      "label": "BULLISH",
-      "confidence": 0.9274
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
-      "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.",
-      "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
-      "published": "2026-10-19T19:16:04+00:00",
-      "coins": [],
-      "compound": -0.6705,
-      "label": "BEARISH",
-      "confidence": 0.6705
-    },
-    {
       "source": "CoinDesk",
       "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
       "published": "2026-10-20T11:25:00+00:00",
+      "coins": [],
+      "compound": 0.6249,
+      "label": "BULLISH",
+      "confidence": 0.6249
+    },
+    {
+      "source": "Decrypt",
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "published": "2026-10-20T20:16:04+00:00",
       "coins": [],
       "compound": 0.6249,
       "label": "BULLISH",
@@ -469,17 +418,6 @@
       "confidence": 0.5719
     },
     {
-      "source": "Decrypt",
-      "title": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
-      "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
-      "url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
-      "published": "2026-10-19T18:46:05+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
       "source": "TheBlock",
       "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
       "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
@@ -492,13 +430,13 @@
     },
     {
       "source": "TheBlock",
-      "title": "Mastercard unveils Stablecoin Security tool to screen payments for fraud and sanctions risks",
-      "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
-      "url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
-      "published": "2026-10-19T16:00:00+00:00",
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+      "published": "2026-10-20T19:19:54+00:00",
       "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
+      "compound": 0.4939,
+      "label": "BULLISH",
       "confidence": 0.4939
     },
     {
@@ -510,17 +448,6 @@
       "coins": [],
       "compound": 0.4215,
       "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
-      "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
-      "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
-      "published": "2026-10-19T19:46:04+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
       "confidence": 0.4215
     },
     {
@@ -546,17 +473,6 @@
       "confidence": 0.296
     },
     {
-      "source": "Decrypt",
-      "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
-      "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
-      "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
-      "published": "2026-10-19T18:16:04+00:00",
-      "coins": [],
-      "compound": -0.2878,
-      "label": "BEARISH",
-      "confidence": 0.2878
-    },
-    {
       "source": "CoinDesk",
       "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
       "summary": "",
@@ -580,14 +496,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Galaxy\u2019s AI data center business is undervalued amid CoreWeave debt concerns, StoneX says",
-      "summary": "StoneX reiterates Buy and $57 target on GLXY, saying the market undervalues its Helios AI data center despite CoreWeave debt worries.",
-      "url": "https://www.theblock.co/news/markets/2026-10-19-galaxy-digital-glxy-stonex-buy-coreweave-helios-ai-data-center-421045",
-      "published": "2026-10-19T15:53:42+00:00",
+      "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
+      "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+      "published": "2026-10-20T19:12:38+00:00",
       "coins": [],
-      "compound": 0.2363,
-      "label": "BULLISH",
-      "confidence": 0.2363
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -635,10 +551,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-      "published": "2026-10-20T13:35:08+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+      "published": "2026-10-20T21:12:21+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -646,10 +562,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a \u2018natural response\u2019 to tokenized stock plans",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
-      "published": "2026-10-19T14:58:40+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "published": "2026-10-20T18:26:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+      "published": "2026-10-20T13:35:08+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
