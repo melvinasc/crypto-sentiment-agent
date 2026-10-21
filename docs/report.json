@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:25:02.314511+00:00",
+  "generated_at": "2026-10-21T11:36:33.465424+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -54,12 +54,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 31,
-      "avg_compound": 0.0567,
+      "article_count": 26,
+      "avg_compound": 0.1234,
       "overall": "BULLISH",
-      "bullish": 14,
-      "bearish": 10,
-      "neutral": 7,
+      "bullish": 12,
+      "bearish": 6,
+      "neutral": 8,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -103,6 +103,48 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": -0.0766,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+          "published": "2026-10-21T05:25:57+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": -0.1531,
+          "label": "BEARISH",
+          "confidence": 0.1531
+        },
+        {
+          "source": "TheBlock",
+          "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+          "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
+          "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
+          "published": "2026-10-20T14:31:29+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL",
+            "AVAX",
+            "XRP",
+            "TRX"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "AVAX": {
       "article_count": 1,
       "avg_compound": 0.0,
@@ -133,13 +175,26 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
+      "article_count": 3,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+          "published": "2026-10-21T04:35:52+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
         {
           "source": "TheBlock",
           "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
@@ -204,7 +259,7 @@
       ],
       "no_news": false
     },
-    "XRP": {
+    "USDT": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -213,18 +268,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-          "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-          "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-          "published": "2026-10-20T14:31:29+00:00",
+          "source": "CoinDesk",
+          "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+          "published": "2026-10-21T08:47:11+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "XRP",
-            "TRX"
+            "USDT"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -352,29 +402,41 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "CoinDesk",
-      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-      "published": "2026-10-20T11:25:00+00:00",
+      "source": "Decrypt",
+      "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+      "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
+      "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
+      "published": "2026-10-21T11:19:34+00:00",
       "coins": [],
-      "compound": 0.6249,
+      "compound": -0.8625,
+      "label": "BEARISH",
+      "confidence": 0.8625
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+      "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
+      "url": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+      "published": "2026-10-21T10:29:41+00:00",
+      "coins": [],
+      "compound": -0.8179,
+      "label": "BEARISH",
+      "confidence": 0.8179
+    },
+    {
+      "source": "TheBlock",
+      "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
+      "summary": "OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+      "published": "2026-10-21T11:01:02+00:00",
+      "coins": [],
+      "compound": 0.7351,
       "label": "BULLISH",
-      "confidence": 0.6249
+      "confidence": 0.7351
     },
     {
       "source": "Decrypt",
@@ -386,6 +448,17 @@
       "compound": 0.6249,
       "label": "BULLISH",
       "confidence": 0.6249
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+      "published": "2026-10-21T10:34:37+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
     },
     {
       "source": "CoinDesk",
@@ -443,6 +516,17 @@
       "confidence": 0.4215
     },
     {
+      "source": "TheBlock",
+      "title": "BitGo launches innovation unit to design crypto\u2019s next breakout application",
+      "summary": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.",
+      "url": "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502",
+      "published": "2026-10-21T11:00:00+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
       "source": "Decrypt",
       "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
       "summary": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
@@ -455,25 +539,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "title": "Monero futures are again heating with leverage, raising volatility risks",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
-      "published": "2026-10-20T12:40:17+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
+      "published": "2026-10-21T08:57:29+00:00",
       "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
-      "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
-      "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
-      "published": "2026-10-20T12:06:44+00:00",
-      "coins": [],
-      "compound": 0.2406,
-      "label": "BULLISH",
-      "confidence": 0.2406
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -485,6 +558,17 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+      "published": "2026-10-21T11:00:00+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -509,17 +593,6 @@
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "South Korean IPO slump adds to AI market jitters as Brent crude tops $111",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/20/south-korean-ipo-plunge-deepens-ai-market-jitters-as-brent-tops-usd111",
-      "published": "2026-10-20T09:32:24+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "TheBlock",
       "title": "Mastercard opens early access to AI agent payments following pilots with Coinbase, Base and Cloudflare",
       "summary": "Mastercard opened early access to Agent Pay for Machines after pilots with Coinbase, Base, Cloudflare, and other partners.",
@@ -529,6 +602,17 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+      "published": "2026-10-21T08:10:12+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -553,17 +637,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
-      "published": "2026-10-20T13:35:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
       "summary": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
@@ -580,17 +653,6 @@
       "summary": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side.",
       "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
       "published": "2026-10-20T16:26:58+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Blockchain Association says Treasury\u2019s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
-      "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
-      "published": "2026-10-20T04:07:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
