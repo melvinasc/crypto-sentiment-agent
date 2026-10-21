@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-20T21:29:18.304173+00:00",
+  "generated_at": "2026-10-21T04:25:02.314511+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.2083,
+      "article_count": 4,
+      "avg_compound": -0.1562,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -25,6 +25,19 @@
         },
         {
           "source": "TheBlock",
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "published": "2026-10-21T02:30:08+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
           "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
           "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
           "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
@@ -36,59 +49,17 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-          "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-          "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-          "published": "2026-10-20T14:31:29+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL",
-            "AVAX",
-            "XRP",
-            "TRX"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
-          "published": "2026-10-19T20:21:13+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 32,
-      "avg_compound": 0.0419,
-      "overall": "NEUTRAL",
-      "bullish": 13,
-      "bearish": 11,
-      "neutral": 8,
+      "article_count": 31,
+      "avg_compound": 0.0567,
+      "overall": "BULLISH",
+      "bullish": 14,
+      "bearish": 10,
+      "neutral": 7,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -381,6 +352,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -405,6 +386,17 @@
       "compound": 0.6249,
       "label": "BULLISH",
       "confidence": 0.6249
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "published": "2026-10-21T04:11:58+00:00",
+      "coins": [],
+      "compound": -0.5777,
+      "label": "BEARISH",
+      "confidence": 0.5777
     },
     {
       "source": "TheBlock",
@@ -473,17 +465,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
-      "published": "2026-10-19T16:47:00+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
       "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
@@ -517,14 +498,14 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Mesh taps Visa to let users spend crypto without a separate card",
-      "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
-      "url": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-      "published": "2026-10-19T16:10:02+00:00",
+      "source": "Decrypt",
+      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+      "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
+      "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+      "published": "2026-10-20T22:16:04+00:00",
       "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
+      "compound": 0.128,
+      "label": "BULLISH",
       "confidence": 0.128
     },
     {
@@ -577,6 +558,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
       "published": "2026-10-20T13:35:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+      "summary": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
+      "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+      "published": "2026-10-20T21:46:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
