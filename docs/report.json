@@ -1,7 +1,45 @@
 {
-  "generated_at": "2026-10-21T17:02:33.821287+00:00",
+  "generated_at": "2026-10-21T21:31:07.561768+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.2628,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "published": "2026-10-21T14:24:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": 0.5256,
+          "label": "BULLISH",
+          "confidence": 0.5256
+        },
+        {
+          "source": "TheBlock",
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "published": "2026-10-21T02:30:08+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "DOGE": {
       "article_count": 3,
       "avg_compound": 0.2516,
@@ -53,12 +91,12 @@
       "no_news": false
     },
     "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.0919,
+      "article_count": 2,
+      "avg_compound": 0.1378,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -86,81 +124,16 @@
           "compound": -0.25,
           "label": "BEARISH",
           "confidence": 0.25
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-          "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-          "published": "2026-10-20T16:31:24+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.0248,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-          "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
-          "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-          "published": "2026-10-20T20:46:04+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.6249,
-          "label": "BEARISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "Decrypt",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-          "published": "2026-10-21T14:24:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.5256,
-          "label": "BULLISH",
-          "confidence": 0.5256
-        },
-        {
-          "source": "TheBlock",
-          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-          "published": "2026-10-21T02:30:08+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": 0.0216,
+      "avg_compound": -0.0068,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 6,
+      "bullish": 8,
+      "bearish": 7,
       "neutral": 5,
       "top_articles": [
         {
@@ -190,17 +163,17 @@
           "confidence": 0.802
         },
         {
-          "source": "Decrypt",
-          "title": "Morning Minute: Bitcoin Tops JPMorgan\u2019s Ten-Year Forecast for All Assets",
-          "summary": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
-          "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-          "published": "2026-10-21T12:16:38+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Gemini_Generated_Image_nt4nqknt4nqknt4n.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian\" rel=\"nofollow\">Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody</a></p>\n<p>British bank Standard Chartered will integrate Zodia Custody\u2019s bitcoin and crypto services into its own. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian\" rel=\"nofollow\">Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+          "published": "2026-10-21T17:28:34+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7579,
+          "compound": 0.7717,
           "label": "BULLISH",
-          "confidence": 0.7579
+          "confidence": 0.7717
         }
       ],
       "no_news": false
@@ -245,6 +218,31 @@
           "published": "2026-10-21T08:47:11+00:00",
           "coins": [
             "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+          "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
+          "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+          "published": "2026-10-21T17:31:03+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -372,16 +370,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -452,17 +440,6 @@
       "confidence": 0.7269
     },
     {
-      "source": "Decrypt",
-      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-      "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
-      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
-      "published": "2026-10-20T20:16:04+00:00",
-      "coins": [],
-      "compound": 0.6249,
-      "label": "BULLISH",
-      "confidence": 0.6249
-    },
-    {
       "source": "CoinDesk",
       "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
       "summary": "",
@@ -483,17 +460,6 @@
       "compound": -0.5574,
       "label": "BEARISH",
       "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
-      "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
-      "published": "2026-10-20T16:20:40+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
     },
     {
       "source": "TheBlock",
@@ -548,6 +514,17 @@
       "coins": [],
       "compound": -0.296,
       "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood single-stock perps could be a \u2018strong positive\u2019 for HOOD shares, Mizuho says",
+      "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
+      "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+      "published": "2026-10-21T18:54:36+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
       "confidence": 0.296
     },
     {
@@ -606,6 +583,17 @@
       "confidence": 0.128
     },
     {
+      "source": "TheBlock",
+      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+      "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+      "published": "2026-10-21T17:59:36+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
       "source": "CoinDesk",
       "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
       "summary": "",
@@ -615,6 +603,17 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+      "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
+      "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+      "published": "2026-10-21T20:16:02+00:00",
+      "coins": [],
+      "compound": -0.0191,
+      "label": "NEUTRAL",
+      "confidence": 0.0191
     },
     {
       "source": "CoinDesk",
@@ -651,10 +650,21 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-      "summary": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
-      "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-      "published": "2026-10-20T21:46:04+00:00",
+      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+      "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
+      "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+      "published": "2026-10-21T18:46:08+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
+      "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof\u2014and under one man's control.",
+      "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+      "published": "2026-10-21T18:16:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
