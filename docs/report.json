@@ -1,14 +1,66 @@
 {
-  "generated_at": "2026-10-22T04:23:51.967034+00:00",
+  "generated_at": "2026-10-22T11:36:15.368603+00:00",
   "total_articles": 55,
   "coins": {
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": 0.4442,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Layer 2 Scaling Solutions",
+          "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\nEthereum\u2019s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum\u2019s trust foundation.",
+          "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+          "published": "2026-10-22T09:15:50+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.933,
+          "label": "BULLISH",
+          "confidence": 0.933
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "published": "2026-10-21T14:24:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": 0.5256,
+          "label": "BULLISH",
+          "confidence": 0.5256
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+          "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
+          "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+          "published": "2026-10-22T09:56:16+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
     "DOGE": {
-      "article_count": 3,
-      "avg_compound": 0.2516,
+      "article_count": 2,
+      "avg_compound": 0.3774,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -35,79 +87,15 @@
           "compound": 0.296,
           "label": "BULLISH",
           "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-          "published": "2026-10-21T12:00:00+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.1752,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-          "published": "2026-10-21T14:24:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.5256,
-          "label": "BULLISH",
-          "confidence": 0.5256
-        },
-        {
-          "source": "TheBlock",
-          "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
-          "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
-          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
-          "published": "2026-10-22T00:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-          "published": "2026-10-21T02:30:08+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1378,
+      "article_count": 3,
+      "avg_compound": 0.2448,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
@@ -126,6 +114,19 @@
           "confidence": 0.5256
         },
         {
+          "source": "CoinDesk",
+          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+          "published": "2026-10-22T05:24:58+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
+        {
           "source": "TheBlock",
           "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
           "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
@@ -141,13 +142,51 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.2009,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+          "published": "2026-10-22T04:36:20+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+          "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
+          "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+          "published": "2026-10-21T17:31:03+00:00",
+          "coins": [
+            "BTC",
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.0259,
+      "article_count": 24,
+      "avg_compound": -0.0458,
       "overall": "NEUTRAL",
-      "bullish": 8,
-      "bearish": 8,
-      "neutral": 4,
+      "bullish": 9,
+      "bearish": 10,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -207,55 +246,6 @@
           "published": "2026-10-21T16:44:01+00:00",
           "coins": [
             "UNI"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-          "published": "2026-10-21T08:47:11+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-          "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-          "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-          "published": "2026-10-21T17:31:03+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -383,6 +373,16 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
@@ -396,28 +396,6 @@
       "compound": -0.9287,
       "label": "BEARISH",
       "confidence": 0.9287
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
-      "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
-      "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
-      "published": "2026-10-21T11:19:34+00:00",
-      "coins": [],
-      "compound": -0.8625,
-      "label": "BEARISH",
-      "confidence": 0.8625
-    },
-    {
-      "source": "Decrypt",
-      "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
-      "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
-      "url": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
-      "published": "2026-10-21T10:29:41+00:00",
-      "coins": [],
-      "compound": -0.8179,
-      "label": "BEARISH",
-      "confidence": 0.8179
     },
     {
       "source": "TheBlock",
@@ -454,17 +432,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
-      "published": "2026-10-21T10:34:37+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
       "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
@@ -473,17 +440,6 @@
       "compound": -0.5574,
       "label": "BEARISH",
       "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-      "published": "2026-10-20T19:19:54+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -541,28 +497,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Monero futures are again heating with leverage, raising volatility risks",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/21/monero-futures-are-again-heating-with-leverage-raising-volatility-risks",
-      "published": "2026-10-21T08:57:29+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
-      "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
-      "published": "2026-10-20T19:12:38+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
       "source": "Decrypt",
       "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
       "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
@@ -572,17 +506,6 @@
       "compound": 0.2057,
       "label": "BULLISH",
       "confidence": 0.2057
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-      "published": "2026-10-21T11:00:00+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -597,6 +520,28 @@
     },
     {
       "source": "TheBlock",
+      "title": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
+      "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+      "published": "2026-10-22T09:11:57+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "TheBlock",
+      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+      "published": "2026-10-22T09:32:00+00:00",
+      "coins": [],
+      "compound": -0.1531,
+      "label": "BEARISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
       "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
       "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
       "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
@@ -605,17 +550,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "published": "2026-10-21T12:10:39+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -627,6 +561,17 @@
       "compound": -0.0191,
       "label": "NEUTRAL",
       "confidence": 0.0191
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
+      "published": "2026-10-22T10:18:28+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -645,6 +590,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
       "published": "2026-10-21T15:09:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
+      "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
+      "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
+      "published": "2026-10-22T10:45:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
