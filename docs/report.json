@@ -1,45 +1,7 @@
 {
-  "generated_at": "2026-10-21T21:31:07.561768+00:00",
+  "generated_at": "2026-10-22T04:23:51.967034+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.2628,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-          "published": "2026-10-21T14:24:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.5256,
-          "label": "BULLISH",
-          "confidence": 0.5256
-        },
-        {
-          "source": "TheBlock",
-          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
-          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-          "published": "2026-10-21T02:30:08+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "DOGE": {
       "article_count": 3,
       "avg_compound": 0.2516,
@@ -90,6 +52,57 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.1752,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+          "published": "2026-10-21T14:24:25+00:00",
+          "coins": [
+            "SOL",
+            "ETH"
+          ],
+          "compound": 0.5256,
+          "label": "BULLISH",
+          "confidence": 0.5256
+        },
+        {
+          "source": "TheBlock",
+          "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+          "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+          "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+          "published": "2026-10-22T00:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+          "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+          "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+          "published": "2026-10-21T02:30:08+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.1378,
@@ -130,11 +143,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": -0.0068,
+      "avg_compound": -0.0259,
       "overall": "NEUTRAL",
       "bullish": 8,
-      "bearish": 7,
-      "neutral": 5,
+      "bearish": 8,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -550,6 +563,17 @@
       "confidence": 0.2263
     },
     {
+      "source": "Decrypt",
+      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+      "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
+      "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+      "published": "2026-10-21T21:31:02+00:00",
+      "coins": [],
+      "compound": 0.2057,
+      "label": "BULLISH",
+      "confidence": 0.2057
+    },
+    {
       "source": "CoinDesk",
       "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
       "summary": "",
@@ -570,17 +594,6 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
-    },
-    {
-      "source": "Decrypt",
-      "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
-      "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
-      "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
-      "published": "2026-10-20T22:16:04+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
     },
     {
       "source": "TheBlock",
@@ -632,17 +645,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
       "published": "2026-10-21T15:09:22+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash developers confirm November date for upgrade that triples payment speed",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
-      "published": "2026-10-21T08:10:12+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
