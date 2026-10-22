@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T17:01:30.804404+00:00",
+  "generated_at": "2026-10-22T21:26:18.888671+00:00",
   "total_articles": 55,
   "coins": {
-    "DOGE": {
+    "SOL": {
       "article_count": 1,
       "avg_compound": 0.4588,
       "overall": "BULLISH",
@@ -11,13 +11,13 @@
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-          "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
-          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-          "published": "2026-10-21T16:46:04+00:00",
+          "source": "CoinDesk",
+          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+          "published": "2026-10-22T05:24:58+00:00",
           "coins": [
-            "DOGE"
+            "SOL"
           ],
           "compound": 0.4588,
           "label": "BULLISH",
@@ -47,6 +47,30 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.4019,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+          "published": "2026-10-22T04:36:20+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -102,131 +126,6 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.2009,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-          "published": "2026-10-22T04:36:20+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-          "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-          "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-          "published": "2026-10-21T17:31:03+00:00",
-          "coins": [
-            "BTC",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.1044,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "published": "2026-10-22T05:24:58+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        },
-        {
-          "source": "TheBlock",
-          "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-          "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-          "published": "2026-10-21T14:24:39+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.0783,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 10,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Wins-Dubai-License-to-Bring-Bitcoin-and-Stock-Trading-to-the-Middle-East-in-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a></p>\n<p>Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-          "published": "2026-10-22T15:35:01+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9432,
-          "label": "BULLISH",
-          "confidence": 0.9432
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a></p>\n<p>Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-          "published": "2026-10-22T14:38:25+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9217,
-          "label": "BEARISH",
-          "confidence": 0.9217
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=t-4JyFk14XI\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/t-4JyFk14XI/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Matt-Crosby-Bitcoin-Is-Primed-for-a-Big-Move-Higher-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher\" rel=\"nofollow\">Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d</a></p>\n<p>Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher\" rel=\"nofollow\">Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
-          "published": "2026-10-22T13:24:26+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
-        }
-      ],
-      "no_news": false
-    },
     "UNI": {
       "article_count": 2,
       "avg_compound": 0.064,
@@ -265,6 +164,56 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0143,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 7,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin\" rel=\"nofollow\">China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report</a></p>\n<p>The alleged fraudster tried to run away with nearly 62,000 bitcoins. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin\" rel=\"nofollow\">China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
+          "published": "2026-10-22T18:32:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9509,
+          "label": "BEARISH",
+          "confidence": 0.9509
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Wins-Dubai-License-to-Bring-Bitcoin-and-Stock-Trading-to-the-Middle-East-in-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a></p>\n<p>Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "published": "2026-10-22T15:35:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9432,
+          "label": "BULLISH",
+          "confidence": 0.9432
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a></p>\n<p>Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+          "published": "2026-10-22T14:38:25+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9217,
+          "label": "BEARISH",
+          "confidence": 0.9217
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -296,6 +245,16 @@
       "no_news": true
     },
     "DAI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -389,6 +348,28 @@
   "uncategorised": [
     {
       "source": "Decrypt",
+      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+      "summary": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote.",
+      "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
+      "published": "2026-10-22T19:06:02+00:00",
+      "coins": [],
+      "compound": 0.9246,
+      "label": "BULLISH",
+      "confidence": 0.9246
+    },
+    {
+      "source": "Decrypt",
+      "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+      "summary": "Lionel Messi\u2019s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board.",
+      "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+      "published": "2026-10-22T20:39:18+00:00",
+      "coins": [],
+      "compound": -0.7717,
+      "label": "BEARISH",
+      "confidence": 0.7717
+    },
+    {
+      "source": "Decrypt",
       "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
       "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers\u2019 credentials.",
       "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
@@ -400,14 +381,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-      "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
-      "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-      "published": "2026-10-21T15:12:00+00:00",
+      "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+      "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
+      "published": "2026-10-22T18:59:25+00:00",
       "coins": [],
-      "compound": 0.7269,
+      "compound": 0.6908,
       "label": "BULLISH",
-      "confidence": 0.7269
+      "confidence": 0.6908
     },
     {
       "source": "TheBlock",
@@ -419,6 +400,39 @@
       "compound": -0.6908,
       "label": "BEARISH",
       "confidence": 0.6908
+    },
+    {
+      "source": "Decrypt",
+      "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
+      "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
+      "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
+      "published": "2026-10-22T17:33:38+00:00",
+      "coins": [],
+      "compound": -0.5719,
+      "label": "BEARISH",
+      "confidence": 0.5719
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+      "summary": "The Central Bank of Ireland penalized Coinbase Ireland \u20ac3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded\u2014its second hit to the exchange\u2019s European arm in the last year.",
+      "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
+      "published": "2026-10-22T18:36:03+00:00",
+      "coins": [],
+      "compound": 0.4939,
+      "label": "BULLISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
+      "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end.",
+      "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
+      "published": "2026-10-22T18:06:02+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
@@ -575,6 +589,28 @@
       "confidence": 0.0191
     },
     {
+      "source": "TheBlock",
+      "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+      "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
+      "published": "2026-10-22T19:14:21+00:00",
+      "coins": [],
+      "compound": 0.0169,
+      "label": "NEUTRAL",
+      "confidence": 0.0169
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+      "published": "2026-10-22T18:30:57+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
       "source": "CoinDesk",
       "title": "Crypto is making a splash in U.S. elections \u2014 but chiefly in jabs about industry influence",
       "summary": "",
@@ -598,6 +634,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+      "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
+      "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+      "published": "2026-10-22T19:46:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
       "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
       "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
       "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
@@ -613,28 +660,6 @@
       "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
       "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
       "published": "2026-10-22T10:45:13+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
-      "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
-      "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
-      "published": "2026-10-21T18:46:08+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
-      "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof\u2014and under one man's control.",
-      "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
-      "published": "2026-10-21T18:16:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
