@@ -1,13 +1,62 @@
 {
-  "generated_at": "2026-10-22T11:36:15.368603+00:00",
+  "generated_at": "2026-10-22T17:01:30.804404+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.4442,
+    "DOGE": {
+      "article_count": 1,
+      "avg_compound": 0.4588,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
       "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+          "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
+          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+          "published": "2026-10-21T16:46:04+00:00",
+          "coins": [
+            "DOGE"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a></p>\n<p>Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28 public launch.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+          "published": "2026-10-22T16:26:52+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 6,
+      "avg_compound": 0.2102,
+      "overall": "BULLISH",
+      "bullish": 4,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
@@ -24,20 +73,6 @@
           "confidence": 0.933
         },
         {
-          "source": "Decrypt",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-          "published": "2026-10-21T14:24:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.5256,
-          "label": "BULLISH",
-          "confidence": 0.5256
-        },
-        {
           "source": "TheBlock",
           "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
           "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
@@ -50,94 +85,19 @@
           "compound": 0.3182,
           "label": "BULLISH",
           "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
-    "DOGE": {
-      "article_count": 2,
-      "avg_compound": 0.3774,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-          "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
-          "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-          "published": "2026-10-21T16:46:04+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        },
-        {
-          "source": "TheBlock",
-          "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
-          "summary": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.",
-          "url": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-          "published": "2026-10-21T12:00:00+00:00",
-          "coins": [
-            "DOGE"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 3,
-      "avg_compound": 0.2448,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-          "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
-          "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-          "published": "2026-10-21T14:24:25+00:00",
-          "coins": [
-            "SOL",
-            "ETH"
-          ],
-          "compound": 0.5256,
-          "label": "BULLISH",
-          "confidence": 0.5256
         },
         {
           "source": "CoinDesk",
-          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+          "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "published": "2026-10-22T05:24:58+00:00",
+          "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+          "published": "2026-10-22T12:14:29+00:00",
           "coins": [
-            "SOL"
+            "ETH"
           ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        },
-        {
-          "source": "TheBlock",
-          "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-          "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-          "published": "2026-10-21T14:24:39+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": -0.25,
+          "compound": -0.296,
           "label": "BEARISH",
-          "confidence": 0.25
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -180,64 +140,115 @@
       ],
       "no_news": false
     },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.1044,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+          "published": "2026-10-22T05:24:58+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
+        {
+          "source": "TheBlock",
+          "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+          "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+          "published": "2026-10-21T14:24:39+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.25,
+          "label": "BEARISH",
+          "confidence": 0.25
+        }
+      ],
+      "no_news": false
+    },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0458,
-      "overall": "NEUTRAL",
-      "bullish": 9,
+      "article_count": 23,
+      "avg_compound": -0.0783,
+      "overall": "BEARISH",
+      "bullish": 8,
       "bearish": 10,
       "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/New-Clarity-Act-Draft-Would-Bar-Trump-and-Officials-From-Issuing-Crypto-With-a-2029-Sunset.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown\" rel=\"nofollow\">President Trump to Highlight Crackdown on Overseas Crypto Scams</a></p>\n<p>Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown\" rel=\"nofollow\">President Trump to Highlight Crackdown on Overseas Crypto Scams</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-          "published": "2026-10-21T14:52:06+00:00",
+          "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Wins-Dubai-License-to-Bring-Bitcoin-and-Stock-Trading-to-the-Middle-East-in-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a></p>\n<p>Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+          "published": "2026-10-22T15:35:01+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8934,
-          "label": "BEARISH",
-          "confidence": 0.8934
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-20.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings\" rel=\"nofollow\">Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite</a></p>\n<p>The price of bitcoin is rising fast \u2014 with the stock market \u2014 as investors feel bullish on tech. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings\" rel=\"nofollow\">Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
-          "published": "2026-10-21T15:46:14+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.802,
-          "label": "BEARISH",
-          "confidence": 0.802
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Gemini_Generated_Image_nt4nqknt4nqknt4n.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian\" rel=\"nofollow\">Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody</a></p>\n<p>British bank Standard Chartered will integrate Zodia Custody\u2019s bitcoin and crypto services into its own. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian\" rel=\"nofollow\">Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-          "published": "2026-10-21T17:28:34+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.7717,
+          "compound": 0.9432,
           "label": "BULLISH",
-          "confidence": 0.7717
+          "confidence": 0.9432
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a></p>\n<p>Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+          "published": "2026-10-22T14:38:25+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9217,
+          "label": "BEARISH",
+          "confidence": 0.9217
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=t-4JyFk14XI\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/t-4JyFk14XI/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Matt-Crosby-Bitcoin-Is-Primed-for-a-Big-Move-Higher-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher\" rel=\"nofollow\">Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d</a></p>\n<p>Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher\" rel=\"nofollow\">Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
+          "published": "2026-10-22T13:24:26+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
         }
       ],
       "no_news": false
     },
     "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
+      "article_count": 2,
+      "avg_compound": 0.064,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+          "published": "2026-10-22T13:55:03+00:00",
+          "coins": [
+            "UNI",
+            "ETH"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        },
         {
           "source": "TheBlock",
           "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
@@ -373,51 +384,19 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
-      "summary": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.",
-      "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
-      "published": "2026-10-21T15:35:16+00:00",
+      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
+      "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers\u2019 credentials.",
+      "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+      "published": "2026-10-22T15:24:18+00:00",
       "coins": [],
-      "compound": -0.9287,
+      "compound": -0.7269,
       "label": "BEARISH",
-      "confidence": 0.9287
-    },
-    {
-      "source": "TheBlock",
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "summary": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.",
-      "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-      "published": "2026-10-21T12:44:53+00:00",
-      "coins": [],
-      "compound": 0.743,
-      "label": "BULLISH",
-      "confidence": 0.743
-    },
-    {
-      "source": "TheBlock",
-      "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
-      "summary": "OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
-      "published": "2026-10-21T11:01:02+00:00",
-      "coins": [],
-      "compound": 0.7351,
-      "label": "BULLISH",
-      "confidence": 0.7351
+      "confidence": 0.7269
     },
     {
       "source": "TheBlock",
@@ -431,59 +410,70 @@
       "confidence": 0.7269
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-      "published": "2026-10-21T16:23:44+00:00",
+      "source": "TheBlock",
+      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+      "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+      "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+      "published": "2026-10-22T13:27:54+00:00",
       "coins": [],
-      "compound": -0.5574,
+      "compound": -0.6908,
       "label": "BEARISH",
-      "confidence": 0.5574
+      "confidence": 0.6908
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+      "published": "2026-10-22T14:37:12+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "published": "2026-10-22T14:58:31+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
-      "title": "GTA 6 Trailer Features 'Dacity' Meme Coin\u2014Here's What Traders Think It'll Do",
-      "summary": "Grand Theft Auto 6 is rumoured to feature a meme coin, and crypto traders are speculating on how prominently Rockstar will integrate it.",
-      "url": "https://decrypt.co/381511/gta-6-trailer-features-dacity-meme-coin-heres-what-traders-think-itll-do",
-      "published": "2026-10-21T13:16:04+00:00",
+      "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
+      "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
+      "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+      "published": "2026-10-22T15:45:07+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": 0.3612,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.3612
     },
     {
       "source": "Decrypt",
-      "title": "OCC Finalizes GENIUS Act Stablecoin Rules Ahead of January Deadline",
-      "summary": "The rule sets reserve, redemption and risk standards for issuers, but the OCC has yet to say when it will begin accepting applications.",
-      "url": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
-      "published": "2026-10-21T11:52:23+00:00",
+      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+      "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance\u2014a yield-and-protection combination ordinary stablecoins lack.",
+      "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "published": "2026-10-22T12:01:03+00:00",
       "coins": [],
-      "compound": 0.431,
-      "label": "BULLISH",
-      "confidence": 0.431
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
-      "title": "BitGo launches innovation unit to design crypto\u2019s next breakout application",
-      "summary": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.",
-      "url": "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502",
-      "published": "2026-10-21T11:00:00+00:00",
+      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "published": "2026-10-22T12:00:00+00:00",
       "coins": [],
-      "compound": 0.3818,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "published": "2026-10-21T12:12:36+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
+      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -497,6 +487,28 @@
       "confidence": 0.296
     },
     {
+      "source": "CoinDesk",
+      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+      "published": "2026-10-22T15:40:25+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+      "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+      "published": "2026-10-22T14:03:40+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
       "source": "Decrypt",
       "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
       "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
@@ -506,17 +518,6 @@
       "compound": 0.2057,
       "label": "BULLISH",
       "confidence": 0.2057
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "published": "2026-10-21T15:00:53+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -542,6 +543,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+      "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
+      "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+      "published": "2026-10-22T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
       "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
       "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
       "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
@@ -564,6 +576,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto is making a splash in U.S. elections \u2014 but chiefly in jabs about industry influence",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+      "published": "2026-10-22T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
@@ -574,22 +597,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-      "published": "2026-10-21T15:22:46+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "published": "2026-10-21T15:09:22+00:00",
+      "source": "Decrypt",
+      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+      "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
+      "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+      "published": "2026-10-22T14:04:48+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
