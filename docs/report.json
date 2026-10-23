@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:25:37.888056+00:00",
+  "generated_at": "2026-10-23T16:54:00.911166+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -26,54 +26,126 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.3269,
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.5574,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+          "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+          "published": "2026-10-23T15:50:41+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.5574,
+          "label": "BEARISH",
+          "confidence": 0.5574
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.3182,
       "overall": "BULLISH",
-      "bullish": 5,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Layer 2 Scaling Solutions",
-          "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\nEthereum\u2019s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum\u2019s trust foundation.",
-          "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
-          "published": "2026-10-22T09:15:50+00:00",
+          "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+          "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+          "published": "2026-10-23T12:55:26+00:00",
           "coins": [
-            "ETH"
-          ],
-          "compound": 0.933,
-          "label": "BULLISH",
-          "confidence": 0.933
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-          "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
-          "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-          "published": "2026-10-22T09:56:16+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
+            "XRP"
           ],
           "compound": 0.3182,
           "label": "BULLISH",
           "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+          "published": "2026-10-22T22:43:36+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.1496,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 10,
+      "neutral": 7,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bloomberg\u2019s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=apgtvAVmUTA\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/apgtvAVmUTA/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bloombergs-Mike-McGlone-AI-Risk-Could-Force-Bitcoin-Drawdown-to-10000-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000\" rel=\"nofollow\">Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000</a></p>\n<p>Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000\" rel=\"nofollow\">Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+          "published": "2026-10-23T13:18:04+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.926,
+          "label": "BEARISH",
+          "confidence": 0.926
         },
         {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-          "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-          "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-          "published": "2026-10-22T16:31:07+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax\" rel=\"nofollow\">Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head</a></p>\n<p>The Bank of Korea told lawmakers it will draft a forex law amendment this year to regulate stablecoins as a means of payment, a plan that points to tighter cross-border controls rather than legal-tender status.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax\" rel=\"nofollow\">Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+          "published": "2026-10-23T14:01:41+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "BTC"
           ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
+          "compound": -0.8658,
+          "label": "BEARISH",
+          "confidence": 0.8658
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=2fwLwpDPdtU\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/2fwLwpDPdtU/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Parker-Lewis-Bitcoin-Will-Settle-100-of-Global-Payments-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments\" rel=\"nofollow\">Parker Lewis: Bitcoin Will Settle 100% of Global Payments</a></p>\n<p>Parker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments\" rel=\"nofollow\">Parker Lewis: Bitcoin Will Settle 100% of Global Payments</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+          "published": "2026-10-23T13:28:16+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.836,
+          "label": "BEARISH",
+          "confidence": 0.836
         }
       ],
       "no_news": false
@@ -103,90 +175,55 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.1191,
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": -0.0655,
       "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
+      "bullish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a></p>\n<p>Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28 public launch.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
-          "published": "2026-10-22T16:26:52+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+          "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+          "published": "2026-10-23T15:50:41+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "BTC",
+            "ETH",
+            "SOL"
           ],
-          "compound": -0.4404,
+          "compound": -0.5574,
           "label": "BEARISH",
-          "confidence": 0.4404
+          "confidence": 0.5574
         },
         {
-          "source": "CoinDesk",
-          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-          "published": "2026-10-22T22:43:36+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+          "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
+          "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+          "published": "2026-10-22T16:31:07+00:00",
           "coins": [
-            "USDT"
+            "BTC",
+            "ETH"
           ],
-          "compound": 0.2023,
+          "compound": 0.1779,
           "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": 0.0684,
-      "overall": "BULLISH",
-      "bullish": 8,
-      "bearish": 6,
-      "neutral": 6,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-1-7.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin\" rel=\"nofollow\">China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report</a></p>\n<p>The alleged fraudster tried to run away with nearly 62,000 bitcoins. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin\" rel=\"nofollow\">China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
-          "published": "2026-10-22T18:32:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9509,
-          "label": "BEARISH",
-          "confidence": 0.9509
+          "confidence": 0.1779
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Robinhood-Wins-Dubai-License-to-Bring-Bitcoin-and-Stock-Trading-to-the-Middle-East-in-2027.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a></p>\n<p>Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin\" rel=\"nofollow\">Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-          "published": "2026-10-22T15:35:01+00:00",
+          "source": "Decrypt",
+          "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+          "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+          "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+          "published": "2026-10-23T11:49:37+00:00",
           "coins": [
-            "BTC"
+            "ETH"
           ],
-          "compound": 0.9432,
-          "label": "BULLISH",
-          "confidence": 0.9432
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a></p>\n<p>Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover\" rel=\"nofollow\">Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
-          "published": "2026-10-22T14:38:25+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9217,
+          "compound": -0.1531,
           "label": "BEARISH",
-          "confidence": 0.9217
+          "confidence": 0.1531
         }
       ],
       "no_news": false
@@ -320,16 +357,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -341,16 +368,6 @@
       "no_news": true
     },
     "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -386,14 +403,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
-      "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers\u2019 credentials.",
-      "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-      "published": "2026-10-22T15:24:18+00:00",
+      "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+      "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
+      "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
+      "published": "2026-10-23T13:18:18+00:00",
       "coins": [],
-      "compound": -0.7269,
+      "compound": -0.7579,
       "label": "BEARISH",
-      "confidence": 0.7269
+      "confidence": 0.7579
     },
     {
       "source": "TheBlock",
@@ -484,33 +501,11 @@
       "confidence": 0.4404
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Stablecoins are ready for prime time",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
-      "published": "2026-10-22T14:58:31+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "Decrypt",
-      "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
-      "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
-      "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
-      "published": "2026-10-22T15:45:07+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
-      "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance\u2014a yield-and-protection combination ordinary stablecoins lack.",
-      "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
-      "published": "2026-10-22T12:01:03+00:00",
+      "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+      "summary": "New York\u2019s attorney general asked a court to order NovaTech\u2019s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+      "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+      "published": "2026-10-23T16:31:03+00:00",
       "coins": [],
       "compound": -0.3182,
       "label": "BEARISH",
@@ -526,17 +521,6 @@
       "compound": 0.3182,
       "label": "BULLISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-      "published": "2026-10-22T15:40:25+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -562,10 +546,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
-      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
-      "published": "2026-10-22T09:32:00+00:00",
+      "title": "Phantom rolls out Kalshi prediction markets to US users, says it\u2019s \u2018confident and comfortable\u2019 amid state lawsuits",
+      "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+      "published": "2026-10-23T13:00:00+00:00",
       "coins": [],
       "compound": -0.1531,
       "label": "BEARISH",
@@ -628,32 +612,21 @@
     },
     {
       "source": "Decrypt",
+      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
+      "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+      "published": "2026-10-23T13:29:21+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
       "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
       "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
       "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
       "published": "2026-10-22T19:46:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
-      "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
-      "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
-      "published": "2026-10-22T14:04:48+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Italy Busts Mafia 'Secret Bank' That Laundered Money Through Crypto, Seizes $24M",
-      "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
-      "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
-      "published": "2026-10-22T10:45:13+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
