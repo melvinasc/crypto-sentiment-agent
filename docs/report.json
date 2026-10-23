@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:54:00.911166+00:00",
+  "generated_at": "2026-10-23T21:17:36.172392+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -76,36 +76,12 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-          "published": "2026-10-22T22:43:36+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.1496,
+      "avg_compound": -0.2319,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 10,
+      "bullish": 4,
+      "bearish": 12,
       "neutral": 7,
       "top_articles": [
         {
@@ -177,11 +153,11 @@
     },
     "ETH": {
       "article_count": 5,
-      "avg_compound": -0.0655,
+      "avg_compound": -0.0959,
       "overall": "BEARISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 2,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -200,20 +176,6 @@
         },
         {
           "source": "Decrypt",
-          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-          "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-          "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-          "published": "2026-10-22T16:31:07+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
-        },
-        {
-          "source": "Decrypt",
           "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
           "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
           "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
@@ -224,6 +186,70 @@
           "compound": -0.1531,
           "label": "BEARISH",
           "confidence": 0.1531
+        },
+        {
+          "source": "TheBlock",
+          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+          "published": "2026-10-22T13:55:03+00:00",
+          "coins": [
+            "UNI",
+            "ETH"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": -0.008,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
+          "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+          "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+          "published": "2026-10-23T20:16:02+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.2263,
+          "label": "BEARISH",
+          "confidence": 0.2263
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+          "published": "2026-10-22T22:43:36+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
+        },
+        {
+          "source": "TheBlock",
+          "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+          "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+          "published": "2026-10-23T17:46:09+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -381,14 +407,14 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
-      "summary": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote.",
-      "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
-      "published": "2026-10-22T19:06:02+00:00",
+      "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+      "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+      "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+      "published": "2026-10-23T18:54:55+00:00",
       "coins": [],
-      "compound": 0.9246,
+      "compound": 0.9153,
       "label": "BULLISH",
-      "confidence": 0.9246
+      "confidence": 0.9153
     },
     {
       "source": "Decrypt",
@@ -424,17 +450,6 @@
       "confidence": 0.6908
     },
     {
-      "source": "TheBlock",
-      "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
-      "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
-      "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
-      "published": "2026-10-22T13:27:54+00:00",
-      "coins": [],
-      "compound": -0.6908,
-      "label": "BEARISH",
-      "confidence": 0.6908
-    },
-    {
       "source": "Decrypt",
       "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
       "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
@@ -457,17 +472,6 @@
       "confidence": 0.6486
     },
     {
-      "source": "Decrypt",
-      "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
-      "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
-      "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
-      "published": "2026-10-22T17:33:38+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
       "source": "TheBlock",
       "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
       "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
@@ -479,26 +483,15 @@
       "confidence": 0.5423
     },
     {
-      "source": "Decrypt",
-      "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
-      "summary": "The Central Bank of Ireland penalized Coinbase Ireland \u20ac3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded\u2014its second hit to the exchange\u2019s European arm in the last year.",
-      "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
-      "published": "2026-10-22T18:36:03+00:00",
+      "source": "TheBlock",
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+      "published": "2026-10-23T18:15:55+00:00",
       "coins": [],
-      "compound": 0.4939,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
-      "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end.",
-      "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
-      "published": "2026-10-22T18:06:02+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
+      "confidence": 0.4019
     },
     {
       "source": "Decrypt",
@@ -512,15 +505,15 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "Dune launches onchain trading data feeds as tokenized markets expand",
-      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-      "published": "2026-10-22T12:00:00+00:00",
+      "source": "Decrypt",
+      "title": "How I Vibe Coded My Smart TV\u2014And Claude Killed It",
+      "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
+      "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+      "published": "2026-10-23T17:53:29+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": 0.3119,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.3119
     },
     {
       "source": "TheBlock",
@@ -556,17 +549,6 @@
       "confidence": 0.1531
     },
     {
-      "source": "TheBlock",
-      "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
-      "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
-      "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
-      "published": "2026-10-22T12:00:00+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
       "source": "CoinDesk",
       "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
       "summary": "",
@@ -576,6 +558,17 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "summary": "Days before Israel\u2019s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "published": "2026-10-23T21:16:03+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
     },
     {
       "source": "TheBlock",
@@ -612,10 +605,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
-      "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
-      "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
-      "published": "2026-10-23T13:29:21+00:00",
+      "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",
+      "summary": "SpaceX\u2019s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its \u201ccontrolling shareholder.\u201d",
+      "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+      "published": "2026-10-23T19:36:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -623,10 +616,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
-      "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
-      "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
-      "published": "2026-10-22T19:46:02+00:00",
+      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+      "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
+      "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+      "published": "2026-10-23T13:29:21+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
