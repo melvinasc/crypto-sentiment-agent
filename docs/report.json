@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:28:50.093532+00:00",
+  "generated_at": "2026-10-23T11:25:37.888056+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -26,37 +26,13 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.4588,
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": 0.3269,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 5,
       "bearish": 0,
       "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "published": "2026-10-22T05:24:58+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 6,
-      "avg_compound": 0.2102,
-      "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 1,
-      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -86,17 +62,18 @@
           "confidence": 0.3182
         },
         {
-          "source": "CoinDesk",
-          "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-          "published": "2026-10-22T12:14:29+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+          "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
+          "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+          "published": "2026-10-22T16:31:07+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -166,11 +143,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": -0.0355,
-      "overall": "NEUTRAL",
-      "bullish": 7,
-      "bearish": 9,
-      "neutral": 4,
+      "avg_compound": 0.0684,
+      "overall": "BULLISH",
+      "bullish": 8,
+      "bearish": 6,
+      "neutral": 6,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -215,14 +192,53 @@
       "no_news": false
     },
     "ADA": {
-      "article_count": 0,
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+          "published": "2026-10-23T04:36:51+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "PEPE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+          "published": "2026-10-23T10:54:41+00:00",
+          "coins": [
+            "BTC",
+            "PEPE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "AVAX": {
       "article_count": 0,
@@ -294,7 +310,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "PEPE": {
+    "SHIB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -304,7 +320,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "SHIB": {
+    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -413,6 +429,17 @@
       "confidence": 0.6808
     },
     {
+      "source": "CoinDesk",
+      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+      "published": "2026-10-23T08:02:35+00:00",
+      "coins": [],
+      "compound": -0.6486,
+      "label": "BEARISH",
+      "confidence": 0.6486
+    },
+    {
       "source": "Decrypt",
       "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
       "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
@@ -422,6 +449,17 @@
       "compound": -0.5719,
       "label": "BEARISH",
       "confidence": 0.5719
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+      "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+      "published": "2026-10-23T09:52:44+00:00",
+      "coins": [],
+      "compound": 0.5423,
+      "label": "BULLISH",
+      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -444,17 +482,6 @@
       "compound": 0.4404,
       "label": "BULLISH",
       "confidence": 0.4404
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
-      "published": "2026-10-22T14:37:12+00:00",
-      "coins": [],
-      "compound": -0.4215,
-      "label": "BEARISH",
-      "confidence": 0.4215
     },
     {
       "source": "CoinDesk",
@@ -523,22 +550,11 @@
       "confidence": 0.2263
     },
     {
-      "source": "Decrypt",
-      "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
-      "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
-      "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
-      "published": "2026-10-21T21:31:02+00:00",
-      "coins": [],
-      "compound": 0.2057,
-      "label": "BULLISH",
-      "confidence": 0.2057
-    },
-    {
-      "source": "TheBlock",
-      "title": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
-      "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
-      "published": "2026-10-22T09:11:57+00:00",
+      "source": "CoinDesk",
+      "title": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+      "published": "2026-10-23T08:57:34+00:00",
       "coins": [],
       "compound": 0.1779,
       "label": "BULLISH",
@@ -567,6 +583,17 @@
       "confidence": 0.128
     },
     {
+      "source": "CoinDesk",
+      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+      "published": "2026-10-23T05:01:19+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
       "source": "TheBlock",
       "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
       "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
@@ -579,32 +606,21 @@
     },
     {
       "source": "CoinDesk",
+      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+      "published": "2026-10-23T10:22:56+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
       "published": "2026-10-22T18:30:57+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto is making a splash in U.S. elections \u2014 but chiefly in jabs about industry influence",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
-      "published": "2026-10-22T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders price India telecoms company Reliance Jio's IPO at about $110 billion",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/22/crypto-traders-price-india-telecoms-company-reliance-jio-s-ipo-at-about-usd110-billion",
-      "published": "2026-10-22T10:18:28+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -638,6 +654,17 @@
       "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
       "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
       "published": "2026-10-22T10:45:13+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+      "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
+      "published": "2026-10-23T10:12:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
