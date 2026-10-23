@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-22T21:26:18.888671+00:00",
+  "generated_at": "2026-10-23T04:28:50.093532+00:00",
   "total_articles": 55,
   "coins": {
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.7351,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+          "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
+          "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+          "published": "2026-10-23T02:48:13+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.7351,
+          "label": "BULLISH",
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 1,
       "avg_compound": 0.4588,
@@ -22,55 +46,6 @@
           "compound": 0.4588,
           "label": "BULLISH",
           "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a></p>\n<p>Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28 public launch.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
-          "published": "2026-10-22T16:26:52+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-          "published": "2026-10-22T04:36:20+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -127,12 +102,12 @@
       "no_news": false
     },
     "UNI": {
-      "article_count": 2,
-      "avg_compound": 0.064,
+      "article_count": 1,
+      "avg_compound": 0.128,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -147,30 +122,55 @@
           "compound": 0.128,
           "label": "BULLISH",
           "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": -0.1191,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a></p>\n<p>Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28 public launch.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint\" rel=\"nofollow\">Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+          "published": "2026-10-22T16:26:52+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
         },
         {
-          "source": "TheBlock",
-          "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
-          "summary": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.",
-          "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-          "published": "2026-10-21T16:44:01+00:00",
+          "source": "CoinDesk",
+          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+          "published": "2026-10-22T22:43:36+00:00",
           "coins": [
-            "UNI"
+            "USDT"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": 0.0143,
+      "article_count": 20,
+      "avg_compound": -0.0355,
       "overall": "NEUTRAL",
-      "bullish": 9,
-      "bearish": 7,
-      "neutral": 3,
+      "bullish": 7,
+      "bearish": 9,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -274,16 +274,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "LINK": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -335,6 +325,16 @@
       "no_news": true
     },
     "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -400,6 +400,17 @@
       "compound": -0.6908,
       "label": "BEARISH",
       "confidence": 0.6908
+    },
+    {
+      "source": "Decrypt",
+      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+      "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+      "published": "2026-10-22T22:21:46+00:00",
+      "coins": [],
+      "compound": -0.6808,
+      "label": "BEARISH",
+      "confidence": 0.6808
     },
     {
       "source": "Decrypt",
@@ -490,17 +501,6 @@
       "confidence": 0.3182
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood single-stock perps could be a \u2018strong positive\u2019 for HOOD shares, Mizuho says",
-      "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
-      "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
-      "published": "2026-10-21T18:54:36+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
       "source": "CoinDesk",
       "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
       "summary": "",
@@ -565,28 +565,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
-      "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-      "published": "2026-10-21T17:59:36+00:00",
-      "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-      "summary": "Nvidia's OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
-      "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-      "published": "2026-10-21T20:16:02+00:00",
-      "coins": [],
-      "compound": -0.0191,
-      "label": "NEUTRAL",
-      "confidence": 0.0191
     },
     {
       "source": "TheBlock",
@@ -660,6 +638,17 @@
       "summary": "Police say a car-rental firm near Milan was an underground bank for 'Ndrangheta and Camorra figures, moving money abroad and into crypto.",
       "url": "https://decrypt.co/381589/italy-busts-mafia-secret-bank-that-laundered-money-through-crypto-seizes-24m",
       "published": "2026-10-22T10:45:13+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+      "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+      "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+      "published": "2026-10-23T04:03:09+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
