@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:19:04.399823+00:00",
+  "generated_at": "2026-10-24T10:44:41.820638+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -53,10 +53,10 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.3182,
+      "article_count": 2,
+      "avg_compound": 0.3071,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -72,6 +72,19 @@
           "compound": 0.3182,
           "label": "BULLISH",
           "confidence": 0.3182
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+          "published": "2026-10-24T04:45:43+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -587,17 +600,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
       "published": "2026-10-23T10:22:56+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
-      "published": "2026-10-22T18:30:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
