@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:44:41.820638+00:00",
+  "generated_at": "2026-10-24T15:46:45.701359+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -90,10 +90,10 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2768,
+      "article_count": 24,
+      "avg_compound": -0.2473,
       "overall": "BEARISH",
-      "bullish": 3,
+      "bullish": 4,
       "bearish": 13,
       "neutral": 7,
       "top_articles": [
@@ -139,36 +139,11 @@
       ],
       "no_news": false
     },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
-          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-          "published": "2026-10-22T13:55:03+00:00",
-          "coins": [
-            "UNI",
-            "ETH"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0959,
+      "article_count": 4,
+      "avg_compound": -0.1392,
       "overall": "BEARISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 2,
       "neutral": 1,
       "top_articles": [
@@ -217,11 +192,36 @@
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.008,
-      "overall": "NEUTRAL",
+    "UNI": {
+      "article_count": 1,
+      "avg_compound": 0.128,
+      "overall": "BULLISH",
       "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+          "published": "2026-10-22T13:55:03+00:00",
+          "coins": [
+            "UNI",
+            "ETH"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": -0.1132,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -239,19 +239,6 @@
           "confidence": 0.2263
         },
         {
-          "source": "CoinDesk",
-          "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
-          "published": "2026-10-22T22:43:36+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        },
-        {
           "source": "TheBlock",
           "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
           "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
@@ -259,30 +246,6 @@
           "published": "2026-10-23T17:46:09+00:00",
           "coins": [
             "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
-          "published": "2026-10-23T04:36:51+00:00",
-          "coins": [
-            "ADA"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -315,6 +278,16 @@
         }
       ],
       "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -430,15 +403,15 @@
       "confidence": 0.9153
     },
     {
-      "source": "Decrypt",
-      "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
-      "summary": "Lionel Messi\u2019s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board.",
-      "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
-      "published": "2026-10-22T20:39:18+00:00",
+      "source": "CoinDesk",
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "published": "2026-10-24T15:21:06+00:00",
       "coins": [],
-      "compound": -0.7717,
+      "compound": -0.7579,
       "label": "BEARISH",
-      "confidence": 0.7717
+      "confidence": 0.7579
     },
     {
       "source": "Decrypt",
@@ -463,28 +436,6 @@
       "confidence": 0.6908
     },
     {
-      "source": "Decrypt",
-      "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-      "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
-      "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-      "published": "2026-10-22T22:21:46+00:00",
-      "coins": [],
-      "compound": -0.6808,
-      "label": "BEARISH",
-      "confidence": 0.6808
-    },
-    {
-      "source": "CoinDesk",
-      "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
-      "published": "2026-10-23T08:02:35+00:00",
-      "coins": [],
-      "compound": -0.6486,
-      "label": "BEARISH",
-      "confidence": 0.6486
-    },
-    {
       "source": "TheBlock",
       "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
       "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
@@ -496,6 +447,17 @@
       "confidence": 0.5423
     },
     {
+      "source": "CoinDesk",
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "published": "2026-10-24T14:38:47+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
       "source": "TheBlock",
       "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
       "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
@@ -505,6 +467,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago.",
+      "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+      "published": "2026-10-24T15:01:02+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -529,6 +502,28 @@
       "confidence": 0.3119
     },
     {
+      "source": "CoinDesk",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "published": "2026-10-24T15:00:00+00:00",
+      "coins": [],
+      "compound": -0.296,
+      "label": "BEARISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+      "published": "2026-10-24T14:06:24+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
       "source": "TheBlock",
       "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
       "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
@@ -538,17 +533,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-      "published": "2026-10-23T08:57:34+00:00",
-      "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
     },
     {
       "source": "TheBlock",
@@ -562,17 +546,6 @@
       "confidence": 0.1531
     },
     {
-      "source": "CoinDesk",
-      "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
-      "published": "2026-10-23T05:01:19+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
-    },
-    {
       "source": "Decrypt",
       "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
       "summary": "Days before Israel\u2019s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
@@ -582,6 +555,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+      "published": "2026-10-24T12:00:00+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "TheBlock",
@@ -600,6 +584,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
       "published": "2026-10-23T10:22:56+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "published": "2026-10-24T13:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
