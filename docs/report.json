@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:46:45.701359+00:00",
+  "generated_at": "2026-10-24T20:35:22.532815+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -91,10 +91,10 @@
     },
     "BTC": {
       "article_count": 24,
-      "avg_compound": -0.2473,
+      "avg_compound": -0.302,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 13,
+      "bullish": 3,
+      "bearish": 14,
       "neutral": 7,
       "top_articles": [
         {
@@ -140,10 +140,10 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.1392,
+      "article_count": 3,
+      "avg_compound": -0.2282,
       "overall": "BEARISH",
-      "bullish": 1,
+      "bullish": 0,
       "bearish": 2,
       "neutral": 1,
       "top_articles": [
@@ -177,42 +177,16 @@
         },
         {
           "source": "TheBlock",
-          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
-          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-          "published": "2026-10-22T13:55:03+00:00",
+          "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+          "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+          "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+          "published": "2026-10-23T17:03:56+00:00",
           "coins": [
-            "UNI",
             "ETH"
           ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.128,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
-          "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
-          "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
-          "published": "2026-10-22T13:55:03+00:00",
-          "coins": [
-            "UNI",
-            "ETH"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -379,6 +353,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -425,6 +409,17 @@
       "confidence": 0.7579
     },
     {
+      "source": "Decrypt",
+      "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "summary": "A policy change effective Oct. 16 carves out an exception to Google\u2019s long-standing pledge\u2014letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features.",
+      "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+      "published": "2026-10-24T17:01:02+00:00",
+      "coins": [],
+      "compound": 0.7351,
+      "label": "BULLISH",
+      "confidence": 0.7351
+    },
+    {
       "source": "TheBlock",
       "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
       "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
@@ -456,6 +451,28 @@
       "compound": -0.5267,
       "label": "BEARISH",
       "confidence": 0.5267
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+      "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "published": "2026-10-24T16:01:03+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
+      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "published": "2026-10-24T16:24:13+00:00",
+      "coins": [],
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
     },
     {
       "source": "TheBlock",
@@ -525,17 +542,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
-      "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
-      "published": "2026-10-22T14:03:40+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
-    },
-    {
-      "source": "TheBlock",
       "title": "Phantom rolls out Kalshi prediction markets to US users, says it\u2019s \u2018confident and comfortable\u2019 amid state lawsuits",
       "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
       "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
@@ -577,17 +583,6 @@
       "compound": 0.0169,
       "label": "NEUTRAL",
       "confidence": 0.0169
-    },
-    {
-      "source": "CoinDesk",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "published": "2026-10-23T10:22:56+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
     },
     {
       "source": "Decrypt",
