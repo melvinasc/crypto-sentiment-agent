@@ -1,78 +1,52 @@
 {
-  "generated_at": "2026-10-26T04:25:47.574245+00:00",
+  "generated_at": "2026-10-26T12:43:57.601121+00:00",
   "total_articles": 55,
   "coins": {
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.7351,
+    "XRP": {
+      "article_count": 2,
+      "avg_compound": 0.4588,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
-          "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
-          "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
-          "published": "2026-10-23T02:48:13+00:00",
+          "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
+          "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
+          "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+          "published": "2026-10-26T11:34:12+00:00",
           "coins": [
-            "LINK"
+            "XRP"
           ],
-          "compound": 0.7351,
+          "compound": 0.5994,
           "label": "BULLISH",
-          "confidence": 0.7351
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.5574,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
+          "confidence": 0.5994
+        },
         {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-          "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
-          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-          "published": "2026-10-23T15:50:41+00:00",
+          "source": "TheBlock",
+          "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+          "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+          "published": "2026-10-23T12:55:26+00:00",
           "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
+            "XRP"
           ],
-          "compound": -0.5574,
-          "label": "BEARISH",
-          "confidence": 0.5574
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.3527,
+      "article_count": 23,
+      "avg_compound": -0.3608,
       "overall": "BEARISH",
-      "bullish": 3,
-      "bearish": 15,
-      "neutral": 4,
+      "bullish": 2,
+      "bearish": 16,
+      "neutral": 5,
       "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bloomberg\u2019s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=apgtvAVmUTA\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/apgtvAVmUTA/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Bloombergs-Mike-McGlone-AI-Risk-Could-Force-Bitcoin-Drawdown-to-10000-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000\" rel=\"nofollow\">Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000</a></p>\n<p>Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000\" rel=\"nofollow\">Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
-          "published": "2026-10-23T13:18:04+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.926,
-          "label": "BEARISH",
-          "confidence": 0.926
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
@@ -98,82 +72,19 @@
           "compound": -0.836,
           "label": "BEARISH",
           "confidence": 0.836
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.3071,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-          "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
-          "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-          "published": "2026-10-23T12:55:26+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3182,
-          "label": "BULLISH",
-          "confidence": 0.3182
         },
         {
-          "source": "CoinDesk",
-          "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-          "published": "2026-10-24T04:45:43+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million\" rel=\"nofollow\">Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike\u00a0</a></p>\n<p>Investors this week were buying bitcoin ETFs but that all changed on Thursday. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million\" rel=\"nofollow\">Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mathewdisalvo\" rel=\"nofollow\">Mathew Di Salvo</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+          "published": "2026-10-23T16:46:36+00:00",
           "coins": [
-            "XRP"
+            "BTC"
           ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.2658,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-          "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
-          "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-          "published": "2026-10-23T15:50:41+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.5574,
+          "compound": -0.802,
           "label": "BEARISH",
-          "confidence": 0.5574
-        },
-        {
-          "source": "TheBlock",
-          "title": "Initia halts network after security incident as attacker reportedly mints tokens",
-          "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
-          "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
-          "published": "2026-10-23T17:03:56+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0258,
-          "label": "NEUTRAL",
-          "confidence": 0.0258
+          "confidence": 0.802
         }
       ],
       "no_news": false
@@ -211,6 +122,30 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+          "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+          "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+          "published": "2026-10-23T17:03:56+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -275,6 +210,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "LINK": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -306,6 +251,16 @@
       "no_news": true
     },
     "SHIB": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -381,6 +336,17 @@
       "confidence": 0.7351
     },
     {
+      "source": "CoinDesk",
+      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+      "published": "2026-10-26T05:39:17+00:00",
+      "coins": [],
+      "compound": -0.6808,
+      "label": "BEARISH",
+      "confidence": 0.6808
+    },
+    {
       "source": "Decrypt",
       "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
       "summary": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list.",
@@ -392,6 +358,17 @@
       "confidence": 0.6369
     },
     {
+      "source": "Decrypt",
+      "title": "Israel's Central Bank Rebukes Netanyahu Plan to Use Crypto to Dodge Sanctions",
+      "summary": "Over 100 economists, including former governor Jacob Frenkel, warned of deeper isolation ahead of Israel's October 27 national election.",
+      "url": "https://decrypt.co/381789/israels-central-bank-rebukes-netanyahu-plan-to-use-crypto-to-dodge-sanctions",
+      "published": "2026-10-26T11:34:08+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
+    },
+    {
       "source": "TheBlock",
       "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
       "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
@@ -401,17 +378,6 @@
       "compound": 0.5423,
       "label": "BULLISH",
       "confidence": 0.5423
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "published": "2026-10-24T14:38:47+00:00",
-      "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
@@ -502,17 +468,6 @@
       "confidence": 0.3119
     },
     {
-      "source": "CoinDesk",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-      "published": "2026-10-24T15:00:00+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a \u2018false alarm\u2019",
       "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
@@ -524,17 +479,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
-      "published": "2026-10-24T14:06:24+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
-    },
-    {
       "source": "TheBlock",
       "title": "Phantom rolls out Kalshi prediction markets to US users, says it\u2019s \u2018confident and comfortable\u2019 amid state lawsuits",
       "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
@@ -544,6 +488,17 @@
       "compound": -0.1531,
       "label": "BEARISH",
       "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
+      "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
+      "published": "2026-10-26T10:06:02+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
     },
     {
       "source": "Decrypt",
@@ -569,14 +524,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
-      "published": "2026-10-24T12:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
+      "published": "2026-10-26T10:33:00+00:00",
       "coins": [],
-      "compound": 0.0258,
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+      "published": "2026-10-26T09:14:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -606,17 +572,6 @@
       "summary": "SpaceX\u2019s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its \u201ccontrolling shareholder.\u201d",
       "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
       "published": "2026-10-23T19:36:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
-      "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
-      "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
-      "published": "2026-10-23T13:29:21+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
