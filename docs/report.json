@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:33:35.273614+00:00",
+  "generated_at": "2026-10-27T04:44:58.555977+00:00",
   "total_articles": 55,
   "coins": {
     "USDT": {
@@ -27,13 +27,26 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.5994,
+      "article_count": 3,
+      "avg_compound": 0.6472,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+          "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+          "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+          "published": "2026-10-27T02:28:18+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.8316,
+          "label": "BULLISH",
+          "confidence": 0.8316
+        },
         {
           "source": "TheBlock",
           "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
@@ -46,6 +59,19 @@
           "compound": 0.5994,
           "label": "BULLISH",
           "confidence": 0.5994
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+          "published": "2026-10-27T04:28:49+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
         }
       ],
       "no_news": false
@@ -125,12 +151,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.3034,
+      "article_count": 21,
+      "avg_compound": -0.2671,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 15,
-      "neutral": 3,
+      "bullish": 5,
+      "bearish": 14,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -198,6 +224,30 @@
       ],
       "no_news": false
     },
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
+          "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+          "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+          "published": "2026-10-27T01:00:00+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -229,16 +279,6 @@
       "no_news": true
     },
     "DOT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -442,17 +482,6 @@
     },
     {
       "source": "TheBlock",
-      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
-      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
-      "published": "2026-10-24T16:24:13+00:00",
-      "coins": [],
-      "compound": -0.4939,
-      "label": "BEARISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
       "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
       "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
       "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
@@ -516,17 +545,6 @@
       "compound": -0.128,
       "label": "BEARISH",
       "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-      "summary": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
-      "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-      "published": "2026-10-25T15:56:30+00:00",
-      "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
     },
     {
       "source": "CoinDesk",
