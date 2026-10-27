@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-27T11:58:34.370344+00:00",
+  "generated_at": "2026-10-27T17:54:26.699770+00:00",
   "total_articles": 55,
   "coins": {
-    "USDT": {
+    "BNB": {
       "article_count": 1,
-      "avg_compound": -0.7579,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
+      "avg_compound": 0.4767,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "India\u2019s CoinDCX Confirms $16 Million Loss Days After CEO Called It a \u2018False Alarm\u2019",
-          "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year\u2019s $44 million hack, bringing its combined losses to nearly $60 million\u2014and it\u2019s absorbing the hit.",
-          "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-          "published": "2026-10-26T16:36:03+00:00",
+          "source": "TheBlock",
+          "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+          "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+          "published": "2026-10-26T19:43:47+00:00",
           "coins": [
-            "USDT"
+            "BNB"
           ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 4,
-      "avg_compound": 0.6898,
+      "article_count": 5,
+      "avg_compound": 0.3699,
       "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 0,
-      "neutral": 0,
+      "bullish": 3,
+      "bearish": 1,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -62,27 +62,27 @@
         },
         {
           "source": "TheBlock",
-          "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-          "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
-          "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-          "published": "2026-10-26T11:34:12+00:00",
+          "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+          "summary": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
+          "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+          "published": "2026-10-27T15:01:12+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.5994,
+          "compound": 0.4215,
           "label": "BULLISH",
-          "confidence": 0.5994
+          "confidence": 0.4215
         }
       ],
       "no_news": false
     },
     "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.6369,
+      "article_count": 2,
+      "avg_compound": -0.3185,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -96,130 +96,56 @@
           "compound": -0.6369,
           "label": "BEARISH",
           "confidence": 0.6369
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+        },
         {
-          "source": "TheBlock",
-          "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
-          "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
-          "published": "2026-10-26T19:43:47+00:00",
+          "source": "Decrypt",
+          "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+          "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia\u2019s instant-payments network.",
+          "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+          "published": "2026-10-27T17:45:18+00:00",
           "coins": [
-            "BNB"
+            "USDC"
           ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 4,
-      "avg_compound": 0.3552,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
+      "article_count": 2,
+      "avg_compound": -0.0386,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-          "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has run.",
-          "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
-          "published": "2026-10-26T15:36:03+00:00",
+          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+          "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+          "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+          "published": "2026-10-27T16:53:13+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.631,
-          "label": "BULLISH",
-          "confidence": 0.631
+          "compound": -0.0772,
+          "label": "BEARISH",
+          "confidence": 0.0772
         },
         {
           "source": "CoinDesk",
-          "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+          "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-          "published": "2026-10-26T16:05:12+00:00",
+          "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+          "published": "2026-10-27T07:09:56+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.4939,
-          "label": "BULLISH",
-          "confidence": 0.4939
-        },
-        {
-          "source": "TheBlock",
-          "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
-          "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
-          "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
-          "published": "2026-10-26T14:12:59+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.168,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 11,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=Y5GXvtcrw2s\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/Y5GXvtcrw2s/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Leon-Wankum-The-Insane-Math-Behind-Bitcoin-Demonetizing-Real-Estate-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate\" rel=\"nofollow\">Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate</a></p>\n<p>Leon Wankum argues real estate's $300T+ monetary premium is migrating to Bitcoin, projecting a $1M target and explaining why it's smarter to rent and buy BTC.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate\" rel=\"nofollow\">Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mark-mason\" rel=\"nofollow\">Mark Mason</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
-          "published": "2026-10-26T13:37:28+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8979,
-          "label": "BEARISH",
-          "confidence": 0.8979
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-          "summary": "A confirmed exploit let rogue servers replace Electrum\u2019s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
-          "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-          "published": "2026-10-26T17:41:21+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.875,
-          "label": "BEARISH",
-          "confidence": 0.875
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/South-Korea-Weighs-Fourth-Delay-of-Crypto-Tax-With-2029-Start-Tied-to-U.S.-Data-Sharing.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax\" rel=\"nofollow\">South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing</a></p>\n<p>South Korea is weighing a fourth delay of its 22% crypto tax, pushing the start from January 2027 to 2029 so authorities can access U.S. trading data once Washington joins the OECD\u2019s Crypto-Asset Reporting Framework.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax\" rel=\"nofollow\">South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax",
-          "published": "2026-10-26T14:06:27+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -244,6 +170,56 @@
           "compound": -0.0258,
           "label": "NEUTRAL",
           "confidence": 0.0258
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 22,
+      "avg_compound": -0.0099,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 9,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=Vnlt7wKjpIk\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/Vnlt7wKjpIk/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Deloittes-Rob-Massey-What-Bitcoin-Investors-Need-to-Know-About-The-Changing-IRS-Tax-Guidance-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance\" rel=\"nofollow\">Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance</a></p>\n<p>Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance\" rel=\"nofollow\">Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
+          "published": "2026-10-27T13:22:05+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9618,
+          "label": "BEARISH",
+          "confidence": 0.9618
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Next Week\u2019s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Next-Weeks-Midterms-Could-Stall-the-CLARITY-Act-and-Test-Cryptos-Political-Clout-TD-Cowen-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto\" rel=\"nofollow\">Next Week&#8217;s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen\u00a0</a></p>\n<p>TD Cowen says a Democratic sweep would stall the CLARITY Act, while regulators keep advancing rules that favor the crypto sector.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto\" rel=\"nofollow\">Next Week&#8217;s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
+          "published": "2026-10-27T17:48:18+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8531,
+          "label": "BULLISH",
+          "confidence": 0.8531
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "UTXO\u2019s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=CRvO0Hf9yds\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/CRvO0Hf9yds/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/UTXOs-Duke-Waldrop-Bank-of-Japan-Liquidity-Shock-Could-Impact-Bitcoin-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin\" rel=\"nofollow\">UTXO&#8217;s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin</a></p>\n<p>Ahead of Fed and BOJ rate calls, Duke Waldrop explains how yen carry unwinds hit 24/7 Bitcoin liquidity and why Metaplanet trading below NAV is an opportunity.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin\" rel=\"nofollow\">UTXO&#8217;s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
+          "published": "2026-10-27T13:12:45+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
         }
       ],
       "no_news": false
@@ -395,30 +371,40 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
-      "summary": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
-      "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
-      "published": "2026-10-26T18:46:03+00:00",
+      "source": "TheBlock",
+      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+      "summary": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+      "published": "2026-10-27T15:35:32+00:00",
       "coins": [],
-      "compound": -0.822,
+      "compound": -0.8402,
       "label": "BEARISH",
-      "confidence": 0.822
+      "confidence": 0.8402
     },
     {
-      "source": "Decrypt",
-      "title": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
-      "summary": "AI-powered reverse engineering could make it \"easier and faster\" for researchers to uncover and explain how devices collect and share data.",
-      "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
-      "published": "2026-10-26T15:00:02+00:00",
+      "source": "TheBlock",
+      "title": "Galaxy Digital swings to $323 million quarterly profit, announces new $200 million share buyback",
+      "summary": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized.",
+      "url": "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860",
+      "published": "2026-10-27T14:39:22+00:00",
       "coins": [],
-      "compound": 0.7717,
+      "compound": 0.8074,
       "label": "BULLISH",
-      "confidence": 0.7717
+      "confidence": 0.8074
     },
     {
       "source": "Decrypt",
@@ -432,17 +418,6 @@
       "confidence": 0.7506
     },
     {
-      "source": "TheBlock",
-      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
-      "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
-      "published": "2026-10-26T16:27:37+00:00",
-      "coins": [],
-      "compound": 0.743,
-      "label": "BULLISH",
-      "confidence": 0.743
-    },
-    {
       "source": "CoinDesk",
       "title": "An AI label alone no longer wins lenders, JPMorgan says",
       "summary": "",
@@ -454,15 +429,15 @@
       "confidence": 0.735
     },
     {
-      "source": "Decrypt",
-      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
-      "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
-      "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
-      "published": "2026-10-26T18:16:02+00:00",
+      "source": "TheBlock",
+      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+      "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+      "published": "2026-10-27T12:05:17+00:00",
       "coins": [],
-      "compound": -0.6771,
-      "label": "BEARISH",
-      "confidence": 0.6771
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
@@ -476,37 +451,26 @@
       "confidence": 0.6369
     },
     {
-      "source": "TheBlock",
-      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
-      "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
-      "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-      "published": "2026-10-26T17:55:02+00:00",
+      "source": "Decrypt",
+      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood\u2019s Earnings Call",
+      "summary": "One of crypto\u2019s primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on today\u2019s Robinhood earnings call?",
+      "url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
+      "published": "2026-10-27T12:59:58+00:00",
       "coins": [],
-      "compound": -0.4404,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.4404
+      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
-      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
-      "published": "2026-10-27T06:14:41+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+      "published": "2026-10-27T16:59:07+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "Decrypt",
-      "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
-      "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
-      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-      "published": "2026-10-26T16:04:51+00:00",
-      "coins": [],
-      "compound": -0.3818,
+      "compound": -0.4019,
       "label": "BEARISH",
-      "confidence": 0.3818
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -518,17 +482,6 @@
       "compound": -0.34,
       "label": "BEARISH",
       "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
-      "summary": "Bernstein cuts Coinbase\u2019s target while raising Circle\u2019s as new products shift their earnings outlook.",
-      "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
-      "published": "2026-10-26T16:36:43+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
     },
     {
       "source": "CoinDesk",
@@ -543,6 +496,28 @@
     },
     {
       "source": "Decrypt",
+      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+      "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections.",
+      "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+      "published": "2026-10-27T16:53:44+00:00",
+      "coins": [],
+      "compound": 0.2732,
+      "label": "BULLISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+      "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
+      "published": "2026-10-27T17:07:10+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "Decrypt",
       "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
       "summary": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
       "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
@@ -553,15 +528,26 @@
       "confidence": 0.128
     },
     {
-      "source": "CoinDesk",
-      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
-      "published": "2026-10-26T14:51:07+00:00",
+      "source": "TheBlock",
+      "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+      "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead investor, though Paper Ventures and dao5 took the largest allocations, Cancore co-founder [\u2026]",
+      "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
+      "published": "2026-10-27T16:59:10+00:00",
       "coins": [],
-      "compound": 0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto Market Structure Explained",
+      "summary": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resilience.",
+      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
+      "published": "2026-10-27T14:14:08+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
@@ -587,10 +573,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-      "published": "2026-10-26T15:59:55+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+      "published": "2026-10-27T14:21:10+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -598,10 +584,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "published": "2026-10-26T15:45:51+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+      "published": "2026-10-27T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+      "summary": "The firm's new head of investigations says its surveillance system flags hundreds of alerts a day, with at least two cases sent to the CFTC.",
+      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
+      "published": "2026-10-27T13:52:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
