@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T04:44:58.555977+00:00",
+  "generated_at": "2026-10-27T11:58:34.370344+00:00",
   "total_articles": 55,
   "coins": {
     "USDT": {
@@ -27,10 +27,10 @@
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": 0.6472,
+      "article_count": 4,
+      "avg_compound": 0.6898,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 4,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -48,6 +48,19 @@
           "confidence": 0.8316
         },
         {
+          "source": "Decrypt",
+          "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+          "summary": "The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court.",
+          "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+          "published": "2026-10-27T10:16:46+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.8176,
+          "label": "BULLISH",
+          "confidence": 0.8176
+        },
+        {
           "source": "TheBlock",
           "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
           "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
@@ -59,19 +72,30 @@
           "compound": 0.5994,
           "label": "BULLISH",
           "confidence": 0.5994
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.6369,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-          "published": "2026-10-27T04:28:49+00:00",
+          "source": "TheBlock",
+          "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+          "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
+          "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+          "published": "2026-10-27T06:28:34+00:00",
           "coins": [
-            "XRP"
+            "USDC"
           ],
-          "compound": 0.5106,
-          "label": "BULLISH",
-          "confidence": 0.5106
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
         }
       ],
       "no_news": false
@@ -101,12 +125,12 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.4736,
+      "article_count": 4,
+      "avg_compound": 0.3552,
       "overall": "BULLISH",
       "bullish": 3,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -152,11 +176,11 @@
     },
     "BTC": {
       "article_count": 21,
-      "avg_compound": -0.2671,
+      "avg_compound": -0.168,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 14,
-      "neutral": 2,
+      "bullish": 7,
+      "bearish": 11,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -196,6 +220,30 @@
           "compound": -0.8074,
           "label": "BEARISH",
           "confidence": 0.8074
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.0258,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+          "published": "2026-10-27T07:44:04+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.0258,
+          "label": "NEUTRAL",
+          "confidence": 0.0258
         }
       ],
       "no_news": false
@@ -328,16 +376,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -349,16 +387,6 @@
       "no_news": true
     },
     "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -416,14 +444,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
-      "published": "2026-10-26T05:39:17+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+      "published": "2026-10-27T08:24:39+00:00",
       "coins": [],
-      "compound": -0.6808,
+      "compound": -0.735,
       "label": "BEARISH",
-      "confidence": 0.6808
+      "confidence": 0.735
     },
     {
       "source": "Decrypt",
@@ -438,17 +466,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under \u2018ANT\u2019",
-      "summary": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control.",
-      "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
-      "published": "2026-10-26T13:50:22+00:00",
-      "coins": [],
-      "compound": 0.6705,
-      "label": "BULLISH",
-      "confidence": 0.6705
-    },
-    {
-      "source": "Decrypt",
       "title": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
       "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
       "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
@@ -457,28 +474,6 @@
       "compound": -0.6369,
       "label": "BEARISH",
       "confidence": 0.6369
-    },
-    {
-      "source": "CoinDesk",
-      "title": "AI giant Anthropic files for blockbuster IPO",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-      "published": "2026-10-26T13:22:09+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "published": "2026-10-26T14:23:41+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
     },
     {
       "source": "TheBlock",
@@ -492,6 +487,17 @@
       "confidence": 0.4404
     },
     {
+      "source": "CoinDesk",
+      "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+      "published": "2026-10-27T06:14:41+00:00",
+      "coins": [],
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
+    },
+    {
       "source": "Decrypt",
       "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
       "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
@@ -501,6 +507,17 @@
       "compound": -0.3818,
       "label": "BEARISH",
       "confidence": 0.3818
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+      "published": "2026-10-27T11:37:52+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -514,15 +531,15 @@
       "confidence": 0.296
     },
     {
-      "source": "TheBlock",
-      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a \u2018false alarm\u2019",
-      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
-      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-      "published": "2026-10-25T18:46:21+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+      "published": "2026-10-27T11:13:54+00:00",
       "coins": [],
-      "compound": -0.296,
+      "compound": -0.2732,
       "label": "BEARISH",
-      "confidence": 0.296
+      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
@@ -533,17 +550,6 @@
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "South Korea weighs fourth delay of crypto gains tax, eyes 2029 start: report",
-      "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
-      "published": "2026-10-26T10:06:02+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
       "confidence": 0.128
     },
     {
@@ -596,28 +602,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
       "published": "2026-10-26T15:45:51+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
-      "published": "2026-10-26T10:33:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
-      "published": "2026-10-26T09:14:47+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
