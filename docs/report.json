@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:04:20.022028+00:00",
+  "generated_at": "2026-10-28T05:19:10.800406+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -91,10 +91,10 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.1199,
+      "avg_compound": -0.0842,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 11,
+      "bullish": 9,
+      "bearish": 10,
       "neutral": 3,
       "top_articles": [
         {
@@ -163,30 +163,6 @@
       ],
       "no_news": false
     },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",
-          "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
-          "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-          "published": "2026-10-27T01:00:00+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
     "ADA": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -238,6 +214,16 @@
       "no_news": true
     },
     "DOT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "LINK": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -419,6 +405,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+      "published": "2026-10-28T05:10:36+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
       "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
@@ -452,6 +449,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+      "published": "2026-10-28T03:11:14+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
       "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
@@ -471,17 +479,6 @@
       "compound": 0.3291,
       "label": "BULLISH",
       "confidence": 0.3291
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-      "published": "2026-10-27T11:13:54+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
     },
     {
       "source": "Decrypt",
