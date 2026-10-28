@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-28T12:36:49.837618+00:00",
+  "generated_at": "2026-10-28T22:27:42.207995+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
-      "article_count": 5,
-      "avg_compound": 0.4585,
+      "article_count": 6,
+      "avg_compound": 0.3439,
       "overall": "BULLISH",
       "bullish": 5,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -52,113 +52,77 @@
       ],
       "no_news": false
     },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": -0.3185,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
+    "BTC": {
+      "article_count": 19,
+      "avg_compound": 0.0068,
+      "overall": "NEUTRAL",
+      "bullish": 8,
+      "bearish": 8,
+      "neutral": 3,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
-          "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
-          "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-          "published": "2026-10-27T06:28:34+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "U.S. Treasury Says U.S. \u2018Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/U.S.-Treasury-Says-U.S.-Will-Win-in-the-Digital-Asset-Stack-as-Clarity-Act-Stalls.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset\" rel=\"nofollow\">U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls</a></p>\n<p>Treasury Secretary Scott Bessent said that U.S. leadership in digital assets could reinforce the dollar\u2019s global reach even as the stalled CLARITY Act leaves regulators to fill the gap.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset\" rel=\"nofollow\">U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+          "published": "2026-10-28T14:14:36+00:00",
           "coins": [
-            "USDC"
+            "BTC"
           ],
-          "compound": -0.6369,
+          "compound": 0.9833,
+          "label": "BULLISH",
+          "confidence": 0.9833
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a></p>\n<p>Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget\u2019s September 24 hot-and-warm wallet drain and Liquid Network\u2019s Elements bug.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
+          "published": "2026-10-28T17:43:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9085,
           "label": "BEARISH",
-          "confidence": 0.6369
+          "confidence": 0.9085
         },
         {
           "source": "Decrypt",
-          "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
-          "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia\u2019s instant-payments network.",
-          "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
-          "published": "2026-10-27T17:45:18+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.0972,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 9,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=Vnlt7wKjpIk\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/Vnlt7wKjpIk/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Deloittes-Rob-Massey-What-Bitcoin-Investors-Need-to-Know-About-The-Changing-IRS-Tax-Guidance-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance\" rel=\"nofollow\">Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance</a></p>\n<p>Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance\" rel=\"nofollow\">Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
-          "published": "2026-10-27T13:22:05+00:00",
+          "title": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
+          "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+          "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+          "published": "2026-10-28T18:25:18+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9618,
-          "label": "BEARISH",
-          "confidence": 0.9618
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/27-Year-Old-Missouri-Man-Admits-Role-in-Failed-Bitcoin-Kidnapping-Plot.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot\" rel=\"nofollow\">27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot</a></p>\n<p>A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot\" rel=\"nofollow\">27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
-          "published": "2026-10-27T18:53:09+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9565,
-          "label": "BEARISH",
-          "confidence": 0.9565
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/VanEck-Launches-All-in-One-Wealth-Builder-ETF-With-Bitcoin-Exposure.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure\" rel=\"nofollow\">VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure</a></p>\n<p>VanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure\" rel=\"nofollow\">VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
-          "published": "2026-10-27T19:18:06+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.886,
+          "compound": 0.6369,
           "label": "BULLISH",
-          "confidence": 0.886
+          "confidence": 0.6369
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 1,
-      "avg_compound": -0.0772,
-      "overall": "BEARISH",
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
       "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-          "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
-          "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-          "published": "2026-10-27T16:53:13+00:00",
+          "source": "TheBlock",
+          "title": "Coinbase adds Ripple\u2019s RLUSD stablecoin across retail, exchange and Prime platforms",
+          "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
+          "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
+          "published": "2026-10-28T15:56:36+00:00",
           "coins": [
+            "XRP",
             "ETH"
           ],
-          "compound": -0.0772,
-          "label": "BEARISH",
-          "confidence": 0.0772
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -318,6 +282,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -364,55 +338,44 @@
       "confidence": 0.7717
     },
     {
-      "source": "TheBlock",
-      "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
-      "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
-      "published": "2026-10-27T12:05:17+00:00",
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "published": "2026-10-28T16:01:36+00:00",
       "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
-    },
-    {
-      "source": "Decrypt",
-      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-      "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
-      "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
-      "published": "2026-10-27T18:46:02+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "Decrypt",
-      "title": "China's Stock Market Has Lost $2.4 Trillion as Investors Doubt Its AI Boom Will Ever Pay Off",
-      "summary": "Stocks on China's mainland have shed about $2.4 trillion since May as investors doubt AI companies can turn a profit, while U.S. restrictions and high U.S. interest rates add pressure.",
-      "url": "https://decrypt.co/381992/china-stock-market-lost-2-4-trillion-investors-doubt-ai-boom",
-      "published": "2026-10-27T21:16:02+00:00",
-      "coins": [],
-      "compound": -0.4588,
+      "compound": -0.4767,
       "label": "BEARISH",
-      "confidence": 0.4588
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
-      "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+      "title": "Fed leaves interest rates unchanged, as expected",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
-      "published": "2026-10-28T05:10:36+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+      "published": "2026-10-28T18:00:42+00:00",
       "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
+      "compound": 0.4588,
+      "label": "BULLISH",
+      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
-      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-      "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
-      "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
-      "published": "2026-10-27T19:16:03+00:00",
+      "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+      "summary": "James Comer warned the proposed \"AIC\" could shield AI firms from liability, and asked Delaware's governor for documents by November 9.",
+      "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+      "published": "2026-10-28T13:38:08+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+      "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+      "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+      "published": "2026-10-28T20:16:03+00:00",
       "coins": [],
       "compound": 0.4019,
       "label": "BULLISH",
@@ -420,14 +383,58 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
-      "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear\u2014and the market responded.",
-      "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
-      "published": "2026-10-28T12:04:56+00:00",
+      "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
+      "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
+      "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
+      "published": "2026-10-28T17:03:32+00:00",
       "coins": [],
-      "compound": 0.3919,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.3919
+      "confidence": 0.4019
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street\u2019s bullish outlook",
+      "summary": "Bernstein sees Robinhood\u2019s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
+      "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
+      "published": "2026-10-28T17:06:24+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
+      "confidence": 0.4019
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto isn\u2019t a partisan fight, proven by data",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+      "published": "2026-10-28T18:11:31+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
+      "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
+      "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
+      "published": "2026-10-28T15:00:02+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
+      "summary": "Professional analysts went along with their AI agent\u2019s hidden opinion 86% of the time, and few credited it.",
+      "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+      "published": "2026-10-28T17:36:02+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -442,36 +449,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
-      "published": "2026-10-28T03:11:14+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "published": "2026-10-28T13:14:37+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
-      "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
-      "summary": "Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up.",
-      "url": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
-      "published": "2026-10-27T20:42:11+00:00",
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
+      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
+      "published": "2026-10-28T15:05:03+00:00",
       "coins": [],
-      "compound": 0.3291,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.3291
+      "confidence": 0.296
     },
     {
       "source": "Decrypt",
-      "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
-      "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections.",
-      "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
-      "published": "2026-10-27T16:53:44+00:00",
+      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+      "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029.",
+      "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+      "published": "2026-10-28T21:16:03+00:00",
       "coins": [],
-      "compound": 0.2732,
+      "compound": 0.2263,
       "label": "BULLISH",
-      "confidence": 0.2732
+      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -483,17 +490,6 @@
       "compound": -0.2263,
       "label": "BEARISH",
       "confidence": 0.2263
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
-      "published": "2026-10-27T20:41:33+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
     },
     {
       "source": "CoinDesk",
@@ -518,37 +514,37 @@
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "Crypto Market Structure Explained",
-      "summary": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resilience.",
-      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
-      "published": "2026-10-27T14:14:08+00:00",
+      "source": "CoinDesk",
+      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+      "published": "2026-10-28T19:01:53+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
-      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+      "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
-      "published": "2026-10-28T09:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+      "published": "2026-10-28T17:02:57+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
-      "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
-      "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
-      "published": "2026-10-28T10:57:29+00:00",
+      "source": "CoinDesk",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized stock trading plan",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "published": "2026-10-28T12:59:36+00:00",
       "coins": [],
-      "compound": -0.0772,
-      "label": "BEARISH",
-      "confidence": 0.0772
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -584,11 +580,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "published": "2026-10-28T09:59:25+00:00",
+      "source": "Decrypt",
+      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
+      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+      "published": "2026-10-28T19:46:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -596,10 +592,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
-      "summary": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many.",
-      "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-      "published": "2026-10-28T10:10:31+00:00",
+      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+      "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+      "published": "2026-10-28T19:16:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -607,10 +603,32 @@
     },
     {
       "source": "Decrypt",
-      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
-      "summary": "An expanded deal with Bitso puts Anchorage Digital Bank\u2019s custody beneath both sides of the US-Mexico remittance route.",
-      "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
-      "published": "2026-10-27T19:46:02+00:00",
+      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+      "summary": "Former Aptos advisor \"Buzz\u201d has left the crypto project and is turning his attention to Facebook's parent company Meta\u2014here's why.",
+      "url": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
+      "published": "2026-10-28T16:22:58+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+      "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.",
+      "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
+      "published": "2026-10-28T13:01:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto braces for potential shift in congressional oversight after midterms",
+      "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
+      "published": "2026-10-28T14:43:01+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
