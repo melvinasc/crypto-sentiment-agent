@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-10-28T05:19:10.800406+00:00",
+  "generated_at": "2026-10-28T12:36:49.837618+00:00",
   "total_articles": 55,
   "coins": {
+    "XRP": {
+      "article_count": 5,
+      "avg_compound": 0.4585,
+      "overall": "BULLISH",
+      "bullish": 5,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD stablecoin",
+          "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
+          "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+          "published": "2026-10-28T09:15:20+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.6908,
+          "label": "BULLISH",
+          "confidence": 0.6908
+        },
+        {
+          "source": "Decrypt",
+          "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+          "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+          "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+          "published": "2026-10-28T12:16:30+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.5023,
+          "label": "BULLISH",
+          "confidence": 0.5023
+        },
+        {
+          "source": "TheBlock",
+          "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+          "summary": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
+          "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+          "published": "2026-10-27T15:01:12+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
       "article_count": 2,
       "avg_compound": -0.3185,
@@ -39,63 +89,13 @@
       ],
       "no_news": false
     },
-    "XRP": {
-      "article_count": 5,
-      "avg_compound": 0.2827,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
-          "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
-          "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
-          "published": "2026-10-27T02:28:18+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.8316,
-          "label": "BULLISH",
-          "confidence": 0.8316
-        },
-        {
-          "source": "TheBlock",
-          "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-          "summary": "BNY adds XRP and RLUSD to its custody platform, as Ripple and C2FO test settling invoice payments on the XRP Ledger.",
-          "url": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-          "published": "2026-10-27T15:01:12+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "Decrypt",
-          "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-          "summary": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in treasury and institutional trading.",
-          "url": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-          "published": "2026-10-27T20:16:02+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0842,
+      "article_count": 21,
+      "avg_compound": -0.0972,
       "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 10,
-      "neutral": 3,
+      "bullish": 8,
+      "bearish": 9,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -159,6 +159,31 @@
           "compound": -0.0772,
           "label": "BEARISH",
           "confidence": 0.0772
+        }
+      ],
+      "no_news": false
+    },
+    "PEPE": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+          "published": "2026-10-28T11:32:31+00:00",
+          "coins": [
+            "BTC",
+            "PEPE"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -244,16 +269,6 @@
       "no_news": true
     },
     "MATIC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -361,17 +376,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood\u2019s Earnings Call",
-      "summary": "One of crypto\u2019s primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on today\u2019s Robinhood earnings call?",
-      "url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
-      "published": "2026-10-27T12:59:58+00:00",
-      "coins": [],
-      "compound": -0.5719,
-      "label": "BEARISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "Decrypt",
       "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
       "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
       "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
@@ -394,32 +398,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX\u2013ICE tokenized stock plans",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
-      "published": "2026-10-27T18:13:02+00:00",
-      "coins": [],
-      "compound": 0.4404,
-      "label": "BULLISH",
-      "confidence": 0.4404
-    },
-    {
-      "source": "CoinDesk",
       "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
       "published": "2026-10-28T05:10:36+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-      "published": "2026-10-27T16:59:07+00:00",
       "coins": [],
       "compound": -0.4019,
       "label": "BEARISH",
@@ -435,6 +417,17 @@
       "compound": 0.4019,
       "label": "BULLISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
+      "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear\u2014and the market responded.",
+      "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
+      "published": "2026-10-28T12:04:56+00:00",
+      "coins": [],
+      "compound": 0.3919,
+      "label": "BULLISH",
+      "confidence": 0.3919
     },
     {
       "source": "TheBlock",
@@ -456,17 +449,6 @@
       "coins": [],
       "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.34
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "published": "2026-10-27T11:37:52+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
       "confidence": 0.34
     },
     {
@@ -515,13 +497,13 @@
     },
     {
       "source": "CoinDesk",
-      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "title": "Google to preview crypto custody security system as AI threats grow",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
-      "published": "2026-10-27T19:07:59+00:00",
+      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "published": "2026-10-28T11:00:00+00:00",
       "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
+      "compound": -0.1027,
+      "label": "BEARISH",
       "confidence": 0.1027
     },
     {
@@ -548,10 +530,32 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+      "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
-      "published": "2026-10-27T20:32:21+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+      "published": "2026-10-28T09:00:00+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+      "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+      "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+      "published": "2026-10-28T10:57:29+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "published": "2026-10-28T11:57:26+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -559,10 +563,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-      "published": "2026-10-27T14:21:10+00:00",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "published": "2026-10-28T10:41:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -570,10 +574,32 @@
     },
     {
       "source": "CoinDesk",
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+      "title": "Brazil\u2019s largest lender becomes first bank to formalize crypto brokerage under new rules",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "published": "2026-10-27T14:00:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "published": "2026-10-28T10:07:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "published": "2026-10-28T09:59:25+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
+      "summary": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many.",
+      "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+      "published": "2026-10-28T10:10:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -585,17 +611,6 @@
       "summary": "An expanded deal with Bitso puts Anchorage Digital Bank\u2019s custody beneath both sides of the US-Mexico remittance route.",
       "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
       "published": "2026-10-27T19:46:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-      "summary": "The firm's new head of investigations says its surveillance system flags hundreds of alerts a day, with at least two cases sent to the CFTC.",
-      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
-      "published": "2026-10-27T13:52:58+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
