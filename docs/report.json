@@ -1,7 +1,126 @@
 {
-  "generated_at": "2026-10-29T12:46:49.537171+00:00",
+  "generated_at": "2026-10-29T22:39:55.948388+00:00",
   "total_articles": 55,
   "coins": {
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": -0.4825,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+          "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+          "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+          "published": "2026-10-29T21:36:24+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.6249,
+          "label": "BEARISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+          "published": "2026-10-29T21:49:16+00:00",
+          "coins": [
+            "BNB",
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.4277,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 3,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+          "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+          "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+          "published": "2026-10-29T21:36:24+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.6249,
+          "label": "BEARISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+          "published": "2026-10-29T21:49:16+00:00",
+          "coins": [
+            "BNB",
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance loses $5.7 billion in largest crypto hack to date",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+          "published": "2026-10-29T21:12:45+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.34,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+          "published": "2026-10-29T21:49:16+00:00",
+          "coins": [
+            "BNB",
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 3,
       "avg_compound": 0.2813,
@@ -53,77 +172,38 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 24,
-      "avg_compound": 0.0333,
-      "overall": "NEUTRAL",
-      "bullish": 11,
-      "bearish": 7,
-      "neutral": 6,
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "U.S. Treasury Says U.S. \u2018Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/U.S.-Treasury-Says-U.S.-Will-Win-in-the-Digital-Asset-Stack-as-Clarity-Act-Stalls.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset\" rel=\"nofollow\">U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls</a></p>\n<p>Treasury Secretary Scott Bessent said that U.S. leadership in digital assets could reinforce the dollar\u2019s global reach even as the stalled CLARITY Act leaves regulators to fill the gap.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset\" rel=\"nofollow\">U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
-          "published": "2026-10-28T14:14:36+00:00",
+          "source": "CoinDesk",
+          "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
+          "published": "2026-10-29T14:15:00+00:00",
           "coins": [
-            "BTC"
+            "LINK"
           ],
-          "compound": 0.9833,
+          "compound": 0.1779,
           "label": "BULLISH",
-          "confidence": 0.9833
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a></p>\n<p>Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget\u2019s September 24 hot-and-warm wallet drain and Liquid Network\u2019s Elements bug.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
-          "published": "2026-10-28T17:43:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9085,
-          "label": "BEARISH",
-          "confidence": 0.9085
-        },
-        {
-          "source": "Decrypt",
-          "title": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
-          "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
-          "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-          "published": "2026-10-28T18:25:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.6369,
-          "label": "BULLISH",
-          "confidence": 0.6369
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.0328,
-      "overall": "NEUTRAL",
+      "article_count": 2,
+      "avg_compound": 0.064,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
-          "published": "2026-10-29T05:30:34+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
-        },
         {
           "source": "TheBlock",
           "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
@@ -154,7 +234,163 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 17,
+      "avg_compound": -0.0597,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 7,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/U.S.-Treasury-Sanctions-Crypto-Launderers-Behind-North-Koreas-Fake-Workers.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker\" rel=\"nofollow\">U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers</a></p>\n<p>The U.S. Treasury sanctioned ten people and one entity, including two Russian crypto middlemen, for laundering money from North Korean fake IT worker schemes that fund its weapons programs.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker\" rel=\"nofollow\">U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker",
+          "published": "2026-10-29T14:37:46+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9186,
+          "label": "BEARISH",
+          "confidence": 0.9186
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Russia-Approves-Securities-Group-to-Oversee-Crypto-Exchanges.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto\" rel=\"nofollow\">Russia Approves Securities Group to Oversee Crypto Exchanges</a></p>\n<p>The Bank of Russia approved NAUFOR as the country\u2019s first self-regulatory organization for crypto exchanges and digital depositories.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto\" rel=\"nofollow\">Russia Approves Securities Group to Oversee Crypto Exchanges</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
+          "published": "2026-10-29T15:03:46+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9118,
+          "label": "BULLISH",
+          "confidence": 0.9118
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-6.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a></p>\n<p>Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for about $768 million, led by Bitget\u2019s September 24 hot-and-warm wallet drain and Liquid Network\u2019s Elements bug.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures\" rel=\"nofollow\">Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
+          "published": "2026-10-28T17:43:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9085,
+          "label": "BEARISH",
+          "confidence": 0.9085
+        }
+      ],
+      "no_news": false
+    },
+    "MATIC": {
+      "article_count": 3,
+      "avg_compound": 0.0427,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+          "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
+          "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
+          "published": "2026-10-29T13:01:02+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        },
+        {
+          "source": "CoinDesk",
+          "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+          "published": "2026-10-29T16:35:43+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+          "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+          "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+          "published": "2026-10-29T13:00:00+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.0427,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+          "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
+          "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
+          "published": "2026-10-29T13:01:02+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.128,
+          "label": "BULLISH",
+          "confidence": 0.128
+        },
+        {
+          "source": "CoinDesk",
+          "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+          "published": "2026-10-29T16:35:43+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        },
+        {
+          "source": "TheBlock",
+          "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+          "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+          "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+          "published": "2026-10-29T13:00:00+00:00",
+          "coins": [
+            "MATIC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "UNI": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -163,13 +399,13 @@
       "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
-          "published": "2026-10-29T10:44:48+00:00",
+          "source": "TheBlock",
+          "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+          "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
+          "url": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
+          "published": "2026-10-29T14:34:17+00:00",
           "coins": [
-            "SOL"
+            "UNI"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -189,16 +425,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -238,27 +464,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "LINK": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LTC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "MATIC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -297,36 +503,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -342,15 +518,15 @@
       "confidence": 0.9022
     },
     {
-      "source": "TheBlock",
-      "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
-      "summary": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
-      "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
-      "published": "2026-10-27T15:35:32+00:00",
+      "source": "Decrypt",
+      "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+      "summary": "Only 13% of Americans say a candidate\u2019s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week\u2019s elections.",
+      "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
+      "published": "2026-10-29T17:46:02+00:00",
       "coins": [],
-      "compound": -0.8402,
-      "label": "BEARISH",
-      "confidence": 0.8402
+      "compound": 0.8621,
+      "label": "BULLISH",
+      "confidence": 0.8621
     },
     {
       "source": "Decrypt",
@@ -364,47 +540,69 @@
       "confidence": 0.8176
     },
     {
-      "source": "TheBlock",
-      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
-      "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
-      "published": "2026-10-27T18:51:46+00:00",
+      "source": "Decrypt",
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
+      "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+      "published": "2026-10-29T20:46:43+00:00",
       "coins": [],
-      "compound": -0.7717,
-      "label": "BEARISH",
+      "compound": 0.7717,
+      "label": "BULLISH",
       "confidence": 0.7717
     },
     {
-      "source": "CoinDesk",
-      "title": "Utah charges predictions platform Kalshi with illegal gambling",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
-      "published": "2026-10-29T05:02:37+00:00",
+      "source": "Decrypt",
+      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+      "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
+      "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+      "published": "2026-10-29T18:53:44+00:00",
       "coins": [],
-      "compound": -0.6908,
+      "compound": -0.7003,
       "label": "BEARISH",
-      "confidence": 0.6908
+      "confidence": 0.7003
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Walmart, Eli Lilly join growing pushback against OKX\u2013ICE tokenized stock plans",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+      "published": "2026-10-29T13:39:18+00:00",
+      "coins": [],
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "Decrypt",
-      "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-      "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
-      "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-      "published": "2026-10-28T20:16:03+00:00",
+      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+      "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
+      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+      "published": "2026-10-29T15:59:48+00:00",
       "coins": [],
-      "compound": 0.4019,
+      "compound": 0.4215,
       "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket suspends trading after third-party breach leads to user losses",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+      "published": "2026-10-29T18:55:35+00:00",
+      "coins": [],
+      "compound": -0.4019,
+      "label": "BEARISH",
       "confidence": 0.4019
     },
     {
-      "source": "Decrypt",
-      "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
-      "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
-      "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
-      "published": "2026-10-28T17:03:32+00:00",
+      "source": "TheBlock",
+      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
+      "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+      "published": "2026-10-29T19:00:06+00:00",
       "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
+      "compound": -0.4019,
+      "label": "BEARISH",
       "confidence": 0.4019
     },
     {
@@ -430,70 +628,37 @@
       "confidence": 0.3818
     },
     {
-      "source": "Decrypt",
-      "title": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
-      "summary": "Professional analysts went along with their AI agent\u2019s hidden opinion 86% of the time, and few credited it.",
-      "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
-      "published": "2026-10-28T17:36:02+00:00",
+      "source": "CoinDesk",
+      "title": "A new framework for tokenized asset tracking",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
+      "published": "2026-10-29T12:57:51+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
-    },
-    {
-      "source": "TheBlock",
-      "title": "Robinhood Chain brings in $26 million as crypto revenue rises 20% in Q3",
-      "summary": "Robinhood\u2019s blockchain boosted crypto revenue, while prediction markets brought in $173 million in the third quarter.",
-      "url": "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935",
-      "published": "2026-10-27T20:55:35+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "Decrypt",
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
-      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
-      "published": "2026-10-28T15:05:03+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-      "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029.",
-      "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
-      "published": "2026-10-28T21:16:03+00:00",
-      "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
-      "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
-      "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
-      "published": "2026-10-27T17:07:10+00:00",
-      "coins": [],
-      "compound": -0.2263,
-      "label": "BEARISH",
-      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
-      "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
-      "published": "2026-10-29T09:00:00+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+      "published": "2026-10-29T14:39:01+00:00",
       "coins": [],
-      "compound": 0.2023,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.2023
+      "confidence": 0.34
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+      "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+      "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+      "published": "2026-10-29T18:46:02+00:00",
+      "coins": [],
+      "compound": 0.34,
+      "label": "BULLISH",
+      "confidence": 0.34
     },
     {
       "source": "Decrypt",
@@ -507,15 +672,81 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
-      "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead investor, though Paper Ventures and dao5 took the largest allocations, Cancore co-founder [\u2026]",
-      "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
-      "published": "2026-10-27T16:59:10+00:00",
+      "source": "Decrypt",
+      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+      "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
+      "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
+      "published": "2026-10-29T12:58:28+00:00",
       "coins": [],
-      "compound": -0.1027,
+      "compound": -0.1531,
       "label": "BEARISH",
-      "confidence": 0.1027
+      "confidence": 0.1531
+    },
+    {
+      "source": "Decrypt",
+      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+      "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
+      "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+      "published": "2026-10-29T15:07:15+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+      "published": "2026-10-29T17:04:19+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets",
+      "published": "2026-10-29T16:51:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca",
+      "published": "2026-10-29T16:11:18+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+      "published": "2026-10-29T14:55:47+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized stock venue on Canton could beat OKX\u2013ICE to first trade under SEC framework",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+      "published": "2026-10-29T12:51:48+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -529,66 +760,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
-      "published": "2026-10-29T11:11:25+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Cathie Wood\u2019s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
-      "published": "2026-10-29T10:51:10+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
-      "published": "2026-10-29T10:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
-      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
-      "published": "2026-10-28T19:46:03+00:00",
+      "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+      "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.",
+      "url": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
+      "published": "2026-10-29T19:46:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-      "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
-      "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-      "published": "2026-10-28T19:16:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-      "summary": "Former Aptos advisor \"Buzz\u201d has left the crypto project and is turning his attention to Facebook's parent company Meta\u2014here's why.",
-      "url": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
-      "published": "2026-10-28T16:22:58+00:00",
+      "source": "TheBlock",
+      "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+      "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S.",
+      "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+      "published": "2026-10-29T14:44:53+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
