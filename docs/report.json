@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T12:38:35.986532+00:00",
+  "generated_at": "2026-10-30T22:11:05.249541+00:00",
   "total_articles": 55,
   "coins": {
     "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.608,
+      "article_count": 2,
+      "avg_compound": -0.5996,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -24,20 +24,6 @@
           "compound": -0.8591,
           "label": "BEARISH",
           "confidence": 0.8591
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-          "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-          "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-          "published": "2026-10-29T21:36:24+00:00",
-          "coins": [
-            "BNB",
-            "USDT"
-          ],
-          "compound": -0.6249,
-          "label": "BEARISH",
-          "confidence": 0.6249
         },
         {
           "source": "TheBlock",
@@ -57,12 +43,116 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 21,
-      "avg_compound": -0.3942,
+    "LINK": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 18,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Blockchain-Firms-Link-North-Korea-to-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack\" rel=\"nofollow\">Blockchain Firms Link North Korea to $6.3 Billion Binance Hack\u00a0</a></p>\n<p>Chainalysis and TRM Labs have linked yesterday\u2019s $6.3 billion Binance hack to North Korea\u2019s TraderTraitor group.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack\" rel=\"nofollow\">Blockchain Firms Link North Korea to $6.3 Billion Binance Hack\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
+          "published": "2026-10-30T14:13:15+00:00",
+          "coins": [
+            "LINK",
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 21,
+      "avg_compound": -0.3746,
+      "overall": "BEARISH",
+      "bullish": 3,
+      "bearish": 16,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=GszSdU8KPC8\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/GszSdU8KPC8/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alexandre-Laizet-on-The-French-Debt-Crisis-22Europe-is-in-Need-of-Bitcoin22-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a></p>\n<p>France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
+          "published": "2026-10-30T13:17:11+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9769,
+          "label": "BEARISH",
+          "confidence": 0.9769
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Binance-France-CEO-Targeted-in-Failed-Home-Invasion-Near-Paris-Three-Arrested.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/bitcoin-price-slides-binance\" rel=\"nofollow\">Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack</a></p>\n<p>Bitcoin price fell below $79,000 as reports of a suspected Binance hack, with outflows of up to $5.8 billion, prompted Tether and Circle to freeze roughly $1.8 to $2.4 billion in stablecoins.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/bitcoin-price-slides-binance\" rel=\"nofollow\">Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
+          "published": "2026-10-29T23:06:37+00:00",
+          "coins": [
+            "BTC",
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.8591,
+          "label": "BEARISH",
+          "confidence": 0.8591
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/SEC-Charges-Two-Companies-in-130-Million-Crypto-Trading-Scheme.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a></p>\n<p>The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
+          "published": "2026-10-30T14:38:43+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8402,
+          "label": "BEARISH",
+          "confidence": 0.8402
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.34,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+          "published": "2026-10-29T21:49:16+00:00",
+          "coins": [
+            "BNB",
+            "USDT",
+            "USDC"
+          ],
+          "compound": -0.34,
+          "label": "BEARISH",
+          "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 31,
+      "avg_compound": -0.2742,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 21,
       "neutral": 3,
       "top_articles": [
         {
@@ -95,104 +185,29 @@
           "confidence": 0.6997
         },
         {
-          "source": "Decrypt",
-          "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-          "summary": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses.",
-          "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-          "published": "2026-10-30T12:22:04+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Coinbase-CEO-Brian-Armstrong-Addresses-Paper-Bitcoin-Claims-Claims-Bitcoin-ETFs-Are-Fully-Backed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a></p>\n<p>Coinbase missed revenue expectations as users declined, despite growth in recurring revenue, while executive share-sale plans and a massive Binance security breach added pressure to crypto markets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share",
+          "published": "2026-10-30T18:54:24+00:00",
           "coins": [
+            "BTC",
             "BNB"
           ],
-          "compound": -0.6249,
+          "compound": -0.6351,
           "label": "BEARISH",
-          "confidence": 0.6249
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
-          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
-          "published": "2026-10-29T21:49:16+00:00",
-          "coins": [
-            "BNB",
-            "USDT",
-            "USDC"
-          ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.1987,
-      "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 11,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/U.S.-Treasury-Sanctions-Crypto-Launderers-Behind-North-Koreas-Fake-Workers.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker\" rel=\"nofollow\">U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers</a></p>\n<p>The U.S. Treasury sanctioned ten people and one entity, including two Russian crypto middlemen, for laundering money from North Korean fake IT worker schemes that fund its weapons programs.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker\" rel=\"nofollow\">U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker",
-          "published": "2026-10-29T14:37:46+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9186,
-          "label": "BEARISH",
-          "confidence": 0.9186
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Russia-Approves-Securities-Group-to-Oversee-Crypto-Exchanges.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto\" rel=\"nofollow\">Russia Approves Securities Group to Oversee Crypto Exchanges</a></p>\n<p>The Bank of Russia approved NAUFOR as the country\u2019s first self-regulatory organization for crypto exchanges and digital depositories.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto\" rel=\"nofollow\">Russia Approves Securities Group to Oversee Crypto Exchanges</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
-          "published": "2026-10-29T15:03:46+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9118,
-          "label": "BULLISH",
-          "confidence": 0.9118
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/tn-7.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc\" rel=\"nofollow\">FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC</a></p>\n<p>A miner running FutureBit\u2019s Apollo Solo setup found Bitcoin block 973,262 on Oct. 26, collecting the full 3.154 BTC subsidy-plus-fees reward from 2,477 transactions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc\" rel=\"nofollow\">FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
-          "published": "2026-10-29T17:57:52+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8689,
-          "label": "BEARISH",
-          "confidence": 0.8689
+          "confidence": 0.6351
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 3,
-      "avg_compound": -0.1273,
+      "article_count": 2,
+      "avg_compound": -0.1909,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 2,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "CoinDesk",
@@ -221,32 +236,32 @@
           "compound": 0.0,
           "label": "NEUTRAL",
           "confidence": 0.0
-        },
-        {
-          "source": "TheBlock",
-          "title": "Coinbase adds Ripple\u2019s RLUSD stablecoin across retail, exchange and Prime platforms",
-          "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-          "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-          "published": "2026-10-28T15:56:36+00:00",
-          "coins": [
-            "XRP",
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 6,
-      "avg_compound": -0.1188,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
-      "neutral": 2,
+      "article_count": 5,
+      "avg_compound": -0.0169,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 2,
+      "neutral": 1,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+          "published": "2026-10-30T14:17:34+00:00",
+          "coins": [
+            "ETH",
+            "BNB"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
         {
           "source": "CoinDesk",
           "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
@@ -275,20 +290,6 @@
           "compound": -0.296,
           "label": "BEARISH",
           "confidence": 0.296
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-          "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-          "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
-          "published": "2026-10-29T22:57:48+00:00",
-          "coins": [
-            "BNB",
-            "ETH"
-          ],
-          "compound": -0.2263,
-          "label": "BEARISH",
-          "confidence": 0.2263
         }
       ],
       "no_news": false
@@ -417,16 +418,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "LINK": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -470,48 +461,15 @@
   },
   "uncategorised": [
     {
-      "source": "TheBlock",
-      "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
-      "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
-      "url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-      "published": "2026-10-29T06:40:32+00:00",
+      "source": "Decrypt",
+      "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+      "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
+      "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
+      "published": "2026-10-30T20:53:23+00:00",
       "coins": [],
-      "compound": -0.9022,
+      "compound": -0.9209,
       "label": "BEARISH",
-      "confidence": 0.9022
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
-      "summary": "Only 13% of Americans say a candidate\u2019s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week\u2019s elections.",
-      "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority",
-      "published": "2026-10-29T17:46:02+00:00",
-      "coins": [],
-      "compound": 0.8621,
-      "label": "BULLISH",
-      "confidence": 0.8621
-    },
-    {
-      "source": "Decrypt",
-      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
-      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
-      "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
-      "published": "2026-10-29T20:46:43+00:00",
-      "coins": [],
-      "compound": 0.7717,
-      "label": "BULLISH",
-      "confidence": 0.7717
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
-      "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
-      "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
-      "published": "2026-10-29T18:53:44+00:00",
-      "coins": [],
-      "compound": -0.7003,
-      "label": "BEARISH",
-      "confidence": 0.7003
+      "confidence": 0.9209
     },
     {
       "source": "TheBlock",
@@ -526,14 +484,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-      "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
-      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-      "published": "2026-10-29T15:59:48+00:00",
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest \u201cwrench attack\u201d prosecutions yet.",
+      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+      "published": "2026-10-30T18:16:02+00:00",
       "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
+      "compound": -0.5106,
+      "label": "BEARISH",
+      "confidence": 0.5106
     },
     {
       "source": "TheBlock",
@@ -547,37 +505,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "TheBlock",
-      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street\u2019s bullish outlook",
-      "summary": "Bernstein sees Robinhood\u2019s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
-      "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
-      "published": "2026-10-28T17:06:24+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
-      "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
-      "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
-      "published": "2026-10-28T15:00:02+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
-    },
-    {
       "source": "Decrypt",
-      "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
-      "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
-      "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
-      "published": "2026-10-29T18:46:02+00:00",
+      "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+      "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns.",
+      "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
+      "published": "2026-10-30T19:31:02+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
-      "confidence": 0.34
+      "compound": -0.3182,
+      "label": "BEARISH",
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -589,6 +525,28 @@
       "compound": 0.1901,
       "label": "BULLISH",
       "confidence": 0.1901
+    },
+    {
+      "source": "Decrypt",
+      "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+      "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
+      "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
+      "published": "2026-10-30T13:00:09+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "TheBlock",
+      "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+      "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
+      "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+      "published": "2026-10-30T16:26:07+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -611,28 +569,6 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-      "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
-      "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
-      "published": "2026-10-29T15:07:15+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "Decrypt",
-      "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
-      "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.",
-      "url": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
-      "published": "2026-10-29T19:46:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
     },
     {
       "source": "TheBlock",
