@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-10-31T12:06:47.652779+00:00",
+  "generated_at": "2026-10-31T21:21:03.571877+00:00",
   "total_articles": 55,
   "coins": {
+    "TRX": {
+      "article_count": 1,
+      "avg_compound": -0.5859,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
+          "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
+          "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+          "published": "2026-10-31T13:27:17+00:00",
+          "coins": [
+            "BNB",
+            "TRX"
+          ],
+          "compound": -0.5859,
+          "label": "BEARISH",
+          "confidence": 0.5859
+        }
+      ],
+      "no_news": false
+    },
     "LINK": {
       "article_count": 1,
       "avg_compound": -0.4404,
@@ -24,6 +49,31 @@
           "compound": -0.4404,
           "label": "BEARISH",
           "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 1,
+      "avg_compound": 0.4019,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+          "published": "2026-10-30T14:17:34+00:00",
+          "coins": [
+            "ETH",
+            "BNB"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -82,11 +132,11 @@
     },
     "BTC": {
       "article_count": 20,
-      "avg_compound": -0.3232,
+      "avg_compound": -0.246,
       "overall": "BEARISH",
-      "bullish": 3,
-      "bearish": 14,
-      "neutral": 3,
+      "bullish": 5,
+      "bearish": 13,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -132,12 +182,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 29,
-      "avg_compound": -0.2179,
+      "article_count": 26,
+      "avg_compound": -0.2365,
       "overall": "BEARISH",
       "bullish": 8,
-      "bearish": 18,
-      "neutral": 3,
+      "bearish": 16,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -154,6 +204,19 @@
           "confidence": 0.8074
         },
         {
+          "source": "Decrypt",
+          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+          "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world\u2019s largest crypto exchange. Here\u2019s what we know about how it happened, who\u2019s behind it, and what comes next.",
+          "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+          "published": "2026-10-31T15:01:02+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
+        },
+        {
           "source": "Bitcoin Magazine",
           "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
           "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Coinbase-CEO-Brian-Armstrong-Addresses-Paper-Bitcoin-Claims-Claims-Bitcoin-ETFs-Are-Fully-Backed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a></p>\n<p>Coinbase missed revenue expectations as users declined, despite growth in recurring revenue, while executive share-sale plans and a massive Binance security breach added pressure to crypto markets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
@@ -166,163 +229,6 @@
           "compound": -0.6351,
           "label": "BEARISH",
           "confidence": 0.6351
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-          "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
-          "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-          "published": "2026-10-30T18:45:03+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.6312,
-          "label": "BEARISH",
-          "confidence": 0.6312
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.1909,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-          "published": "2026-10-30T05:45:27+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-          "published": "2026-10-30T06:22:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "XRP"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0169,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
-          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
-          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-          "published": "2026-10-30T14:17:34+00:00",
-          "coins": [
-            "ETH",
-            "BNB"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-          "published": "2026-10-30T11:35:16+00:00",
-          "coins": [
-            "ETH",
-            "BNB"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-          "published": "2026-10-30T11:09:24+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
-    "MATIC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
-          "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
-          "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
-          "published": "2026-10-29T13:00:00+00:00",
-          "coins": [
-            "MATIC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
-          "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
-          "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
-          "published": "2026-10-29T13:00:00+00:00",
-          "coins": [
-            "MATIC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -411,6 +317,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "MATIC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "PEPE": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -431,7 +347,17 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -453,6 +379,39 @@
       "compound": -0.9209,
       "label": "BEARISH",
       "confidence": 0.9209
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "published": "2026-10-31T16:09:30+00:00",
+      "coins": [],
+      "compound": -0.8225,
+      "label": "BEARISH",
+      "confidence": 0.8225
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why AI Models Cheat: Reward Hacking, Explained",
+      "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here's how AI reward hacking works and why it matters.",
+      "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+      "published": "2026-10-31T13:01:03+00:00",
+      "coins": [],
+      "compound": 0.8074,
+      "label": "BULLISH",
+      "confidence": 0.8074
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+      "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
+      "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+      "published": "2026-10-31T15:26:27+00:00",
+      "coins": [],
+      "compound": -0.7269,
+      "label": "BEARISH",
+      "confidence": 0.7269
     },
     {
       "source": "TheBlock",
@@ -488,6 +447,17 @@
       "confidence": 0.4019
     },
     {
+      "source": "CoinDesk",
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "published": "2026-10-31T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
       "source": "Decrypt",
       "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
       "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns.",
@@ -508,17 +478,6 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
-      "summary": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
-      "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-      "published": "2026-10-30T10:07:29+00:00",
-      "coins": [],
-      "compound": 0.1901,
-      "label": "BULLISH",
-      "confidence": 0.1901
     },
     {
       "source": "Decrypt",
@@ -543,17 +502,6 @@
       "confidence": 0.1779
     },
     {
-      "source": "CoinDesk",
-      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "published": "2026-10-30T09:41:07+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
-    },
-    {
       "source": "TheBlock",
       "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
       "summary": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
@@ -563,6 +511,28 @@
       "compound": 0.128,
       "label": "BULLISH",
       "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "published": "2026-10-31T16:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "published": "2026-10-31T14:40:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "TheBlock",
