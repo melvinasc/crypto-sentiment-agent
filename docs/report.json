@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:21:03.571877+00:00",
+  "generated_at": "2026-11-01T05:44:05.067138+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -53,27 +53,29 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "SOL": {
       "article_count": 1,
-      "avg_compound": 0.4019,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
-          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
-          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-          "published": "2026-10-30T14:17:34+00:00",
+          "source": "CoinDesk",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "published": "2026-11-01T01:10:05+00:00",
           "coins": [
+            "BNB",
+            "BTC",
             "ETH",
-            "BNB"
+            "SOL"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
         }
       ],
       "no_news": false
@@ -131,11 +133,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.246,
+      "article_count": 21,
+      "avg_compound": -0.2552,
       "overall": "BEARISH",
       "bullish": 5,
-      "bearish": 13,
+      "bearish": 14,
       "neutral": 2,
       "top_articles": [
         {
@@ -183,11 +185,11 @@
     },
     "BNB": {
       "article_count": 26,
-      "avg_compound": -0.2365,
+      "avg_compound": -0.2535,
       "overall": "BEARISH",
       "bullish": 8,
-      "bearish": 16,
-      "neutral": 2,
+      "bearish": 17,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -229,6 +231,47 @@
           "compound": -0.6351,
           "label": "BEARISH",
           "confidence": 0.6351
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.0193,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+          "published": "2026-11-01T01:10:05+00:00",
+          "coins": [
+            "BNB",
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "Decrypt",
+          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+          "published": "2026-10-30T14:17:34+00:00",
+          "coins": [
+            "ETH",
+            "BNB"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
         }
       ],
       "no_news": false
@@ -338,16 +381,6 @@
       "no_news": true
     },
     "SHIB": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "SOL": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
