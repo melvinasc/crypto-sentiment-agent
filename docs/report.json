@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T13:06:57.601138+00:00",
+  "generated_at": "2026-11-01T21:55:59.024714+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
-      "article_count": 1,
-      "avg_compound": -0.5859,
+      "article_count": 2,
+      "avg_compound": -0.5399,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -23,6 +23,20 @@
           "compound": -0.5859,
           "label": "BEARISH",
           "confidence": 0.5859
+        },
+        {
+          "source": "TheBlock",
+          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+          "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
+          "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+          "published": "2026-11-01T18:25:48+00:00",
+          "coins": [
+            "BNB",
+            "TRX"
+          ],
+          "compound": -0.4939,
+          "label": "BEARISH",
+          "confidence": 0.4939
         }
       ],
       "no_news": false
@@ -132,12 +146,63 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 20,
+      "avg_compound": -0.2702,
+      "overall": "BEARISH",
+      "bullish": 4,
+      "bearish": 13,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=GszSdU8KPC8\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/GszSdU8KPC8/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alexandre-Laizet-on-The-French-Debt-Crisis-22Europe-is-in-Need-of-Bitcoin22-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a></p>\n<p>France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
+          "published": "2026-10-30T13:17:11+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9769,
+          "label": "BEARISH",
+          "confidence": 0.9769
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/SEC-Charges-Two-Companies-in-130-Million-Crypto-Trading-Scheme.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a></p>\n<p>The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
+          "published": "2026-10-30T14:38:43+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8402,
+          "label": "BEARISH",
+          "confidence": 0.8402
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "What to Know About the $6.3 Billion Binance Hack",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+          "published": "2026-10-31T00:57:26+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        }
+      ],
+      "no_news": false
+    },
     "BNB": {
-      "article_count": 25,
-      "avg_compound": -0.2715,
+      "article_count": 23,
+      "avg_compound": -0.2655,
       "overall": "BEARISH",
       "bullish": 7,
-      "bearish": 16,
+      "bearish": 14,
       "neutral": 2,
       "top_articles": [
         {
@@ -184,57 +249,6 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.2436,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 14,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=GszSdU8KPC8\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/GszSdU8KPC8/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alexandre-Laizet-on-The-French-Debt-Crisis-22Europe-is-in-Need-of-Bitcoin22-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a></p>\n<p>France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
-          "published": "2026-10-30T13:17:11+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9769,
-          "label": "BEARISH",
-          "confidence": 0.9769
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/SEC-Charges-Two-Companies-in-130-Million-Crypto-Trading-Scheme.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a></p>\n<p>The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto\" rel=\"nofollow\">SEC Charges Two Companies in $130 Million Crypto Trading Scheme</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
-          "published": "2026-10-30T14:38:43+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8402,
-          "label": "BEARISH",
-          "confidence": 0.8402
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "What to Know About the $6.3 Billion Binance Hack",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
-          "published": "2026-10-31T00:57:26+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
       "article_count": 2,
       "avg_compound": -0.0193,
@@ -272,30 +286,6 @@
           "compound": 0.4019,
           "label": "BULLISH",
           "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
-    "UNI": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
-          "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
-          "url": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
-          "published": "2026-10-29T14:34:17+00:00",
-          "coins": [
-            "UNI"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -390,6 +380,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -447,6 +447,28 @@
       "confidence": 0.7269
     },
     {
+      "source": "Decrypt",
+      "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
+      "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.",
+      "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
+      "published": "2026-11-01T14:01:02+00:00",
+      "coins": [],
+      "compound": 0.6808,
+      "label": "BULLISH",
+      "confidence": 0.6808
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+      "published": "2026-11-01T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
+    },
+    {
       "source": "TheBlock",
       "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
       "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
@@ -492,6 +514,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "published": "2026-11-01T17:00:00+00:00",
+      "coins": [],
+      "compound": -0.3724,
+      "label": "BEARISH",
+      "confidence": 0.3724
+    },
+    {
+      "source": "CoinDesk",
       "title": "Institutions embrace crypto staking despite shrinking yields",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
@@ -511,17 +544,6 @@
       "compound": -0.3182,
       "label": "BEARISH",
       "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
-      "published": "2026-10-31T00:48:56+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -558,6 +580,39 @@
     },
     {
       "source": "CoinDesk",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "published": "2026-11-01T19:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The key races to watch for the 2026 election",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+      "published": "2026-11-01T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+      "published": "2026-11-01T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
@@ -573,17 +628,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
       "published": "2026-10-31T14:40:29+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
-      "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S.",
-      "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
-      "published": "2026-10-29T14:44:53+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
