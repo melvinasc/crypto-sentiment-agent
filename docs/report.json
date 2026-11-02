@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:42:31.005638+00:00",
+  "generated_at": "2026-11-02T15:30:11.861695+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -67,105 +67,26 @@
       ],
       "no_news": false
     },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": -0.4404,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "published": "2026-11-01T01:10:05+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
-          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
-          "published": "2026-10-29T21:49:16+00:00",
-          "coins": [
-            "BNB",
-            "USDT",
-            "USDC"
-          ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.34,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-          "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
-          "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
-          "published": "2026-10-29T21:49:16+00:00",
-          "coins": [
-            "BNB",
-            "USDT",
-            "USDC"
-          ],
-          "compound": -0.34,
-          "label": "BEARISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2897,
+      "article_count": 22,
+      "avg_compound": -0.2493,
       "overall": "BEARISH",
-      "bullish": 3,
-      "bearish": 15,
-      "neutral": 5,
+      "bullish": 4,
+      "bearish": 12,
+      "neutral": 6,
       "top_articles": [
         {
-          "source": "Bitcoin Magazine",
-          "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=GszSdU8KPC8\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/GszSdU8KPC8/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Alexandre-Laizet-on-The-French-Debt-Crisis-22Europe-is-in-Need-of-Bitcoin22-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a></p>\n<p>France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin\" rel=\"nofollow\">Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
-          "published": "2026-10-30T13:17:11+00:00",
+          "source": "Decrypt",
+          "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+          "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+          "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+          "published": "2026-11-02T12:24:18+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9769,
+          "compound": -0.872,
           "label": "BEARISH",
-          "confidence": 0.9769
+          "confidence": 0.872
         },
         {
           "source": "Bitcoin Magazine",
@@ -198,12 +119,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 25,
-      "avg_compound": -0.2442,
+      "article_count": 23,
+      "avg_compound": -0.2279,
       "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 14,
-      "neutral": 4,
+      "bullish": 6,
+      "bearish": 12,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -234,58 +155,66 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Coinbase-CEO-Brian-Armstrong-Addresses-Paper-Bitcoin-Claims-Claims-Bitcoin-ETFs-Are-Fully-Backed.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a></p>\n<p>Coinbase missed revenue expectations as users declined, despite growth in recurring revenue, while executive share-sale plans and a massive Binance security breach added pressure to crypto markets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share\" rel=\"nofollow\">Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share",
-          "published": "2026-10-30T18:54:24+00:00",
+          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+          "published": "2026-11-02T14:57:34+00:00",
           "coins": [
-            "BTC",
-            "BNB"
+            "BNB",
+            "BTC"
           ],
-          "compound": -0.6351,
+          "compound": -0.6808,
           "label": "BEARISH",
-          "confidence": 0.6351
+          "confidence": 0.6808
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": -0.0193,
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-          "published": "2026-11-01T01:10:05+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "Decrypt",
-          "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
-          "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
-          "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-          "published": "2026-10-30T14:17:34+00:00",
+          "source": "TheBlock",
+          "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+          "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+          "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+          "published": "2026-11-02T14:40:53+00:00",
           "coins": [
             "ETH",
             "BNB"
           ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+          "published": "2026-11-02T12:37:24+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -380,6 +309,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -390,7 +329,17 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -412,17 +361,6 @@
       "compound": -0.9209,
       "label": "BEARISH",
       "confidence": 0.9209
-    },
-    {
-      "source": "CoinDesk",
-      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
-      "published": "2026-10-31T16:09:30+00:00",
-      "coins": [],
-      "compound": -0.8225,
-      "label": "BEARISH",
-      "confidence": 0.8225
     },
     {
       "source": "Decrypt",
@@ -447,6 +385,17 @@
       "confidence": 0.7269
     },
     {
+      "source": "CoinDesk",
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "published": "2026-11-02T08:32:01+00:00",
+      "coins": [],
+      "compound": -0.7096,
+      "label": "BEARISH",
+      "confidence": 0.7096
+    },
+    {
       "source": "Decrypt",
       "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
       "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.",
@@ -458,17 +407,6 @@
       "confidence": 0.6808
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
-      "published": "2026-11-01T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.5994,
-      "label": "BULLISH",
-      "confidence": 0.5994
-    },
-    {
       "source": "TheBlock",
       "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
       "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
@@ -478,6 +416,28 @@
       "compound": 0.5994,
       "label": "BULLISH",
       "confidence": 0.5994
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+      "published": "2026-11-02T14:29:33+00:00",
+      "coins": [],
+      "compound": -0.5859,
+      "label": "BEARISH",
+      "confidence": 0.5859
+    },
+    {
+      "source": "Decrypt",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "published": "2026-11-02T15:01:03+00:00",
+      "coins": [],
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
@@ -492,25 +452,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+      "title": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
-      "published": "2026-11-01T13:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+      "published": "2026-11-02T08:41:28+00:00",
       "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
+      "compound": 0.4019,
+      "label": "BULLISH",
+      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-      "published": "2026-11-01T17:00:00+00:00",
+      "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+      "published": "2026-11-02T15:00:09+00:00",
       "coins": [],
-      "compound": -0.3724,
+      "compound": 0.3412,
+      "label": "BULLISH",
+      "confidence": 0.3412
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "published": "2026-11-02T15:18:55+00:00",
+      "coins": [],
+      "compound": -0.3182,
       "label": "BEARISH",
-      "confidence": 0.3724
+      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -524,15 +495,15 @@
       "confidence": 0.3182
     },
     {
-      "source": "Decrypt",
-      "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
-      "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
-      "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
-      "published": "2026-10-30T13:00:09+00:00",
+      "source": "CoinDesk",
+      "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "published": "2026-11-02T15:26:43+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.296,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.296
     },
     {
       "source": "TheBlock",
@@ -558,10 +529,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
-      "published": "2026-11-01T19:30:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+      "published": "2026-11-02T09:33:20+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "published": "2026-11-02T15:05:24+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -569,32 +551,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "The key races to watch for the 2026 election",
+      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
-      "published": "2026-11-01T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
-      "published": "2026-11-01T14:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
-      "published": "2026-10-31T16:00:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+      "published": "2026-11-02T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
