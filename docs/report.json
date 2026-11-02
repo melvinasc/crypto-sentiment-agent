@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T21:55:59.024714+00:00",
+  "generated_at": "2026-11-02T05:42:31.005638+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -147,12 +147,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.2702,
+      "article_count": 23,
+      "avg_compound": -0.2897,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 13,
-      "neutral": 3,
+      "bullish": 3,
+      "bearish": 15,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -198,12 +198,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 23,
-      "avg_compound": -0.2655,
+      "article_count": 25,
+      "avg_compound": -0.2442,
       "overall": "BEARISH",
       "bullish": 7,
       "bearish": 14,
-      "neutral": 2,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -491,17 +491,6 @@
       "confidence": 0.5106
     },
     {
-      "source": "TheBlock",
-      "title": "Polymarket resumes trading after $2.65 million exploit, says third-party provider was compromised",
-      "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
-      "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-      "published": "2026-10-29T19:00:06+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "CoinDesk",
       "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
       "summary": "",
@@ -522,17 +511,6 @@
       "compound": -0.3724,
       "label": "BEARISH",
       "confidence": 0.3724
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Institutions embrace crypto staking despite shrinking yields",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
-      "published": "2026-10-31T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
-      "confidence": 0.3182
     },
     {
       "source": "Decrypt",
@@ -617,17 +595,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
       "published": "2026-10-31T16:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
-      "published": "2026-10-31T14:40:29+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
