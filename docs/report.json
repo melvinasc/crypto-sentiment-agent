@@ -1,29 +1,15 @@
 {
-  "generated_at": "2026-11-03T00:51:06.224492+00:00",
+  "generated_at": "2026-11-03T13:59:21.903086+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
-      "article_count": 2,
-      "avg_compound": -0.5399,
+      "article_count": 1,
+      "avg_compound": -0.4939,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
-          "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
-          "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
-          "published": "2026-10-31T13:27:17+00:00",
-          "coins": [
-            "BNB",
-            "TRX"
-          ],
-          "compound": -0.5859,
-          "label": "BEARISH",
-          "confidence": 0.5859
-        },
         {
           "source": "TheBlock",
           "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
@@ -69,142 +55,13 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 19,
-      "avg_compound": -0.234,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 11,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "What to Know About the $6.3 Billion Binance Hack",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
-          "published": "2026-10-31T00:57:26+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
-          "published": "2026-11-02T14:57:34+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "CoinDesk",
-          "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
-          "published": "2026-11-02T11:57:45+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.6597,
-          "label": "BEARISH",
-          "confidence": 0.6597
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.1942,
-      "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 13,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-          "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
-          "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
-          "published": "2026-11-02T12:24:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.872,
-          "label": "BEARISH",
-          "confidence": 0.872
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "What to Know About the $6.3 Billion Binance Hack",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
-          "published": "2026-10-31T00:57:26+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.8074,
-          "label": "BEARISH",
-          "confidence": 0.8074
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
-          "published": "2026-11-02T14:57:34+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": -0.1779,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-          "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-          "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-          "published": "2026-11-02T16:46:03+00:00",
-          "coins": [
-            "BTC",
-            "USDT"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": 0.17,
+      "article_count": 1,
+      "avg_compound": 0.34,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -222,31 +79,136 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 20,
+      "avg_compound": -0.2143,
+      "overall": "BEARISH",
+      "bullish": 3,
+      "bearish": 11,
+      "neutral": 6,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "What to Know About the $6.3 Billion Binance Hack",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+          "published": "2026-10-31T00:57:26+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
         },
         {
-          "source": "CoinDesk",
-          "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-          "published": "2026-11-02T12:37:24+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+          "published": "2026-11-02T14:57:34+00:00",
           "coins": [
-            "XRP"
+            "BNB",
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-77500-as-Midterm-Voting-Begins.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm\" rel=\"nofollow\">Bitcoin Price Trades Near $77,500 as Midterm Voting Begins</a></p>\n<p>Bitcoin price trades near $77,500 as midterm voting begins, pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm\" rel=\"nofollow\">Bitcoin Price Trades Near $77,500 as Midterm Voting Begins</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
+          "published": "2026-11-03T13:46:39+00:00",
+          "coins": [
+            "BTC",
+            "BNB"
+          ],
+          "compound": -0.5859,
+          "label": "BEARISH",
+          "confidence": 0.5859
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 30,
+      "avg_compound": -0.1063,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 14,
+      "neutral": 8,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "What to Know About the $6.3 Billion Binance Hack",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=tx_G1ScRVWQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/tx_G1ScRVWQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/What-to-Know-About-the-6.3-Billion-Binance-Hack-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a></p>\n<p>Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack\" rel=\"nofollow\">What to Know About the $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+          "published": "2026-10-31T00:57:26+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.8074,
+          "label": "BEARISH",
+          "confidence": 0.8074
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+          "published": "2026-11-02T14:57:34+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.6808,
+          "label": "BEARISH",
+          "confidence": 0.6808
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Adam Back: Pension Funds Are Bitcoin\u2019s \u201cThird Wave\u201d of Adoption",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=7-coDE0Hf4c\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/7-coDE0Hf4c/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Adam-Back-Pension-Funds-Are-Bitcoins-22Third-Wave22-of-Adoption-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption\" rel=\"nofollow\">Adam Back: Pension Funds Are Bitcoin&#8217;s &#8220;Third Wave&#8221; of Adoption</a></p>\n<p>Adam Back explains why Bitcoin\u2019s third wave\u2014pensions, managed funds, and model portfolios\u2014is still to come, and how Swiss banks are already preparing.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption\" rel=\"nofollow\">Adam Back: Pension Funds Are Bitcoin&#8217;s &#8220;Third Wave&#8221; of Adoption</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/mark-mason\" rel=\"nofollow\">Mark Mason</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
+          "published": "2026-11-02T14:29:48+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0223,
-      "overall": "NEUTRAL",
+      "article_count": 5,
+      "avg_compound": -0.0747,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
-      "neutral": 1,
+      "bearish": 2,
+      "neutral": 2,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+          "published": "2026-11-03T12:01:05+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
         {
           "source": "TheBlock",
           "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
@@ -277,20 +239,45 @@
           "compound": -0.2732,
           "label": "BEARISH",
           "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.0242,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+          "published": "2026-11-03T10:15:53+00:00",
+          "coins": [
+            "USDT",
+            "BTC"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
         },
         {
-          "source": "TheBlock",
-          "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
-          "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
-          "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
-          "published": "2026-11-02T14:40:53+00:00",
+          "source": "Decrypt",
+          "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+          "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+          "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+          "published": "2026-11-02T16:46:03+00:00",
           "coins": [
-            "ETH",
-            "BNB"
+            "BTC",
+            "USDT"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -462,39 +449,6 @@
       "confidence": 0.6858
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
-      "published": "2026-11-02T14:29:33+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
-    },
-    {
-      "source": "Decrypt",
-      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
-      "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-      "published": "2026-11-02T15:01:03+00:00",
-      "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
-      "confidence": 0.5719
-    },
-    {
-      "source": "CoinDesk",
-      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
-      "published": "2026-11-02T17:21:04+00:00",
-      "coins": [],
-      "compound": -0.5423,
-      "label": "BEARISH",
-      "confidence": 0.5423
-    },
-    {
       "source": "Decrypt",
       "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
       "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic\u2019s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
@@ -504,50 +458,6 @@
       "compound": 0.3818,
       "label": "BULLISH",
       "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
-      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
-      "published": "2026-11-02T16:41:46+00:00",
-      "coins": [],
-      "compound": 0.3535,
-      "label": "BULLISH",
-      "confidence": 0.3535
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
-      "published": "2026-11-02T15:00:09+00:00",
-      "coins": [],
-      "compound": 0.3412,
-      "label": "BULLISH",
-      "confidence": 0.3412
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
-      "published": "2026-11-02T15:18:55+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
-      "published": "2026-11-02T15:26:43+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
     },
     {
       "source": "Decrypt",
@@ -573,14 +483,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
-      "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
-      "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
-      "published": "2026-10-30T16:26:07+00:00",
+      "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+      "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
+      "url": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
+      "published": "2026-11-03T09:19:41+00:00",
       "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "TheBlock",
+      "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
+      "summary": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
+      "published": "2026-11-03T08:56:07+00:00",
+      "coins": [],
+      "compound": -0.0046,
+      "label": "NEUTRAL",
+      "confidence": 0.0046
     },
     {
       "source": "CoinDesk",
@@ -594,22 +515,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
-      "published": "2026-11-02T15:05:24+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
-      "published": "2026-11-02T14:00:00+00:00",
+      "source": "TheBlock",
+      "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+      "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+      "url": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+      "published": "2026-11-03T02:57:33+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
