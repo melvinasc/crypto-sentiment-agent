@@ -1,70 +1,14 @@
 {
-  "generated_at": "2026-11-03T23:09:47.111679+00:00",
+  "generated_at": "2026-11-04T05:56:58.698676+00:00",
   "total_articles": 55,
   "coins": {
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-          "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
-          "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
-          "published": "2026-11-02T16:52:55+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.34,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-          "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
-          "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
-          "published": "2026-11-02T16:52:55+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
-      "article_count": 14,
-      "avg_compound": -0.2856,
+      "article_count": 10,
+      "avg_compound": -0.3767,
       "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 9,
-      "neutral": 3,
+      "bullish": 1,
+      "bearish": 7,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -110,66 +54,12 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.2473,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
-          "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
-          "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-          "published": "2026-11-03T14:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "TheBlock",
-          "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-          "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
-          "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
-          "published": "2026-11-02T16:52:55+00:00",
-          "coins": [
-            "BNB",
-            "BTC",
-            "ETH",
-            "SOL",
-            "XRP"
-          ],
-          "compound": 0.34,
-          "label": "BULLISH",
-          "confidence": 0.34
-        },
-        {
-          "source": "Decrypt",
-          "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
-          "summary": "The \u201cTierra\u201d upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness.",
-          "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
-          "published": "2026-11-03T14:01:02+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.2716,
-          "label": "BULLISH",
-          "confidence": 0.2716
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.2197,
+      "article_count": 16,
+      "avg_compound": -0.3003,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 11,
+      "bullish": 2,
+      "bearish": 10,
       "neutral": 4,
       "top_articles": [
         {
@@ -215,13 +105,65 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.2988,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+          "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
+          "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+          "published": "2026-11-03T14:00:00+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.6249,
+          "label": "BULLISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "Decrypt",
+          "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+          "summary": "The \u201cTierra\u201d upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness.",
+          "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+          "published": "2026-11-03T14:01:02+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.2716,
+          "label": "BULLISH",
+          "confidence": 0.2716
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+          "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
+          "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+          "published": "2026-11-03T13:11:47+00:00",
+          "coins": [
+            "BNB",
+            "ETH",
+            "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.125,
+      "article_count": 3,
+      "avg_compound": -0.0833,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -236,6 +178,20 @@
           "compound": -0.25,
           "label": "BEARISH",
           "confidence": 0.25
+        },
+        {
+          "source": "CoinDesk",
+          "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+          "published": "2026-11-04T05:14:12+00:00",
+          "coins": [
+            "BTC",
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
           "source": "Decrypt",
@@ -378,6 +334,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -397,9 +363,30 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
+    },
+    "XRP": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "South Korea\u2019s ruling party formally proposes deferral of crypto income tax",
+      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
+      "published": "2026-11-04T02:51:52+00:00",
+      "coins": [],
+      "compound": 0.8555,
+      "label": "BULLISH",
+      "confidence": 0.8555
+    },
     {
       "source": "Decrypt",
       "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
@@ -428,17 +415,6 @@
       "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
       "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
       "published": "2026-11-03T16:08:14+00:00",
-      "coins": [],
-      "compound": 0.7003,
-      "label": "BULLISH",
-      "confidence": 0.7003
-    },
-    {
-      "source": "TheBlock",
-      "title": "DTCC\u2019s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
-      "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
-      "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
-      "published": "2026-11-02T19:15:48+00:00",
       "coins": [],
       "compound": 0.7003,
       "label": "BULLISH",
@@ -478,6 +454,17 @@
       "confidence": 0.5267
     },
     {
+      "source": "TheBlock",
+      "title": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133 million, ZachXBT says",
+      "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
+      "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+      "published": "2026-11-04T04:57:41+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
+    },
+    {
       "source": "Decrypt",
       "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
       "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO.",
@@ -511,14 +498,14 @@
       "confidence": 0.3182
     },
     {
-      "source": "CoinDesk",
-      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-      "published": "2026-11-03T14:00:00+00:00",
+      "source": "TheBlock",
+      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
+      "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+      "published": "2026-11-04T04:35:48+00:00",
       "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
+      "compound": -0.3182,
+      "label": "BEARISH",
       "confidence": 0.3182
     },
     {
@@ -555,6 +542,39 @@
       "confidence": 0.2263
     },
     {
+      "source": "Decrypt",
+      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "published": "2026-11-03T23:48:32+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
+      "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
+      "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
+      "url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
+      "published": "2026-11-04T04:13:10+00:00",
+      "coins": [],
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+      "published": "2026-11-04T05:09:40+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
       "source": "CoinDesk",
       "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
       "summary": "",
@@ -586,6 +606,39 @@
       "compound": -0.0046,
       "label": "NEUTRAL",
       "confidence": 0.0046
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+      "published": "2026-11-04T04:55:11+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "published": "2026-11-04T00:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What voters said about their views on crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "published": "2026-11-03T23:19:44+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
