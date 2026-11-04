@@ -1,35 +1,10 @@
 {
-  "generated_at": "2026-11-04T14:18:54.326536+00:00",
+  "generated_at": "2026-11-04T23:30:49.145814+00:00",
   "total_articles": 55,
   "coins": {
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": -0.9231,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-          "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
-          "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-          "published": "2026-11-04T10:35:01+00:00",
-          "coins": [
-            "BTC",
-            "LINK"
-          ],
-          "compound": -0.9231,
-          "label": "BEARISH",
-          "confidence": 0.9231
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
       "article_count": 1,
-      "avg_compound": 0.6249,
+      "avg_compound": 0.4215,
       "overall": "BULLISH",
       "bullish": 1,
       "bearish": 0,
@@ -37,78 +12,27 @@
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
-          "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
-          "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-          "published": "2026-11-03T14:00:00+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 6,
-      "avg_compound": -0.4028,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 4,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job\" rel=\"nofollow\">Binance Says $6.34 Billion Hack Began With Fake Job Interview\u00a0</a></p>\n<p>Binance\u2019s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job\" rel=\"nofollow\">Binance Says $6.34 Billion Hack Began With Fake Job Interview\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
-          "published": "2026-11-03T16:44:20+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.9552,
-          "label": "BEARISH",
-          "confidence": 0.9552
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Reopens-Withdrawals-as-Hack-Recovery-Enters-Second-Week-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a></p>\n<p>Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack\" rel=\"nofollow\">Binance Reopens Withdrawals as Hack Recovery Enters Second Week\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
-          "published": "2026-11-02T14:57:34+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.6808,
-          "label": "BEARISH",
-          "confidence": 0.6808
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Trades-Near-77500-as-Midterm-Voting-Begins.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm\" rel=\"nofollow\">Bitcoin Price Trades Near $77,500 as Midterm Voting Begins</a></p>\n<p>Bitcoin price trades near $77,500 as midterm voting begins, pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm\" rel=\"nofollow\">Bitcoin Price Trades Near $77,500 as Midterm Voting Begins</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
-          "published": "2026-11-03T13:46:39+00:00",
+          "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+          "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+          "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+          "published": "2026-11-04T20:09:58+00:00",
           "coins": [
             "BTC",
-            "BNB"
+            "BNB",
+            "ETH"
           ],
-          "compound": -0.5859,
-          "label": "BEARISH",
-          "confidence": 0.5859
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.3612,
+      "article_count": 2,
+      "avg_compound": 0.3397,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -124,70 +48,146 @@
           "compound": 0.3612,
           "label": "BULLISH",
           "confidence": 0.3612
+        },
+        {
+          "source": "TheBlock",
+          "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+          "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
+          "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+          "published": "2026-11-04T16:27:49+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 19,
-      "avg_compound": -0.3095,
+      "article_count": 16,
+      "avg_compound": -0.1835,
       "overall": "BEARISH",
-      "bullish": 2,
-      "bearish": 12,
-      "neutral": 5,
+      "bullish": 7,
+      "bearish": 8,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job\" rel=\"nofollow\">Binance Says $6.34 Billion Hack Began With Fake Job Interview\u00a0</a></p>\n<p>Binance\u2019s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job\" rel=\"nofollow\">Binance Says $6.34 Billion Hack Began With Fake Job Interview\u00a0</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
-          "published": "2026-11-03T16:44:20+00:00",
+          "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Huizenga-Loses-House-Seat-Despite-1-Million-From-Fairshake.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake\" rel=\"nofollow\">Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake</a></p>\n<p>Rep. Bill Huizenga, vice chair of the House Financial Services Committee, lost despite $1 million from Fairshake.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake\" rel=\"nofollow\">Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake",
+          "published": "2026-11-04T21:09:04+00:00",
           "coins": [
-            "BNB",
             "BTC"
           ],
-          "compound": -0.9552,
+          "compound": -0.8779,
           "label": "BEARISH",
-          "confidence": 0.9552
-        },
-        {
-          "source": "Decrypt",
-          "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-          "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
-          "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-          "published": "2026-11-04T10:35:01+00:00",
-          "coins": [
-            "BTC",
-            "LINK"
-          ],
-          "compound": -0.9231,
-          "label": "BEARISH",
-          "confidence": 0.9231
+          "confidence": 0.8779
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=lYR2vp9wCQQ\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/lYR2vp9wCQQ/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Andrew-Hohns-Why-Bitcoin-Can-Fix-Americas-Debt-Spiral-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral\" rel=\"nofollow\">Andrew Hohns: Why Bitcoin Can Fix America&#8217;s Debt Spiral</a></p>\n<p>Battery Finance\u2019s Andrew Hohns explains why taxes won\u2019t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral\" rel=\"nofollow\">Andrew Hohns: Why Bitcoin Can Fix America&#8217;s Debt Spiral</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
-          "published": "2026-11-03T15:17:11+00:00",
+          "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation\" rel=\"nofollow\">Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation</a></p>\n<p>Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8. Anthropic\u2019s Frontier Red Team demonstrated a remote root exploit against systems with a Multipath TCP listener.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation\" rel=\"nofollow\">Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation",
+          "published": "2026-11-04T18:31:56+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.9081,
+          "compound": -0.8481,
           "label": "BEARISH",
-          "confidence": 0.9081
+          "confidence": 0.8481
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/French-Bank-Credit-Mutuel-Arkea-Confirms-Cyberattack-ZachXBT-133-Million.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million\" rel=\"nofollow\">French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million</a></p>\n<p>Credit Mutuel Arkea says a cyberattack through a service provider enabled fraudulent transfers from its own account, while ZachXBT puts the theft above $133 million, a figure the bank has not confirmed.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million\" rel=\"nofollow\">French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million",
+          "published": "2026-11-04T20:57:01+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7506,
+          "label": "BEARISH",
+          "confidence": 0.7506
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 5,
+      "avg_compound": 0.0906,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
+          "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+          "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+          "published": "2026-11-04T20:46:03+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.6249,
+          "label": "BEARISH",
+          "confidence": 0.6249
+        },
+        {
+          "source": "TheBlock",
+          "title": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
+          "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+          "published": "2026-11-04T16:58:42+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4299,
+          "label": "BULLISH",
+          "confidence": 0.4299
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+          "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+          "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+          "published": "2026-11-04T20:09:58+00:00",
+          "coins": [
+            "BTC",
+            "BNB",
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
         }
       ],
       "no_news": false
     },
     "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.128,
-      "overall": "BEARISH",
-      "bullish": 0,
+      "article_count": 2,
+      "avg_compound": 0.0249,
+      "overall": "NEUTRAL",
+      "bullish": 1,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What Is x402? How AI Agents Pay With Crypto",
+          "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
+          "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+          "published": "2026-11-04T17:59:09+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1779,
+          "label": "BULLISH",
+          "confidence": 0.1779
+        },
         {
           "source": "Decrypt",
           "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
@@ -200,83 +200,6 @@
           "compound": -0.128,
           "label": "BEARISH",
           "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 3,
-      "avg_compound": -0.0833,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/04/Tether-moves-over-70-million-in-bitcoin-to-reserves-on-chain-data-shows.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says\" rel=\"nofollow\">Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows</a></p>\n<p>Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. </p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says\" rel=\"nofollow\">Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says",
-          "published": "2026-11-03T18:06:27+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": -0.25,
-          "label": "BEARISH",
-          "confidence": 0.25
-        },
-        {
-          "source": "CoinDesk",
-          "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
-          "published": "2026-11-04T05:14:12+00:00",
-          "coins": [
-            "BTC",
-            "USDT"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
-          "summary": "Paolo Ardoino told the Plan \u20bf Forum in Lugano the company owns \u201cgive or take 150,000 Bitcoin,\u201d but its Q3 reserve report implies just 100,060.",
-          "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-          "published": "2026-11-03T22:46:02+00:00",
-          "coins": [
-            "USDT",
-            "BTC"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "TRX": {
-      "article_count": 1,
-      "avg_compound": 0.0772,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-          "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
-          "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
-          "published": "2026-11-03T20:36:02+00:00",
-          "coins": [
-            "TRX"
-          ],
-          "compound": 0.0772,
-          "label": "BULLISH",
-          "confidence": 0.0772
         }
       ],
       "no_news": false
@@ -331,6 +254,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "LINK": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "LTC": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -371,7 +304,27 @@
       "top_articles": [],
       "no_news": true
     },
+    "TRX": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "UNI": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -394,6 +347,17 @@
   },
   "uncategorised": [
     {
+      "source": "Decrypt",
+      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents\u2014the same risk that recently prompted major banks to restrict customer-account access.",
+      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+      "published": "2026-11-04T19:57:18+00:00",
+      "coins": [],
+      "compound": -0.8768,
+      "label": "BEARISH",
+      "confidence": 0.8768
+    },
+    {
       "source": "TheBlock",
       "title": "South Korea\u2019s ruling party formally proposes deferral of crypto income tax",
       "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
@@ -405,70 +369,26 @@
       "confidence": 0.8555
     },
     {
-      "source": "Decrypt",
-      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
-      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
-      "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
-      "published": "2026-11-03T21:16:03+00:00",
-      "coins": [],
-      "compound": -0.8074,
-      "label": "BEARISH",
-      "confidence": 0.8074
-    },
-    {
-      "source": "TheBlock",
-      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
-      "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
-      "published": "2026-11-03T15:37:50+00:00",
-      "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
-    },
-    {
-      "source": "TheBlock",
-      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
-      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
-      "published": "2026-11-03T16:08:14+00:00",
-      "coins": [],
-      "compound": 0.7003,
-      "label": "BULLISH",
-      "confidence": 0.7003
-    },
-    {
       "source": "CoinDesk",
-      "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
-      "published": "2026-11-04T08:04:04+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "published": "2026-11-04T22:51:42+00:00",
       "coins": [],
-      "compound": 0.6124,
+      "compound": 0.6486,
       "label": "BULLISH",
-      "confidence": 0.6124
+      "confidence": 0.6486
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
-      "published": "2026-11-03T19:46:03+00:00",
+      "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
+      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+      "published": "2026-11-04T16:29:36+00:00",
       "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
-    },
-    {
-      "source": "Decrypt",
-      "title": "ZachXBT Names French Bank Cr\u00e9dit Mutuel Ark\u00e9a as Alleged Victim of $133M Crypto Theft",
-      "summary": "The onchain investigator says the theft is being \"covered up,\" and that a lack of disclosure let more than $30 million be laundered.",
-      "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
-      "published": "2026-11-04T11:20:31+00:00",
-      "coins": [],
-      "compound": -0.5267,
-      "label": "BEARISH",
-      "confidence": 0.5267
+      "compound": 0.5574,
+      "label": "BULLISH",
+      "confidence": 0.5574
     },
     {
       "source": "TheBlock",
@@ -483,14 +403,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-      "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO.",
-      "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-      "published": "2026-11-03T21:50:17+00:00",
+      "title": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
+      "summary": "The French bank said the attack allowed \"fraudulent operations\" but did not mention crypto, and is still assessing the amounts.",
+      "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+      "published": "2026-11-04T15:30:31+00:00",
       "coins": [],
-      "compound": -0.4678,
+      "compound": -0.4854,
       "label": "BEARISH",
-      "confidence": 0.4678
+      "confidence": 0.4854
     },
     {
       "source": "CoinDesk",
@@ -501,6 +421,17 @@
       "coins": [],
       "compound": -0.4588,
       "label": "BEARISH",
+      "confidence": 0.4588
+    },
+    {
+      "source": "Decrypt",
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "summary": "SEC staff said they view Canton Coin as a digital commodity and won\u2019t recommend enforcement over how it\u2019s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "published": "2026-11-04T18:16:02+00:00",
+      "coins": [],
+      "compound": 0.4588,
+      "label": "BULLISH",
       "confidence": 0.4588
     },
     {
@@ -526,6 +457,28 @@
       "confidence": 0.4404
     },
     {
+      "source": "Decrypt",
+      "title": "Google Tells Schools They Can Reject AI\u2014But They'll Lose Search, Too",
+      "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.",
+      "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+      "published": "2026-11-04T21:16:03+00:00",
+      "coins": [],
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "TheBlock",
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
+      "published": "2026-11-04T21:54:49+00:00",
+      "coins": [],
+      "compound": 0.3612,
+      "label": "BULLISH",
+      "confidence": 0.3612
+    },
+    {
       "source": "TheBlock",
       "title": "DeFi Explained",
       "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.",
@@ -535,6 +488,17 @@
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "published": "2026-11-04T22:55:00+00:00",
+      "coins": [],
+      "compound": -0.34,
+      "label": "BEARISH",
+      "confidence": 0.34
     },
     {
       "source": "TheBlock",
@@ -581,26 +545,26 @@
       "confidence": 0.2755
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
-      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
-      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
-      "published": "2026-11-03T23:48:32+00:00",
+      "source": "CoinDesk",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "published": "2026-11-04T16:08:14+00:00",
       "coins": [],
-      "compound": 0.2263,
-      "label": "BULLISH",
-      "confidence": 0.2263
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
-      "source": "CoinDesk",
-      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
-      "published": "2026-11-04T09:22:58+00:00",
+      "source": "Decrypt",
+      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+      "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+      "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "published": "2026-11-04T22:16:05+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.2732,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.2732
     },
     {
       "source": "TheBlock",
@@ -626,14 +590,58 @@
     },
     {
       "source": "CoinDesk",
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "published": "2026-11-04T05:09:40+00:00",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+      "published": "2026-11-04T20:29:12+00:00",
       "coins": [],
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+      "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate.",
+      "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+      "published": "2026-11-04T18:46:03+00:00",
+      "coins": [],
+      "compound": -0.0516,
+      "label": "BEARISH",
+      "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "published": "2026-11-04T16:11:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+      "published": "2026-11-04T15:27:20+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The election changes Washington. The work on crypto continues",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+      "published": "2026-11-04T14:25:12+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -647,44 +655,22 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
-      "published": "2026-11-04T04:55:11+00:00",
+      "source": "Decrypt",
+      "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+      "summary": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
+      "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+      "published": "2026-11-04T17:06:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "Decrypt",
-      "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn\u2019t Flip",
-      "summary": "A Polymarket trader topped the prediction market\u2019s leaderboard after Democrats swept the US midterms, but Alaska could still flip it.",
-      "url": "https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
-      "published": "2026-11-04T11:48:50+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-      "summary": "Chairman Michael Selig said \u201cequity perpetual futures\u201d can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
-      "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
-      "published": "2026-11-03T19:16:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
-      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-      "published": "2026-11-03T17:46:15+00:00",
+      "source": "TheBlock",
+      "title": "French Hill\u2019s race still too close to call as House flips, changing the direction of crypto legislation",
+      "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
+      "published": "2026-11-04T19:02:05+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -696,17 +682,6 @@
       "summary": "Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.",
       "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
       "published": "2026-11-04T09:37:45+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
-      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
-      "published": "2026-11-03T18:30:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
