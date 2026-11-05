@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T23:30:49.145814+00:00",
+  "generated_at": "2026-11-05T06:20:57.499963+00:00",
   "total_articles": 55,
   "coins": {
     "ETH": {
@@ -65,14 +65,51 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 16,
-      "avg_compound": -0.1835,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 8,
-      "neutral": 1,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.2732,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+          "published": "2026-11-05T05:25:06+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 17,
+      "avg_compound": -0.1442,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 8,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/American-Bitcoin-ABTC-Q3-Mining-Rig.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit\" rel=\"nofollow\">American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million</a></p>\n<p>American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit\" rel=\"nofollow\">American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
+          "published": "2026-11-05T01:44:49+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.9524,
+          "label": "BULLISH",
+          "confidence": 0.9524
+        },
         {
           "source": "Bitcoin Magazine",
           "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
@@ -98,28 +135,15 @@
           "compound": -0.8481,
           "label": "BEARISH",
           "confidence": 0.8481
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/French-Bank-Credit-Mutuel-Arkea-Confirms-Cyberattack-ZachXBT-133-Million.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million\" rel=\"nofollow\">French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million</a></p>\n<p>Credit Mutuel Arkea says a cyberattack through a service provider enabled fraudulent transfers from its own account, while ZachXBT puts the theft above $133 million, a figure the bank has not confirmed.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million\" rel=\"nofollow\">French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million",
-          "published": "2026-11-04T20:57:01+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7506,
-          "label": "BEARISH",
-          "confidence": 0.7506
         }
       ],
       "no_news": false
     },
     "BNB": {
-      "article_count": 5,
-      "avg_compound": 0.0906,
+      "article_count": 4,
+      "avg_compound": 0.0566,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 1,
       "neutral": 1,
       "top_articles": [
@@ -333,16 +357,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -367,6 +381,17 @@
       "compound": 0.8555,
       "label": "BULLISH",
       "confidence": 0.8555
+    },
+    {
+      "source": "TheBlock",
+      "title": "The Digital Chamber calls Sherrod Brown\u2019s win \u2018most consequential unfavorable result\u2019 for crypto",
+      "summary": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
+      "published": "2026-11-05T04:28:54+00:00",
+      "coins": [],
+      "compound": 0.7506,
+      "label": "BULLISH",
+      "confidence": 0.7506
     },
     {
       "source": "CoinDesk",
@@ -411,17 +436,6 @@
       "compound": -0.4854,
       "label": "BEARISH",
       "confidence": 0.4854
-    },
-    {
-      "source": "CoinDesk",
-      "title": "ZachXBT names French bank Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133 million crypto theft",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
-      "published": "2026-11-04T10:18:50+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -512,17 +526,6 @@
       "confidence": 0.3182
     },
     {
-      "source": "CoinDesk",
-      "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
-      "published": "2026-11-04T10:03:33+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
       "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce.",
@@ -532,17 +535,6 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
-    },
-    {
-      "source": "TheBlock",
-      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
-      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
-      "published": "2026-11-03T22:11:51+00:00",
-      "coins": [],
-      "compound": -0.2755,
-      "label": "BEARISH",
-      "confidence": 0.2755
     },
     {
       "source": "CoinDesk",
@@ -568,6 +560,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
+      "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
+      "url": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+      "published": "2026-11-05T04:01:16+00:00",
+      "coins": [],
+      "compound": -0.2023,
+      "label": "BEARISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
       "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
       "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
       "url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
@@ -579,14 +582,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+      "title": "The pile of lawsuits against Kalshi just grew by one",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-      "published": "2026-11-04T12:33:54+00:00",
+      "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+      "published": "2026-11-05T05:28:52+00:00",
       "coins": [],
-      "compound": -0.1655,
+      "compound": -0.1531,
       "label": "BEARISH",
-      "confidence": 0.1655
+      "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
@@ -598,6 +601,17 @@
       "compound": 0.1027,
       "label": "BULLISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+      "published": "2026-11-05T05:47:01+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
     },
     {
       "source": "Decrypt",
@@ -638,17 +652,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
       "published": "2026-11-04T14:25:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Here's how analysts are reacting to the new blue Congress",
-      "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
-      "published": "2026-11-04T12:14:11+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
