@@ -1,15 +1,83 @@
 {
-  "generated_at": "2026-11-05T06:20:57.499963+00:00",
+  "generated_at": "2026-11-05T19:48:57.299256+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
+    "TRX": {
       "article_count": 1,
+      "avg_compound": -0.9509,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a></p>\n<p>The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
+          "published": "2026-11-05T13:57:43+00:00",
+          "coins": [
+            "USDT",
+            "TRX",
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.9509,
+          "label": "BEARISH",
+          "confidence": 0.9509
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": -0.9509,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a></p>\n<p>The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
+          "published": "2026-11-05T13:57:43+00:00",
+          "coins": [
+            "USDT",
+            "TRX",
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.9509,
+          "label": "BEARISH",
+          "confidence": 0.9509
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
       "avg_compound": 0.4215,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+          "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
+          "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+          "published": "2026-11-05T16:00:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
         {
           "source": "TheBlock",
           "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
@@ -28,27 +96,68 @@
       ],
       "no_news": false
     },
+    "BNB": {
+      "article_count": 8,
+      "avg_compound": -0.1517,
+      "overall": "BEARISH",
+      "bullish": 3,
+      "bearish": 4,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a></p>\n<p>The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
+          "published": "2026-11-05T13:57:43+00:00",
+          "coins": [
+            "USDT",
+            "TRX",
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.9509,
+          "label": "BEARISH",
+          "confidence": 0.9509
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
+          "summary": "The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea.",
+          "url": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform",
+          "published": "2026-11-05T12:23:24+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.6369,
+          "label": "BEARISH",
+          "confidence": 0.6369
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack\" rel=\"nofollow\">Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack</a></p>\n<p>Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack\" rel=\"nofollow\">Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+          "published": "2026-11-05T15:25:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.5423,
+          "label": "BEARISH",
+          "confidence": 0.5423
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.3397,
+      "article_count": 4,
+      "avg_compound": 0.1115,
       "overall": "BULLISH",
       "bullish": 2,
       "bearish": 0,
-      "neutral": 0,
+      "neutral": 2,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-          "published": "2026-11-04T13:00:00+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        },
         {
           "source": "TheBlock",
           "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
@@ -61,169 +170,125 @@
           "compound": 0.3182,
           "label": "BULLISH",
           "confidence": 0.3182
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2732,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+        },
         {
-          "source": "CoinDesk",
-          "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
-          "published": "2026-11-05T05:25:06+00:00",
+          "source": "Decrypt",
+          "title": "Solana Labs\u2019 Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+          "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
+          "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+          "published": "2026-11-05T17:01:03+00:00",
           "coins": [
-            "XRP"
+            "SOL"
           ],
-          "compound": 0.2732,
+          "compound": 0.128,
           "label": "BULLISH",
-          "confidence": 0.2732
+          "confidence": 0.128
+        },
+        {
+          "source": "Decrypt",
+          "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+          "summary": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
+          "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+          "published": "2026-11-05T13:01:02+00:00",
+          "coins": [
+            "USDC",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 17,
-      "avg_compound": -0.1442,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 8,
-      "neutral": 3,
+      "article_count": 23,
+      "avg_compound": -0.0498,
+      "overall": "NEUTRAL",
+      "bullish": 9,
+      "bearish": 10,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/American-Bitcoin-ABTC-Q3-Mining-Rig.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit\" rel=\"nofollow\">American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million</a></p>\n<p>American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit\" rel=\"nofollow\">American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
-          "published": "2026-11-05T01:44:49+00:00",
+          "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Greece-Approves-10-Crypto-Capital-Gains-Tax-as-First-Framework-Lands-Below-Draft-Rate.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax\" rel=\"nofollow\">Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate</a></p>\n<p>Greece's parliament approved a 10% capital gains tax on cryptocurrencies, the country's first dedicated crypto tax framework, with annual gains up to \u20ac500 exempt.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax\" rel=\"nofollow\">Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
+          "published": "2026-11-05T19:00:00+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.9524,
+          "compound": 0.9638,
           "label": "BULLISH",
-          "confidence": 0.9524
+          "confidence": 0.9638
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Huizenga-Loses-House-Seat-Despite-1-Million-From-Fairshake.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake\" rel=\"nofollow\">Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake</a></p>\n<p>Rep. Bill Huizenga, vice chair of the House Financial Services Committee, lost despite $1 million from Fairshake.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake\" rel=\"nofollow\">Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake",
-          "published": "2026-11-04T21:09:04+00:00",
+          "title": "Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Riot-Anthropic-Texas-Lease.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease\" rel=\"nofollow\">Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest</a></p>\n<p>Riot's 10-Q identifies Anthropic as the AI lab behind its 910 MW Corsicana lease and shows Riot could owe the tenant 12% interest on up to $3.6 billion in build costs.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease\" rel=\"nofollow\">Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease",
+          "published": "2026-11-05T13:52:53+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8779,
+          "compound": -0.959,
           "label": "BEARISH",
-          "confidence": 0.8779
+          "confidence": 0.959
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-2.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation\" rel=\"nofollow\">Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation</a></p>\n<p>Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8. Anthropic\u2019s Frontier Red Team demonstrated a remote root exploit against systems with a Multipath TCP listener.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation\" rel=\"nofollow\">Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation",
-          "published": "2026-11-04T18:31:56+00:00",
+          "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/07/BlackRock-Coinbase-Strategy-Among-Nine-Firms-Launching-the-Bitcoin-Security-Consortium-Pledging-15-Million-To-BTC-Security-Development.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a></p>\n<p>The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit\" rel=\"nofollow\">Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
+          "published": "2026-11-05T13:57:43+00:00",
           "coins": [
-            "BTC"
-          ],
-          "compound": -0.8481,
-          "label": "BEARISH",
-          "confidence": 0.8481
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 4,
-      "avg_compound": 0.0566,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
-          "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
-          "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-          "published": "2026-11-04T20:46:03+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.6249,
-          "label": "BEARISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "TheBlock",
-          "title": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
-          "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
-          "published": "2026-11-04T16:58:42+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.4299,
-          "label": "BULLISH",
-          "confidence": 0.4299
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-          "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-          "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-          "published": "2026-11-04T20:09:58+00:00",
-          "coins": [
-            "BTC",
+            "USDT",
+            "TRX",
             "BNB",
-            "ETH"
+            "BTC"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": -0.9509,
+          "label": "BEARISH",
+          "confidence": 0.9509
         }
       ],
       "no_news": false
     },
     "USDC": {
       "article_count": 2,
-      "avg_compound": 0.0249,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Decrypt",
-          "title": "What Is x402? How AI Agents Pay With Crypto",
-          "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
-          "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
-          "published": "2026-11-04T17:59:09+00:00",
+          "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+          "summary": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
+          "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+          "published": "2026-11-05T13:01:02+00:00",
           "coins": [
-            "USDC"
+            "USDC",
+            "SOL"
           ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         },
         {
-          "source": "Decrypt",
-          "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
-          "summary": "The USDC issuer disclosed the cuts in its earnings release, booking $9.1 million in restructuring costs as reserve income fell 8%.",
-          "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
-          "published": "2026-11-04T12:44:00+00:00",
+          "source": "TheBlock",
+          "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+          "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
+          "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+          "published": "2026-11-05T14:19:51+00:00",
           "coins": [
-            "USDC"
+            "USDC",
+            "SOL"
           ],
-          "compound": -0.128,
-          "label": "BEARISH",
-          "confidence": 0.128
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -328,16 +393,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "TRX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "UNI": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -348,7 +403,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -362,25 +417,47 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents\u2014the same risk that recently prompted major banks to restrict customer-account access.",
-      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-      "published": "2026-11-04T19:57:18+00:00",
+      "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+      "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
+      "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+      "published": "2026-11-05T16:37:20+00:00",
       "coins": [],
-      "compound": -0.8768,
+      "compound": 0.8316,
+      "label": "BULLISH",
+      "confidence": 0.8316
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+      "summary": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\"",
+      "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
+      "published": "2026-11-05T13:37:25+00:00",
+      "coins": [],
+      "compound": -0.8265,
       "label": "BEARISH",
-      "confidence": 0.8768
+      "confidence": 0.8265
     },
     {
       "source": "TheBlock",
-      "title": "South Korea\u2019s ruling party formally proposes deferral of crypto income tax",
-      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
-      "published": "2026-11-04T02:51:52+00:00",
+      "title": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+      "published": "2026-11-05T16:53:56+00:00",
       "coins": [],
-      "compound": 0.8555,
+      "compound": 0.8225,
       "label": "BULLISH",
-      "confidence": 0.8555
+      "confidence": 0.8225
+    },
+    {
+      "source": "TheBlock",
+      "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
+      "summary": "The lawsuit adds Arkansas to a growing list of states taking legal action against the prediction market platform.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
+      "published": "2026-11-05T08:26:48+00:00",
+      "coins": [],
+      "compound": -0.7783,
+      "label": "BEARISH",
+      "confidence": 0.7783
     },
     {
       "source": "TheBlock",
@@ -394,70 +471,48 @@
       "confidence": 0.7506
     },
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
+      "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?",
+      "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+      "published": "2026-11-05T13:14:05+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+      "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
+      "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+      "published": "2026-11-05T17:31:10+00:00",
+      "coins": [],
+      "compound": -0.6124,
+      "label": "BEARISH",
+      "confidence": 0.6124
+    },
+    {
       "source": "CoinDesk",
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-      "published": "2026-11-04T22:51:42+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "published": "2026-11-05T16:13:32+00:00",
       "coins": [],
-      "compound": 0.6486,
+      "compound": 0.5719,
       "label": "BULLISH",
-      "confidence": 0.6486
+      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
-      "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
-      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
-      "published": "2026-11-04T16:29:36+00:00",
+      "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
+      "summary": "Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto.",
+      "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+      "published": "2026-11-05T12:00:01+00:00",
       "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133 million, ZachXBT says",
-      "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
-      "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
-      "published": "2026-11-04T04:57:41+00:00",
-      "coins": [],
-      "compound": -0.5267,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "Decrypt",
-      "title": "Cr\u00e9dit Mutuel Ark\u00e9a Confirms Cyberattack After ZachXBT Ties It to $133M Crypto Theft",
-      "summary": "The French bank said the attack allowed \"fraudulent operations\" but did not mention crypto, and is still assessing the amounts.",
-      "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
-      "published": "2026-11-04T15:30:31+00:00",
-      "coins": [],
-      "compound": -0.4854,
-      "label": "BEARISH",
-      "confidence": 0.4854
-    },
-    {
-      "source": "Decrypt",
-      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-      "summary": "SEC staff said they view Canton Coin as a digital commodity and won\u2019t recommend enforcement over how it\u2019s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
-      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
-      "published": "2026-11-04T18:16:02+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
-      "summary": "Plus, pro-crypto spending largely failed to produce results as the Democrats swept the Senate and House in Midterms.",
-      "url": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
-      "published": "2026-11-04T13:25:01+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -472,14 +527,25 @@
     },
     {
       "source": "Decrypt",
-      "title": "Google Tells Schools They Can Reject AI\u2014But They'll Lose Search, Too",
-      "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.",
-      "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
-      "published": "2026-11-04T21:16:03+00:00",
+      "title": "Arkansas Sues Kalshi, Joining a Growing List of States Targeting Prediction Markets",
+      "summary": "Attorney General Tim Griffin said betting on \"whether the Razorbacks win or lose\" is gambling, and wants restitution, penalties and taxes.",
+      "url": "https://decrypt.co/382588/arkansas-sues-kalshi-joining-a-growing-list-of-states-targeting-prediction-markets",
+      "published": "2026-11-05T10:28:58+00:00",
       "coins": [],
-      "compound": -0.3818,
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Found 948 Linux Security Flaws\u2014And Figured Out How to Exploit Them",
+      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
+      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+      "published": "2026-11-05T19:16:03+00:00",
+      "coins": [],
+      "compound": -0.4019,
       "label": "BEARISH",
-      "confidence": 0.3818
+      "confidence": 0.4019
     },
     {
       "source": "TheBlock",
@@ -493,37 +559,15 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "DeFi Explained",
-      "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.",
-      "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
-      "published": "2026-11-04T11:05:30+00:00",
+      "source": "Decrypt",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "published": "2026-11-05T19:46:03+00:00",
       "coins": [],
-      "compound": 0.3612,
+      "compound": 0.34,
       "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
-      "published": "2026-11-04T22:55:00+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
       "confidence": 0.34
-    },
-    {
-      "source": "TheBlock",
-      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-      "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
-      "published": "2026-11-04T04:35:48+00:00",
-      "coins": [],
-      "compound": -0.3182,
-      "label": "BEARISH",
-      "confidence": 0.3182
     },
     {
       "source": "TheBlock",
@@ -537,28 +581,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-      "published": "2026-11-04T16:08:14+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
-      "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
-      "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
-      "published": "2026-11-04T22:16:05+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "TheBlock",
       "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
       "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
@@ -570,66 +592,44 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
-      "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
-      "url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
-      "published": "2026-11-04T04:13:10+00:00",
+      "source": "CoinDesk",
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "published": "2026-11-05T18:59:45+00:00",
       "coins": [],
-      "compound": 0.1779,
+      "compound": 0.1531,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.1531
     },
     {
-      "source": "CoinDesk",
-      "title": "The pile of lawsuits against Kalshi just grew by one",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
-      "published": "2026-11-05T05:28:52+00:00",
+      "source": "Decrypt",
+      "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
+      "summary": "A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
+      "url": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+      "published": "2026-11-05T18:05:21+00:00",
       "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
+      "compound": 0.1531,
+      "label": "BULLISH",
       "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
       "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-      "published": "2026-11-04T20:29:12+00:00",
-      "coins": [],
-      "compound": 0.1027,
-      "label": "BULLISH",
-      "confidence": 0.1027
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
-      "published": "2026-11-05T05:47:01+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "published": "2026-11-05T16:49:08+00:00",
       "coins": [],
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
     },
     {
-      "source": "Decrypt",
-      "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
-      "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate.",
-      "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
-      "published": "2026-11-04T18:46:03+00:00",
-      "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
-    },
-    {
       "source": "CoinDesk",
-      "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
-      "published": "2026-11-04T16:11:29+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+      "published": "2026-11-05T14:00:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -637,32 +637,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
+      "title": "Ukraine\u2019s central bank opposes crypto bill, citing monetary sovereignty concerns",
       "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
-      "published": "2026-11-04T15:27:20+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "published": "2026-11-05T12:50:57+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "The election changes Washington. The work on crypto continues",
-      "summary": "",
-      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "published": "2026-11-04T14:25:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
-      "summary": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
-      "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
-      "published": "2026-11-04T17:06:03+00:00",
+      "source": "TheBlock",
+      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+      "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens.",
+      "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+      "published": "2026-11-05T15:36:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -674,17 +663,6 @@
       "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
       "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
       "published": "2026-11-04T19:02:05+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC\u2019s service",
-      "summary": "Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.",
-      "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
-      "published": "2026-11-04T09:37:45+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
