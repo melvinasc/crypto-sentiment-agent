@@ -1,43 +1,187 @@
 {
-  "generated_at": "2026-11-06T06:15:37.793683+00:00",
+  "generated_at": "2026-11-06T19:14:19.595891+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.3943,
-      "overall": "BULLISH",
-      "bullish": 3,
-      "bearish": 0,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": -0.93,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
-          "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
-          "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
-          "published": "2026-11-05T16:00:02+00:00",
+          "source": "Bitcoin Magazine",
+          "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Hackers-Swap-XRP-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a></p>\n<p>About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+          "published": "2026-11-06T14:50:00+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "BNB",
+            "XRP",
+            "BTC"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": -0.93,
+          "label": "BEARISH",
+          "confidence": 0.93
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.8181,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 3,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Hackers-Swap-XRP-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a></p>\n<p>About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+          "published": "2026-11-06T14:50:00+00:00",
+          "coins": [
+            "BNB",
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.93,
+          "label": "BEARISH",
+          "confidence": 0.93
+        },
+        {
+          "source": "Decrypt",
+          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+          "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "published": "2026-11-06T14:04:18+00:00",
+          "coins": [
+            "BNB",
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.8294,
+          "label": "BEARISH",
+          "confidence": 0.8294
         },
         {
           "source": "TheBlock",
-          "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-          "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-          "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-          "published": "2026-11-04T20:09:58+00:00",
+          "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+          "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+          "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+          "published": "2026-11-06T18:06:59+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.695,
+          "label": "BEARISH",
+          "confidence": 0.695
+        }
+      ],
+      "no_news": false
+    },
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": -0.4404,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/tn-4.webp\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires\" rel=\"nofollow\">Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires</a></p>\n<p>Bitcoin.ar presented the 2.4-meter stainless steel and glass cube \u201cThe Genesis of Satoshi Nakamoto\u201d on October 29 at Polo Dot as part of LABITCONF 2026\u2019s Open Fest.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires\" rel=\"nofollow\">Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/juan-galt\" rel=\"nofollow\">Juan Galt</a>.</p>",
+          "url": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
+          "published": "2026-11-06T14:00:00+00:00",
           "coins": [
             "BTC",
-            "BNB",
-            "ETH"
+            "DOT"
           ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 26,
+      "avg_compound": -0.2929,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 17,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Former-FBI-Agent-Pleads-Guilty-to-Stealing-2.47-Million-in-Crypto-From-Investigations.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft\" rel=\"nofollow\">Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations</a></p>\n<p>Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take about $2.47 million in cryptocurrency.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft\" rel=\"nofollow\">Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+          "published": "2026-11-06T17:00:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9818,
+          "label": "BEARISH",
+          "confidence": 0.9818
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Thailand-Moves-to-Cement-Bitcoin-and-Digital-Assets-in-Regulated-Derivatives-Market.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5\" rel=\"nofollow\">Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block</a></p>\n<p>Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 2025.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5\" rel=\"nofollow\">Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+          "published": "2026-11-06T17:30:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9801,
+          "label": "BEARISH",
+          "confidence": 0.9801
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Hackers-Swap-XRP-Into-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a></p>\n<p>About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to about 1,650 BTC.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin\" rel=\"nofollow\">Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+          "published": "2026-11-06T14:50:00+00:00",
+          "coins": [
+            "BNB",
+            "XRP",
+            "BTC"
+          ],
+          "compound": -0.93,
+          "label": "BEARISH",
+          "confidence": 0.93
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.2447,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+          "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "published": "2026-11-06T14:04:18+00:00",
+          "coins": [
+            "BNB",
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.8294,
+          "label": "BEARISH",
+          "confidence": 0.8294
         },
         {
           "source": "TheBlock",
@@ -52,172 +196,6 @@
           "compound": 0.34,
           "label": "BULLISH",
           "confidence": 0.34
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.1217,
-      "overall": "BEARISH",
-      "bullish": 9,
-      "bearish": 13,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Greece-Approves-10-Crypto-Capital-Gains-Tax-as-First-Framework-Lands-Below-Draft-Rate.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax\" rel=\"nofollow\">Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate</a></p>\n<p>Greece's parliament approved a 10% capital gains tax on cryptocurrencies, the country's first dedicated crypto tax framework, with annual gains up to \u20ac500 exempt.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax\" rel=\"nofollow\">Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
-          "published": "2026-11-05T19:00:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.9638,
-          "label": "BULLISH",
-          "confidence": 0.9638
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/09/Bitcoin-Kimchi-Premium-Is-Back-as-Price-Spikes-Higher-in-South-Korea.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029\" rel=\"nofollow\">South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward</a></p>\n<p>South Korea's government will ask lawmakers to delay its 22% crypto gains tax to 2029 and let investors carry losses forward for up to three years.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029\" rel=\"nofollow\">South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029",
-          "published": "2026-11-05T18:00:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.946,
-          "label": "BEARISH",
-          "confidence": 0.946
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-          "summary": "Ueno\u2019s collapse trapped millions of Paraguayan depositors and triggered a president\u2019s resignation, reviving Bitcoin\u2019s argument for self-custody.",
-          "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-          "published": "2026-11-05T22:16:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9118,
-          "label": "BEARISH",
-          "confidence": 0.9118
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.064,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Labs\u2019 Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-          "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
-          "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
-          "published": "2026-11-05T17:01:03+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "TheBlock",
-          "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
-          "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
-          "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-          "published": "2026-11-05T14:19:51+00:00",
-          "coins": [
-            "USDC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 5,
-      "avg_compound": -0.0111,
-      "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Fed-OCC-Banks-Binance-Hack.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack\" rel=\"nofollow\">Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack</a></p>\n<p>Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack\" rel=\"nofollow\">Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
-          "published": "2026-11-05T15:25:00+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-          "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-          "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-          "published": "2026-11-04T20:09:58+00:00",
-          "coins": [
-            "BTC",
-            "BNB",
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance\u2019s",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-          "published": "2026-11-05T14:21:50+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
-          "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
-          "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-          "published": "2026-11-05T14:19:51+00:00",
-          "coins": [
-            "USDC",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -253,16 +231,6 @@
       "no_news": true
     },
     "DOGE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -322,6 +290,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -342,7 +320,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDT": {
+    "USDC": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -352,7 +330,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -366,14 +344,14 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-      "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
-      "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
-      "published": "2026-11-05T16:37:20+00:00",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "published": "2026-11-06T10:57:06+00:00",
       "coins": [],
-      "compound": 0.8316,
-      "label": "BULLISH",
-      "confidence": 0.8316
+      "compound": -0.8402,
+      "label": "BEARISH",
+      "confidence": 0.8402
     },
     {
       "source": "Decrypt",
@@ -388,28 +366,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-      "summary": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\"",
-      "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
-      "published": "2026-11-05T13:37:25+00:00",
-      "coins": [],
-      "compound": -0.8265,
-      "label": "BEARISH",
-      "confidence": 0.8265
-    },
-    {
-      "source": "TheBlock",
-      "title": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
-      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-      "published": "2026-11-05T16:53:56+00:00",
-      "coins": [],
-      "compound": 0.8225,
-      "label": "BULLISH",
-      "confidence": 0.8225
-    },
-    {
-      "source": "Decrypt",
       "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
       "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters\u2014while pushing AI developers to tighten internal controls so their systems \u201cbehave as intended.\u201d",
       "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
@@ -420,37 +376,26 @@
       "confidence": 0.8176
     },
     {
-      "source": "TheBlock",
-      "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
-      "summary": "The lawsuit adds Arkansas to a growing list of states taking legal action against the prediction market platform.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407",
-      "published": "2026-11-05T08:26:48+00:00",
+      "source": "CoinDesk",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "published": "2026-11-06T14:33:49+00:00",
       "coins": [],
-      "compound": -0.7783,
+      "compound": -0.6486,
       "label": "BEARISH",
-      "confidence": 0.7783
+      "confidence": 0.6486
     },
     {
-      "source": "TheBlock",
-      "title": "The Digital Chamber calls Sherrod Brown\u2019s win \u2018most consequential unfavorable result\u2019 for crypto",
-      "summary": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371",
-      "published": "2026-11-05T04:28:54+00:00",
+      "source": "CoinDesk",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "published": "2026-11-06T08:47:42+00:00",
       "coins": [],
-      "compound": 0.7506,
+      "compound": 0.6249,
       "label": "BULLISH",
-      "confidence": 0.7506
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-      "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?",
-      "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
-      "published": "2026-11-05T13:14:05+00:00",
-      "coins": [],
-      "compound": 0.6597,
-      "label": "BULLISH",
-      "confidence": 0.6597
+      "confidence": 0.6249
     },
     {
       "source": "Decrypt",
@@ -465,36 +410,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-      "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
-      "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-      "published": "2026-11-05T17:31:10+00:00",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "published": "2026-11-06T17:42:31+00:00",
       "coins": [],
-      "compound": -0.6124,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.6124
-    },
-    {
-      "source": "TheBlock",
-      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
-      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
-      "published": "2026-11-05T19:00:00+00:00",
-      "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
+      "confidence": 0.5719
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
       "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-      "published": "2026-11-05T16:13:32+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "published": "2026-11-06T08:04:52+00:00",
       "coins": [],
-      "compound": 0.5719,
+      "compound": 0.5267,
       "label": "BULLISH",
-      "confidence": 0.5719
+      "confidence": 0.5267
+    },
+    {
+      "source": "TheBlock",
+      "title": "Zcash\u2019s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+      "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
+      "url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+      "published": "2026-11-06T07:36:42+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
     },
     {
       "source": "TheBlock",
@@ -508,22 +453,11 @@
       "confidence": 0.5209
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Found 948 Linux Security Flaws\u2014And Figured Out How to Exploit Them",
-      "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
-      "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-      "published": "2026-11-05T19:16:03+00:00",
-      "coins": [],
-      "compound": -0.4019,
-      "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "TheBlock",
-      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
-      "published": "2026-11-04T21:54:49+00:00",
+      "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+      "published": "2026-11-06T11:43:44+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
@@ -531,14 +465,58 @@
     },
     {
       "source": "Decrypt",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
-      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
-      "published": "2026-11-05T19:46:03+00:00",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched.",
+      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "published": "2026-11-06T16:41:29+00:00",
       "coins": [],
-      "compound": 0.34,
-      "label": "BULLISH",
+      "compound": -0.34,
+      "label": "BEARISH",
       "confidence": 0.34
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "summary": "",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "published": "2026-11-06T12:30:00+00:00",
+      "coins": [],
+      "compound": -0.3089,
+      "label": "BEARISH",
+      "confidence": 0.3089
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+      "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
+      "url": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
+      "published": "2026-11-06T08:34:02+00:00",
+      "coins": [],
+      "compound": 0.25,
+      "label": "BULLISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+      "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+      "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+      "published": "2026-11-06T16:28:58+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "TheBlock",
+      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+      "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+      "published": "2026-11-06T18:58:58+00:00",
+      "coins": [],
+      "compound": -0.2158,
+      "label": "BEARISH",
+      "confidence": 0.2158
     },
     {
       "source": "CoinDesk",
@@ -553,14 +531,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
-      "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
-      "url": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
-      "published": "2026-11-05T04:01:16+00:00",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "published": "2026-11-06T18:29:36+00:00",
       "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
     },
     {
       "source": "CoinDesk",
@@ -574,15 +552,15 @@
       "confidence": 0.1531
     },
     {
-      "source": "Decrypt",
-      "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
-      "summary": "A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
-      "url": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
-      "published": "2026-11-05T18:05:21+00:00",
+      "source": "CoinDesk",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "published": "2026-11-06T17:42:28+00:00",
       "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
     },
     {
       "source": "CoinDesk",
@@ -596,11 +574,11 @@
       "confidence": 0.0772
     },
     {
-      "source": "CoinDesk",
-      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-      "published": "2026-11-05T16:49:08+00:00",
+      "source": "Decrypt",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+      "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
+      "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+      "published": "2026-11-06T10:13:27+00:00",
       "coins": [],
       "compound": 0.0516,
       "label": "BULLISH",
@@ -608,10 +586,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-      "published": "2026-11-05T14:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "published": "2026-11-06T15:26:38+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -619,10 +597,54 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Ukraine\u2019s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-      "published": "2026-11-05T12:50:57+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "published": "2026-11-06T13:31:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+      "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
+      "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+      "published": "2026-11-06T13:53:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Aave Labs buys Avon team in fixed-rate lending push",
+      "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
+      "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+      "published": "2026-11-06T15:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+      "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+      "published": "2026-11-06T13:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+      "published": "2026-11-06T12:33:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -634,17 +656,6 @@
       "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
       "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
       "published": "2026-11-05T22:09:14+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
-      "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens.",
-      "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
-      "published": "2026-11-05T15:36:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
