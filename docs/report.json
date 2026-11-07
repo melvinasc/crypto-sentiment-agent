@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:49:32.130668+00:00",
+  "generated_at": "2026-11-07T21:41:51.434321+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -55,12 +55,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.8181,
+      "article_count": 4,
+      "avg_compound": -0.6136,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 3,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -135,11 +135,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.3201,
+      "article_count": 21,
+      "avg_compound": -0.3121,
       "overall": "BEARISH",
       "bullish": 4,
-      "bearish": 15,
+      "bearish": 14,
       "neutral": 3,
       "top_articles": [
         {
@@ -330,14 +330,14 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
-      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-      "published": "2026-11-06T10:57:06+00:00",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "summary": "Apple and Meta\u2019s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
+      "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "published": "2026-11-07T17:01:03+00:00",
       "coins": [],
-      "compound": -0.8402,
-      "label": "BEARISH",
-      "confidence": 0.8402
+      "compound": 0.7269,
+      "label": "BULLISH",
+      "confidence": 0.7269
     },
     {
       "source": "Decrypt",
@@ -373,15 +373,15 @@
       "confidence": 0.6249
     },
     {
-      "source": "Decrypt",
-      "title": "Claude Gets Personal Finance\u2014Anthony Pompliano Accuses Anthropic of Copying His Startup",
-      "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
-      "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-      "published": "2026-11-05T23:06:02+00:00",
+      "source": "TheBlock",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "published": "2026-11-07T20:59:47+00:00",
       "coins": [],
-      "compound": -0.6249,
+      "compound": -0.6124,
       "label": "BEARISH",
-      "confidence": 0.6249
+      "confidence": 0.6124
     },
     {
       "source": "Decrypt",
@@ -428,17 +428,6 @@
       "confidence": 0.5267
     },
     {
-      "source": "TheBlock",
-      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
-      "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
-      "published": "2026-11-06T03:56:28+00:00",
-      "coins": [],
-      "compound": 0.5209,
-      "label": "BULLISH",
-      "confidence": 0.5209
-    },
-    {
       "source": "CoinDesk",
       "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
       "summary": "",
@@ -448,6 +437,17 @@
       "compound": -0.4019,
       "label": "BEARISH",
       "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Chip Stocks Bounce After Global Rout\u2014But Is the Bubble Starting to Burst?",
+      "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse.",
+      "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "published": "2026-11-07T16:01:02+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
     },
     {
       "source": "TheBlock",
@@ -494,6 +494,17 @@
       "confidence": 0.25
     },
     {
+      "source": "CoinDesk",
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "published": "2026-11-07T16:51:00+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
+    },
+    {
       "source": "Decrypt",
       "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
       "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Pe\u00f1a.",
@@ -527,17 +538,6 @@
       "confidence": 0.2158
     },
     {
-      "source": "CoinDesk",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-      "published": "2026-11-06T02:24:23+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "TheBlock",
       "title": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
       "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
@@ -558,17 +558,6 @@
       "compound": 0.1779,
       "label": "BULLISH",
       "confidence": 0.1779
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-      "published": "2026-11-05T18:59:45+00:00",
-      "coins": [],
-      "compound": 0.1531,
-      "label": "BULLISH",
-      "confidence": 0.1531
     },
     {
       "source": "CoinDesk",
@@ -594,6 +583,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "published": "2026-11-07T17:36:46+00:00",
+      "coins": [],
+      "compound": -0.0772,
+      "label": "BEARISH",
+      "confidence": 0.0772
+    },
+    {
+      "source": "CoinDesk",
       "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
       "summary": "",
       "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
@@ -602,17 +602,6 @@
       "compound": 0.0772,
       "label": "BULLISH",
       "confidence": 0.0772
-    },
-    {
-      "source": "Decrypt",
-      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-      "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
-      "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-      "published": "2026-11-06T10:13:27+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
     },
     {
       "source": "TheBlock",
@@ -642,6 +631,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
       "published": "2026-11-06T13:31:54+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+      "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony\u2019s rules.",
+      "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+      "published": "2026-11-07T14:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
