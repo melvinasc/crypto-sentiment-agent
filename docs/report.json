@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:10:45.169097+00:00",
+  "generated_at": "2026-11-08T21:55:41.952938+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -24,32 +24,6 @@
           "compound": -0.93,
           "label": "BEARISH",
           "confidence": 0.93
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 1,
-      "avg_compound": -0.8294,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-          "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-          "published": "2026-11-06T14:04:18+00:00",
-          "coins": [
-            "BNB",
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.8294,
-          "label": "BEARISH",
-          "confidence": 0.8294
         }
       ],
       "no_news": false
@@ -136,10 +110,10 @@
     },
     "BTC": {
       "article_count": 22,
-      "avg_compound": -0.2747,
+      "avg_compound": -0.3248,
       "overall": "BEARISH",
-      "bullish": 5,
-      "bearish": 14,
+      "bullish": 4,
+      "bearish": 15,
       "neutral": 3,
       "top_articles": [
         {
@@ -182,6 +156,45 @@
           "compound": -0.93,
           "label": "BEARISH",
           "confidence": 0.93
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.0011,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+          "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+          "published": "2026-11-08T15:52:17+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.8316,
+          "label": "BULLISH",
+          "confidence": 0.8316
+        },
+        {
+          "source": "Decrypt",
+          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+          "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "published": "2026-11-06T14:04:18+00:00",
+          "coins": [
+            "BNB",
+            "ETH",
+            "BTC"
+          ],
+          "compound": -0.8294,
+          "label": "BEARISH",
+          "confidence": 0.8294
         }
       ],
       "no_news": false
@@ -362,17 +375,6 @@
       "confidence": 0.6486
     },
     {
-      "source": "CoinDesk",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-      "published": "2026-11-06T08:47:42+00:00",
-      "coins": [],
-      "compound": 0.6249,
-      "label": "BULLISH",
-      "confidence": 0.6249
-    },
-    {
       "source": "TheBlock",
       "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
       "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
@@ -406,15 +408,15 @@
       "confidence": 0.5719
     },
     {
-      "source": "CoinDesk",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-      "published": "2026-11-06T08:04:52+00:00",
+      "source": "TheBlock",
+      "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+      "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+      "url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+      "published": "2026-11-08T18:32:11+00:00",
       "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
+      "compound": -0.4497,
+      "label": "BEARISH",
+      "confidence": 0.4497
     },
     {
       "source": "CoinDesk",
@@ -439,17 +441,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "TheBlock",
-      "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-      "published": "2026-11-06T11:43:44+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "Decrypt",
       "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
       "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched.",
@@ -470,17 +461,6 @@
       "compound": -0.3089,
       "label": "BEARISH",
       "confidence": 0.3089
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
-      "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
-      "url": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
-      "published": "2026-11-06T08:34:02+00:00",
-      "coins": [],
-      "compound": 0.25,
-      "label": "BULLISH",
-      "confidence": 0.25
     },
     {
       "source": "CoinDesk",
@@ -525,6 +505,17 @@
       "compound": -0.2158,
       "label": "BEARISH",
       "confidence": 0.2158
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "published": "2026-11-08T19:16:42+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "TheBlock",
@@ -591,6 +582,17 @@
       "compound": 0.0516,
       "label": "BULLISH",
       "confidence": 0.0516
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "published": "2026-11-08T19:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
