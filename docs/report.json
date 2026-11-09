@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:55:41.952938+00:00",
+  "generated_at": "2026-11-09T05:55:18.054959+00:00",
   "total_articles": 55,
   "coins": {
     "XRP": {
@@ -29,11 +29,11 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 5,
-      "avg_compound": -0.4909,
+      "article_count": 6,
+      "avg_compound": -0.4825,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
+      "bearish": 4,
       "neutral": 2,
       "top_articles": [
         {
@@ -109,12 +109,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.3248,
+      "article_count": 20,
+      "avg_compound": -0.4068,
       "overall": "BEARISH",
       "bullish": 4,
-      "bearish": 15,
-      "neutral": 3,
+      "bearish": 16,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -161,11 +161,11 @@
       "no_news": false
     },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.0011,
-      "overall": "NEUTRAL",
+      "article_count": 3,
+      "avg_compound": -0.0979,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
@@ -195,6 +195,19 @@
           "compound": -0.8294,
           "label": "BEARISH",
           "confidence": 0.8294
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+          "published": "2026-11-09T05:16:54+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.296,
+          "label": "BEARISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -540,6 +553,17 @@
       "confidence": 0.1779
     },
     {
+      "source": "TheBlock",
+      "title": "Onchain data casts doubt on insider-trading theory in NYT\u2019s \u2018suspicious\u2019 election betting story",
+      "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
+      "url": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+      "published": "2026-11-08T23:07:02+00:00",
+      "coins": [],
+      "compound": -0.1583,
+      "label": "BEARISH",
+      "confidence": 0.1583
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
       "summary": "",
@@ -548,6 +572,17 @@
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "TheBlock",
+      "title": "What is Zcash (ZEC)? How shielded transactions work",
+      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter \u2014 called \u201cshielded transactions\u201d on the network \u2014 make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has emerged as one of the [\u2026]",
+      "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+      "published": "2026-11-09T02:36:01+00:00",
+      "coins": [],
+      "compound": 0.128,
+      "label": "BULLISH",
       "confidence": 0.128
     },
     {
@@ -571,6 +606,17 @@
       "compound": -0.0772,
       "label": "BEARISH",
       "confidence": 0.0772
+    },
+    {
+      "source": "TheBlock",
+      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang\u2019s Chinese spy scandal",
+      "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
+      "url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+      "published": "2026-11-09T03:36:16+00:00",
+      "coins": [],
+      "compound": 0.0516,
+      "label": "BULLISH",
+      "confidence": 0.0516
     },
     {
       "source": "TheBlock",
@@ -644,28 +690,6 @@
       "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
       "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
       "published": "2026-11-06T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-      "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
-      "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
-      "published": "2026-11-06T13:00:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
-      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
-      "published": "2026-11-06T12:33:31+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
