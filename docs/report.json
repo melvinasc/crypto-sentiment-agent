@@ -1,66 +1,28 @@
 {
-  "generated_at": "2026-11-10T14:43:33.690165+00:00",
+  "generated_at": "2026-11-10T23:07:08.061072+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 5,
-      "avg_compound": -0.5474,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 4,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-          "summary": "Elliptic says the hackers are minting their own worthless tokens\u2014complete with cartoon animal and Elon Musk logos\u2014and routing stolen funds through liquidity pools to break the trail.",
-          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-          "published": "2026-11-09T19:36:02+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.8519,
-          "label": "BEARISH",
-          "confidence": 0.8519
-        },
-        {
-          "source": "Decrypt",
-          "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
-          "summary": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.",
-          "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
-          "published": "2026-11-10T12:13:27+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.7506,
-          "label": "BEARISH",
-          "confidence": 0.7506
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/North-Korea-Is-Minting-Its-Own-Meme-Coins-to-Launder-Binance-Hack-Loot.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack\" rel=\"nofollow\">North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot</a></p>\n<p>Elliptic says North Korean launderers created six throwaway meme tokens on NEAR between Nov. 5 and 7, moving about $430,000 of stolen Binance funds through homemade liquidity pools.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack\" rel=\"nofollow\">North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
-          "published": "2026-11-09T17:26:28+00:00",
-          "coins": [
-            "BNB",
-            "BTC"
-          ],
-          "compound": -0.6249,
-          "label": "BEARISH",
-          "confidence": 0.6249
-        }
-      ],
-      "no_news": false
-    },
     "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.3818,
+      "article_count": 2,
+      "avg_compound": 0.5093,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Moody\u2019s and Chainlink test cross-chain credit ratings distribution",
+          "summary": "Moody's Ratings and Chainlink ran a testnet pilot using CCIP to distribute credit ratings data across permissioned and public blockchains.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+          "published": "2026-11-10T15:49:59+00:00",
+          "coins": [
+            "LINK"
+          ],
+          "compound": 0.6369,
+          "label": "BULLISH",
+          "confidence": 0.6369
+        },
         {
           "source": "Decrypt",
           "title": "Moody\u2019s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
@@ -77,27 +39,214 @@
       ],
       "no_news": false
     },
-    "ETH": {
+    "BNB": {
       "article_count": 3,
-      "avg_compound": -0.243,
+      "avg_compound": -0.461,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation, Vitalik Buterin sued over firing after \u2018suicide pledge\u2019 dispute",
-          "summary": "Fulton\u2019s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
-          "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
-          "published": "2026-11-09T18:30:22+00:00",
+          "source": "Decrypt",
+          "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+          "summary": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.",
+          "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+          "published": "2026-11-10T12:13:27+00:00",
           "coins": [
-            "ETH"
+            "BNB"
           ],
-          "compound": -0.743,
+          "compound": -0.7506,
           "label": "BEARISH",
-          "confidence": 0.743
+          "confidence": 0.7506
         },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple\u2019s Latest iPhone Patch Stays Silent",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Anchorage-Digital-and-Binance-Launch-Off-Exchange-Settlement-for-Institutional-Crypto-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases\" rel=\"nofollow\">Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple&#8217;s Latest iPhone Patch Stays Silent</a></p>\n<p>Binance told iPhone users a public iOS sandbox escape called worse_query could let malicious apps read seed phrases and private keys stored by other apps, while Apple's Nov. 9 updates do not mention the bug.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases\" rel=\"nofollow\">Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple&#8217;s Latest iPhone Patch Stays Silent</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
+          "published": "2026-11-10T17:00:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+          "summary": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
+          "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+          "published": "2026-11-10T12:45:34+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 1,
+      "avg_compound": 0.4404,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
+          "summary": "The funding, backing a U.S.-incorporated issuer codenamed \u201cProject Faro,\u201d covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
+          "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+          "published": "2026-11-10T18:33:37+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 3,
+      "avg_compound": 0.2384,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+          "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
+          "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
+          "published": "2026-11-10T21:51:19+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.6124,
+          "label": "BULLISH",
+          "confidence": 0.6124
+        },
+        {
+          "source": "Decrypt",
+          "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+          "summary": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
+          "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+          "published": "2026-11-10T15:01:02+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        },
+        {
+          "source": "Decrypt",
+          "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+          "summary": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
+          "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+          "published": "2026-11-10T14:32:48+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.2263,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+          "published": "2026-11-10T12:38:20+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.2263,
+          "label": "BULLISH",
+          "confidence": 0.2263
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 22,
+      "avg_compound": -0.1101,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 12,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+          "summary": "Truth Social\u2019s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+          "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+          "published": "2026-11-10T21:36:03+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        },
+        {
+          "source": "TheBlock",
+          "title": "Canaan\u2019s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+          "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
+          "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+          "published": "2026-11-10T16:02:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.765,
+          "label": "BULLISH",
+          "confidence": 0.765
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple\u2019s Latest iPhone Patch Stays Silent",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Anchorage-Digital-and-Binance-Launch-Off-Exchange-Settlement-for-Institutional-Crypto-Trading.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases\" rel=\"nofollow\">Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple&#8217;s Latest iPhone Patch Stays Silent</a></p>\n<p>Binance told iPhone users a public iOS sandbox escape called worse_query could let malicious apps read seed phrases and private keys stored by other apps, while Apple's Nov. 9 updates do not mention the bug.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases\" rel=\"nofollow\">Binance Warns iOS Flaw Could Expose Wallet Seed Phrases as Apple&#8217;s Latest iPhone Patch Stays Silent</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases",
+          "published": "2026-11-10T17:00:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.7351,
+          "label": "BEARISH",
+          "confidence": 0.7351
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.007,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "Decrypt",
           "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
@@ -123,130 +272,6 @@
           "compound": -0.5719,
           "label": "BEARISH",
           "confidence": 0.5719
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.185,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 13,
-      "neutral": 3,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/TD-Cowen-Stablecoin-Yield-Ban-10-Odds-Capitol-Vault.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds\" rel=\"nofollow\">TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress</a></p>\n<p>TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next two years, even as banks renew their push after Democratic midterm wins.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds\" rel=\"nofollow\">TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
-          "published": "2026-11-09T17:06:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.946,
-          "label": "BEARISH",
-          "confidence": 0.946
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Amundi-Strategy-Stake-v2.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44\" rel=\"nofollow\">Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide</a></p>\n<p>Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44\" rel=\"nofollow\">Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
-          "published": "2026-11-09T20:39:56+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8689,
-          "label": "BULLISH",
-          "confidence": 0.8689
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/U.S.-Regulators-Drop-250-Travel-Rule-Plan-Crypto-Language-Too.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250\" rel=\"nofollow\">U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too</a></p>\n<p>FinCEN and the Federal Reserve formally withdrew a 2020 proposal that would have cut the cross-border funds-transfer threshold from $3,000 to $250 and spelled out that the rules cover crypto, saying any future version needs a fresh comment period.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250\" rel=\"nofollow\">U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250",
-          "published": "2026-11-09T15:00:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.7906,
-          "label": "BEARISH",
-          "confidence": 0.7906
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": 0.148,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-          "summary": "Operating under the SEC\u2019s \u201cInnovation Exemption,\u201d the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
-          "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-          "published": "2026-11-09T17:46:02+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "Decrypt",
-          "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-          "summary": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
-          "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-          "published": "2026-11-10T14:32:48+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.0348,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-          "published": "2026-11-10T04:51:20+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.296,
-          "label": "BEARISH",
-          "confidence": 0.296
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
-          "published": "2026-11-10T12:38:20+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2263,
-          "label": "BULLISH",
-          "confidence": 0.2263
         }
       ],
       "no_news": false
@@ -370,84 +395,30 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
-      "summary": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.",
-      "url": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
-      "published": "2026-11-09T22:36:02+00:00",
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+      "summary": "Elon Musk says the incoming Grok 4.8 will trail Anthropic\u2019s Claude Opus 5.5, praising his rival\u2019s model while predicting Grok 5 could surpass it in two or three months.",
+      "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+      "published": "2026-11-10T19:46:02+00:00",
       "coins": [],
-      "compound": 0.8381,
+      "compound": 0.8689,
       "label": "BULLISH",
-      "confidence": 0.8381
-    },
-    {
-      "source": "TheBlock",
-      "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
-      "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.",
-      "url": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
-      "published": "2026-11-10T02:13:07+00:00",
-      "coins": [],
-      "compound": 0.7184,
-      "label": "BULLISH",
-      "confidence": 0.7184
+      "confidence": 0.8689
     },
     {
       "source": "Decrypt",
-      "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
-      "summary": "Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?",
-      "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
-      "published": "2026-11-09T18:31:03+00:00",
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
+      "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+      "published": "2026-11-10T20:16:03+00:00",
       "coins": [],
-      "compound": -0.5661,
+      "compound": -0.7351,
       "label": "BEARISH",
-      "confidence": 0.5661
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
-      "summary": "A shortage of new gas turbines is pushing AI developers toward refurbished power equipment and jet-engine-based generators, even as high prices, pollution concerns, and permitting delays threaten their expansion plans.",
-      "url": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
-      "published": "2026-11-09T21:16:03+00:00",
-      "coins": [],
-      "compound": -0.5574,
-      "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "TheBlock",
-      "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
-      "summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.",
-      "url": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
-      "published": "2026-11-10T08:20:53+00:00",
-      "coins": [],
-      "compound": 0.4939,
-      "label": "BULLISH",
-      "confidence": 0.4939
-    },
-    {
-      "source": "TheBlock",
-      "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
-      "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
-      "url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
-      "published": "2026-11-10T03:36:43+00:00",
-      "coins": [],
-      "compound": 0.4588,
-      "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.7351
     },
     {
       "source": "CoinDesk",
@@ -455,6 +426,17 @@
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
       "published": "2026-11-10T13:32:09+00:00",
+      "coins": [],
+      "compound": 0.3818,
+      "label": "BULLISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "summary": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.",
+      "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "published": "2026-11-10T20:45:50+00:00",
       "coins": [],
       "compound": 0.3818,
       "label": "BULLISH",
@@ -483,15 +465,48 @@
       "confidence": 0.34
     },
     {
-      "source": "Decrypt",
-      "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
-      "summary": "Google\u2019s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.",
-      "url": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
-      "published": "2026-11-09T20:16:02+00:00",
+      "source": "TheBlock",
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "summary": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet.",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+      "published": "2026-11-10T17:24:44+00:00",
       "coins": [],
-      "compound": 0.3182,
-      "label": "BULLISH",
+      "compound": -0.3182,
+      "label": "BEARISH",
       "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "published": "2026-11-10T17:32:22+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "MEGA commits $30 million to new products, starting with AI inference",
+      "summary": "The MegaETH Foundation has rebranded as MEGA and committed $30 million to new products, starting with AI inference.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+      "published": "2026-11-10T15:56:02+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "published": "2026-11-10T17:07:22+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
     },
     {
       "source": "CoinDesk",
@@ -516,44 +531,22 @@
       "confidence": 0.25
     },
     {
-      "source": "TheBlock",
-      "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
-      "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
-      "published": "2026-11-10T06:19:10+00:00",
+      "source": "CoinDesk",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "published": "2026-11-10T15:51:56+00:00",
       "coins": [],
-      "compound": -0.25,
-      "label": "BEARISH",
-      "confidence": 0.25
+      "compound": 0.1779,
+      "label": "BULLISH",
+      "confidence": 0.1779
     },
     {
       "source": "Decrypt",
-      "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
-      "summary": "A proposed class action claims the chipmaker misled investors about the CEO's alleged affair and the national security risks it posed.",
-      "url": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
-      "published": "2026-11-10T11:26:56+00:00",
-      "coins": [],
-      "compound": -0.1531,
-      "label": "BEARISH",
-      "confidence": 0.1531
-    },
-    {
-      "source": "Decrypt",
-      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
-      "summary": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee.",
-      "url": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
-      "published": "2026-11-10T10:41:06+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "TheBlock",
-      "title": "Walt launches standalone crypto trading app following Wallet in Telegram rebrand",
-      "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
-      "published": "2026-11-10T09:30:00+00:00",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
+      "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "published": "2026-11-10T19:16:02+00:00",
       "coins": [],
       "compound": 0.128,
       "label": "BULLISH",
@@ -561,25 +554,36 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
-      "published": "2026-11-09T22:56:27+00:00",
+      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "published": "2026-11-10T20:36:33+00:00",
       "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
-      "title": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
-      "published": "2026-11-09T19:36:15+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "published": "2026-11-10T20:15:08+00:00",
       "coins": [],
-      "compound": -0.0516,
-      "label": "BEARISH",
-      "confidence": 0.0516
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "summary": "",
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "published": "2026-11-10T14:00:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -587,6 +591,28 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
       "published": "2026-11-10T09:59:17+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "summary": "Grayscale\u2019s Zcash push comes as its ETF faces continued withdrawals, extending October\u2019s net outflows.",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
+      "published": "2026-11-10T17:52:14+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "summary": "Alta\u2019s blockchain will combine privacy and compliance controls for banks and other financial firms.",
+      "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+      "published": "2026-11-10T16:19:16+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -609,17 +635,6 @@
       "summary": "eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings.",
       "url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
       "published": "2026-11-10T13:44:35+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
-      "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
-      "published": "2026-11-09T20:04:49+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
