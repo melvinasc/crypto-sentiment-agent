@@ -1,103 +1,188 @@
 {
-  "generated_at": "2026-11-12T14:59:32.588649+00:00",
+  "generated_at": "2026-11-12T23:27:28.545326+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
       "article_count": 1,
-      "avg_compound": -0.836,
+      "avg_compound": -0.7579,
       "overall": "BEARISH",
       "bullish": 0,
       "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-          "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
-          "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
-          "published": "2026-11-12T11:00:00+00:00",
+          "source": "Decrypt",
+          "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force\u2014Replacing One That Just Collapsed",
+          "summary": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move\u2014just weeks after the trio\u2019s near-identical T3 unit, built with rival firm TRM Labs, quietly collapsed.",
+          "url": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+          "published": "2026-11-12T16:36:02+00:00",
           "coins": [
             "TRX",
             "USDT"
           ],
-          "compound": -0.836,
+          "compound": -0.7579,
           "label": "BEARISH",
-          "confidence": 0.836
+          "confidence": 0.7579
+        }
+      ],
+      "no_news": false
+    },
+    "AVAX": {
+      "article_count": 1,
+      "avg_compound": 0.3818,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+          "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. equity to trade under the SEC\u2019s Innovation Exemption. Five [\u2026]",
+          "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+          "published": "2026-11-12T20:02:00+00:00",
+          "coins": [
+            "AVAX"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 21,
-      "avg_compound": -0.2826,
+      "article_count": 15,
+      "avg_compound": -0.3765,
       "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 14,
-      "neutral": 3,
+      "bullish": 2,
+      "bearish": 11,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
-          "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Rumble-RUM-Sells-Two-Thirds-of-Its-Bitcoin-as-AI-Cloud-Business-Delivers-First-Profitable-Quarter.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin\" rel=\"nofollow\">Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter</a></p>\n<p>RUM Group held 94.68 bitcoin worth $7.9 million on Sept. 30, down from 293.14 at the end of June, as its Quake AI unit drove record revenue of $96.6 million.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin\" rel=\"nofollow\">Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
-          "published": "2026-11-12T14:53:00+00:00",
+          "title": "Peter Schiff on the Bitcoin Crash: \u201cGet the Hell Out\u201d",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=8HRAH-P7I4g\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/8HRAH-P7I4g/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/peter-schiff-on-the-bitcoin-crash-get-the-hell-out-8HRAH-P7I4g.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out\" rel=\"nofollow\">Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221;</a></p>\n<p>Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out\" rel=\"nofollow\">Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221;</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+          "published": "2026-11-12T20:15:28+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": 0.7717,
-          "label": "BULLISH",
-          "confidence": 0.7717
-        },
-        {
-          "source": "Decrypt",
-          "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-          "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
-          "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-          "published": "2026-11-11T21:46:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.6597,
+          "compound": -0.9799,
           "label": "BEARISH",
-          "confidence": 0.6597
+          "confidence": 0.9799
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/MSCI-Strategy-Index-Decision.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted\" rel=\"nofollow\">MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted</a></p>\n<p>MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen. Its potential list, built on Sept. 30 filings, already marks Strategy, Metaplanet and three others as Deleted.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted\" rel=\"nofollow\">MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
-          "published": "2026-11-11T17:05:00+00:00",
+          "title": "Geopolitical Strategist: Bitcoin Is the \u201cThird Way\u201d Between the Dollar and Yuan",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=YSF_wkyArYY\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/YSF_wkyArYY/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan-YSF_wkyArYY.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan\" rel=\"nofollow\">Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan</a></p>\n<p>Velina Tchakarova, geopolitical strategist and founder of FACE (For A Conscious Experience), argues that we're in a new Cold War and that the US and China are building two rival financial architectures.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan\" rel=\"nofollow\">Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
+          "published": "2026-11-12T15:30:05+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.6597,
+          "compound": -0.8934,
           "label": "BEARISH",
-          "confidence": 0.6597
+          "confidence": 0.8934
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "DOJ\u2019s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJs-Operation-TorNado-Arrests-354-and-Seizes-234-Million-in-Cash-and-Crypto-1.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million\" rel=\"nofollow\">DOJ&#8217;s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto</a></p>\n<p>The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209 firearms, without saying how much of the money was cryptocurrency.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million\" rel=\"nofollow\">DOJ&#8217;s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+          "published": "2026-11-12T22:35:22+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.802,
+          "label": "BEARISH",
+          "confidence": 0.802
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 4,
+      "avg_compound": -0.2282,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 3,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+          "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor &amp; took down the FaceStealer deepfake scam.",
+          "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+          "published": "2026-11-12T22:40:22+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.5859,
+          "label": "BEARISH",
+          "confidence": 0.5859
+        },
+        {
+          "source": "CoinDesk",
+          "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+          "published": "2026-11-12T22:55:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4939,
+          "label": "BEARISH",
+          "confidence": 0.4939
+        },
+        {
+          "source": "Decrypt",
+          "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+          "summary": "The FBI says the \u201cFaceStealer\u201d scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls\u2014as the DOJ also moves to seize $1.2 billion from the Binance hack.",
+          "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+          "published": "2026-11-12T22:06:03+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4404,
+          "label": "BULLISH",
+          "confidence": 0.4404
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": 0.1531,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Securitize and Ethena\u2019s $100 million BlackRock BUIDL liquidity facility goes live",
+          "summary": "Securitize &amp; Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+          "published": "2026-11-12T14:00:00+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": 0.1531,
+          "label": "BULLISH",
+          "confidence": 0.1531
         }
       ],
       "no_news": false
     },
     "SOL": {
-      "article_count": 7,
-      "avg_compound": 0.2129,
+      "article_count": 6,
+      "avg_compound": 0.1084,
       "overall": "BULLISH",
-      "bullish": 4,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 3,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "\u2018Milestone quarter\u2019: Solana Company reports Q3 revenue growth driven by staking rewards",
-          "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-          "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-          "published": "2026-11-12T02:25:14+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.8402,
-          "label": "BULLISH",
-          "confidence": 0.8402
-        },
         {
           "source": "TheBlock",
           "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
@@ -123,157 +208,6 @@
           "compound": 0.2263,
           "label": "BULLISH",
           "confidence": 0.2263
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": -0.1591,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-          "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
-          "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-          "published": "2026-11-11T21:16:03+00:00",
-          "coins": [
-            "BTC",
-            "BNB"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "Decrypt",
-          "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
-          "summary": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity.",
-          "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
-          "published": "2026-11-12T12:03:10+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 2,
-      "avg_compound": -0.1468,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
-          "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
-          "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
-          "published": "2026-11-12T11:00:00+00:00",
-          "coins": [
-            "TRX",
-            "USDT"
-          ],
-          "compound": -0.836,
-          "label": "BEARISH",
-          "confidence": 0.836
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-          "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence.",
-          "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-          "published": "2026-11-11T19:36:02+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.5423,
-          "label": "BULLISH",
-          "confidence": 0.5423
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 2,
-      "avg_compound": 0.1279,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize and Ethena\u2019s $100 million BlackRock BUIDL liquidity facility goes live",
-          "summary": "Securitize &amp; Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-          "published": "2026-11-12T14:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        },
-        {
-          "source": "TheBlock",
-          "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
-          "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
-          "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
-          "published": "2026-11-12T12:35:02+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1027,
-          "label": "BULLISH",
-          "confidence": 0.1027
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 7,
-      "avg_compound": -0.1068,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 2,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-          "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-          "published": "2026-11-12T04:55:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.5574,
-          "label": "BEARISH",
-          "confidence": 0.5574
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-          "published": "2026-11-12T11:43:41+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
         },
         {
           "source": "TheBlock",
@@ -334,26 +268,128 @@
       ],
       "no_news": false
     },
-    "DOGE": {
+    "UNI": {
       "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
+      "avg_compound": 0.0516,
+      "overall": "BULLISH",
+      "bullish": 1,
       "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+          "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state\u2019s 0.2% levy on digital asset transactions.",
+          "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+          "published": "2026-11-12T17:46:02+00:00",
+          "coins": [
+            "UNI"
+          ],
+          "compound": 0.0516,
+          "label": "BULLISH",
+          "confidence": 0.0516
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": 0.0218,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force\u2014Replacing One That Just Collapsed",
+          "summary": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move\u2014just weeks after the trio\u2019s near-identical T3 unit, built with rival firm TRM Labs, quietly collapsed.",
+          "url": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+          "published": "2026-11-12T16:36:02+00:00",
+          "coins": [
+            "TRX",
+            "USDT"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+          "summary": "KPMG counted every gold bar behind XAUT, making it Tether's second stablecoin to complete a full audit by a Big Four accounting firm.",
+          "url": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+          "published": "2026-11-12T15:55:38+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.4215,
+          "label": "BULLISH",
+          "confidence": 0.4215
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tether Gold issuer follows USDT to complete Big Four audit",
+          "summary": "KPMG U.S. gave Tether Gold issuer TG Commodities an unqualified, or \"clean,\" opinion on its 2025 financial accounts.",
+          "url": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+          "published": "2026-11-12T15:23:26+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 5,
+      "avg_compound": -0.0208,
+      "overall": "NEUTRAL",
+      "bullish": 2,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "DogeOS \u2018very, very close\u2019 to launching DeFi features, app layer for Dogecoin: CEO",
-          "summary": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
-          "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-          "published": "2026-11-11T20:32:19+00:00",
+          "title": "Unocoin \u2018login suspension\u2019 continues as exchange flags outgoing BitGo ETH transactions",
+          "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+          "published": "2026-11-12T15:36:17+00:00",
           "coins": [
-            "DOGE"
+            "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a></p>\n<p>Eligible customers 18 and older can buy, hold and sell bitcoin and ether from Nov. 26, with Fireblocks custody and a six-month fee waiver.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
+          "published": "2026-11-12T16:45:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+          "published": "2026-11-12T11:43:41+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
@@ -368,7 +404,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "AVAX": {
+    "DAI": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -378,7 +414,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DAI": {
+    "DOGE": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -438,16 +474,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "UNI": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -461,28 +487,6 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "This New AI Music Model Is Already Better Than Suno\u2014We Put ACE to the Test",
-      "summary": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres remain a challenge.",
-      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-      "published": "2026-11-11T20:16:02+00:00",
-      "coins": [],
-      "compound": 0.9348,
-      "label": "BULLISH",
-      "confidence": 0.9348
-    },
-    {
-      "source": "TheBlock",
-      "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-      "summary": "Strategy had opposed MSCI\u2019s rules, arguing exclusion would harm its reputation as a neutral provider.",
-      "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-      "published": "2026-11-11T23:09:23+00:00",
-      "coins": [],
-      "compound": -0.886,
-      "label": "BEARISH",
-      "confidence": 0.886
-    },
-    {
       "source": "TheBlock",
       "title": "BNY taps Figment to support staking on its digital asset custody platform",
       "summary": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.",
@@ -492,6 +496,28 @@
       "compound": 0.7717,
       "label": "BULLISH",
       "confidence": 0.7717
+    },
+    {
+      "source": "Decrypt",
+      "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang\u2019s Nvidia Exit",
+      "summary": "Nvidia\u2019s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he\u2019d be honored to hire Huang.",
+      "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+      "published": "2026-11-12T17:14:42+00:00",
+      "coins": [],
+      "compound": -0.6705,
+      "label": "BEARISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "Decrypt",
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
+      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "published": "2026-11-12T22:36:02+00:00",
+      "coins": [],
+      "compound": 0.6597,
+      "label": "BULLISH",
+      "confidence": 0.6597
     },
     {
       "source": "Decrypt",
@@ -505,59 +531,26 @@
       "confidence": 0.5795
     },
     {
-      "source": "CoinDesk",
-      "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-      "published": "2026-11-12T10:10:48+00:00",
+      "source": "TheBlock",
+      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "published": "2026-11-12T21:44:30+00:00",
       "coins": [],
-      "compound": -0.5574,
+      "compound": -0.5719,
       "label": "BEARISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-      "published": "2026-11-12T05:49:44+00:00",
-      "coins": [],
-      "compound": 0.5574,
-      "label": "BULLISH",
-      "confidence": 0.5574
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia-Backed CoreWeave Is Surging: Here\u2019s What It Means for the AI Boom",
-      "summary": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of building it remains enormous.",
-      "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
-      "published": "2026-11-11T22:36:03+00:00",
-      "coins": [],
-      "compound": 0.5187,
-      "label": "BULLISH",
-      "confidence": 0.5187
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
-      "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
-      "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
-      "published": "2026-11-12T08:39:57+00:00",
+      "title": "Visa adds Western Union\u2019s USDPT stablecoin to its settlement network in Anchorage tie-up",
+      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
+      "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+      "published": "2026-11-12T16:00:00+00:00",
       "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-      "summary": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
-      "published": "2026-11-11T22:06:47+00:00",
-      "coins": [],
-      "compound": -0.34,
-      "label": "BEARISH",
-      "confidence": 0.34
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
     },
     {
       "source": "CoinDesk",
@@ -582,6 +575,28 @@
       "confidence": 0.3182
     },
     {
+      "source": "TheBlock",
+      "title": "NYDFS sets fresh advertising standards for crypto firms",
+      "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
+      "published": "2026-11-12T18:03:57+00:00",
+      "coins": [],
+      "compound": 0.3182,
+      "label": "BULLISH",
+      "confidence": 0.3182
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "published": "2026-11-12T13:57:53+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
       "source": "CoinDesk",
       "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
       "summary": "",
@@ -591,6 +606,50 @@
       "compound": -0.296,
       "label": "BEARISH",
       "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+      "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+      "published": "2026-11-12T22:18:10+00:00",
+      "coins": [],
+      "compound": 0.296,
+      "label": "BULLISH",
+      "confidence": 0.296
+    },
+    {
+      "source": "TheBlock",
+      "title": "Exodus\u2019 \u2018cost reset is real\u2019 as payments offset crypto wallet slowdown, StoneX says",
+      "summary": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
+      "published": "2026-11-12T16:55:52+00:00",
+      "coins": [],
+      "compound": -0.2732,
+      "label": "BEARISH",
+      "confidence": 0.2732
+    },
+    {
+      "source": "Decrypt",
+      "title": "Who Is Colette Kress, Jensen Huang\u2019s Successor as Nvidia CEO?",
+      "summary": "Nvidia\u2019s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test.",
+      "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "published": "2026-11-12T18:55:03+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang\u2019s Ousting",
+      "summary": "Nvidia shares tumbled after Jensen Huang\u2019s exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up.",
+      "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "published": "2026-11-12T18:06:03+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -604,15 +663,59 @@
       "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
-      "published": "2026-11-12T13:57:53+00:00",
+      "source": "TheBlock",
+      "title": "Andreessen Horowitz, DeFi Education Fund push back against Illinois crypto tax",
+      "summary": "Crypto industry heavyweights are banding together to challenge Illinois over its controversial crypto tax.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573",
+      "published": "2026-11-12T15:01:02+00:00",
       "coins": [],
-      "compound": -0.0258,
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "published": "2026-11-12T22:47:41+00:00",
+      "coins": [],
+      "compound": 0.0,
       "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi ends Donald Trump Jr.\u2019s advisory contract over 1789 Capital\u2019s Polymarket investment",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "published": "2026-11-12T21:07:49+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+      "published": "2026-11-12T16:45:52+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "summary": "",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "published": "2026-11-12T15:34:29+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -626,33 +729,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
-      "published": "2026-11-12T09:07:00+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
-      "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
-      "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading.",
-      "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
-      "published": "2026-11-12T09:47:18+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-      "summary": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs.",
-      "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-      "published": "2026-11-12T02:23:45+00:00",
+      "title": "Anchorage Digital\u2019s Stablecoins Can Now Settle Payments on Visa\u2019s Network",
+      "summary": "Visa and eligible companies can now use Western Union\u2019s USDPT\u2014issued and custodied by the federally chartered Anchorage Digital Bank\u2014to settle VisaNet obligations.",
+      "url": "https://decrypt.co/383098/anchorage-digital-stablecoins-settle-payments-visa-network",
+      "published": "2026-11-12T16:01:03+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
