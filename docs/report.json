@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:27:28.545326+00:00",
+  "generated_at": "2026-11-13T06:18:17.934867+00:00",
   "total_articles": 55,
   "coins": {
     "TRX": {
@@ -52,12 +52,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 15,
-      "avg_compound": -0.3765,
+      "article_count": 19,
+      "avg_compound": -0.2659,
       "overall": "BEARISH",
-      "bullish": 2,
+      "bullish": 4,
       "bearish": 11,
-      "neutral": 2,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -73,17 +73,17 @@
           "confidence": 0.9799
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Geopolitical Strategist: Bitcoin Is the \u201cThird Way\u201d Between the Dollar and Yuan",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=YSF_wkyArYY\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/YSF_wkyArYY/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan-YSF_wkyArYY.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan\" rel=\"nofollow\">Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan</a></p>\n<p>Velina Tchakarova, geopolitical strategist and founder of FACE (For A Conscious Experience), argues that we're in a new Cold War and that the US and China are building two rival financial architectures.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan\" rel=\"nofollow\">Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-          "published": "2026-11-12T15:30:05+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+          "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+          "published": "2026-11-13T04:20:00+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.8934,
+          "compound": -0.8225,
           "label": "BEARISH",
-          "confidence": 0.8934
+          "confidence": 0.8225
         },
         {
           "source": "Bitcoin Magazine",
@@ -101,85 +101,11 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 4,
-      "avg_compound": -0.2282,
-      "overall": "BEARISH",
-      "bullish": 1,
-      "bearish": 3,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-          "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor &amp; took down the FaceStealer deepfake scam.",
-          "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
-          "published": "2026-11-12T22:40:22+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.5859,
-          "label": "BEARISH",
-          "confidence": 0.5859
-        },
-        {
-          "source": "CoinDesk",
-          "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-          "published": "2026-11-12T22:55:52+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.4939,
-          "label": "BEARISH",
-          "confidence": 0.4939
-        },
-        {
-          "source": "Decrypt",
-          "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-          "summary": "The FBI says the \u201cFaceStealer\u201d scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls\u2014as the DOJ also moves to seize $1.2 billion from the Binance hack.",
-          "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-          "published": "2026-11-12T22:06:03+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.4404,
-          "label": "BULLISH",
-          "confidence": 0.4404
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": 0.1531,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Securitize and Ethena\u2019s $100 million BlackRock BUIDL liquidity facility goes live",
-          "summary": "Securitize &amp; Ethena Labs launch a $100M liquidity facility letting eligible BUIDL holders swap into USDC and other stablecoins 24/7.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-          "published": "2026-11-12T14:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.1531,
-          "label": "BULLISH",
-          "confidence": 0.1531
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
-      "article_count": 6,
-      "avg_compound": 0.1084,
+      "article_count": 5,
+      "avg_compound": 0.1045,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 3,
       "top_articles": [
@@ -210,55 +136,12 @@
           "confidence": 0.2263
         },
         {
-          "source": "TheBlock",
-          "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-          "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-          "published": "2026-11-12T14:00:00+00:00",
+          "source": "CoinDesk",
+          "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+          "published": "2026-11-12T15:45:48+00:00",
           "coins": [
-            "MATIC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        }
-      ],
-      "no_news": false
-    },
-    "MATIC": {
-      "article_count": 2,
-      "avg_compound": 0.064,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-          "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-          "published": "2026-11-12T14:00:00+00:00",
-          "coins": [
-            "MATIC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.128,
-          "label": "BULLISH",
-          "confidence": 0.128
-        },
-        {
-          "source": "Decrypt",
-          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon\u2019s Payments Stack",
-          "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
-          "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-          "published": "2026-11-12T14:01:02+00:00",
-          "coins": [
-            "MATIC",
-            "ETH",
             "SOL"
           ],
           "compound": 0.0,
@@ -288,6 +171,110 @@
           "compound": 0.0516,
           "label": "BULLISH",
           "confidence": 0.0516
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 5,
+      "avg_compound": -0.0506,
+      "overall": "BEARISH",
+      "bullish": 2,
+      "bearish": 3,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea\u2019s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Wins-Court-Authority-to-Seize-1.2-Billion-of-North-Koreas-Stolen-Binance-Crypto-as-Freezes-Top-2.7-Billion.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize\" rel=\"nofollow\">DOJ Wins Court Authority to Seize $1.2 Billion of North Korea&#8217;s Stolen Binance Crypto as Freezes Top $2.7 Billion</a></p>\n<p>The DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize\" rel=\"nofollow\">DOJ Wins Court Authority to Seize $1.2 Billion of North Korea&#8217;s Stolen Binance Crypto as Freezes Top $2.7 Billion</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+          "published": "2026-11-13T00:15:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": 0.6597,
+          "label": "BULLISH",
+          "confidence": 0.6597
+        },
+        {
+          "source": "TheBlock",
+          "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+          "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor &amp; took down the FaceStealer deepfake scam.",
+          "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+          "published": "2026-11-12T22:40:22+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.5859,
+          "label": "BEARISH",
+          "confidence": 0.5859
+        },
+        {
+          "source": "CoinDesk",
+          "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+          "published": "2026-11-12T22:55:52+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.4939,
+          "label": "BEARISH",
+          "confidence": 0.4939
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.0288,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Unocoin \u2018login suspension\u2019 continues as exchange flags outgoing BitGo ETH transactions",
+          "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+          "published": "2026-11-12T15:36:17+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.5267,
+          "label": "BULLISH",
+          "confidence": 0.5267
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a></p>\n<p>Eligible customers 18 and older can buy, hold and sell bitcoin and ether from Nov. 26, with Fireblocks custody and a six-month fee waiver.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
+          "published": "2026-11-12T16:45:00+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": -0.4404,
+          "label": "BEARISH",
+          "confidence": 0.4404
+        },
+        {
+          "source": "Decrypt",
+          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon\u2019s Payments Stack",
+          "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+          "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+          "published": "2026-11-12T14:01:02+00:00",
+          "coins": [
+            "MATIC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -343,53 +330,28 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": -0.0208,
+    "MATIC": {
+      "article_count": 1,
+      "avg_compound": 0.0,
       "overall": "NEUTRAL",
-      "bullish": 2,
-      "bearish": 2,
+      "bullish": 0,
+      "bearish": 0,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Unocoin \u2018login suspension\u2019 continues as exchange flags outgoing BitGo ETH transactions",
-          "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
-          "published": "2026-11-12T15:36:17+00:00",
+          "source": "Decrypt",
+          "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon\u2019s Payments Stack",
+          "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
+          "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+          "published": "2026-11-12T14:01:02+00:00",
           "coins": [
-            "ETH"
+            "MATIC",
+            "ETH",
+            "SOL"
           ],
-          "compound": 0.5267,
-          "label": "BULLISH",
-          "confidence": 0.5267
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Israel-Discount-Bank-to-Let-Customers-Trade-Bitcoin-in-App-Starting-Nov.-26.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a></p>\n<p>Eligible customers 18 and older can buy, hold and sell bitcoin and ether from Nov. 26, with Fireblocks custody and a six-month fee waiver.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26\" rel=\"nofollow\">Israel Discount Bank to Let Customers Trade Bitcoin in App Starting Nov. 26</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/discount-bank-bitcoin-trading-nov-26",
-          "published": "2026-11-12T16:45:00+00:00",
-          "coins": [
-            "BTC",
-            "ETH"
-          ],
-          "compound": -0.4404,
-          "label": "BEARISH",
-          "confidence": 0.4404
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-          "published": "2026-11-12T11:43:41+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -474,6 +436,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -488,14 +460,14 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "BNY taps Figment to support staking on its digital asset custody platform",
-      "summary": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.",
-      "url": "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538",
-      "published": "2026-11-12T13:05:02+00:00",
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+      "published": "2026-11-13T04:56:47+00:00",
       "coins": [],
-      "compound": 0.7717,
+      "compound": 0.7845,
       "label": "BULLISH",
-      "confidence": 0.7717
+      "confidence": 0.7845
     },
     {
       "source": "Decrypt",
@@ -597,17 +569,6 @@
       "confidence": 0.296
     },
     {
-      "source": "CoinDesk",
-      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
-      "published": "2026-11-12T10:42:06+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
       "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
@@ -652,15 +613,15 @@
       "confidence": 0.2263
     },
     {
-      "source": "CoinDesk",
-      "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
-      "published": "2026-11-12T10:32:35+00:00",
+      "source": "TheBlock",
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+      "url": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "published": "2026-11-13T05:08:25+00:00",
       "coins": [],
-      "compound": -0.2023,
+      "compound": -0.128,
       "label": "BEARISH",
-      "confidence": 0.2023
+      "confidence": 0.128
     },
     {
       "source": "TheBlock",
