@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:14:16.013541+00:00",
+  "generated_at": "2026-11-15T06:03:39.817246+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -51,27 +51,64 @@
       ],
       "no_news": false
     },
-    "USDT": {
+    "XRP": {
       "article_count": 1,
-      "avg_compound": 0.3612,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
+      "avg_compound": -0.3818,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-          "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-          "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-          "published": "2026-11-13T14:50:49+00:00",
+          "source": "CoinDesk",
+          "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "published": "2026-11-15T02:50:57+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "XRP"
           ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
+          "compound": -0.3818,
+          "label": "BEARISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 2,
+      "avg_compound": -0.1591,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "published": "2026-11-14T23:07:35+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "TheBlock",
+          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "published": "2026-11-14T05:40:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -128,11 +165,11 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 29,
-      "avg_compound": -0.1071,
+      "article_count": 27,
+      "avg_compound": -0.1338,
       "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 16,
+      "bullish": 7,
+      "bearish": 15,
       "neutral": 5,
       "top_articles": [
         {
@@ -177,26 +214,41 @@
       ],
       "no_news": false
     },
-    "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.0,
+    "USDT": {
+      "article_count": 2,
+      "avg_compound": 0.0215,
       "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
+      "bullish": 1,
+      "bearish": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-          "published": "2026-11-14T05:40:00+00:00",
+          "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+          "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
+          "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+          "published": "2026-11-13T14:50:49+00:00",
           "coins": [
-            "BNB"
+            "USDT",
+            "BTC"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "TheBlock",
+          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "published": "2026-11-14T23:07:35+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
         }
       ],
       "no_news": false
@@ -312,16 +364,6 @@
       "no_news": true
     },
     "USDC": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
