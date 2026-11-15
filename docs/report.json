@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:03:39.817246+00:00",
+  "generated_at": "2026-11-15T18:43:47.575270+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -27,30 +27,6 @@
       ],
       "no_news": false
     },
-    "ADA": {
-      "article_count": 1,
-      "avg_compound": 0.5719,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "\u2018Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-          "summary": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-          "url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-          "published": "2026-11-13T13:36:29+00:00",
-          "coins": [
-            "ADA"
-          ],
-          "compound": 0.5719,
-          "label": "BULLISH",
-          "confidence": 0.5719
-        }
-      ],
-      "no_news": false
-    },
     "XRP": {
       "article_count": 1,
       "avg_compound": -0.3818,
@@ -71,6 +47,56 @@
           "compound": -0.3818,
           "label": "BEARISH",
           "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 26,
+      "avg_compound": -0.1764,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 15,
+      "neutral": 5,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Stocks-Led-By-Strategy-MSTR-Take-a-Beating-as-BTC-Price-Sells-Off-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a></p>\n<p>Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer prices rose less than expected.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
+          "published": "2026-11-13T14:11:44+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9062,
+          "label": "BEARISH",
+          "confidence": 0.9062
+        },
+        {
+          "source": "Decrypt",
+          "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+          "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+          "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+          "published": "2026-11-13T19:36:03+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8271,
+          "label": "BULLISH",
+          "confidence": 0.8271
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=QlieBet41X0\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/QlieBet41X0/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here-QlieBet41X0.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a></p>\n<p>Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+          "published": "2026-11-13T21:00:18+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8126,
+          "label": "BEARISH",
+          "confidence": 0.8126
         }
       ],
       "no_news": false
@@ -164,63 +190,13 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.1338,
-      "overall": "BEARISH",
-      "bullish": 7,
-      "bearish": 15,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Stocks-Led-By-Strategy-MSTR-Take-a-Beating-as-BTC-Price-Sells-Off-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a></p>\n<p>Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer prices rose less than expected.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
-          "published": "2026-11-13T14:11:44+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9062,
-          "label": "BEARISH",
-          "confidence": 0.9062
-        },
-        {
-          "source": "Decrypt",
-          "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-          "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
-          "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-          "published": "2026-11-13T19:36:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8271,
-          "label": "BULLISH",
-          "confidence": 0.8271
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=QlieBet41X0\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/QlieBet41X0/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here-QlieBet41X0.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a></p>\n<p>Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
-          "published": "2026-11-13T21:00:18+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8126,
-          "label": "BEARISH",
-          "confidence": 0.8126
-        }
-      ],
-      "no_news": false
-    },
     "USDT": {
-      "article_count": 2,
-      "avg_compound": 0.0215,
+      "article_count": 3,
+      "avg_compound": 0.0143,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 0,
+      "neutral": 1,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -249,9 +225,32 @@
           "compound": -0.3182,
           "label": "BEARISH",
           "confidence": 0.3182
+        },
+        {
+          "source": "Decrypt",
+          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+          "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+          "published": "2026-11-15T16:01:02+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
+    },
+    "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
     },
     "DAI": {
       "article_count": 0,
@@ -462,6 +461,17 @@
       "compound": 0.4767,
       "label": "BULLISH",
       "confidence": 0.4767
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "summary": "",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "published": "2026-11-15T14:00:00+00:00",
+      "coins": [],
+      "compound": -0.4215,
+      "label": "BEARISH",
+      "confidence": 0.4215
     },
     {
       "source": "CoinDesk",
