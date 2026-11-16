@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:43:47.575270+00:00",
+  "generated_at": "2026-11-16T06:03:22.846647+00:00",
   "total_articles": 55,
   "coins": {
     "AVAX": {
@@ -51,13 +51,65 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.1764,
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": -0.3059,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 15,
-      "neutral": 5,
+      "bullish": 0,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+          "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+          "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+          "published": "2026-11-15T21:57:53+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.5994,
+          "label": "BEARISH",
+          "confidence": 0.5994
+        },
+        {
+          "source": "TheBlock",
+          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "published": "2026-11-14T23:07:35+00:00",
+          "coins": [
+            "BNB",
+            "USDT"
+          ],
+          "compound": -0.3182,
+          "label": "BEARISH",
+          "confidence": 0.3182
+        },
+        {
+          "source": "TheBlock",
+          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "published": "2026-11-14T05:40:00+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 25,
+      "avg_compound": -0.2375,
+      "overall": "BEARISH",
+      "bullish": 4,
+      "bearish": 17,
+      "neutral": 4,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -97,44 +149,6 @@
           "compound": -0.8126,
           "label": "BEARISH",
           "confidence": 0.8126
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": -0.1591,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-          "published": "2026-11-14T23:07:35+00:00",
-          "coins": [
-            "BNB",
-            "USDT"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "TheBlock",
-          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-          "published": "2026-11-14T05:40:00+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -375,6 +389,17 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+      "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+      "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+      "published": "2026-11-16T04:35:34+00:00",
+      "coins": [],
+      "compound": -0.8555,
+      "label": "BEARISH",
+      "confidence": 0.8555
+    },
+    {
       "source": "Decrypt",
       "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
       "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
@@ -406,6 +431,17 @@
       "compound": -0.802,
       "label": "BEARISH",
       "confidence": 0.802
+    },
+    {
+      "source": "TheBlock",
+      "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
+      "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+      "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "published": "2026-11-15T20:33:17+00:00",
+      "coins": [],
+      "compound": 0.6808,
+      "label": "BULLISH",
+      "confidence": 0.6808
     },
     {
       "source": "TheBlock",
@@ -442,6 +478,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+      "published": "2026-11-16T06:01:41+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
+    },
+    {
+      "source": "CoinDesk",
       "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
       "summary": "",
       "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
@@ -472,17 +519,6 @@
       "compound": -0.4215,
       "label": "BEARISH",
       "confidence": 0.4215
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-      "published": "2026-11-13T14:02:00+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
     },
     {
       "source": "Decrypt",
@@ -540,17 +576,6 @@
       "confidence": 0.2732
     },
     {
-      "source": "TheBlock",
-      "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
-      "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
-      "published": "2026-11-13T10:16:04+00:00",
-      "coins": [],
-      "compound": 0.2732,
-      "label": "BULLISH",
-      "confidence": 0.2732
-    },
-    {
       "source": "Decrypt",
       "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
       "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
@@ -585,6 +610,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "published": "2026-11-15T19:30:00+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
@@ -611,17 +647,6 @@
       "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
       "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
       "published": "2026-11-13T22:16:03+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
-      "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
-      "published": "2026-11-13T12:27:41+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
