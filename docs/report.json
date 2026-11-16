@@ -1,262 +1,245 @@
 {
-  "generated_at": "2026-11-16T06:03:22.846647+00:00",
+  "generated_at": "2026-11-16T21:54:04.572153+00:00",
   "total_articles": 55,
   "coins": {
-    "AVAX": {
-      "article_count": 1,
-      "avg_compound": -0.6124,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-          "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
-          "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-          "published": "2026-11-14T17:50:41+00:00",
-          "coins": [
-            "BTC",
-            "AVAX"
-          ],
-          "compound": -0.6124,
-          "label": "BEARISH",
-          "confidence": 0.6124
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": -0.3818,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-          "published": "2026-11-15T02:50:57+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.3818,
-          "label": "BEARISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
     "BNB": {
       "article_count": 3,
-      "avg_compound": -0.3059,
+      "avg_compound": -0.486,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 2,
-      "neutral": 1,
+      "bearish": 3,
+      "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-          "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-          "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-          "published": "2026-11-15T21:57:53+00:00",
+          "source": "Decrypt",
+          "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
+          "summary": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren\u2019t selling.",
+          "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+          "published": "2026-11-16T13:23:17+00:00",
           "coins": [
-            "BNB",
-            "BTC"
+            "BTC",
+            "BNB"
           ],
-          "compound": -0.5994,
+          "compound": -0.6552,
           "label": "BEARISH",
-          "confidence": 0.5994
+          "confidence": 0.6552
         },
         {
-          "source": "TheBlock",
-          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-          "published": "2026-11-14T23:07:35+00:00",
-          "coins": [
-            "BNB",
-            "USDT"
-          ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
-        },
-        {
-          "source": "TheBlock",
-          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-          "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-          "published": "2026-11-14T05:40:00+00:00",
+          "source": "CoinDesk",
+          "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+          "published": "2026-11-16T12:55:46+00:00",
           "coins": [
             "BNB"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.2375,
-      "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 17,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/06/Bitcoin-Stocks-Led-By-Strategy-MSTR-Take-a-Beating-as-BTC-Price-Sells-Off-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a></p>\n<p>Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer prices rose less than expected.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar\" rel=\"nofollow\">Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
-          "published": "2026-11-13T14:11:44+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9062,
+          "compound": -0.6249,
           "label": "BEARISH",
-          "confidence": 0.9062
-        },
-        {
-          "source": "Decrypt",
-          "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-          "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
-          "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-          "published": "2026-11-13T19:36:03+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8271,
-          "label": "BULLISH",
-          "confidence": 0.8271
+          "confidence": 0.6249
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=QlieBet41X0\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/QlieBet41X0/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here-QlieBet41X0.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a></p>\n<p>Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here\" rel=\"nofollow\">Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
-          "published": "2026-11-13T21:00:18+00:00",
+          "title": "Senate Agriculture Committee to Hear Trump\u2019s CFTC Nominees Tuesday",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Senate-Democrats-Press-DOJ-Treasury-to-Probe-Binance-Over-Trump-Ties-Iran-Sanctions-Allegations.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday\" rel=\"nofollow\">Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday</a></p>\n<p>The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday\" rel=\"nofollow\">Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+          "published": "2026-11-16T20:44:23+00:00",
           "coins": [
-            "BTC"
+            "BTC",
+            "BNB"
           ],
-          "compound": -0.8126,
+          "compound": -0.1779,
           "label": "BEARISH",
-          "confidence": 0.8126
+          "confidence": 0.1779
         }
       ],
       "no_news": false
     },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.1409,
-      "overall": "BULLISH",
+      "article_count": 4,
+      "avg_compound": -0.2408,
+      "overall": "BEARISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 2,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Ethereum and Layer 1s Explained",
-          "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
-          "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-          "published": "2026-11-13T14:12:23+00:00",
+          "source": "Decrypt",
+          "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+          "summary": "The firm\u2019s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a \u201cwaterfall\u201d drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic\u2019s IPO.",
+          "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+          "published": "2026-11-16T20:36:03+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.6249,
-          "label": "BULLISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-          "published": "2026-11-14T16:33:23+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.2023,
+          "compound": -0.7579,
           "label": "BEARISH",
-          "confidence": 0.2023
+          "confidence": 0.7579
         },
         {
-          "source": "CoinDesk",
-          "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-          "published": "2026-11-14T12:57:00+00:00",
+          "source": "TheBlock",
+          "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+          "summary": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
+          "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+          "published": "2026-11-16T20:30:37+00:00",
           "coins": [
-            "BTC",
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.5454,
+          "label": "BEARISH",
+          "confidence": 0.5454
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tom Lee says Ethereum\u2019s \u2018waterfall decline in price\u2019 defies fundamentals as Bitmine adds 7,653 ETH",
+          "summary": "Bitmine acquired 7,653 ETH as Tom Lee questioned the rate of ether's recent decline against improving institutional developments.",
+          "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+          "published": "2026-11-16T15:00:18+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
-    "USDT": {
-      "article_count": 3,
-      "avg_compound": 0.0143,
-      "overall": "NEUTRAL",
-      "bullish": 1,
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.1779,
+      "overall": "BEARISH",
+      "bullish": 0,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
-          "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
-          "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
-          "published": "2026-11-13T14:50:49+00:00",
+          "title": "Solflare CEO says AI security reviews are essential, touts \u2018bunker mode\u2019 and MoneyGram deal",
+          "summary": "Vidor Gencel says AI catches chained exploits humans miss, and details the wallet's \"bunker mode,\" privacy mode, and MoneyGram USDC cash-out.",
+          "url": "https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
+          "published": "2026-11-16T18:59:21+00:00",
           "coins": [
-            "USDT",
-            "BTC"
+            "USDC"
           ],
-          "compound": 0.3612,
+          "compound": -0.1779,
+          "label": "BEARISH",
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 10,
+      "avg_compound": 0.1597,
+      "overall": "BULLISH",
+      "bullish": 5,
+      "bearish": 1,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+          "summary": "DeFi Development added 9,482 SOL last week, lifting its Solana treasury to about 2.62 million tokens in its 10th straight week of growth.",
+          "url": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+          "published": "2026-11-16T16:16:17+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.6486,
           "label": "BULLISH",
-          "confidence": 0.3612
+          "confidence": 0.6486
         },
         {
           "source": "TheBlock",
-          "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-          "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-          "published": "2026-11-14T23:07:35+00:00",
+          "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+          "summary": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
+          "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+          "published": "2026-11-16T20:27:32+00:00",
           "coins": [
-            "BNB",
-            "USDT"
+            "SOL"
           ],
-          "compound": -0.3182,
-          "label": "BEARISH",
-          "confidence": 0.3182
+          "compound": 0.5719,
+          "label": "BULLISH",
+          "confidence": 0.5719
         },
         {
           "source": "Decrypt",
-          "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-          "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
-          "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-          "published": "2026-11-15T16:01:02+00:00",
+          "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+          "summary": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
+          "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+          "published": "2026-11-16T15:04:56+00:00",
           "coins": [
-            "USDT"
+            "BTC",
+            "SOL"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
+          "compound": -0.5267,
+          "label": "BEARISH",
+          "confidence": 0.5267
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 22,
+      "avg_compound": -0.1386,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 14,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a></p>\n<p>Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+          "published": "2026-11-16T21:20:36+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.91,
+          "label": "BEARISH",
+          "confidence": 0.91
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/German-Bundestag-Lets-Customs-Freeze-Crypto-Over-E100000-Without-a-Criminal-Case-as-the-Bill-Goes-to-the-Bundesrat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a></p>\n<p>The Bundestag approved a bill that would let German customs freeze crypto and other assets over \u20ac100,000 of unclear origin without a criminal case. Permanent confiscation would still require a court, and the timing of the Bundesrat vote remains unclear.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000",
+          "published": "2026-11-16T18:15:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8886,
+          "label": "BULLISH",
+          "confidence": 0.8886
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Harvard-Endowments-Biggest-Public-Position-Is-Now-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil\" rel=\"nofollow\">Harvard Holds 3.04 Million Bitcoin ETF Shares Steady</a></p>\n<p>Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil\" rel=\"nofollow\">Harvard Holds 3.04 Million Bitcoin ETF Shares Steady</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
+          "published": "2026-11-16T16:00:10+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8442,
+          "label": "BULLISH",
+          "confidence": 0.8442
         }
       ],
       "no_news": false
     },
     "ADA": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "AVAX": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -346,16 +329,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -376,7 +349,17 @@
       "top_articles": [],
       "no_news": true
     },
-    "USDC": {
+    "USDT": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
+    "XRP": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -390,21 +373,10 @@
   "uncategorised": [
     {
       "source": "TheBlock",
-      "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
-      "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
-      "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
-      "published": "2026-11-16T04:35:34+00:00",
-      "coins": [],
-      "compound": -0.8555,
-      "label": "BEARISH",
-      "confidence": 0.8555
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-      "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
-      "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-      "published": "2026-11-14T17:01:02+00:00",
+      "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+      "summary": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
+      "url": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+      "published": "2026-11-16T21:44:25+00:00",
       "coins": [],
       "compound": -0.8225,
       "label": "BEARISH",
@@ -412,142 +384,98 @@
     },
     {
       "source": "TheBlock",
-      "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-      "summary": "Hyperliquid\u2019s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
-      "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-      "published": "2026-11-13T16:37:26+00:00",
+      "title": "Supreme Court rejects Custodia Bank\u2019s bid for Fed master account",
+      "summary": "The Supreme Court has said it would not take up a Custodia Bank's challenge to secure a Federal Reserve master account.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+      "published": "2026-11-16T17:15:10+00:00",
       "coins": [],
-      "compound": 0.8225,
+      "compound": 0.7717,
       "label": "BULLISH",
-      "confidence": 0.8225
+      "confidence": 0.7717
     },
     {
       "source": "TheBlock",
-      "title": "House Oversight Chair calls for possible ban on government officials\u2019 prediction market bets over insider trading concerns",
-      "summary": "The House Oversight Committee is calling for new limits on government officials\u2019 use of prediction markets, including a potential ban.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
-      "published": "2026-11-13T19:09:12+00:00",
+      "title": "Layer 2 Scaling Explained",
+      "summary": "Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.",
+      "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
+      "published": "2026-11-16T14:56:48+00:00",
       "coins": [],
-      "compound": -0.802,
-      "label": "BEARISH",
-      "confidence": 0.802
-    },
-    {
-      "source": "TheBlock",
-      "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
-      "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
-      "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-      "published": "2026-11-15T20:33:17+00:00",
-      "coins": [],
-      "compound": 0.6808,
+      "compound": 0.7506,
       "label": "BULLISH",
-      "confidence": 0.6808
+      "confidence": 0.7506
     },
     {
       "source": "TheBlock",
-      "title": "CFTC\u2019s Selig accuses states of trying to \u2018lock up\u2019 prediction market founders",
-      "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn\u2019t put executives at risk of jail.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
-      "published": "2026-11-13T18:51:03+00:00",
+      "title": "Standard Chartered says Japan\u2019s bond tokenization plans could help drive RWA market to $2 trillion",
+      "summary": "Standard Chartered said Japan's bond tokenization plans could help the tokenized RWA market reach its $2 trillion forecast by 2028.",
+      "url": "https://www.theblock.co/news/web3/2026-11-16-japan-tokenized-government-bonds-standard-chartered-rwa-2-trillion-441384",
+      "published": "2026-11-16T17:54:24+00:00",
       "coins": [],
-      "compound": -0.6808,
-      "label": "BEARISH",
-      "confidence": 0.6808
+      "compound": 0.6705,
+      "label": "BULLISH",
+      "confidence": 0.6705
+    },
+    {
+      "source": "CoinDesk",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+      "published": "2026-11-16T15:44:59+00:00",
+      "coins": [],
+      "compound": 0.5559,
+      "label": "BULLISH",
+      "confidence": 0.5559
+    },
+    {
+      "source": "TheBlock",
+      "title": "Democratic senators warn SEC\u2019s tokenized stock exemption has illicit finance gaps",
+      "summary": "Four Democratic senators are raising concerns about the Securities and Exchange Commission's newly unveiled innovation exemption.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+      "published": "2026-11-16T20:44:01+00:00",
+      "coins": [],
+      "compound": 0.5267,
+      "label": "BULLISH",
+      "confidence": 0.5267
     },
     {
       "source": "Decrypt",
-      "title": "China\u2019s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-      "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
-      "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
-      "published": "2026-11-13T20:45:03+00:00",
+      "title": "Trump Backs Jensen Huang\u2019s Return to Nvidia as Sam Altman Says 'Heroes Have Flaws'",
+      "summary": "Trump would welcome Nvidia\u2019s co-founder back. Altman, who survived his own CEO ouster, sympathizes but stops short of endorsing Huang\u2019s comeback.",
+      "url": "https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
+      "published": "2026-11-16T19:05:02+00:00",
       "coins": [],
-      "compound": -0.5994,
-      "label": "BEARISH",
-      "confidence": 0.5994
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
     },
     {
       "source": "TheBlock",
-      "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",
-      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-      "published": "2026-11-14T19:06:59+00:00",
+      "title": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit",
+      "summary": "Since quarter-end, Cypherpunk bought another 3,775 ZEC for about $3.5 million at an average price of $920.40.",
+      "url": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
+      "published": "2026-11-16T18:43:19+00:00",
       "coins": [],
-      "compound": -0.5859,
-      "label": "BEARISH",
-      "confidence": 0.5859
+      "compound": 0.4404,
+      "label": "BULLISH",
+      "confidence": 0.4404
     },
     {
       "source": "CoinDesk",
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-      "published": "2026-11-16T06:01:41+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "CoinDesk",
-      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-      "published": "2026-11-14T15:00:00+00:00",
-      "coins": [],
-      "compound": 0.5267,
-      "label": "BULLISH",
-      "confidence": 0.5267
-    },
-    {
-      "source": "TheBlock",
-      "title": "Meta tests prediction market app using \u2018cred\u2019 points instead of cash: WSJ",
-      "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
-      "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
-      "published": "2026-11-13T20:55:26+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "summary": "",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-      "published": "2026-11-15T14:00:00+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "published": "2026-11-16T21:51:04+00:00",
       "coins": [],
       "compound": -0.4215,
       "label": "BEARISH",
       "confidence": 0.4215
     },
     {
-      "source": "Decrypt",
-      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
-      "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties\u2014sending Nvidia\u2019s stock reeling and leaving the chipmaker leaderless.",
-      "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-      "published": "2026-11-14T18:01:02+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "TheBlock",
-      "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
-      "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
-      "url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
-      "published": "2026-11-13T19:26:53+00:00",
-      "coins": [],
-      "compound": -0.296,
-      "label": "BEARISH",
-      "confidence": 0.296
-    },
-    {
-      "source": "Decrypt",
-      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-      "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
-      "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
-      "published": "2026-11-13T21:36:03+00:00",
+      "source": "CoinDesk",
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "published": "2026-11-16T11:47:12+00:00",
       "coins": [],
       "compound": -0.2732,
       "label": "BEARISH",
@@ -555,54 +483,43 @@
     },
     {
       "source": "Decrypt",
-      "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
-      "summary": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
-      "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
-      "published": "2026-11-13T13:55:25+00:00",
+      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
+      "summary": "A new law lets Germany's customs agency freeze assets worth more than \u20ac100,000 without a criminal case if their origin is in doubt.",
+      "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+      "published": "2026-11-16T10:25:15+00:00",
       "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "TheBlock",
-      "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
-      "summary": "Kraken parent Payward\u2019s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
-      "url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-      "published": "2026-11-13T15:31:22+00:00",
-      "coins": [],
-      "compound": -0.2732,
-      "label": "BEARISH",
-      "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-      "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-      "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-      "published": "2026-11-14T16:01:02+00:00",
-      "coins": [],
-      "compound": 0.1779,
+      "compound": 0.2677,
       "label": "BULLISH",
-      "confidence": 0.1779
+      "confidence": 0.2677
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",
-      "summary": "OpenAI\u2019s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
-      "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-      "published": "2026-11-14T14:01:02+00:00",
+      "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
+      "summary": "Federal Reserve Chair Kevin Warsh says staff are studying three possible economic futures for AI, ranging from widespread productivity gains to higher unemployment and a painful correction in technology stocks.",
+      "url": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
+      "published": "2026-11-16T18:36:44+00:00",
       "coins": [],
-      "compound": 0.1531,
+      "compound": 0.2263,
       "label": "BULLISH",
-      "confidence": 0.1531
+      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
-      "title": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
-      "summary": "The bipartisan slate\u2014two Republicans and two Democrats, Trump\u2019s first Democratic picks for either agency\u2014would refill commissions that have driven crypto policy since the Clarity Act\u2019s collapse.",
-      "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
-      "published": "2026-11-13T17:56:03+00:00",
+      "title": "Nvidia Stock Has a 20% Rebound in Sight\u2014If Bulls Can Clear a Hurdle",
+      "summary": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here\u2019s what the charts suggest.",
+      "url": "https://decrypt.co/383334/nvidia-stock-rebound-in-sight-if-bulls-can-clear-hurdle",
+      "published": "2026-11-16T18:06:03+00:00",
+      "coins": [],
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+      "published": "2026-11-16T18:54:19+00:00",
       "coins": [],
       "compound": -0.128,
       "label": "BEARISH",
@@ -610,43 +527,54 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "published": "2026-11-15T19:30:00+00:00",
+      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+      "published": "2026-11-16T16:41:42+00:00",
       "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "published": "2026-11-14T15:38:27+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
-      "published": "2026-11-13T17:05:43+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
     },
     {
       "source": "Decrypt",
-      "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
-      "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
-      "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
-      "published": "2026-11-13T22:16:03+00:00",
+      "title": "Clarity Act Defeat \u2018Failure of American Leadership\u2019: Trump\u2019s Former Crypto Chief",
+      "summary": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
+      "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+      "published": "2026-11-16T19:36:03+00:00",
+      "coins": [],
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "published": "2026-11-16T15:54:11+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "FOMC minutes, Nvidia earnings, Russia\u2019s retail crypto rules: Crypto Week Ahead",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+      "published": "2026-11-16T09:23:07+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+      "published": "2026-11-16T08:46:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
