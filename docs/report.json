@@ -1,66 +1,14 @@
 {
-  "generated_at": "2026-11-16T21:54:04.572153+00:00",
+  "generated_at": "2026-11-17T07:40:08.972394+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": -0.486,
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": -0.6517,
       "overall": "BEARISH",
       "bullish": 0,
-      "bearish": 3,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
-          "summary": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren\u2019t selling.",
-          "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
-          "published": "2026-11-16T13:23:17+00:00",
-          "coins": [
-            "BTC",
-            "BNB"
-          ],
-          "compound": -0.6552,
-          "label": "BEARISH",
-          "confidence": 0.6552
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-          "published": "2026-11-16T12:55:46+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": -0.6249,
-          "label": "BEARISH",
-          "confidence": 0.6249
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Senate Agriculture Committee to Hear Trump\u2019s CFTC Nominees Tuesday",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/Senate-Democrats-Press-DOJ-Treasury-to-Probe-Binance-Over-Trump-Ties-Iran-Sanctions-Allegations.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday\" rel=\"nofollow\">Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday</a></p>\n<p>The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday\" rel=\"nofollow\">Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
-          "published": "2026-11-16T20:44:23+00:00",
-          "coins": [
-            "BTC",
-            "BNB"
-          ],
-          "compound": -0.1779,
-          "label": "BEARISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 4,
-      "avg_compound": -0.2408,
-      "overall": "BEARISH",
-      "bullish": 1,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "Decrypt",
@@ -87,19 +35,133 @@
           "compound": -0.5454,
           "label": "BEARISH",
           "confidence": 0.5454
-        },
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 4,
+      "avg_compound": -0.5419,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 4,
+      "neutral": 0,
+      "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Tom Lee says Ethereum\u2019s \u2018waterfall decline in price\u2019 defies fundamentals as Bitmine adds 7,653 ETH",
-          "summary": "Bitmine acquired 7,653 ETH as Tom Lee questioned the rate of ether's recent decline against improving institutional developments.",
-          "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
-          "published": "2026-11-16T15:00:18+00:00",
+          "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+          "summary": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+          "published": "2026-11-17T05:45:00+00:00",
           "coins": [
-            "ETH"
+            "BNB",
+            "SOL",
+            "BTC"
           ],
-          "compound": 0.34,
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
+        },
+        {
+          "source": "Decrypt",
+          "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
+          "summary": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren\u2019t selling.",
+          "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+          "published": "2026-11-16T13:23:17+00:00",
+          "coins": [
+            "BTC",
+            "BNB"
+          ],
+          "compound": -0.6552,
+          "label": "BEARISH",
+          "confidence": 0.6552
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+          "published": "2026-11-16T12:55:46+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": -0.6249,
+          "label": "BEARISH",
+          "confidence": 0.6249
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 24,
+      "avg_compound": -0.2184,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 15,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a></p>\n<p>Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+          "published": "2026-11-16T21:20:36+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.91,
+          "label": "BEARISH",
+          "confidence": 0.91
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Rob Hamilton: The AI \u201cBlack Hole\u201d is Pulling Liquidity Away from Bitcoin",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=9EE3F91J1vo\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/9EE3F91J1vo/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin-9EE3F91J1vo.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin\" rel=\"nofollow\">Rob Hamilton: The AI \u201cBlack Hole\u201d is Pulling Liquidity Away from Bitcoin</a></p>\n<p>AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin\" rel=\"nofollow\">Rob Hamilton: The AI \u201cBlack Hole\u201d is Pulling Liquidity Away from Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
+          "published": "2026-11-16T20:35:17+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9081,
+          "label": "BEARISH",
+          "confidence": 0.9081
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/German-Bundestag-Lets-Customs-Freeze-Crypto-Over-E100000-Without-a-Criminal-Case-as-the-Bill-Goes-to-the-Bundesrat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a></p>\n<p>The Bundestag approved a bill that would let German customs freeze crypto and other assets over \u20ac100,000 of unclear origin without a criminal case. Permanent confiscation would still require a court, and the timing of the Bundesrat vote remains unclear.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000",
+          "published": "2026-11-16T18:15:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8886,
           "label": "BULLISH",
-          "confidence": 0.34
+          "confidence": 0.8886
+        }
+      ],
+      "no_news": false
+    },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.2023,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+          "published": "2026-11-17T06:54:49+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.2023,
+          "label": "BULLISH",
+          "confidence": 0.2023
         }
       ],
       "no_news": false
@@ -130,12 +192,27 @@
     },
     "SOL": {
       "article_count": 10,
-      "avg_compound": 0.1597,
+      "avg_compound": 0.0913,
       "overall": "BULLISH",
       "bullish": 5,
-      "bearish": 1,
-      "neutral": 4,
+      "bearish": 2,
+      "neutral": 3,
       "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+          "summary": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+          "published": "2026-11-17T05:45:00+00:00",
+          "coins": [
+            "BNB",
+            "SOL",
+            "BTC"
+          ],
+          "compound": -0.7096,
+          "label": "BEARISH",
+          "confidence": 0.7096
+        },
         {
           "source": "TheBlock",
           "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
@@ -161,83 +238,33 @@
           "compound": 0.5719,
           "label": "BULLISH",
           "confidence": 0.5719
-        },
-        {
-          "source": "Decrypt",
-          "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
-          "summary": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
-          "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
-          "published": "2026-11-16T15:04:56+00:00",
-          "coins": [
-            "BTC",
-            "SOL"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
         }
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.1386,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 14,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/10/Pics-23.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a></p>\n<p>Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia\" rel=\"nofollow\">Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
-          "published": "2026-11-16T21:20:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.91,
-          "label": "BEARISH",
-          "confidence": 0.91
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/German-Bundestag-Lets-Customs-Freeze-Crypto-Over-E100000-Without-a-Criminal-Case-as-the-Bill-Goes-to-the-Bundesrat.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a></p>\n<p>The Bundestag approved a bill that would let German customs freeze crypto and other assets over \u20ac100,000 of unclear origin without a criminal case. Permanent confiscation would still require a court, and the timing of the Bundesrat vote remains unclear.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000\" rel=\"nofollow\">German Bundestag Lets Customs Freeze Crypto Over \u20ac100,000 Without a Criminal Case as the Bill Goes to the Bundesrat</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/german-bundestag-crypto-over-100000",
-          "published": "2026-11-16T18:15:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8886,
-          "label": "BULLISH",
-          "confidence": 0.8886
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/11/Harvard-Endowments-Biggest-Public-Position-Is-Now-Bitcoin.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil\" rel=\"nofollow\">Harvard Holds 3.04 Million Bitcoin ETF Shares Steady</a></p>\n<p>Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil\" rel=\"nofollow\">Harvard Holds 3.04 Million Bitcoin ETF Shares Steady</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
-          "published": "2026-11-16T16:00:10+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8442,
-          "label": "BULLISH",
-          "confidence": 0.8442
-        }
-      ],
-      "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
+    "XRP": {
+      "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
       "bullish": 0,
       "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+          "published": "2026-11-17T05:02:05+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
     },
     "AVAX": {
       "article_count": 0,
@@ -358,16 +385,6 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "XRP": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
@@ -395,10 +412,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Layer 2 Scaling Explained",
-      "summary": "Layer 2 101 explains why blockchains need to scale and how Layer 2s help. It covers rollups, sidechains and appchains, monolithic vs modular design, Layer 2 tokens and incentives, and the trade-offs between speed, cost and security.",
-      "url": "https://www.theblock.co/learn/basics/layer-2-scaling-explained-436103",
-      "published": "2026-11-16T14:56:48+00:00",
+      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+      "published": "2026-11-16T23:27:15+00:00",
       "coins": [],
       "compound": 0.7506,
       "label": "BULLISH",
@@ -450,6 +467,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Cathie Wood\u2019s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+      "summary": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
+      "url": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+      "published": "2026-11-17T06:35:02+00:00",
+      "coins": [],
+      "compound": -0.4404,
+      "label": "BEARISH",
+      "confidence": 0.4404
+    },
+    {
+      "source": "TheBlock",
       "title": "Winklevoss-backed Cypherpunk buys Zcash dip as mining debut delivers $2.6 million operating profit",
       "summary": "Since quarter-end, Cypherpunk bought another 3,775 ZEC for about $3.5 million at an average price of $920.40.",
       "url": "https://www.theblock.co/news/business/2026-11-16-winklevoss-cypherpunk-buys-zcash-dip-mining-debut-delivers-2-6-million-operating-profit-441392",
@@ -480,17 +508,6 @@
       "compound": -0.2732,
       "label": "BEARISH",
       "confidence": 0.2732
-    },
-    {
-      "source": "Decrypt",
-      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
-      "summary": "A new law lets Germany's customs agency freeze assets worth more than \u20ac100,000 without a criminal case if their origin is in doubt.",
-      "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
-      "published": "2026-11-16T10:25:15+00:00",
-      "coins": [],
-      "compound": 0.2677,
-      "label": "BULLISH",
-      "confidence": 0.2677
     },
     {
       "source": "Decrypt",
@@ -538,6 +555,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
+      "summary": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+      "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "published": "2026-11-16T22:46:02+00:00",
+      "coins": [],
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "Decrypt",
       "title": "Clarity Act Defeat \u2018Failure of American Leadership\u2019: Trump\u2019s Former Crypto Chief",
       "summary": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
       "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
@@ -553,28 +581,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
       "published": "2026-11-16T15:54:11+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "FOMC minutes, Nvidia earnings, Russia\u2019s retail crypto rules: Crypto Week Ahead",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
-      "published": "2026-11-16T09:23:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-      "published": "2026-11-16T08:46:00+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
