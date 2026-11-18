@@ -1,112 +1,12 @@
 {
-  "generated_at": "2026-11-17T20:44:45.966849+00:00",
+  "generated_at": "2026-11-18T07:02:03.242935+00:00",
   "total_articles": 55,
   "coins": {
-    "USDC": {
-      "article_count": 1,
-      "avg_compound": -0.4588,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Lighter reopens withdrawals after trader\u2019s API key leak, returns about $5 million in USDC",
-          "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader.",
-          "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
-          "published": "2026-11-17T12:00:41+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": -0.4588,
-          "label": "BEARISH",
-          "confidence": 0.4588
-        }
-      ],
-      "no_news": false
-    },
-    "USDT": {
-      "article_count": 1,
-      "avg_compound": 0.3612,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
-          "summary": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.",
-          "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-          "published": "2026-11-17T10:20:37+00:00",
-          "coins": [
-            "USDT"
-          ],
-          "compound": 0.3612,
-          "label": "BULLISH",
-          "confidence": 0.3612
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 6,
-      "avg_compound": 0.2589,
-      "overall": "BULLISH",
-      "bullish": 4,
-      "bearish": 1,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "Decrypt",
-          "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
-          "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading.",
-          "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-          "published": "2026-11-17T09:01:03+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.6486,
-          "label": "BULLISH",
-          "confidence": 0.6486
-        },
-        {
-          "source": "Decrypt",
-          "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-          "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
-          "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
-          "published": "2026-11-17T15:30:37+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.4588,
-          "label": "BULLISH",
-          "confidence": 0.4588
-        },
-        {
-          "source": "TheBlock",
-          "title": "Coinbase expands onchain crypto loans to New York via Morpho",
-          "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
-          "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
-          "published": "2026-11-17T18:00:02+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.4019,
-          "label": "BULLISH",
-          "confidence": 0.4019
-        }
-      ],
-      "no_news": false
-    },
     "BTC": {
-      "article_count": 20,
-      "avg_compound": -0.2406,
+      "article_count": 18,
+      "avg_compound": -0.3184,
       "overall": "BEARISH",
-      "bullish": 5,
+      "bullish": 3,
       "bearish": 12,
       "neutral": 3,
       "top_articles": [
@@ -138,40 +38,116 @@
         },
         {
           "source": "Bitcoin Magazine",
-          "title": "\u201cWe Need to Change Our Management\u201d: Ricardo Salinas on Mexico\u2019s Future, Bukele and Bitcoin",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/image-5.jpeg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin\" rel=\"nofollow\">&#8220;We Need to Change Our Management&#8221;: Ricardo Salinas on Mexico&#8217;s Future, Bukele and Bitcoin</a></p>\n<p>At Bitcoin Hist\u00f3rico in El Salvador, the Mexican billionaire weighed in on Mexico's politics, Bukele, America's debt and Bitcoin.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin\" rel=\"nofollow\">&#8220;We Need to Change Our Management&#8221;: Ricardo Salinas on Mexico&#8217;s Future, Bukele and Bitcoin</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/efrat-fenigson\" rel=\"nofollow\">Efrat Fenigson</a>.</p>",
-          "url": "https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin",
-          "published": "2026-11-17T14:54:10+00:00",
+          "title": "Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=ScFmMFEZRWY\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/ScFmMFEZRWY/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch-ScFmMFEZRWY.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch\" rel=\"nofollow\">Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch</a></p>\n<p>Mark Yusko says we are in a bad  right now.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch\" rel=\"nofollow\">Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
+          "published": "2026-11-17T20:30:34+00:00",
           "coins": [
             "BTC"
           ],
-          "compound": -0.6597,
+          "compound": -0.8885,
           "label": "BEARISH",
-          "confidence": 0.6597
+          "confidence": 0.8885
+        }
+      ],
+      "no_news": false
+    },
+    "USDC": {
+      "article_count": 1,
+      "avg_compound": -0.2732,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+          "summary": "The institution will test whether Circle\u2019s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
+          "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+          "published": "2026-11-17T20:56:03+00:00",
+          "coins": [
+            "USDC"
+          ],
+          "compound": -0.2732,
+          "label": "BEARISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 4,
+      "avg_compound": 0.2262,
+      "overall": "BULLISH",
+      "bullish": 3,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+          "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
+          "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
+          "published": "2026-11-17T15:30:37+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.4588,
+          "label": "BULLISH",
+          "confidence": 0.4588
+        },
+        {
+          "source": "TheBlock",
+          "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+          "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
+          "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+          "published": "2026-11-17T18:00:02+00:00",
+          "coins": [
+            "BTC",
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.4019,
+          "label": "BULLISH",
+          "confidence": 0.4019
+        },
+        {
+          "source": "Decrypt",
+          "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+          "summary": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
+          "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+          "published": "2026-11-17T12:50:55+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": 0.34,
+          "label": "BULLISH",
+          "confidence": 0.34
         }
       ],
       "no_news": false
     },
     "ETH": {
       "article_count": 5,
-      "avg_compound": -0.1842,
+      "avg_compound": -0.1083,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 3,
       "neutral": 1,
       "top_articles": [
         {
-          "source": "Decrypt",
-          "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-          "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
-          "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-          "published": "2026-11-17T09:27:29+00:00",
+          "source": "CoinDesk",
+          "title": "U.S. judge says Ethereum has \u2018no terms of use,\u2019 clears MIT brothers of $25 million fraud",
+          "summary": "",
+          "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+          "published": "2026-11-18T05:30:10+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": -0.9217,
+          "compound": -0.5423,
           "label": "BEARISH",
-          "confidence": 0.9217
+          "confidence": 0.5423
         },
         {
           "source": "TheBlock",
@@ -222,6 +198,30 @@
             "BNB",
             "ETH",
             "BTC"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "XRP whales moved $270 million during the selloff. The coins didn\u2019t go to exchanges",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+          "published": "2026-11-18T04:28:37+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -350,7 +350,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "XRP": {
+    "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -362,6 +362,28 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+      "summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety.",
+      "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+      "published": "2026-11-17T21:46:02+00:00",
+      "coins": [],
+      "compound": 0.9186,
+      "label": "BULLISH",
+      "confidence": 0.9186
+    },
+    {
+      "source": "TheBlock",
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+      "published": "2026-11-18T02:47:51+00:00",
+      "coins": [],
+      "compound": -0.8519,
+      "label": "BEARISH",
+      "confidence": 0.8519
+    },
     {
       "source": "Decrypt",
       "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
@@ -419,14 +441,25 @@
     },
     {
       "source": "TheBlock",
-      "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
-      "summary": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
-      "published": "2026-11-17T10:49:40+00:00",
+      "title": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "summary": "President Donald Trump\u2019s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+      "published": "2026-11-17T23:32:46+00:00",
       "coins": [],
-      "compound": -0.6124,
+      "compound": -0.5994,
       "label": "BEARISH",
-      "confidence": 0.6124
+      "confidence": 0.5994
+    },
+    {
+      "source": "TheBlock",
+      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+      "summary": "Robinhood brushes off Kalshi\u2019s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+      "url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "published": "2026-11-17T22:23:29+00:00",
+      "coins": [],
+      "compound": -0.5267,
+      "label": "BEARISH",
+      "confidence": 0.5267
     },
     {
       "source": "CoinDesk",
@@ -452,6 +485,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "published": "2026-11-17T21:25:50+00:00",
+      "coins": [],
+      "compound": 0.5,
+      "label": "BULLISH",
+      "confidence": 0.5
+    },
+    {
+      "source": "CoinDesk",
       "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
@@ -462,15 +506,26 @@
       "confidence": 0.4939
     },
     {
-      "source": "CoinDesk",
-      "title": "New DeFi-yield generation targets \u2018scam-like\u2019 bank accounts that keep all the interest",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-      "published": "2026-11-17T11:25:58+00:00",
+      "source": "Decrypt",
+      "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+      "summary": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China.",
+      "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+      "published": "2026-11-17T22:39:53+00:00",
       "coins": [],
-      "compound": 0.4588,
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+      "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything.",
+      "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "published": "2026-11-17T23:16:03+00:00",
+      "coins": [],
+      "compound": 0.4716,
       "label": "BULLISH",
-      "confidence": 0.4588
+      "confidence": 0.4716
     },
     {
       "source": "Decrypt",
@@ -482,17 +537,6 @@
       "compound": -0.4404,
       "label": "BEARISH",
       "confidence": 0.4404
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
-      "summary": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return.",
-      "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
-      "published": "2026-11-17T09:54:32+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
     },
     {
       "source": "CoinDesk",
@@ -517,15 +561,15 @@
       "confidence": 0.34
     },
     {
-      "source": "TheBlock",
-      "title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
-      "summary": "Grvt\u2019s Stable Funding Perps debut across seven commodity markets, with funding rates linked to market makers\u2019 financing costs.",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
-      "published": "2026-11-17T13:00:00+00:00",
+      "source": "CoinDesk",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "published": "2026-11-18T00:46:25+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.2263,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.2263
     },
     {
       "source": "CoinDesk",
@@ -539,22 +583,33 @@
       "confidence": 0.2023
     },
     {
-      "source": "CoinDesk",
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-      "published": "2026-11-17T10:48:12+00:00",
+      "source": "TheBlock",
+      "title": "What\u2019s happening to crypto startup valuations?",
+      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+      "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "published": "2026-11-18T02:40:00+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
-      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
-      "summary": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
-      "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-      "published": "2026-11-16T22:46:02+00:00",
+      "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+      "summary": "The chipmaker doubled quarterly revenue, forecast another record and rallied after hours, but its first report without Jensen Huang leaves leadership questions and a deeply bruised stock chart unresolved.",
+      "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+      "published": "2026-11-17T22:18:18+00:00",
+      "coins": [],
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
+    },
+    {
+      "source": "TheBlock",
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
+      "summary": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more.",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902",
+      "published": "2026-11-18T05:01:00+00:00",
       "coins": [],
       "compound": 0.1027,
       "label": "BULLISH",
@@ -594,17 +649,6 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
-      "published": "2026-11-17T10:22:18+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
       "source": "Decrypt",
       "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
       "summary": "CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question\u2014who\u2019s next?",
@@ -628,10 +672,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
-      "summary": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
-      "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
-      "published": "2026-11-17T13:08:34+00:00",
+      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
+      "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+      "published": "2026-11-18T04:21:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
