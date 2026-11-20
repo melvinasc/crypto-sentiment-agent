@@ -1,54 +1,81 @@
 {
-  "generated_at": "2026-11-20T06:55:21.414983+00:00",
+  "generated_at": "2026-11-20T19:55:48.077579+00:00",
   "total_articles": 55,
   "coins": {
-    "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.3418,
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.4723,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "CoinDesk",
-          "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
-          "published": "2026-11-19T15:20:38+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.5719,
-          "label": "BULLISH",
-          "confidence": 0.5719
-        },
-        {
           "source": "TheBlock",
-          "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a \u2018value zone\u2019, and more",
-          "summary": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
-          "published": "2026-11-19T06:00:00+00:00",
+          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+          "published": "2026-11-20T12:12:29+00:00",
           "coins": [
-            "BNB",
-            "BTC"
+            "ETH",
+            "SOL"
           ],
-          "compound": 0.4019,
+          "compound": 0.6486,
           "label": "BULLISH",
-          "confidence": 0.4019
+          "confidence": 0.6486
         },
         {
           "source": "Decrypt",
-          "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-          "summary": "An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a \"living list\" of 26,000 wallets holding stolen funds.",
-          "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-          "published": "2026-11-19T12:59:14+00:00",
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+          "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+          "published": "2026-11-20T18:46:03+00:00",
           "coins": [
-            "BNB"
+            "ETH",
+            "SOL"
           ],
-          "compound": 0.0516,
+          "compound": 0.296,
           "label": "BULLISH",
-          "confidence": 0.0516
+          "confidence": 0.296
+        }
+      ],
+      "no_news": false
+    },
+    "SOL": {
+      "article_count": 2,
+      "avg_compound": 0.4723,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+          "published": "2026-11-20T12:12:29+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6486,
+          "label": "BULLISH",
+          "confidence": 0.6486
+        },
+        {
+          "source": "Decrypt",
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+          "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+          "published": "2026-11-20T18:46:03+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
         }
       ],
       "no_news": false
@@ -91,12 +118,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 24,
-      "avg_compound": -0.0469,
+      "article_count": 22,
+      "avg_compound": -0.0314,
       "overall": "NEUTRAL",
-      "bullish": 7,
+      "bullish": 10,
       "bearish": 10,
-      "neutral": 7,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -112,11 +139,11 @@
           "confidence": 0.9839
         },
         {
-          "source": "Bitcoin Magazine",
-          "title": "Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come",
-          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=GVYglll7Wgs\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/GVYglll7Wgs/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come-GVYglll7Wgs.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come\" rel=\"nofollow\">Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come</a></p>\n<p>Darius Dale, Founder &#38; CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come\" rel=\"nofollow\">Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
-          "published": "2026-11-19T20:15:14+00:00",
+          "source": "Decrypt",
+          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+          "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "published": "2026-11-20T16:35:59+00:00",
           "coins": [
             "BTC"
           ],
@@ -140,72 +167,7 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum\u2019s next big upgrade is pushed into 2027 by apps it would break",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-          "published": "2026-11-20T04:58:08+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        },
-        {
-          "source": "CoinDesk",
-          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-          "published": "2026-11-20T04:28:52+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 1,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-          "published": "2026-11-20T04:28:52+00:00",
-          "coins": [
-            "BTC",
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "USDC": {
+    "BNB": {
       "article_count": 1,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -215,12 +177,13 @@
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "1inch integrates Hyperliquid\u2019s perpetual futures contracts into its dApp and wallet platform",
-          "summary": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid.",
-          "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
-          "published": "2026-11-19T11:00:00+00:00",
+          "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+          "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+          "published": "2026-11-20T18:22:39+00:00",
           "coins": [
-            "USDC"
+            "BNB",
+            "BTC"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -349,6 +312,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "USDC": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "USDT": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -362,15 +335,70 @@
   },
   "uncategorised": [
     {
-      "source": "Decrypt",
-      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
-      "summary": "At least four people were arrested outside Nasdaq during Anthropic\u2019s historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader economic losses.",
-      "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
-      "published": "2026-11-19T17:55:38+00:00",
+      "source": "TheBlock",
+      "title": "Senate passes \u2018Death Bets Act\u2019 to ban prediction market contracts tied to death and war",
+      "summary": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+      "published": "2026-11-20T10:09:25+00:00",
       "coins": [],
-      "compound": -0.9524,
+      "compound": -0.9892,
       "label": "BEARISH",
-      "confidence": 0.9524
+      "confidence": 0.9892
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "published": "2026-11-20T15:42:51+00:00",
+      "coins": [],
+      "compound": -0.9791,
+      "label": "BEARISH",
+      "confidence": 0.9791
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "published": "2026-11-20T14:25:57+00:00",
+      "coins": [],
+      "compound": -0.9081,
+      "label": "BEARISH",
+      "confidence": 0.9081
+    },
+    {
+      "source": "TheBlock",
+      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
+      "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+      "published": "2026-11-20T10:39:09+00:00",
+      "coins": [],
+      "compound": 0.8807,
+      "label": "BULLISH",
+      "confidence": 0.8807
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "summary": "Wagyu\u2019s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+      "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "published": "2026-11-20T17:41:45+00:00",
+      "coins": [],
+      "compound": -0.8402,
+      "label": "BEARISH",
+      "confidence": 0.8402
+    },
+    {
+      "source": "Decrypt",
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+      "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+      "published": "2026-11-20T12:10:14+00:00",
+      "coins": [],
+      "compound": 0.8074,
+      "label": "BULLISH",
+      "confidence": 0.8074
     },
     {
       "source": "Decrypt",
@@ -385,17 +413,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
-      "summary": "The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger.",
-      "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
-      "published": "2026-11-19T15:54:03+00:00",
-      "coins": [],
-      "compound": 0.7783,
-      "label": "BULLISH",
-      "confidence": 0.7783
-    },
-    {
-      "source": "Decrypt",
       "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
       "summary": "A ransomware group breached third-party vendors, not the companies\u2019 own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
       "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
@@ -406,37 +423,26 @@
       "confidence": 0.7269
     },
     {
+      "source": "Decrypt",
+      "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+      "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
+      "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+      "published": "2026-11-20T13:23:01+00:00",
+      "coins": [],
+      "compound": 0.6478,
+      "label": "BULLISH",
+      "confidence": 0.6478
+    },
+    {
       "source": "TheBlock",
-      "title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
-      "summary": "The Threat Disruption Center will help investigators trace victims\u2019 funds and identify crypto wallets used by scammers.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
-      "published": "2026-11-19T11:55:06+00:00",
+      "title": "Michael Saylor sees up to $7.5 billion in \u2018natural demand\u2019 for Strategy\u2019s STRC preferred stock",
+      "summary": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
+      "url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+      "published": "2026-11-20T08:02:36+00:00",
       "coins": [],
-      "compound": -0.6486,
-      "label": "BEARISH",
-      "confidence": 0.6486
-    },
-    {
-      "source": "Decrypt",
-      "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
-      "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector.",
-      "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
-      "published": "2026-11-19T16:55:10+00:00",
-      "coins": [],
-      "compound": 0.6249,
+      "compound": 0.6124,
       "label": "BULLISH",
-      "confidence": 0.6249
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Google\u2019s Newest AI Model Tops Benchmarks Ahead of Anthropic IPO",
-      "summary": "Anthropic bulls seem to be shrugging off the news, as ANT pops 25% over IPO price on Hyperliquid pre-debut.",
-      "url": "https://decrypt.co/383609/morning-minute-googles-newest-ai-model-tops-benchmarks-ahead-of-anthropic-ipo",
-      "published": "2026-11-19T13:05:28+00:00",
-      "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.6124
     },
     {
       "source": "TheBlock",
@@ -451,58 +457,91 @@
     },
     {
       "source": "Decrypt",
-      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-      "summary": "The global securities watchdog said markets shouldn't wait for quantum computers to arrive, flagging bulkier signatures and harder upgrades.",
-      "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-      "published": "2026-11-19T13:47:00+00:00",
+      "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+      "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection.",
+      "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+      "published": "2026-11-20T18:16:02+00:00",
       "coins": [],
-      "compound": 0.4754,
-      "label": "BULLISH",
-      "confidence": 0.4754
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Falling prices drove October\u2019s 10% drop in institutional crypto exposure",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
-      "published": "2026-11-19T16:09:28+00:00",
-      "coins": [],
-      "compound": -0.4019,
+      "compound": -0.5023,
       "label": "BEARISH",
-      "confidence": 0.4019
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
-      "summary": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia.",
-      "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
-      "published": "2026-11-19T04:13:18+00:00",
-      "coins": [],
-      "compound": 0.3818,
-      "label": "BULLISH",
-      "confidence": 0.3818
+      "confidence": 0.5023
     },
     {
       "source": "Decrypt",
-      "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-      "summary": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it and most remain skeptical.",
-      "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
-      "published": "2026-11-19T14:01:02+00:00",
+      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+      "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
+      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+      "published": "2026-11-20T10:07:46+00:00",
       "coins": [],
-      "compound": -0.3774,
+      "compound": -0.4988,
       "label": "BEARISH",
-      "confidence": 0.3774
+      "confidence": 0.4988
     },
     {
-      "source": "TheBlock",
-      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-      "summary": "Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges",
-      "url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
-      "published": "2026-11-19T18:04:15+00:00",
+      "source": "CoinDesk",
+      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
+      "published": "2026-11-20T09:48:52+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "SBF\u2019s 'The Altruists' Plot Twist: FTX\u2019s Anthropic Shares Would Be Worth $43 Billion",
+      "summary": "Anthropic\u2019s IPO made FTX\u2019s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama.",
+      "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "published": "2026-11-20T19:36:03+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
+      "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+      "published": "2026-11-20T11:23:00+00:00",
+      "coins": [],
+      "compound": 0.4215,
+      "label": "BULLISH",
+      "confidence": 0.4215
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "published": "2026-11-20T14:54:30+00:00",
       "coins": [],
       "compound": 0.3612,
       "label": "BULLISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "TheBlock",
+      "title": "Wagyu\u2019s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "summary": "Wagyu\u2019s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "published": "2026-11-20T16:11:22+00:00",
+      "coins": [],
+      "compound": -0.3612,
+      "label": "BEARISH",
+      "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+      "published": "2026-11-20T10:02:03+00:00",
+      "coins": [],
+      "compound": -0.3089,
+      "label": "BEARISH",
+      "confidence": 0.3089
     },
     {
       "source": "CoinDesk",
@@ -516,11 +555,33 @@
       "confidence": 0.296
     },
     {
+      "source": "TheBlock",
+      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+      "published": "2026-11-20T19:41:52+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
+      "source": "TheBlock",
+      "title": "Wintermute policy chief calls for crypto lobby to \u2018clean house\u2019 in D.C.",
+      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "published": "2026-11-20T14:36:10+00:00",
+      "coins": [],
+      "compound": 0.2023,
+      "label": "BULLISH",
+      "confidence": 0.2023
+    },
+    {
       "source": "CoinDesk",
-      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
       "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-      "published": "2026-11-19T17:01:47+00:00",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "published": "2026-11-20T14:38:30+00:00",
       "coins": [],
       "compound": 0.1779,
       "label": "BULLISH",
@@ -538,44 +599,22 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
-      "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
-      "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
-      "published": "2026-11-19T10:39:29+00:00",
+      "source": "CoinDesk",
+      "title": "ECB\u2019s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+      "published": "2026-11-20T13:11:49+00:00",
       "coins": [],
-      "compound": 0.128,
-      "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
-      "summary": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading.",
-      "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
-      "published": "2026-11-19T17:28:03+00:00",
-      "coins": [],
-      "compound": 0.101,
-      "label": "BULLISH",
-      "confidence": 0.101
-    },
-    {
-      "source": "Decrypt",
-      "title": "GameStop CEO Says Digital-Only Games Have \u2018Hurt Consumers\u2019 as GTA 6 Skips Discs",
-      "summary": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.",
-      "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
-      "published": "2026-11-19T11:15:08+00:00",
-      "coins": [],
-      "compound": 0.0772,
-      "label": "BULLISH",
-      "confidence": 0.0772
+      "compound": 0.0258,
+      "label": "NEUTRAL",
+      "confidence": 0.0258
     },
     {
       "source": "CoinDesk",
-      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-      "published": "2026-11-19T19:53:42+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+      "published": "2026-11-20T10:48:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -583,21 +622,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-      "published": "2026-11-19T18:15:56+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders vs. Wall Street: OKX\u2019s Anthropic markets put IPO pricing to the test",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
-      "published": "2026-11-19T13:11:31+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+      "published": "2026-11-20T08:04:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -616,21 +644,10 @@
     },
     {
       "source": "TheBlock",
-      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
-      "summary": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
-      "published": "2026-11-19T16:01:16+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Singapore\u2019s MAS issues $77 million in tokenized bills settled via CBDC",
-      "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
-      "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
-      "published": "2026-11-19T08:25:35+00:00",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "published": "2026-11-20T14:51:32+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
