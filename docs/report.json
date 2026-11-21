@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-11-20T19:55:48.077579+00:00",
+  "generated_at": "2026-11-21T06:50:36.580459+00:00",
   "total_articles": 55,
   "coins": {
-    "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.4723,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
-          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-          "published": "2026-11-20T12:12:29+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.6486,
-          "label": "BULLISH",
-          "confidence": 0.6486
-        },
-        {
-          "source": "Decrypt",
-          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
-          "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
-          "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
-          "published": "2026-11-20T18:46:03+00:00",
-          "coins": [
-            "ETH",
-            "SOL"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.4723,
@@ -80,9 +41,111 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.3149,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
+          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+          "published": "2026-11-20T12:12:29+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.6486,
+          "label": "BULLISH",
+          "confidence": 0.6486
+        },
+        {
+          "source": "Decrypt",
+          "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+          "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker\u2019s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+          "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+          "published": "2026-11-20T18:46:03+00:00",
+          "coins": [
+            "ETH",
+            "SOL"
+          ],
+          "compound": 0.296,
+          "label": "BULLISH",
+          "confidence": 0.296
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+          "published": "2026-11-20T22:05:31+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.2179,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 14,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
+          "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+          "published": "2026-11-21T04:30:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9606,
+          "label": "BEARISH",
+          "confidence": 0.9606
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+          "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "published": "2026-11-20T16:35:59+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9042,
+          "label": "BEARISH",
+          "confidence": 0.9042
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq\" rel=\"nofollow\">Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%</a></p>\n<p>The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq\" rel=\"nofollow\">Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+          "published": "2026-11-20T21:08:02+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8225,
+          "label": "BEARISH",
+          "confidence": 0.8225
+        }
+      ],
+      "no_news": false
+    },
     "XRP": {
       "article_count": 2,
-      "avg_compound": -0.2375,
+      "avg_compound": -0.1744,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 1,
@@ -102,67 +165,17 @@
           "confidence": 0.5267
         },
         {
-          "source": "TheBlock",
-          "title": "Ripple\u2019s Alderoty doubts Elizabeth Warren will \u2018set crypto policy in this country,\u2019 backs durable agency rules",
-          "summary": "Ripple\u2019s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
-          "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-          "published": "2026-11-19T18:47:30+00:00",
+          "source": "CoinDesk",
+          "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+          "published": "2026-11-21T05:59:19+00:00",
           "coins": [
             "XRP"
           ],
-          "compound": 0.0516,
+          "compound": 0.1779,
           "label": "BULLISH",
-          "confidence": 0.0516
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 22,
-      "avg_compound": -0.0314,
-      "overall": "NEUTRAL",
-      "bullish": 10,
-      "bearish": 10,
-      "neutral": 2,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/02/U.S.-Government-Seizes-Over-580-Million-in-Crypto-Linked-to-Southeast-Asian-Scams.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam\" rel=\"nofollow\">SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam</a></p>\n<p>The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake SEC certificates.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam\" rel=\"nofollow\">SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
-          "published": "2026-11-19T21:45:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9839,
-          "label": "BEARISH",
-          "confidence": 0.9839
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-          "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
-          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-          "published": "2026-11-20T16:35:59+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9042,
-          "label": "BEARISH",
-          "confidence": 0.9042
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2025/12/Strategy-Urges-MSCI-to-Keep-Digital-Asset-Treasury-Companies-in-Global-Indexes.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000\" rel=\"nofollow\">Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides</a></p>\n<p>Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000\" rel=\"nofollow\">Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
-          "published": "2026-11-19T21:53:36+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.886,
-          "label": "BULLISH",
-          "confidence": 0.886
+          "confidence": 0.1779
         }
       ],
       "no_news": false
@@ -413,17 +426,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "summary": "A ransomware group breached third-party vendors, not the companies\u2019 own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-      "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-      "published": "2026-11-19T20:15:32+00:00",
-      "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
-    },
-    {
-      "source": "Decrypt",
       "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
       "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class.",
       "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
@@ -432,6 +434,17 @@
       "compound": 0.6478,
       "label": "BULLISH",
       "confidence": 0.6478
+    },
+    {
+      "source": "TheBlock",
+      "title": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
+      "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+      "published": "2026-11-20T21:40:01+00:00",
+      "coins": [],
+      "compound": 0.6249,
+      "label": "BULLISH",
+      "confidence": 0.6249
     },
     {
       "source": "TheBlock",
@@ -478,15 +491,15 @@
       "confidence": 0.4988
     },
     {
-      "source": "CoinDesk",
-      "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-      "published": "2026-11-20T09:48:52+00:00",
+      "source": "Decrypt",
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang\u2019s resignation.",
+      "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+      "published": "2026-11-20T20:36:54+00:00",
       "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
-      "confidence": 0.4767
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
     },
     {
       "source": "Decrypt",
@@ -533,28 +546,6 @@
       "confidence": 0.3612
     },
     {
-      "source": "CoinDesk",
-      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-      "published": "2026-11-20T10:02:03+00:00",
-      "coins": [],
-      "compound": -0.3089,
-      "label": "BEARISH",
-      "confidence": 0.3089
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Anthropic shares may fall 5% at Friday\u2019s open, crypto futures suggest",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-      "published": "2026-11-20T06:08:28+00:00",
-      "coins": [],
-      "compound": 0.296,
-      "label": "BULLISH",
-      "confidence": 0.296
-    },
-    {
       "source": "TheBlock",
       "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
       "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
@@ -588,17 +579,6 @@
       "confidence": 0.1779
     },
     {
-      "source": "TheBlock",
-      "title": "Kalshi\u2019s Quintenz says insider trading is \u2018just easier to see\u2019 in prediction markets than stocks",
-      "summary": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
-      "url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-      "published": "2026-11-19T20:20:59+00:00",
-      "coins": [],
-      "compound": -0.1779,
-      "label": "BEARISH",
-      "confidence": 0.1779
-    },
-    {
       "source": "CoinDesk",
       "title": "ECB\u2019s Lagarde warns Europe could lose control of growing tokenized asset market",
       "summary": "",
@@ -608,6 +588,17 @@
       "compound": 0.0258,
       "label": "NEUTRAL",
       "confidence": 0.0258
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "published": "2026-11-20T22:51:14+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -621,11 +612,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
-      "published": "2026-11-20T08:04:40+00:00",
+      "source": "Decrypt",
+      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+      "summary": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publication timing.",
+      "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "published": "2026-11-20T21:36:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
