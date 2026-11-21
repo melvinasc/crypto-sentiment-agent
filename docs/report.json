@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-11-21T06:50:36.580459+00:00",
+  "generated_at": "2026-11-21T19:01:11.550887+00:00",
   "total_articles": 55,
   "coins": {
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": -0.8442,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+          "summary": "Tech stocks are buckling after Anthropic\u2019s historic IPO and Nvidia\u2019s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+          "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+          "published": "2026-11-21T14:01:06+00:00",
+          "coins": [
+            "BTC",
+            "DOT"
+          ],
+          "compound": -0.8442,
+          "label": "BEARISH",
+          "confidence": 0.8442
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.4723,
@@ -41,11 +66,62 @@
       ],
       "no_news": false
     },
+    "BTC": {
+      "article_count": 23,
+      "avg_compound": -0.2753,
+      "overall": "BEARISH",
+      "bullish": 7,
+      "bearish": 15,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
+          "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+          "published": "2026-11-21T04:30:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9606,
+          "label": "BEARISH",
+          "confidence": 0.9606
+        },
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+          "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "published": "2026-11-20T16:35:59+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9042,
+          "label": "BEARISH",
+          "confidence": 0.9042
+        },
+        {
+          "source": "Decrypt",
+          "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+          "summary": "Tech stocks are buckling after Anthropic\u2019s historic IPO and Nvidia\u2019s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+          "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+          "published": "2026-11-21T14:01:06+00:00",
+          "coins": [
+            "BTC",
+            "DOT"
+          ],
+          "compound": -0.8442,
+          "label": "BEARISH",
+          "confidence": 0.8442
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.3149,
+      "article_count": 4,
+      "avg_compound": 0.2618,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 3,
       "bearish": 0,
       "neutral": 1,
       "top_articles": [
@@ -79,91 +155,28 @@
         },
         {
           "source": "CoinDesk",
-          "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+          "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
           "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-          "published": "2026-11-20T22:05:31+00:00",
+          "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+          "published": "2026-11-21T12:30:00+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 23,
-      "avg_compound": -0.2179,
-      "overall": "BEARISH",
-      "bullish": 8,
-      "bearish": 14,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
-          "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-          "published": "2026-11-21T04:30:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9606,
-          "label": "BEARISH",
-          "confidence": 0.9606
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-          "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic\u2019s IPO.",
-          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-          "published": "2026-11-20T16:35:59+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9042,
-          "label": "BEARISH",
-          "confidence": 0.9042
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Bitcoin-Price-Falls-Below-72000-as-Nvidia-CEO-Jensen-Huang-Steps-Down-and-Strategy-MSTR-Slides.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq\" rel=\"nofollow\">Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%</a></p>\n<p>The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq\" rel=\"nofollow\">Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
-          "published": "2026-11-20T21:08:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8225,
-          "label": "BEARISH",
-          "confidence": 0.8225
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
     },
     "XRP": {
-      "article_count": 2,
-      "avg_compound": -0.1744,
-      "overall": "BEARISH",
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 1,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-          "summary": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
-          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-          "published": "2026-11-20T05:40:00+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": -0.5267,
-          "label": "BEARISH",
-          "confidence": 0.5267
-        },
         {
           "source": "CoinDesk",
           "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
@@ -236,16 +249,6 @@
       "no_news": true
     },
     "DOGE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "DOT": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -370,6 +373,17 @@
       "confidence": 0.9791
     },
     {
+      "source": "Decrypt",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms\u2014even faking SEC certificates and filings\u2014to defraud U.S. investors of more than $37 million.",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "published": "2026-11-21T17:01:02+00:00",
+      "coins": [],
+      "compound": -0.91,
+      "label": "BEARISH",
+      "confidence": 0.91
+    },
+    {
       "source": "CoinDesk",
       "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
       "summary": "",
@@ -403,6 +417,17 @@
       "confidence": 0.8402
     },
     {
+      "source": "TheBlock",
+      "title": "Chainflip\u2019s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data.",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "published": "2026-11-21T15:24:14+00:00",
+      "coins": [],
+      "compound": -0.8271,
+      "label": "BEARISH",
+      "confidence": 0.8271
+    },
+    {
       "source": "Decrypt",
       "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
       "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
@@ -415,14 +440,14 @@
     },
     {
       "source": "Decrypt",
-      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-      "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
-      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-      "published": "2026-11-19T21:12:06+00:00",
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "published": "2026-11-21T16:01:02+00:00",
       "coins": [],
-      "compound": 0.7906,
-      "label": "BULLISH",
-      "confidence": 0.7906
+      "compound": -0.7964,
+      "label": "BEARISH",
+      "confidence": 0.7964
     },
     {
       "source": "Decrypt",
@@ -459,14 +484,14 @@
     },
     {
       "source": "TheBlock",
-      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "summary": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.",
-      "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-      "published": "2026-11-20T04:24:05+00:00",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "published": "2026-11-21T18:51:14+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.5719,
+      "label": "BEARISH",
+      "confidence": 0.5719
     },
     {
       "source": "Decrypt",
@@ -478,17 +503,6 @@
       "compound": -0.5023,
       "label": "BEARISH",
       "confidence": 0.5023
-    },
-    {
-      "source": "Decrypt",
-      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-      "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-      "published": "2026-11-20T10:07:46+00:00",
-      "coins": [],
-      "compound": -0.4988,
-      "label": "BEARISH",
-      "confidence": 0.4988
     },
     {
       "source": "Decrypt",
@@ -513,17 +527,6 @@
       "confidence": 0.4767
     },
     {
-      "source": "Decrypt",
-      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-      "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
-      "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
-      "published": "2026-11-20T11:23:00+00:00",
-      "coins": [],
-      "compound": 0.4215,
-      "label": "BULLISH",
-      "confidence": 0.4215
-    },
-    {
       "source": "CoinDesk",
       "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
       "summary": "",
@@ -544,6 +547,17 @@
       "compound": -0.3612,
       "label": "BEARISH",
       "confidence": 0.3612
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "published": "2026-11-21T16:41:00+00:00",
+      "coins": [],
+      "compound": -0.2263,
+      "label": "BEARISH",
+      "confidence": 0.2263
     },
     {
       "source": "TheBlock",
@@ -601,11 +615,11 @@
       "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "published": "2026-11-20T10:48:04+00:00",
+      "source": "Decrypt",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "published": "2026-11-21T18:01:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -617,17 +631,6 @@
       "summary": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publication timing.",
       "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
       "published": "2026-11-20T21:36:02+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "Decrypt",
-      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
-      "summary": "Citibank\u2019s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-      "published": "2026-11-19T22:36:02+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
