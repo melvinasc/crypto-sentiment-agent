@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:25:20.833569+00:00",
+  "generated_at": "2026-11-23T07:14:18.101201+00:00",
   "total_articles": 55,
   "coins": {
     "DOT": {
@@ -37,10 +37,10 @@
       "top_articles": [
         {
           "source": "TheBlock",
-          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
-          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-          "published": "2026-11-20T12:12:29+00:00",
+          "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+          "summary": "Cathie Wood's Ark Invest has bought 1.64 million shares in Anthropic, worth $145.9 million, since its Thursday IPO.",
+          "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+          "published": "2026-11-23T07:12:52+00:00",
           "coins": [
             "ETH",
             "SOL"
@@ -68,11 +68,11 @@
     },
     "BTC": {
       "article_count": 23,
-      "avg_compound": -0.2849,
+      "avg_compound": -0.2913,
       "overall": "BEARISH",
-      "bullish": 7,
+      "bullish": 6,
       "bearish": 14,
-      "neutral": 2,
+      "neutral": 3,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -141,6 +141,30 @@
       ],
       "no_news": false
     },
+    "ADA": {
+      "article_count": 1,
+      "avg_compound": 0.1027,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Cardano holders are turning down a $4 million request for running its flagship event",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+          "published": "2026-11-23T06:15:45+00:00",
+          "coins": [
+            "ADA"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 5,
       "avg_compound": 0.037,
@@ -165,10 +189,10 @@
         },
         {
           "source": "TheBlock",
-          "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-          "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
-          "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-          "published": "2026-11-20T12:12:29+00:00",
+          "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+          "summary": "Cathie Wood's Ark Invest has bought 1.64 million shares in Anthropic, worth $145.9 million, since its Thursday IPO.",
+          "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+          "published": "2026-11-23T07:12:52+00:00",
           "coins": [
             "ETH",
             "SOL"
@@ -218,16 +242,6 @@
         }
       ],
       "no_news": false
-    },
-    "ADA": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     },
     "AVAX": {
       "article_count": 0,
@@ -374,28 +388,6 @@
       "confidence": 0.91
     },
     {
-      "source": "CoinDesk",
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "published": "2026-11-20T14:25:57+00:00",
-      "coins": [],
-      "compound": -0.9081,
-      "label": "BEARISH",
-      "confidence": 0.9081
-    },
-    {
-      "source": "TheBlock",
-      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
-      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
-      "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
-      "published": "2026-11-20T10:39:09+00:00",
-      "coins": [],
-      "compound": 0.8807,
-      "label": "BULLISH",
-      "confidence": 0.8807
-    },
-    {
       "source": "Decrypt",
       "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
       "summary": "Wagyu\u2019s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
@@ -463,6 +455,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "published": "2026-11-22T20:58:33+00:00",
+      "coins": [],
+      "compound": 0.5994,
+      "label": "BULLISH",
+      "confidence": 0.5994
+    },
+    {
+      "source": "TheBlock",
       "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
       "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
       "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
@@ -482,6 +485,17 @@
       "compound": -0.5574,
       "label": "BEARISH",
       "confidence": 0.5574
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "published": "2026-11-23T04:45:47+00:00",
+      "coins": [],
+      "compound": -0.5423,
+      "label": "BEARISH",
+      "confidence": 0.5423
     },
     {
       "source": "Decrypt",
@@ -528,15 +542,15 @@
       "confidence": 0.4019
     },
     {
-      "source": "CoinDesk",
-      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
-      "published": "2026-11-20T14:54:30+00:00",
+      "source": "TheBlock",
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist\u2019s ACE bridge",
+      "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+      "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "published": "2026-11-22T23:17:08+00:00",
       "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
     },
     {
       "source": "TheBlock",
@@ -572,26 +586,15 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "Wintermute policy chief calls for crypto lobby to \u2018clean house\u2019 in D.C.",
-      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
-      "published": "2026-11-20T14:36:10+00:00",
-      "coins": [],
-      "compound": 0.2023,
-      "label": "BULLISH",
-      "confidence": 0.2023
-    },
-    {
       "source": "CoinDesk",
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "title": "More on the pending oversight hearings: State of Crypto",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "published": "2026-11-20T14:38:30+00:00",
+      "url": "https://www.coindesk.com/",
+      "published": "2026-11-22T19:30:00+00:00",
       "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
