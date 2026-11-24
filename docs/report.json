@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:44:32.938496+00:00",
+  "generated_at": "2026-11-24T09:37:31.609419+00:00",
   "total_articles": 55,
   "coins": {
     "USDC": {
@@ -23,60 +23,6 @@
           "compound": 0.5267,
           "label": "BULLISH",
           "confidence": 0.5267
-        }
-      ],
-      "no_news": false
-    },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": -0.373,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
-      "neutral": 1,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
-          "published": "2026-11-23T12:13:35+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": -0.7579,
-          "label": "BEARISH",
-          "confidence": 0.7579
-        },
-        {
-          "source": "Decrypt",
-          "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
-          "summary": "Chairman Tom Lee argued ETH\u2019s supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82% and far below Solana, XRP and Cardano.",
-          "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-          "published": "2026-11-23T16:46:03+00:00",
-          "coins": [
-            "ETH",
-            "BTC",
-            "SOL",
-            "XRP",
-            "ADA"
-          ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitmine adds 7,819 ETH as Tom Lee makes the \u2018hard money\u2019 case",
-          "summary": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply.",
-          "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
-          "published": "2026-11-23T15:02:41+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.0,
-          "label": "NEUTRAL",
-          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -137,6 +83,61 @@
       ],
       "no_news": false
     },
+    "ETH": {
+      "article_count": 4,
+      "avg_compound": -0.2115,
+      "overall": "BEARISH",
+      "bullish": 1,
+      "bearish": 2,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
+          "published": "2026-11-23T12:13:35+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": -0.7579,
+          "label": "BEARISH",
+          "confidence": 0.7579
+        },
+        {
+          "source": "Decrypt",
+          "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin\u2014And Bitmine Just Bought More",
+          "summary": "Chairman Tom Lee argued ETH\u2019s supply has grown just 0.90% annually since mid-2025\u2014roughly matching Bitcoin\u2019s 0.82% and far below Solana, XRP and Cardano.",
+          "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+          "published": "2026-11-23T16:46:03+00:00",
+          "coins": [
+            "ETH",
+            "BTC",
+            "SOL",
+            "XRP",
+            "ADA"
+          ],
+          "compound": -0.3612,
+          "label": "BEARISH",
+          "confidence": 0.3612
+        },
+        {
+          "source": "TheBlock",
+          "title": "CFTC staff say bitcoin, ether can count toward derivatives firms\u2019 operating expenses",
+          "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+          "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+          "published": "2026-11-24T00:33:22+00:00",
+          "coins": [
+            "BTC",
+            "ETH"
+          ],
+          "compound": 0.2732,
+          "label": "BULLISH",
+          "confidence": 0.2732
+        }
+      ],
+      "no_news": false
+    },
     "SOL": {
       "article_count": 2,
       "avg_compound": 0.1742,
@@ -179,26 +180,13 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.1254,
+      "article_count": 27,
+      "avg_compound": -0.1386,
       "overall": "BEARISH",
       "bullish": 8,
       "bearish": 15,
-      "neutral": 5,
+      "neutral": 4,
       "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-          "summary": "A small-scale miner won a Bitcoin block reward despite operating a tiny fraction of the network's hashpower.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-          "published": "2026-11-23T13:37:02+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": 0.8779,
-          "label": "BULLISH",
-          "confidence": 0.8779
-        },
         {
           "source": "Bitcoin Magazine",
           "title": "Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC",
@@ -224,17 +212,30 @@
           "compound": 0.8658,
           "label": "BULLISH",
           "confidence": 0.8658
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=HlQZx4IROgE\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/HlQZx4IROgE/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market-HlQZx4IROgE.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market\" rel=\"nofollow\">Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?</a></p>\n<p>Ryan Rasmussen, Head of Research at Bitwise, joins Bitcoin Magazine TV as stocks and Bitcoin bounce on Jensen Huang's return to Nvidia.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market\" rel=\"nofollow\">Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
+          "published": "2026-11-23T18:21:13+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.7319,
+          "label": "BEARISH",
+          "confidence": 0.7319
         }
       ],
       "no_news": false
     },
     "BNB": {
-      "article_count": 3,
-      "avg_compound": 0.0288,
+      "article_count": 4,
+      "avg_compound": 0.0216,
       "overall": "NEUTRAL",
       "bullish": 1,
       "bearish": 1,
-      "neutral": 1,
+      "neutral": 2,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -403,6 +404,28 @@
   },
   "uncategorised": [
     {
+      "source": "TheBlock",
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "summary": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+      "published": "2026-11-24T03:05:45+00:00",
+      "coins": [],
+      "compound": -0.802,
+      "label": "BEARISH",
+      "confidence": 0.802
+    },
+    {
+      "source": "TheBlock",
+      "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+      "summary": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+      "published": "2026-11-24T04:28:02+00:00",
+      "coins": [],
+      "compound": -0.7964,
+      "label": "BEARISH",
+      "confidence": 0.7964
+    },
+    {
       "source": "Decrypt",
       "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
       "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants.",
@@ -491,17 +514,6 @@
       "confidence": 0.3818
     },
     {
-      "source": "TheBlock",
-      "title": "South Korea to publish draft of comprehensive crypto legal framework this week",
-      "summary": "The draft is expected to include a licensing regime for crypto businesses and a bank-centered issuance system for local stablecoins.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-23-south-korea-to-publish-draft-digital-asset-basic-act-444881",
-      "published": "2026-11-23T10:11:58+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
-    },
-    {
       "source": "Decrypt",
       "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
       "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street. Its new OpenWorks program pays up to $8,000 monthly, provided you can actually help businesses get things done locally.",
@@ -555,6 +567,17 @@
       "compound": 0.0165,
       "label": "NEUTRAL",
       "confidence": 0.0165
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "published": "2026-11-24T00:25:04+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
       "source": "CoinDesk",
@@ -628,17 +651,6 @@
       "summary": "Grayscale\u2019s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.",
       "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
       "published": "2026-11-23T22:15:12+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks",
-      "summary": "Visa is extending its agent verification infrastructure into paid work, allowing AI agents to earn OUSD via participating task marketplaces.",
-      "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903",
-      "published": "2026-11-23T11:22:51+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
