@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-24T22:16:07.783085+00:00",
+  "generated_at": "2026-11-25T08:08:46.596635+00:00",
   "total_articles": 55,
   "coins": {
+    "SOL": {
+      "article_count": 1,
+      "avg_compound": -0.6597,
+      "overall": "BEARISH",
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+          "published": "2026-11-25T06:33:10+00:00",
+          "coins": [
+            "SOL"
+          ],
+          "compound": -0.6597,
+          "label": "BEARISH",
+          "confidence": 0.6597
+        }
+      ],
+      "no_news": false
+    },
     "USDC": {
-      "article_count": 3,
-      "avg_compound": 0.449,
+      "article_count": 2,
+      "avg_compound": 0.4826,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -23,19 +47,6 @@
           "compound": 0.8625,
           "label": "BULLISH",
           "confidence": 0.8625
-        },
-        {
-          "source": "TheBlock",
-          "title": "Neuberger Berman\u2019s HINC fund brings high-yield credit to Aave\u2019s institutional lending platform",
-          "summary": "Neuberger Berman's tokenized high-yield fund HINC launches on Aave Horizon, letting eligible investors borrow USDC, GHO and RLUSD against it.",
-          "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
-          "published": "2026-11-24T14:00:00+00:00",
-          "coins": [
-            "USDC"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
         },
         {
           "source": "Decrypt",
@@ -55,12 +66,12 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 4,
-      "avg_compound": -0.3142,
+      "article_count": 3,
+      "avg_compound": -0.4189,
       "overall": "BEARISH",
       "bullish": 1,
       "bearish": 2,
-      "neutral": 1,
+      "neutral": 0,
       "top_articles": [
         {
           "source": "TheBlock",
@@ -105,12 +116,87 @@
       ],
       "no_news": false
     },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.3818,
+      "overall": "BULLISH",
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+          "published": "2026-11-25T06:15:08+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.3818,
+          "label": "BULLISH",
+          "confidence": 0.3818
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 26,
+      "avg_compound": -0.0673,
+      "overall": "BEARISH",
+      "bullish": 11,
+      "bearish": 11,
+      "neutral": 4,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=WqaLae4ARmI\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/WqaLae4ARmI/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe-WqaLae4ARmI.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe\" rel=\"nofollow\">\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe</a></p>\n<p>The Fear &#38; Greed Index has sat in extreme fear, and Micha\u00ebl van de Poppe says people are upset that Bitcoin has underperformed other assets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe\" rel=\"nofollow\">\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+          "published": "2026-11-24T21:15:30+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.945,
+          "label": "BEARISH",
+          "confidence": 0.945
+        },
+        {
+          "source": "TheBlock",
+          "title": "We\u2019ve Entered Peak FEAR; SKY Falls",
+          "summary": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin\u2019s price hit a local high of $87k after rising from its summer lows and has returned to the level of around $59k at [\u2026]",
+          "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+          "published": "2026-11-24T17:42:29+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9114,
+          "label": "BEARISH",
+          "confidence": 0.9114
+        },
+        {
+          "source": "TheBlock",
+          "title": "Payward\u2019s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+          "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
+          "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+          "published": "2026-11-24T18:35:02+00:00",
+          "coins": [
+            "BTC",
+            "USDC"
+          ],
+          "compound": 0.8625,
+          "label": "BULLISH",
+          "confidence": 0.8625
+        }
+      ],
+      "no_news": false
+    },
     "ETH": {
       "article_count": 4,
-      "avg_compound": -0.2873,
-      "overall": "BEARISH",
-      "bullish": 0,
-      "bearish": 2,
+      "avg_compound": -0.0153,
+      "overall": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
       "neutral": 2,
       "top_articles": [
         {
@@ -127,17 +213,18 @@
           "confidence": 0.8176
         },
         {
-          "source": "CoinDesk",
-          "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
-          "summary": "",
-          "url": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
-          "published": "2026-11-24T10:55:30+00:00",
+          "source": "TheBlock",
+          "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+          "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+          "published": "2026-11-25T05:15:00+00:00",
           "coins": [
+            "BTC",
             "ETH"
           ],
-          "compound": -0.3612,
-          "label": "BEARISH",
-          "confidence": 0.3612
+          "compound": 0.7269,
+          "label": "BULLISH",
+          "confidence": 0.7269
         },
         {
           "source": "Decrypt",
@@ -151,81 +238,6 @@
           "compound": 0.0296,
           "label": "NEUTRAL",
           "confidence": 0.0296
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.2023,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-          "summary": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%.",
-          "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-          "published": "2026-11-24T14:00:02+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.2023,
-          "label": "BULLISH",
-          "confidence": 0.2023
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 26,
-      "avg_compound": -0.0995,
-      "overall": "BEARISH",
-      "bullish": 10,
-      "bearish": 12,
-      "neutral": 4,
-      "top_articles": [
-        {
-          "source": "TheBlock",
-          "title": "We\u2019ve Entered Peak FEAR; SKY Falls",
-          "summary": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin\u2019s price hit a local high of $87k after rising from its summer lows and has returned to the level of around $59k at [\u2026]",
-          "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
-          "published": "2026-11-24T17:42:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9114,
-          "label": "BEARISH",
-          "confidence": 0.9114
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a></p>\n<p><a href=\"https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe\" rel=\"nofollow\">\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe</a></p>\n<p>The Fear &#38; Greed Index has sat in extreme fear, and Micha\u00ebl van de Poppe says people are upset that Bitcoin has underperformed other assets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe\" rel=\"nofollow\">\u201cEscape Velocity\u201d Coming for Bitcoin with Repeat of 2017 Cycle | Micha\u00ebl van de Poppe</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
-          "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
-          "published": "2026-11-24T21:15:30+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8999,
-          "label": "BEARISH",
-          "confidence": 0.8999
-        },
-        {
-          "source": "TheBlock",
-          "title": "Payward\u2019s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-          "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
-          "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
-          "published": "2026-11-24T18:35:02+00:00",
-          "coins": [
-            "BTC",
-            "USDC"
-          ],
-          "compound": 0.8625,
-          "label": "BULLISH",
-          "confidence": 0.8625
         }
       ],
       "no_news": false
@@ -330,16 +342,6 @@
       "top_articles": [],
       "no_news": true
     },
-    "SOL": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -372,6 +374,17 @@
     }
   },
   "uncategorised": [
+    {
+      "source": "TheBlock",
+      "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+      "summary": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+      "published": "2026-11-25T03:59:52+00:00",
+      "coins": [],
+      "compound": -0.7963,
+      "label": "BEARISH",
+      "confidence": 0.7963
+    },
     {
       "source": "Decrypt",
       "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
@@ -406,15 +419,15 @@
       "confidence": 0.6705
     },
     {
-      "source": "CoinDesk",
-      "title": "South Korea regulator backs bank-controlled stablecoins after months of dispute",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
-      "published": "2026-11-24T10:29:14+00:00",
+      "source": "Decrypt",
+      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+      "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
+      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+      "published": "2026-11-24T22:36:02+00:00",
       "coins": [],
-      "compound": -0.4404,
+      "compound": -0.4588,
       "label": "BEARISH",
-      "confidence": 0.4404
+      "confidence": 0.4588
     },
     {
       "source": "CoinDesk",
@@ -439,15 +452,15 @@
       "confidence": 0.34
     },
     {
-      "source": "TheBlock",
-      "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
-      "summary": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong.",
-      "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
-      "published": "2026-11-24T13:17:35+00:00",
+      "source": "CoinDesk",
+      "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+      "published": "2026-11-25T03:35:20+00:00",
       "coins": [],
-      "compound": 0.296,
+      "compound": 0.3182,
       "label": "BULLISH",
-      "confidence": 0.296
+      "confidence": 0.3182
     },
     {
       "source": "CoinDesk",
@@ -484,6 +497,17 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+      "published": "2026-11-25T04:57:22+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "CoinDesk",
       "title": "Anchorage Digital to unveil new asset-management subsidiary",
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
@@ -499,17 +523,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
       "published": "2026-11-24T12:04:39+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
-      "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
-      "published": "2026-11-24T00:25:04+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
@@ -554,6 +567,17 @@
       "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for.",
       "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
       "published": "2026-11-24T13:01:30+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+      "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+      "published": "2026-11-25T02:46:14+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
