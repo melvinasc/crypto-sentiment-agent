@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:57:45.733018+00:00",
+  "generated_at": "2026-11-26T21:20:01.330787+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -65,12 +65,12 @@
       "no_news": false
     },
     "BTC": {
-      "article_count": 28,
-      "avg_compound": -0.2854,
+      "article_count": 27,
+      "avg_compound": -0.3461,
       "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 20,
-      "neutral": 2,
+      "bullish": 4,
+      "bearish": 18,
+      "neutral": 5,
       "top_articles": [
         {
           "source": "Bitcoin Magazine",
@@ -86,6 +86,19 @@
           "confidence": 0.9682
         },
         {
+          "source": "Decrypt",
+          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+          "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+          "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+          "published": "2026-11-26T18:15:29+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9127,
+          "label": "BEARISH",
+          "confidence": 0.9127
+        },
+        {
           "source": "TheBlock",
           "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
           "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
@@ -97,71 +110,54 @@
           "compound": -0.8807,
           "label": "BEARISH",
           "confidence": 0.8807
-        },
-        {
-          "source": "TheBlock",
-          "title": "Galaxy walks back bitcoin\u2019s June-bottom call, warns of deeper losses below $58,525",
-          "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
-          "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-          "published": "2026-11-26T05:16:11+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8176,
-          "label": "BEARISH",
-          "confidence": 0.8176
         }
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 3,
-      "avg_compound": 0.0012,
-      "overall": "NEUTRAL",
+    "BNB": {
+      "article_count": 1,
+      "avg_compound": 0.1779,
+      "overall": "BULLISH",
       "bullish": 1,
-      "bearish": 2,
+      "bearish": 0,
       "neutral": 0,
       "top_articles": [
         {
-          "source": "TheBlock",
-          "title": "Hyperliquid\u2019s HYPE will join bitcoin, ether and more in Franklin Templeton\u2019s crypto ETF",
-          "summary": "Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.",
-          "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-          "published": "2026-11-25T16:54:15+00:00",
+          "source": "Decrypt",
+          "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
+          "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
+          "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
+          "published": "2026-11-26T11:50:23+00:00",
           "coins": [
-            "BTC",
-            "ETH"
+            "BNB"
           ],
-          "compound": 0.6486,
+          "compound": 0.1779,
           "label": "BULLISH",
-          "confidence": 0.6486
-        },
+          "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "DOT": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
         {
           "source": "Decrypt",
-          "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-          "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous.",
-          "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-          "published": "2026-11-25T13:41:38+00:00",
+          "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+          "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
+          "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+          "published": "2026-11-26T19:01:02+00:00",
           "coins": [
-            "ETH"
+            "DOT"
           ],
-          "compound": -0.5423,
-          "label": "BEARISH",
-          "confidence": 0.5423
-        },
-        {
-          "source": "CoinDesk",
-          "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-          "published": "2026-11-25T11:57:50+00:00",
-          "coins": [
-            "ETH",
-            "BTC"
-          ],
-          "compound": -0.1027,
-          "label": "BEARISH",
-          "confidence": 0.1027
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
         }
       ],
       "no_news": false
@@ -177,16 +173,6 @@
       "no_news": true
     },
     "AVAX": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "BNB": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -216,7 +202,7 @@
       "top_articles": [],
       "no_news": true
     },
-    "DOT": {
+    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -320,25 +306,25 @@
   "uncategorised": [
     {
       "source": "Decrypt",
-      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-      "summary": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
-      "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-      "published": "2026-11-25T11:52:06+00:00",
+      "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+      "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+      "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+      "published": "2026-11-26T14:38:55+00:00",
       "coins": [],
-      "compound": -0.8442,
-      "label": "BEARISH",
-      "confidence": 0.8442
+      "compound": 0.875,
+      "label": "BULLISH",
+      "confidence": 0.875
     },
     {
-      "source": "Decrypt",
-      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-      "summary": "Holders had warned that reporting wallets worth over \u20ac100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
-      "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-      "published": "2026-11-25T13:15:24+00:00",
+      "source": "TheBlock",
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year\u2019s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay [\u2026]",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "published": "2026-11-26T17:32:00+00:00",
       "coins": [],
-      "compound": -0.7269,
-      "label": "BEARISH",
-      "confidence": 0.7269
+      "compound": 0.8658,
+      "label": "BULLISH",
+      "confidence": 0.8658
     },
     {
       "source": "Decrypt",
@@ -353,25 +339,25 @@
     },
     {
       "source": "CoinDesk",
-      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
-      "published": "2026-11-25T18:24:47+00:00",
+      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+      "published": "2026-11-26T12:38:51+00:00",
       "coins": [],
       "compound": -0.6369,
       "label": "BEARISH",
       "confidence": 0.6369
     },
     {
-      "source": "Decrypt",
-      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
-      "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
-      "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
-      "published": "2026-11-25T20:06:03+00:00",
+      "source": "CoinDesk",
+      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "summary": "",
+      "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
+      "published": "2026-11-26T10:40:33+00:00",
       "coins": [],
-      "compound": -0.5106,
-      "label": "BEARISH",
-      "confidence": 0.5106
+      "compound": 0.5719,
+      "label": "BULLISH",
+      "confidence": 0.5719
     },
     {
       "source": "TheBlock",
@@ -385,37 +371,81 @@
       "confidence": 0.5106
     },
     {
+      "source": "Decrypt",
+      "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+      "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
+      "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+      "published": "2026-11-26T14:26:22+00:00",
+      "coins": [],
+      "compound": 0.4767,
+      "label": "BULLISH",
+      "confidence": 0.4767
+    },
+    {
       "source": "TheBlock",
-      "title": "Aave Labs publicly launches savings app as balances top $63 million",
-      "summary": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.",
-      "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
-      "published": "2026-11-25T16:00:00+00:00",
+      "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
+      "summary": "The Swiss Federal Council cleared 57 potential partners for cryptoasset tax-information exchanges beginning in 2028.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
+      "published": "2026-11-26T09:40:41+00:00",
       "coins": [],
-      "compound": 0.5106,
+      "compound": 0.4767,
       "label": "BULLISH",
-      "confidence": 0.5106
+      "confidence": 0.4767
     },
     {
       "source": "CoinDesk",
-      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
       "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-      "published": "2026-11-25T11:00:27+00:00",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "published": "2026-11-26T15:42:43+00:00",
       "coins": [],
-      "compound": 0.34,
+      "compound": 0.4019,
       "label": "BULLISH",
-      "confidence": 0.34
+      "confidence": 0.4019
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+      "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+      "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "published": "2026-11-26T15:11:14+00:00",
+      "coins": [],
+      "compound": 0.3919,
+      "label": "BULLISH",
+      "confidence": 0.3919
     },
     {
       "source": "CoinDesk",
-      "title": "Fed\u2019s preferred inflation gauge lands with a December rate increase already priced in",
+      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
       "summary": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
-      "published": "2026-11-25T12:18:46+00:00",
+      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "published": "2026-11-26T07:09:25+00:00",
       "coins": [],
-      "compound": 0.3182,
+      "compound": -0.3818,
+      "label": "BEARISH",
+      "confidence": 0.3818
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+      "published": "2026-11-26T10:56:08+00:00",
+      "coins": [],
+      "compound": -0.25,
+      "label": "BEARISH",
+      "confidence": 0.25
+    },
+    {
+      "source": "Decrypt",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "published": "2026-11-26T16:43:02+00:00",
+      "coins": [],
+      "compound": 0.25,
       "label": "BULLISH",
-      "confidence": 0.3182
+      "confidence": 0.25
     },
     {
       "source": "Decrypt",
@@ -429,6 +459,17 @@
       "confidence": 0.2422
     },
     {
+      "source": "Decrypt",
+      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+      "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
+      "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+      "published": "2026-11-26T13:13:19+00:00",
+      "coins": [],
+      "compound": -0.2382,
+      "label": "BEARISH",
+      "confidence": 0.2382
+    },
+    {
       "source": "TheBlock",
       "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic \u2018largest ever crackdown\u2019",
       "summary": "Following President Trump\u2019s directive to crack down on fraud, the Justice Department announced what it called its \u201clargest-ever crackdown.\"",
@@ -440,26 +481,26 @@
       "confidence": 0.2023
     },
     {
-      "source": "TheBlock",
-      "title": "NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
-      "summary": "NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 billion for their role in defrauding thousands.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643",
-      "published": "2026-11-25T15:02:10+00:00",
+      "source": "Decrypt",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "published": "2026-11-26T21:01:03+00:00",
       "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
+      "compound": 0.1531,
+      "label": "BULLISH",
+      "confidence": 0.1531
     },
     {
       "source": "Decrypt",
-      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
-      "summary": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
-      "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
-      "published": "2026-11-25T16:07:35+00:00",
+      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
+      "summary": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
+      "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
+      "published": "2026-11-26T11:25:58+00:00",
       "coins": [],
-      "compound": 0.1779,
-      "label": "BULLISH",
-      "confidence": 0.1779
+      "compound": -0.1509,
+      "label": "BEARISH",
+      "confidence": 0.1509
     },
     {
       "source": "Decrypt",
@@ -473,25 +514,14 @@
       "confidence": 0.128
     },
     {
-      "source": "Decrypt",
-      "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-      "summary": "The FCC authorized SpaceX\u2019s solar-powered Starmind constellation, backing Elon Musk\u2019s plans to move AI computing into orbit and reduce the industry\u2019s dependence on increasingly strained power grids here on Earth.",
-      "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-      "published": "2026-11-25T18:18:10+00:00",
+      "source": "TheBlock",
+      "title": "\u2018The time to prepare for a cryptographic breakthrough is before it happens\u2019: Zcash team urges faster deprecation of legacy shielded pool",
+      "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
+      "published": "2026-11-26T13:22:47+00:00",
       "coins": [],
-      "compound": 0.128,
+      "compound": 0.1027,
       "label": "BULLISH",
-      "confidence": 0.128
-    },
-    {
-      "source": "CoinDesk",
-      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-      "published": "2026-11-25T14:47:17+00:00",
-      "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
       "confidence": 0.1027
     },
     {
@@ -507,36 +537,14 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Zcash developers want users to move $300 million out of an older privacy system",
+      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
       "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-      "published": "2026-11-26T07:09:25+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+      "published": "2026-11-26T14:05:58+00:00",
       "coins": [],
-      "compound": 0.0772,
+      "compound": 0.0516,
       "label": "BULLISH",
-      "confidence": 0.0772
-    },
-    {
-      "source": "Decrypt",
-      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-      "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
-      "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-      "published": "2026-11-25T19:28:54+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI\u2019s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-      "summary": "OpenAI is merging ChatGPT\u2019s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get.",
-      "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-      "published": "2026-11-25T17:46:02+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
+      "confidence": 0.0516
     },
     {
       "source": "TheBlock",
@@ -551,32 +559,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-      "published": "2026-11-25T16:02:31+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-      "published": "2026-11-25T16:02:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "TheBlock",
-      "title": "Ukraine passes crypto market law, with $332 million revenue target",
-      "summary": "Ukraine\u2019s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
-      "published": "2026-11-25T14:35:20+00:00",
+      "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
+      "published": "2026-11-26T11:27:50+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
