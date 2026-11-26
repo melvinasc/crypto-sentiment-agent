@@ -1,89 +1,29 @@
 {
-  "generated_at": "2026-11-25T21:32:32.252878+00:00",
+  "generated_at": "2026-11-26T07:57:45.733018+00:00",
   "total_articles": 55,
   "coins": {
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.3818,
+    "LINK": {
+      "article_count": 2,
+      "avg_compound": 0.5543,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-          "published": "2026-11-25T06:15:08+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.3818,
-          "label": "BULLISH",
-          "confidence": 0.3818
-        }
-      ],
-      "no_news": false
-    },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.2998,
-      "overall": "BEARISH",
-      "bullish": 6,
-      "bearish": 19,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Targets-800-Defendants-in-Largest-Ever-Scam-Crackdown-Including-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a></p>\n<p>The Justice Department said its largest-ever scam crackdown has targeted more than 800 defendants since March, with Southeast Asian crypto scam centers among its top targets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
-          "published": "2026-11-25T17:50:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9682,
-          "label": "BEARISH",
-          "confidence": 0.9682
-        },
-        {
-          "source": "Bitcoin Magazine",
-          "title": "France\u2019s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Frances-Senate-Rejects-Rule-Forcing-Bitcoin-Holders-to-Declare-Self-Custody-Wallets.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/france-senate-rejects-self-custody\" rel=\"nofollow\">France&#8217;s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets</a></p>\n<p>France's Senate rejected amendments that would have forced holders to declare self-custody crypto wallets worth \u20ac100,000 or more, along with stablecoin and exit tax measures.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/france-senate-rejects-self-custody\" rel=\"nofollow\">France&#8217;s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/france-senate-rejects-self-custody",
-          "published": "2026-11-25T14:51:04+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9509,
-          "label": "BEARISH",
-          "confidence": 0.9509
-        },
         {
           "source": "TheBlock",
-          "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-          "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-          "published": "2026-11-25T19:37:10+00:00",
+          "title": "Fidelity files for Chainlink ETF, Musk\u2019s X wins ruling in alleged bitcoin content-farm case, and more",
+          "summary": "In today's newsletter, Fidelity files for spot Chainlink ETF; Musk's X wins ruling in alleged bitcoin content-farm case; and more.",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+          "published": "2026-11-26T05:45:00+00:00",
           "coins": [
+            "LINK",
             "BTC"
           ],
-          "compound": -0.8807,
-          "label": "BEARISH",
-          "confidence": 0.8807
-        }
-      ],
-      "no_news": false
-    },
-    "LINK": {
-      "article_count": 1,
-      "avg_compound": 0.296,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
+          "compound": 0.8126,
+          "label": "BULLISH",
+          "confidence": 0.8126
+        },
         {
           "source": "TheBlock",
           "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
@@ -100,11 +40,85 @@
       ],
       "no_news": false
     },
-    "ETH": {
-      "article_count": 5,
-      "avg_compound": 0.1654,
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.4767,
       "overall": "BULLISH",
-      "bullish": 3,
+      "bullish": 1,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+          "published": "2026-11-26T05:30:38+00:00",
+          "coins": [
+            "XRP"
+          ],
+          "compound": 0.4767,
+          "label": "BULLISH",
+          "confidence": 0.4767
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 28,
+      "avg_compound": -0.2854,
+      "overall": "BEARISH",
+      "bullish": 6,
+      "bearish": 20,
+      "neutral": 2,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Targets-800-Defendants-in-Largest-Ever-Scam-Crackdown-Including-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a></p>\n<p>The Justice Department said its largest-ever scam crackdown has targeted more than 800 defendants since March, with Southeast Asian crypto scam centers among its top targets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
+          "published": "2026-11-25T17:50:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9682,
+          "label": "BEARISH",
+          "confidence": 0.9682
+        },
+        {
+          "source": "TheBlock",
+          "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+          "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+          "published": "2026-11-25T19:37:10+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8807,
+          "label": "BEARISH",
+          "confidence": 0.8807
+        },
+        {
+          "source": "TheBlock",
+          "title": "Galaxy walks back bitcoin\u2019s June-bottom call, warns of deeper losses below $58,525",
+          "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low.",
+          "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+          "published": "2026-11-26T05:16:11+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8176,
+          "label": "BEARISH",
+          "confidence": 0.8176
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 3,
+      "avg_compound": 0.0012,
+      "overall": "NEUTRAL",
+      "bullish": 1,
       "bearish": 2,
       "neutral": 0,
       "top_articles": [
@@ -136,54 +150,18 @@
           "confidence": 0.5423
         },
         {
-          "source": "TheBlock",
-          "title": "Ethereum Foundation researchers pick one hash \u2018to rule them all\u2019 for post-quantum upgrade",
-          "summary": "Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
-          "published": "2026-11-25T09:49:45+00:00",
-          "coins": [
-            "ETH"
-          ],
-          "compound": 0.4215,
-          "label": "BULLISH",
-          "confidence": 0.4215
-        }
-      ],
-      "no_news": false
-    },
-    "SOL": {
-      "article_count": 2,
-      "avg_compound": -0.0236,
-      "overall": "NEUTRAL",
-      "bullish": 1,
-      "bearish": 1,
-      "neutral": 0,
-      "top_articles": [
-        {
           "source": "CoinDesk",
-          "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+          "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
           "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-          "published": "2026-11-25T06:33:10+00:00",
+          "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+          "published": "2026-11-25T11:57:50+00:00",
           "coins": [
-            "SOL"
+            "ETH",
+            "BTC"
           ],
-          "compound": -0.6597,
+          "compound": -0.1027,
           "label": "BEARISH",
-          "confidence": 0.6597
-        },
-        {
-          "source": "TheBlock",
-          "title": "Japan\u2019s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-          "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
-          "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-          "published": "2026-11-25T10:23:10+00:00",
-          "coins": [
-            "SOL"
-          ],
-          "compound": 0.6124,
-          "label": "BULLISH",
-          "confidence": 0.6124
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -288,6 +266,16 @@
       "top_articles": [],
       "no_news": true
     },
+    "SOL": {
+      "article_count": 0,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [],
+      "no_news": true
+    },
     "TRX": {
       "article_count": 0,
       "avg_compound": 0.0,
@@ -353,6 +341,17 @@
       "confidence": 0.7269
     },
     {
+      "source": "Decrypt",
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+      "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "published": "2026-11-25T22:38:09+00:00",
+      "coins": [],
+      "compound": 0.6908,
+      "label": "BULLISH",
+      "confidence": 0.6908
+    },
+    {
       "source": "CoinDesk",
       "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
       "summary": "",
@@ -362,17 +361,6 @@
       "compound": -0.6369,
       "label": "BEARISH",
       "confidence": 0.6369
-    },
-    {
-      "source": "Decrypt",
-      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-      "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak.",
-      "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-      "published": "2026-11-25T10:35:57+00:00",
-      "coins": [],
-      "compound": -0.6249,
-      "label": "BEARISH",
-      "confidence": 0.6249
     },
     {
       "source": "Decrypt",
@@ -387,6 +375,17 @@
     },
     {
       "source": "TheBlock",
+      "title": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
+      "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "published": "2026-11-25T22:20:02+00:00",
+      "coins": [],
+      "compound": 0.5106,
+      "label": "BULLISH",
+      "confidence": 0.5106
+    },
+    {
+      "source": "TheBlock",
       "title": "Aave Labs publicly launches savings app as balances top $63 million",
       "summary": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.",
       "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
@@ -395,28 +394,6 @@
       "compound": 0.5106,
       "label": "BULLISH",
       "confidence": 0.5106
-    },
-    {
-      "source": "Decrypt",
-      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
-      "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing.",
-      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
-      "published": "2026-11-24T22:36:02+00:00",
-      "coins": [],
-      "compound": -0.4588,
-      "label": "BEARISH",
-      "confidence": 0.4588
-    },
-    {
-      "source": "TheBlock",
-      "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
-      "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform\u2019s first direct participants.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
-      "published": "2026-11-25T10:05:40+00:00",
-      "coins": [],
-      "compound": 0.3612,
-      "label": "BULLISH",
-      "confidence": 0.3612
     },
     {
       "source": "CoinDesk",
@@ -486,6 +463,17 @@
     },
     {
       "source": "Decrypt",
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
+      "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+      "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "published": "2026-11-25T21:46:02+00:00",
+      "coins": [],
+      "compound": -0.128,
+      "label": "BEARISH",
+      "confidence": 0.128
+    },
+    {
+      "source": "Decrypt",
       "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
       "summary": "The FCC authorized SpaceX\u2019s solar-powered Starmind constellation, backing Elon Musk\u2019s plans to move AI computing into orbit and reduce the industry\u2019s dependence on increasingly strained power grids here on Earth.",
       "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
@@ -505,6 +493,28 @@
       "compound": -0.1027,
       "label": "BEARISH",
       "confidence": 0.1027
+    },
+    {
+      "source": "TheBlock",
+      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+      "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+      "published": "2026-11-26T02:22:43+00:00",
+      "coins": [],
+      "compound": -0.1027,
+      "label": "BEARISH",
+      "confidence": 0.1027
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers want users to move $300 million out of an older privacy system",
+      "summary": "",
+      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "published": "2026-11-26T07:09:25+00:00",
+      "coins": [],
+      "compound": 0.0772,
+      "label": "BULLISH",
+      "confidence": 0.0772
     },
     {
       "source": "Decrypt",
@@ -556,17 +566,6 @@
       "summary": "",
       "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
       "published": "2026-11-25T16:02:07+00:00",
-      "coins": [],
-      "compound": 0.0,
-      "label": "NEUTRAL",
-      "confidence": 0.0
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
-      "published": "2026-11-25T04:57:22+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
