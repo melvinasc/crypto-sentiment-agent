@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T21:20:01.330787+00:00",
+  "generated_at": "2026-11-27T07:59:09.308024+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
-      "article_count": 2,
-      "avg_compound": 0.5543,
+      "article_count": 1,
+      "avg_compound": 0.8126,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 1,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
@@ -23,53 +23,16 @@
           "compound": 0.8126,
           "label": "BULLISH",
           "confidence": 0.8126
-        },
-        {
-          "source": "TheBlock",
-          "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-          "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
-          "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-          "published": "2026-11-25T19:32:42+00:00",
-          "coins": [
-            "LINK"
-          ],
-          "compound": 0.296,
-          "label": "BULLISH",
-          "confidence": 0.296
-        }
-      ],
-      "no_news": false
-    },
-    "XRP": {
-      "article_count": 1,
-      "avg_compound": 0.4767,
-      "overall": "BULLISH",
-      "bullish": 1,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
-          "published": "2026-11-26T05:30:38+00:00",
-          "coins": [
-            "XRP"
-          ],
-          "compound": 0.4767,
-          "label": "BULLISH",
-          "confidence": 0.4767
         }
       ],
       "no_news": false
     },
     "BTC": {
-      "article_count": 27,
-      "avg_compound": -0.3461,
+      "article_count": 25,
+      "avg_compound": -0.3116,
       "overall": "BEARISH",
       "bullish": 4,
-      "bearish": 18,
+      "bearish": 16,
       "neutral": 5,
       "top_articles": [
         {
@@ -115,13 +78,26 @@
       "no_news": false
     },
     "BNB": {
-      "article_count": 1,
-      "avg_compound": 0.1779,
+      "article_count": 2,
+      "avg_compound": 0.2892,
       "overall": "BULLISH",
-      "bullish": 1,
+      "bullish": 2,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+          "published": "2026-11-27T04:45:47+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4005,
+          "label": "BULLISH",
+          "confidence": 0.4005
+        },
         {
           "source": "Decrypt",
           "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
@@ -134,6 +110,43 @@
           "compound": 0.1779,
           "label": "BULLISH",
           "confidence": 0.1779
+        }
+      ],
+      "no_news": false
+    },
+    "ETH": {
+      "article_count": 2,
+      "avg_compound": 0.1764,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+          "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegot\u00e1.",
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+          "published": "2026-11-27T07:51:14+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.25,
+          "label": "BULLISH",
+          "confidence": 0.25
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+          "summary": "",
+          "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+          "published": "2026-11-27T04:29:47+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.1027,
+          "label": "BULLISH",
+          "confidence": 0.1027
         }
       ],
       "no_news": false
@@ -154,6 +167,30 @@
           "published": "2026-11-26T19:01:02+00:00",
           "coins": [
             "DOT"
+          ],
+          "compound": 0.0,
+          "label": "NEUTRAL",
+          "confidence": 0.0
+        }
+      ],
+      "no_news": false
+    },
+    "XRP": {
+      "article_count": 1,
+      "avg_compound": 0.0,
+      "overall": "NEUTRAL",
+      "bullish": 0,
+      "bearish": 0,
+      "neutral": 1,
+      "top_articles": [
+        {
+          "source": "CoinDesk",
+          "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+          "published": "2026-11-27T05:06:32+00:00",
+          "coins": [
+            "XRP"
           ],
           "compound": 0.0,
           "label": "NEUTRAL",
@@ -193,16 +230,6 @@
       "no_news": true
     },
     "DOGE": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
-    },
-    "ETH": {
       "article_count": 0,
       "avg_compound": 0.0,
       "overall": "NEUTRAL",
@@ -371,6 +398,17 @@
       "confidence": 0.5106
     },
     {
+      "source": "CoinDesk",
+      "title": "Monero suffers biggest single-day slide in over 5 months. Here\u2019s why",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+      "published": "2026-11-27T07:33:01+00:00",
+      "coins": [],
+      "compound": -0.4767,
+      "label": "BEARISH",
+      "confidence": 0.4767
+    },
+    {
       "source": "Decrypt",
       "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
       "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
@@ -416,17 +454,6 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
-      "published": "2026-11-26T07:09:25+00:00",
-      "coins": [],
-      "compound": -0.3818,
-      "label": "BEARISH",
-      "confidence": 0.3818
-    },
-    {
-      "source": "CoinDesk",
       "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
@@ -468,17 +495,6 @@
       "compound": -0.2382,
       "label": "BEARISH",
       "confidence": 0.2382
-    },
-    {
-      "source": "TheBlock",
-      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic \u2018largest ever crackdown\u2019",
-      "summary": "Following President Trump\u2019s directive to crack down on fraud, the Justice Department announced what it called its \u201clargest-ever crackdown.\"",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-      "published": "2026-11-25T18:05:18+00:00",
-      "coins": [],
-      "compound": -0.2023,
-      "label": "BEARISH",
-      "confidence": 0.2023
     },
     {
       "source": "Decrypt",
@@ -547,22 +563,33 @@
       "confidence": 0.0516
     },
     {
-      "source": "TheBlock",
-      "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
-      "summary": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017\u201318 gaming GPU sales.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
-      "published": "2026-11-25T18:00:13+00:00",
-      "coins": [],
-      "compound": -0.0258,
-      "label": "NEUTRAL",
-      "confidence": 0.0258
-    },
-    {
       "source": "CoinDesk",
       "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
       "summary": "",
       "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
       "published": "2026-11-26T11:27:50+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+      "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "published": "2026-11-26T22:01:02+00:00",
+      "coins": [],
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
+    },
+    {
+      "source": "TheBlock",
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "published": "2026-11-27T04:18:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
