@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:59:09.308024+00:00",
+  "generated_at": "2026-11-27T21:01:00.140299+00:00",
   "total_articles": 55,
   "coins": {
     "LINK": {
@@ -27,101 +27,27 @@
       ],
       "no_news": false
     },
-    "BTC": {
-      "article_count": 25,
-      "avg_compound": -0.3116,
-      "overall": "BEARISH",
-      "bullish": 4,
-      "bearish": 16,
-      "neutral": 5,
-      "top_articles": [
-        {
-          "source": "Bitcoin Magazine",
-          "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
-          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/DOJ-Targets-800-Defendants-in-Largest-Ever-Scam-Crackdown-Including-Crypto-Fraud.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a></p>\n<p>The Justice Department said its largest-ever scam crackdown has targeted more than 800 defendants since March, with Southeast Asian crypto scam centers among its top targets.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto\" rel=\"nofollow\">DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
-          "url": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
-          "published": "2026-11-25T17:50:00+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9682,
-          "label": "BEARISH",
-          "confidence": 0.9682
-        },
-        {
-          "source": "Decrypt",
-          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-          "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
-          "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
-          "published": "2026-11-26T18:15:29+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.9127,
-          "label": "BEARISH",
-          "confidence": 0.9127
-        },
-        {
-          "source": "TheBlock",
-          "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-          "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
-          "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-          "published": "2026-11-25T19:37:10+00:00",
-          "coins": [
-            "BTC"
-          ],
-          "compound": -0.8807,
-          "label": "BEARISH",
-          "confidence": 0.8807
-        }
-      ],
-      "no_news": false
-    },
-    "BNB": {
-      "article_count": 2,
-      "avg_compound": 0.2892,
-      "overall": "BULLISH",
-      "bullish": 2,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [
-        {
-          "source": "CoinDesk",
-          "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
-          "summary": "",
-          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
-          "published": "2026-11-27T04:45:47+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.4005,
-          "label": "BULLISH",
-          "confidence": 0.4005
-        },
-        {
-          "source": "Decrypt",
-          "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-          "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
-          "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-          "published": "2026-11-26T11:50:23+00:00",
-          "coins": [
-            "BNB"
-          ],
-          "compound": 0.1779,
-          "label": "BULLISH",
-          "confidence": 0.1779
-        }
-      ],
-      "no_news": false
-    },
     "ETH": {
-      "article_count": 2,
-      "avg_compound": 0.1764,
+      "article_count": 4,
+      "avg_compound": 0.2105,
       "overall": "BULLISH",
-      "bullish": 2,
+      "bullish": 4,
       "bearish": 0,
       "neutral": 0,
       "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegot\u00e1 and Beyond",
+          "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here\u2019s how those changes fit together\u2014and what\u2019s still ahead.",
+          "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+          "published": "2026-11-27T13:50:04+00:00",
+          "coins": [
+            "ETH"
+          ],
+          "compound": 0.3612,
+          "label": "BULLISH",
+          "confidence": 0.3612
+        },
         {
           "source": "TheBlock",
           "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
@@ -136,17 +62,169 @@
           "confidence": 0.25
         },
         {
-          "source": "CoinDesk",
-          "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
-          "summary": "",
-          "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
-          "published": "2026-11-27T04:29:47+00:00",
+          "source": "Decrypt",
+          "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+          "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+          "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+          "published": "2026-11-27T10:15:51+00:00",
           "coins": [
             "ETH"
           ],
-          "compound": 0.1027,
+          "compound": 0.128,
           "label": "BULLISH",
-          "confidence": 0.1027
+          "confidence": 0.128
+        }
+      ],
+      "no_news": false
+    },
+    "BTC": {
+      "article_count": 29,
+      "avg_compound": -0.1996,
+      "overall": "BEARISH",
+      "bullish": 8,
+      "bearish": 18,
+      "neutral": 3,
+      "top_articles": [
+        {
+          "source": "Decrypt",
+          "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+          "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+          "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+          "published": "2026-11-26T18:15:29+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.9127,
+          "label": "BEARISH",
+          "confidence": 0.9127
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target",
+          "summary": "<div class=\"rss-video-container\" style=\"margin-bottom: 20px;\"><a href=\"https://www.youtube.com/watch?v=m1MlydKvsJI\" rel=\"noopener noreferrer\" style=\"display: block; text-decoration: none;\" target=\"_blank\"><img alt=\"Watch video\" src=\"https://img.youtube.com/vi/m1MlydKvsJI/hqdefault.jpg\" /><span>&#9654;</span></a></div><hr style=\"border: 0; border-top: 1px solid #eee; margin-bottom: 20px;\" /><p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target-m1MlydKvsJI.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target\" rel=\"nofollow\">Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target</a></p>\n<p>Inflation is back near 4%, the Fed is hiking, and Peter St.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target\" rel=\"nofollow\">Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/patrickgreen\" rel=\"nofollow\">Patrick Green</a>.</p>",
+          "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+          "published": "2026-11-27T14:45:09+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": -0.8779,
+          "label": "BEARISH",
+          "confidence": 0.8779
+        },
+        {
+          "source": "Bitcoin Magazine",
+          "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/New-York-Wins-1.37-Billion-Judgment-Against-NovaTech-Crypto-Ponzi-Founders.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion\" rel=\"nofollow\">New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders</a></p>\n<p>A New York judge ordered NovaTech founders Cynthia and Eddy Petion to pay more than $1.37 billion over a crypto Ponzi scheme that targeted Haitian communities.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion\" rel=\"nofollow\">New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
+          "published": "2026-11-27T16:15:00+00:00",
+          "coins": [
+            "BTC"
+          ],
+          "compound": 0.8316,
+          "label": "BULLISH",
+          "confidence": 0.8316
+        }
+      ],
+      "no_news": false
+    },
+    "USDT": {
+      "article_count": 3,
+      "avg_compound": 0.1233,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "TheBlock",
+          "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+          "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+          "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+          "published": "2026-11-27T18:13:45+00:00",
+          "coins": [
+            "BTC",
+            "USDT"
+          ],
+          "compound": 0.5106,
+          "label": "BULLISH",
+          "confidence": 0.5106
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+          "summary": "",
+          "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+          "published": "2026-11-27T10:00:00+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": -0.4588,
+          "label": "BEARISH",
+          "confidence": 0.4588
+        },
+        {
+          "source": "TheBlock",
+          "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+          "summary": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares.",
+          "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+          "published": "2026-11-27T15:00:21+00:00",
+          "coins": [
+            "USDT"
+          ],
+          "compound": 0.3182,
+          "label": "BULLISH",
+          "confidence": 0.3182
+        }
+      ],
+      "no_news": false
+    },
+    "BNB": {
+      "article_count": 3,
+      "avg_compound": 0.0869,
+      "overall": "BULLISH",
+      "bullish": 2,
+      "bearish": 1,
+      "neutral": 0,
+      "top_articles": [
+        {
+          "source": "Bitcoin Magazine",
+          "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+          "summary": "<p><a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a><br />\n<img src=\"https://bitcoinmagazine.com/wp-content/uploads/2026/11/Binance-Says-6.34-Billion-Hack-Began-With-Fake-Job-Interview-.jpg\" style=\"display: block; margin: 1em auto;\" /><br />\n<a href=\"https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack\" rel=\"nofollow\">Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack</a></p>\n<p>Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds.</p>\n<p>This post <a href=\"https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack\" rel=\"nofollow\">Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack</a> first appeared on <a href=\"https://bitcoinmagazine.com\" rel=\"nofollow\">Bitcoin Magazine</a> and is written by <a href=\"https://bitcoinmagazine.com/authors/micahzimmerman\" rel=\"nofollow\">Micah Zimmerman</a>.</p>",
+          "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+          "published": "2026-11-27T18:00:00+00:00",
+          "coins": [
+            "BNB",
+            "BTC"
+          ],
+          "compound": -0.5947,
+          "label": "BEARISH",
+          "confidence": 0.5947
+        },
+        {
+          "source": "Decrypt",
+          "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+          "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+          "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+          "published": "2026-11-27T13:24:17+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4549,
+          "label": "BULLISH",
+          "confidence": 0.4549
+        },
+        {
+          "source": "CoinDesk",
+          "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+          "summary": "",
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+          "published": "2026-11-27T04:45:47+00:00",
+          "coins": [
+            "BNB"
+          ],
+          "compound": 0.4005,
+          "label": "BULLISH",
+          "confidence": 0.4005
         }
       ],
       "no_news": false
@@ -318,30 +396,9 @@
       "neutral": 0,
       "top_articles": [],
       "no_news": true
-    },
-    "USDT": {
-      "article_count": 0,
-      "avg_compound": 0.0,
-      "overall": "NEUTRAL",
-      "bullish": 0,
-      "bearish": 0,
-      "neutral": 0,
-      "top_articles": [],
-      "no_news": true
     }
   },
   "uncategorised": [
-    {
-      "source": "Decrypt",
-      "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
-      "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
-      "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
-      "published": "2026-11-26T14:38:55+00:00",
-      "coins": [],
-      "compound": 0.875,
-      "label": "BULLISH",
-      "confidence": 0.875
-    },
     {
       "source": "TheBlock",
       "title": "Tokenized Anthropic Holders Doubled in 3 Days",
@@ -355,47 +412,36 @@
     },
     {
       "source": "Decrypt",
-      "title": "China's Google Just Released Its Fast New AI Model for Free",
-      "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
-      "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-      "published": "2026-11-25T22:38:09+00:00",
+      "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+      "summary": "Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets.",
+      "url": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+      "published": "2026-11-27T11:19:47+00:00",
       "coins": [],
-      "compound": 0.6908,
-      "label": "BULLISH",
-      "confidence": 0.6908
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-      "summary": "",
-      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-      "published": "2026-11-26T12:38:51+00:00",
-      "coins": [],
-      "compound": -0.6369,
+      "compound": -0.7783,
       "label": "BEARISH",
-      "confidence": 0.6369
+      "confidence": 0.7783
     },
     {
       "source": "CoinDesk",
-      "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
       "summary": "",
-      "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-      "published": "2026-11-26T10:40:33+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+      "published": "2026-11-27T13:19:10+00:00",
       "coins": [],
-      "compound": 0.5719,
-      "label": "BULLISH",
+      "compound": -0.5719,
+      "label": "BEARISH",
       "confidence": 0.5719
     },
     {
-      "source": "TheBlock",
-      "title": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
-      "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
-      "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
-      "published": "2026-11-25T22:20:02+00:00",
+      "source": "Decrypt",
+      "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
+      "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+      "published": "2026-11-27T17:43:29+00:00",
       "coins": [],
-      "compound": 0.5106,
-      "label": "BULLISH",
-      "confidence": 0.5106
+      "compound": -0.4939,
+      "label": "BEARISH",
+      "confidence": 0.4939
     },
     {
       "source": "CoinDesk",
@@ -406,17 +452,6 @@
       "coins": [],
       "compound": -0.4767,
       "label": "BEARISH",
-      "confidence": 0.4767
-    },
-    {
-      "source": "Decrypt",
-      "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
-      "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
-      "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-      "published": "2026-11-26T14:26:22+00:00",
-      "coins": [],
-      "compound": 0.4767,
-      "label": "BULLISH",
       "confidence": 0.4767
     },
     {
@@ -431,37 +466,15 @@
       "confidence": 0.4767
     },
     {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-      "summary": "",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
-      "published": "2026-11-26T15:42:43+00:00",
-      "coins": [],
-      "compound": 0.4019,
-      "label": "BULLISH",
-      "confidence": 0.4019
-    },
-    {
       "source": "Decrypt",
-      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
-      "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
-      "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
-      "published": "2026-11-26T15:11:14+00:00",
+      "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+      "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm.",
+      "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+      "published": "2026-11-27T17:09:30+00:00",
       "coins": [],
-      "compound": 0.3919,
-      "label": "BULLISH",
-      "confidence": 0.3919
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-      "published": "2026-11-26T10:56:08+00:00",
-      "coins": [],
-      "compound": -0.25,
+      "compound": -0.4588,
       "label": "BEARISH",
-      "confidence": 0.25
+      "confidence": 0.4588
     },
     {
       "source": "Decrypt",
@@ -475,26 +488,15 @@
       "confidence": 0.25
     },
     {
-      "source": "Decrypt",
-      "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
-      "summary": "An attacker compromised an employee\u2019s GitHub account to reach 1Password\u2019s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
-      "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-      "published": "2026-11-25T21:16:02+00:00",
+      "source": "CoinDesk",
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "summary": "",
+      "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+      "published": "2026-11-27T11:07:17+00:00",
       "coins": [],
-      "compound": -0.2422,
-      "label": "BEARISH",
-      "confidence": 0.2422
-    },
-    {
-      "source": "Decrypt",
-      "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-      "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
-      "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-      "published": "2026-11-26T13:13:19+00:00",
-      "coins": [],
-      "compound": -0.2382,
-      "label": "BEARISH",
-      "confidence": 0.2382
+      "compound": 0.2263,
+      "label": "BULLISH",
+      "confidence": 0.2263
     },
     {
       "source": "Decrypt",
@@ -508,26 +510,15 @@
       "confidence": 0.1531
     },
     {
-      "source": "Decrypt",
-      "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
-      "summary": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
-      "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
-      "published": "2026-11-26T11:25:58+00:00",
+      "source": "TheBlock",
+      "title": "Bank of Japan official says stablecoins need reserve rules to preserve \u2018singleness of money\u2019",
+      "summary": "Japan\u2019s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+      "published": "2026-11-27T10:45:02+00:00",
       "coins": [],
-      "compound": -0.1509,
-      "label": "BEARISH",
-      "confidence": 0.1509
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
-      "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
-      "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-      "published": "2026-11-25T21:46:02+00:00",
-      "coins": [],
-      "compound": -0.128,
-      "label": "BEARISH",
-      "confidence": 0.128
+      "compound": 0.1027,
+      "label": "BULLISH",
+      "confidence": 0.1027
     },
     {
       "source": "TheBlock",
@@ -541,33 +532,22 @@
       "confidence": 0.1027
     },
     {
-      "source": "TheBlock",
-      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
-      "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
-      "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
-      "published": "2026-11-26T02:22:43+00:00",
+      "source": "CoinDesk",
+      "title": "Brazil\u2019s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "summary": "",
+      "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+      "published": "2026-11-27T10:51:27+00:00",
       "coins": [],
-      "compound": -0.1027,
-      "label": "BEARISH",
-      "confidence": 0.1027
+      "compound": 0.0,
+      "label": "NEUTRAL",
+      "confidence": 0.0
     },
     {
-      "source": "CoinDesk",
-      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-      "summary": "",
-      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-      "published": "2026-11-26T14:05:58+00:00",
-      "coins": [],
-      "compound": 0.0516,
-      "label": "BULLISH",
-      "confidence": 0.0516
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-      "summary": "",
-      "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-      "published": "2026-11-26T11:27:50+00:00",
+      "source": "Decrypt",
+      "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+      "summary": "Modders have added multiplayer to an unofficial PC port and unlocked higher frame rates on jailbroken consoles.",
+      "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+      "published": "2026-11-27T16:21:40+00:00",
       "coins": [],
       "compound": 0.0,
       "label": "NEUTRAL",
